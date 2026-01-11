@@ -3,11 +3,14 @@
 > 🌍 专业的跨境电商客服话术模板库，覆盖 Amazon、Shopee、eBay、TikTok Shop 等主流平台，以及服装、美妆、电子产品等热门行业。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/your-repo/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/akakooluo-ai/customer-service-scripts/pulls)
+[![Powered by TalkQ](https://img.shields.io/badge/Powered%20by-TalkQ-orange)](https://www.talkq.vip)
+
+**Keywords:** 跨境电商客服、Amazon客服话术、Shopee客服模板、TikTok Shop客服、电商快捷回复、Customer Service Scripts、E-commerce Templates
 
 ## 📖 项目简介
 
-这是一个开源的跨境电商客服话术模板库，由 [快语团队](https://www.talkq.vip) 整理维护。
+这是一个开源的跨境电商客服话术模板库，由 [快语 TalkQ](https://www.talkq.vip) 团队整理维护。本项目是快语官网 [话术模板库](https://www.talkq.vip/templates/) 的开源版本。
 
 **为什么需要这个项目？**
 
@@ -21,6 +24,8 @@
 - 独立站运营者
 - 电商客服培训师
 - 需要多语言客服话术的企业
+
+> 💡 **提示**：本项目提供话术文本内容，如需更高效的话术管理体验，推荐配合 [快语客服工具](https://www.talkq.vip) 使用，支持一键导入、双击发送、AI智能生成等功能。
 
 ## 📂 目录结构
 
@@ -54,13 +59,9 @@ customer-service-scripts/
 
 浏览对应的 `.md` 文件，复制需要的话术到你的客服工具中。
 
-### 方式二：配合快捷回复软件使用
+### 方式二：配合快捷回复工具使用
 
-推荐使用 [快语](https://www.talkq.vip) 等快捷回复软件，可以：
-- 一键导入话术库
-- 按平台/场景分组管理
-- 支持图文混合话术
-- 团队协作共享
+推荐配合 [快语](https://www.talkq.vip) 等客服快捷回复工具使用，可以实现话术分组管理、一键发送、团队共享等功能。
 
 ## 📋 话术模板预览
 
@@ -138,14 +139,37 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 
 ## 🔗 相关资源
 
-- **快语官网**：[https://www.talkq.vip](https://www.talkq.vip) - 跨境电商客服快捷回复工具
-- **话术模板库**：[https://www.talkq.vip/templates/](https://www.talkq.vip/templates/) - 更多话术模板
-- **客服资讯**：[https://www.talkq.vip/blog/](https://www.talkq.vip/blog/) - 客服效率提升技巧
+- **在线话术库**：[https://www.talkq.vip/templates/](https://www.talkq.vip/templates/) - 本项目的在线版本，更多话术模板
+- **快语官网**：[https://www.talkq.vip](https://www.talkq.vip) - 客服快捷回复工具
+- **使用技巧**：[https://www.talkq.vip/blog/](https://www.talkq.vip/blog/) - 客服效率提升技巧
+
+## 🏷️ GitHub Topics 建议
+
+在仓库设置中添加以下 Topics，方便被搜索到：
+
+`ecommerce` `customer-service` `amazon` `shopee` `tiktok-shop` `cross-border` `templates` `scripts` `chinese` `multilingual`
 
 ## ⭐ Star History
 
 如果这个项目对你有帮助，请给个 Star ⭐ 支持一下！
 
+[![Star History Chart](https://api.star-history.com/svg?repos=akakooluo-ai/customer-service-scripts&type=Date)](https://star-history.com/#akakooluo-ai/customer-service-scripts&Date)
+
+## 💬 交流与反馈
+
+- 🐛 发现问题？[提交 Issue](https://github.com/akakooluo-ai/customer-service-scripts/issues)
+- 💡 有新想法？[发起 Discussion](https://github.com/akakooluo-ai/customer-service-scripts/discussions)
+- 📧 联系我们：访问 [快语官网](https://www.talkq.vip)
+
 ---
 
-**由 [快语团队](https://www.talkq.vip) 整理维护** | 让客服工作更高效
+<p align="center">
+  <b>由 <a href="https://www.talkq.vip">快语 TalkQ</a> 整理维护</b><br>
+  <sub>让客服工作更高效</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.talkq.vip/templates/">📋 在线模板库</a> •
+  <a href="https://www.talkq.vip">🌐 官网</a> •
+  <a href="https://www.talkq.vip/blog/">📖 博客</a>
+</p>
