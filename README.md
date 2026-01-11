@@ -48,6 +48,14 @@ customer-service-scripts/
 │   │   ├── presales.md          # eBay售前话术（10条）
 │   │   ├── sales.md             # eBay售中话术（10条）
 │   │   └── aftersales.md        # eBay售后话术（10条）
+│   ├── shopify/
+│   │   ├── presales.md          # Shopify售前话术（10条）
+│   │   ├── sales.md             # Shopify售中话术（10条）
+│   │   └── aftersales.md        # Shopify售后话术（10条）
+│   ├── aliexpress/
+│   │   ├── presales.md          # AliExpress售前话术（10条）
+│   │   ├── sales.md             # AliExpress售中话术（10条）
+│   │   └── aftersales.md        # AliExpress售后话术（10条）
 │   └── tiktok-shop/
 │       ├── presales.md          # TikTok Shop售前话术（10条）
 │       ├── sales.md             # TikTok Shop售中话术（10条）
@@ -100,8 +108,8 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 | Shopee | ✅ | ✅ | ✅ | 已完成 |
 | TikTok Shop | ✅ | ✅ | ✅ | 已完成 |
 | eBay | ✅ | ✅ | ✅ | 已完成 |
-| Shopify | 🔜 | 🔜 | 🔜 | 计划中 |
-| AliExpress | 🔜 | 🔜 | 🔜 | 计划中 |
+| Shopify | ✅ | ✅ | ✅ | 已完成 |
+| AliExpress | ✅ | ✅ | ✅ | 已完成 |
 | Lazada | 🔜 | 🔜 | 🔜 | 计划中 |
 
 > 🔜 = 即将添加，欢迎贡献！
