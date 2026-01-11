@@ -1,29 +1,29 @@
-# 跨境电商客服话术大全 | Cross-Border E-commerce Customer Service Scripts
+# 电商客服话术大全 | E-commerce Customer Service Scripts
 
-> 🌍 专业的跨境电商客服话术模板库，覆盖 Amazon、Shopee、eBay、TikTok Shop 等主流平台，以及服装、美妆、电子产品等热门行业。
+> 🛒 专业的电商客服话术模板库，覆盖 Amazon、淘宝、京东、Shopee 等 11 大平台，以及服装、美妆、家居等 5 大行业。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/akakooluo-ai/customer-service-scripts/pulls)
 [![Powered by TalkQ](https://img.shields.io/badge/Powered%20by-TalkQ-orange)](https://www.talkq.vip)
 
-**Keywords:** 跨境电商客服、Amazon客服话术、Shopee客服模板、TikTok Shop客服、电商快捷回复、Customer Service Scripts、E-commerce Templates
+**Keywords:** 电商客服话术、淘宝客服话术、京东客服模板、Amazon客服话术、Shopee客服模板、客服快捷回复、Customer Service Scripts、E-commerce Templates
 
 ## 📖 项目简介
 
-这是一个开源的跨境电商客服话术模板库，由 [快语 TalkQ](https://www.talkq.vip) 团队整理维护。本项目是快语官网 [话术模板库](https://www.talkq.vip/templates/) 的开源版本。
+这是一个开源的电商客服话术模板库，由 [快语 TalkQ](https://www.talkq.vip) 团队整理维护。本项目是快语官网 [话术模板库](https://www.talkq.vip/templates/) 的开源版本。
 
 **为什么需要这个项目？**
 
-- 跨境电商客服需要处理多语言、多平台、多场景的客户咨询
+- 电商客服需要处理多平台、多场景、多语言的客户咨询
 - 专业的话术模板可以提升响应速度 60%，转化率提升 35%
 - 统一的话术库可以保证服务质量一致性
 
 **适用人群：**
 
-- 跨境电商卖家和客服团队
+- 电商卖家和客服团队（淘宝、京东、拼多多等）
+- 跨境电商卖家（Amazon、Shopee、eBay 等）
 - 独立站运营者
 - 电商客服培训师
-- 需要多语言客服话术的企业
 
 > 💡 **提示**：本项目提供话术文本内容，如需更高效的话术管理体验，推荐配合 [快语客服工具](https://www.talkq.vip) 使用，支持一键导入、双击发送、AI智能生成等功能。
 
