@@ -56,6 +56,26 @@ customer-service-scripts/
 │   │   ├── presales.md          # AliExpress售前话术（10条）
 │   │   ├── sales.md             # AliExpress售中话术（10条）
 │   │   └── aftersales.md        # AliExpress售后话术（10条）
+│   ├── lazada/
+│   │   ├── presales.md          # Lazada售前话术（10条）
+│   │   ├── sales.md             # Lazada售中话术（10条）
+│   │   └── aftersales.md        # Lazada售后话术（10条）
+│   ├── wish/
+│   │   ├── presales.md          # Wish售前话术（10条）
+│   │   ├── sales.md             # Wish售中话术（10条）
+│   │   └── aftersales.md        # Wish售后话术（10条）
+│   ├── temu/
+│   │   ├── presales.md          # Temu售前话术（10条）
+│   │   ├── sales.md             # Temu售中话术（10条）
+│   │   └── aftersales.md        # Temu售后话术（10条）
+│   ├── taobao/
+│   │   ├── presales.md          # 淘宝/天猫售前话术（10条）
+│   │   ├── sales.md             # 淘宝/天猫售中话术（10条）
+│   │   └── aftersales.md        # 淘宝/天猫售后话术（10条）
+│   ├── jd/
+│   │   ├── presales.md          # 京东售前话术（10条）
+│   │   ├── sales.md             # 京东售中话术（10条）
+│   │   └── aftersales.md        # 京东售后话术（10条）
 │   └── tiktok-shop/
 │       ├── presales.md          # TikTok Shop售前话术（10条）
 │       ├── sales.md             # TikTok Shop售中话术（10条）
@@ -110,7 +130,11 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 | eBay | ✅ | ✅ | ✅ | 已完成 |
 | Shopify | ✅ | ✅ | ✅ | 已完成 |
 | AliExpress | ✅ | ✅ | ✅ | 已完成 |
-| Lazada | 🔜 | 🔜 | 🔜 | 计划中 |
+| Lazada | ✅ | ✅ | ✅ | 已完成 |
+| Wish | ✅ | ✅ | ✅ | 已完成 |
+| Temu | ✅ | ✅ | ✅ | 已完成 |
+| 淘宝/天猫 | ✅ | ✅ | ✅ | 已完成 |
+| 京东 | ✅ | ✅ | ✅ | 已完成 |
 
 > 🔜 = 即将添加，欢迎贡献！
 
