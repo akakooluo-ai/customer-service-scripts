@@ -82,31 +82,31 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 
 ## 📊 覆盖平台
 
-| 平台 | 售前 | 售中 | 售后 | 状态 |
-|-----|:---:|:---:|:---:|:---:|
-| Amazon | ✅ | ✅ | ✅ | 已完成 |
-| Shopee | ✅ | ✅ | ✅ | 已完成 |
-| TikTok Shop | ✅ | ✅ | ✅ | 已完成 |
-| eBay | ✅ | ✅ | ✅ | 已完成 |
-| Shopify | ✅ | ✅ | ✅ | 已完成 |
-| AliExpress | ✅ | ✅ | ✅ | 已完成 |
-| Lazada | ✅ | ✅ | ✅ | 已完成 |
-| Wish | ✅ | ✅ | ✅ | 已完成 |
-| Temu | ✅ | ✅ | ✅ | 已完成 |
-| 淘宝/天猫 | ✅ | ✅ | ✅ | 已完成 |
-| 京东 | ✅ | ✅ | ✅ | 已完成 |
+| 平台 | 售前 | 售中 | 售后 |
+|-----|:---:|:---:|:---:|
+| [Amazon](platforms/amazon/) | [✅](platforms/amazon/presales.md) | [✅](platforms/amazon/sales.md) | [✅](platforms/amazon/aftersales.md) |
+| [Shopee](platforms/shopee/) | [✅](platforms/shopee/presales.md) | [✅](platforms/shopee/sales.md) | [✅](platforms/shopee/aftersales.md) |
+| [TikTok Shop](platforms/tiktok-shop/) | [✅](platforms/tiktok-shop/presales.md) | [✅](platforms/tiktok-shop/sales.md) | [✅](platforms/tiktok-shop/aftersales.md) |
+| [eBay](platforms/ebay/) | [✅](platforms/ebay/presales.md) | [✅](platforms/ebay/sales.md) | [✅](platforms/ebay/aftersales.md) |
+| [Shopify](platforms/shopify/) | [✅](platforms/shopify/presales.md) | [✅](platforms/shopify/sales.md) | [✅](platforms/shopify/aftersales.md) |
+| [AliExpress](platforms/aliexpress/) | [✅](platforms/aliexpress/presales.md) | [✅](platforms/aliexpress/sales.md) | [✅](platforms/aliexpress/aftersales.md) |
+| [Lazada](platforms/lazada/) | [✅](platforms/lazada/presales.md) | [✅](platforms/lazada/sales.md) | [✅](platforms/lazada/aftersales.md) |
+| [Wish](platforms/wish/) | [✅](platforms/wish/presales.md) | [✅](platforms/wish/sales.md) | [✅](platforms/wish/aftersales.md) |
+| [Temu](platforms/temu/) | [✅](platforms/temu/presales.md) | [✅](platforms/temu/sales.md) | [✅](platforms/temu/aftersales.md) |
+| [淘宝/天猫](platforms/taobao/) | [✅](platforms/taobao/presales.md) | [✅](platforms/taobao/sales.md) | [✅](platforms/taobao/aftersales.md) |
+| [京东](platforms/jd/) | [✅](platforms/jd/presales.md) | [✅](platforms/jd/sales.md) | [✅](platforms/jd/aftersales.md) |
 
-> 🔜 = 即将添加，欢迎贡献！
+> 欢迎贡献更多平台话术！
 
 ## 🏭 覆盖行业
 
-| 行业 | 话术数量 | 状态 |
+| 行业 | 话术数量 | 链接 |
 |-----|:-------:|:---:|
-| 👗 服装行业 | 15条 | ✅ 已完成 |
-| 📱 电子产品 | 15条 | ✅ 已完成 |
-| 💄 美妆行业 | 🔜 | 计划中 |
-| 🏠 家居行业 | 🔜 | 计划中 |
-| 🏕️ 户外运动 | 🔜 | 计划中 |
+| 👗 服装行业 | 15条 | [查看](industries/fashion.md) |
+| 📱 电子产品 | 15条 | [查看](industries/electronics.md) |
+| 💄 美妆护肤 | 15条 | [查看](industries/beauty.md) |
+| 🏠 家居用品 | 15条 | [查看](industries/home.md) |
+| 🏕️ 户外运动 | 15条 | [查看](industries/outdoor.md) |
 
 ## 🤝 贡献指南
 
