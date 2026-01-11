@@ -1,6 +1,6 @@
 # 电商客服话术大全 | E-commerce Customer Service Scripts
 
-> 🛒 专业的电商客服话术模板库，覆盖 Amazon、淘宝、京东、Shopee 等 11 大平台，以及服装、美妆、家居等 5 大行业。
+> 🛒 专业的电商客服话术模板库，覆盖 Amazon、淘宝、京东、Shopee 等 11 大平台，以及服装、美妆、母婴等 30 个行业。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/akakooluo-ai/customer-service-scripts/pulls)
@@ -107,6 +107,31 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 | 💄 美妆护肤 | 15条 | [查看](industries/beauty.md) |
 | 🏠 家居用品 | 15条 | [查看](industries/home.md) |
 | 🏕️ 户外运动 | 15条 | [查看](industries/outdoor.md) |
+| 👚 女装 | 30条 | [查看](industries/womens-clothing.md) |
+| 👔 男装 | 30条 | [查看](industries/mens-clothing.md) |
+| 👶 童装 | 30条 | [查看](industries/kids-clothing.md) |
+| 👙 内衣 | 30条 | [查看](industries/underwear.md) |
+| 🏃 运动服 | 30条 | [查看](industries/sportswear.md) |
+| 👗 大码女装 | 30条 | [查看](industries/plus-size.md) |
+| 👠 女鞋 | 30条 | [查看](industries/womens-shoes.md) |
+| 👞 男鞋 | 30条 | [查看](industries/mens-shoes.md) |
+| 👟 童鞋 | 30条 | [查看](industries/kids-shoes.md) |
+| 👜 箱包 | 30条 | [查看](industries/bags.md) |
+| 🧳 皮具 | 30条 | [查看](industries/leather.md) |
+| 👘 汉服 | 30条 | [查看](industries/traditional-clothing.md) |
+| 🥼 工装制服 | 30条 | [查看](industries/workwear.md) |
+| 🧴 护肤品 | 30条 | [查看](industries/skincare.md) |
+| 💄 彩妆 | 30条 | [查看](industries/makeup.md) |
+| 🌸 香水 | 30条 | [查看](industries/perfume.md) |
+| 🔧 美容仪器 | 30条 | [查看](industries/beauty-devices.md) |
+| 🧔 男士护理 | 30条 | [查看](industries/mens-grooming.md) |
+| 💅 美甲美睫 | 30条 | [查看](industries/nail-lash.md) |
+| 🍼 奶粉辅食 | 30条 | [查看](industries/baby-food.md) |
+| 👶 纸尿裤 | 30条 | [查看](industries/diapers.md) |
+| 👕 童装童鞋 | 30条 | [查看](industries/baby-clothing.md) |
+| 🧸 玩具 | 30条 | [查看](industries/toys.md) |
+| 🤰 孕产用品 | 30条 | [查看](industries/maternity.md) |
+| 🍼 婴儿用品 | 30条 | [查看](industries/baby-products.md) |
 
 ## 🤝 贡献指南
 
