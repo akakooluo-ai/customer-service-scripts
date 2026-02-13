@@ -79,6 +79,7 @@ customer-service-scripts/
 
 - 免费知识库入口页（`docs/index.html`）
 - 在线生成器（变量填充 + 语气风格 + 一键复制）
+- BYOK AI 模式（用户自己填写 Base URL / Model / API Key，本地保存，不经过项目方服务器）
 - 自动数据构建（`npm run build:site`）
 
 ## 📋 话术模板预览

@@ -101,6 +101,23 @@ a {
   background: #fff;
 }
 
+.byok {
+  margin-bottom: 12px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 10px;
+  background: #fffaf5;
+}
+
+.byok summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.byok-grid {
+  margin-top: 10px;
+}
+
 .card-list {
   margin-top: 14px;
   max-height: 70vh;
@@ -145,6 +162,16 @@ a {
 .card button:hover,
 .generator button:hover {
   background: var(--brand-deep);
+}
+
+.generator button.ghost {
+  background: #fff;
+  color: var(--ink);
+  border: 1px solid var(--line);
+}
+
+.generator button.ghost:hover {
+  background: #f6ece2;
 }
 
 .generator {
