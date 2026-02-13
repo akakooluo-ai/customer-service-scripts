@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Customer Service Prompt Library | Free Templates + Generator</title>
+    <meta
+      name="description"
+      content="Free AI customer service prompt library for ecommerce teams. Search chatbot response templates, refund handling scripts, and complaint replies. Generate ready-to-use responses online."
+    />
+    <meta
+      name="keywords"
+      content="ai customer service prompts, chatbot response templates, ecommerce support scripts, customer service reply examples, ai customer service prompts free"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <p class="hero-eyebrow">Free Layer</p>
+      <h1>AI Customer Service Knowledge Base</h1>
+      <p>
+        Use ready templates now. When you need automated replies and team workflows, upgrade to
+        <a href="https://www.talkq.vip" target="_blank" rel="noreferrer">TalkQ</a>.
+      </p>
+      <div class="hero-meta">
+        <span id="templateCount">Loading templates...</span>
+        <a href="https://github.com/akakooluo-ai/customer-service-scripts" target="_blank" rel="noreferrer">GitHub Repo</a>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="panel">
+        <h2>Template Search</h2>
+        <div class="filters">
+          <input id="searchInput" type="search" placeholder="Search: refund, shipping delay, complaint..." />
+          <select id="groupFilter">
+            <option value="">All groups</option>
+          </select>
+          <select id="platformFilter">
+            <option value="">All platforms</option>
+          </select>
+          <select id="industryFilter">
+            <option value="">All industries</option>
+          </select>
+        </div>
+        <div id="templateList" class="card-list"></div>
+      </section>
+
+      <section class="panel">
+        <h2>Prompt Generator</h2>
+        <p class="muted">Pick a template, fill variables, then copy generated reply.</p>
+        <div class="generator">
+          <label for="selectedTemplateTitle">Selected template</label>
+          <input id="selectedTemplateTitle" type="text" value="None selected" readonly />
+          <label for="toneInput">Tone</label>
+          <select id="toneInput">
+            <option value="friendly">Friendly</option>
+            <option value="professional">Professional</option>
+            <option value="apology">Apology-first</option>
+          </select>
+          <div id="variablesArea" class="variables"></div>
+          <label for="generatedOutput">Generated reply</label>
+          <textarea id="generatedOutput" rows="12" placeholder="Generated text will appear here..."></textarea>
+          <div class="button-row">
+            <button id="generateBtn" type="button">Generate</button>
+            <button id="copyBtn" type="button">Copy</button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <section class="seo">
+      <h2>Use Cases</h2>
+      <ul>
+        <li>Used by Shopify sellers for pre-sales and post-sales support.</li>
+        <li>Used for WhatsApp chatbot fallback replies.</li>
+        <li>Used by SaaS onboarding teams for support conversations.</li>
+      </ul>
+      <p>
+        Need auto-generation instead of manual template filling? Try
+        <a href="https://www.talkq.vip" target="_blank" rel="noreferrer">TalkQ AI Reply Automation</a>.
+      </p>
+    </section>
+
+    <footer class="footer">
+      <p>
+        Data source:
+        <a href="https://github.com/akakooluo-ai/customer-service-scripts" target="_blank" rel="noreferrer">customer-service-scripts</a>
+      </p>
+    </footer>
+
+    <script src="./app.js"></script>
+  </body>
+  </html>

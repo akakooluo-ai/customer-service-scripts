@@ -1,0 +1,4595 @@
+{
+  "generatedAt": "2026-02-13T00:45:58.399Z",
+  "count": 288,
+  "groups": [
+    "general",
+    "industry",
+    "platform"
+  ],
+  "platforms": [
+    "aliexpress",
+    "all",
+    "amazon",
+    "ebay",
+    "general",
+    "jd",
+    "lazada",
+    "shopee",
+    "shopify",
+    "taobao",
+    "temu",
+    "tiktok-shop",
+    "wish"
+  ],
+  "industries": [
+    "alcohol",
+    "all",
+    "baby-clothing",
+    "baby-food",
+    "baby-products",
+    "bags",
+    "beauty",
+    "beauty-devices",
+    "diapers",
+    "electronics",
+    "fashion",
+    "fresh-food",
+    "general",
+    "home",
+    "kids-clothing",
+    "kids-shoes",
+    "leather",
+    "makeup",
+    "maternity",
+    "mens-clothing",
+    "mens-grooming",
+    "mens-shoes",
+    "nail-lash",
+    "outdoor",
+    "perfume",
+    "plus-size",
+    "skincare",
+    "snacks",
+    "sportswear",
+    "tea",
+    "toys",
+    "traditional-clothing",
+    "underwear",
+    "womens-clothing",
+    "womens-shoes",
+    "workwear"
+  ],
+  "items": [
+    {
+      "id": "Z2VuZXJhbC9hZnRlcnNhbGVzLm1kOumAgOi0p+aUv+etluivtOaYjg",
+      "pageTitle": "通用售后客服话术",
+      "sectionTitle": "退货政策说明",
+      "scene": "客户询问退货政策",
+      "template": "Our return policy: 📦\n\n• Return window: [Days] days from delivery\n• Condition: Unused, original packaging, tags attached\n• Refund method: Original payment method\n• Processing time: [Days] business days after we receive the item\n\nExceptions:\n• [Exception 1, e.g., Personalized items]\n• [Exception 2, e.g., Hygiene products]\n\nNeed to start a return? Let me help! 💙",
+      "variables": [
+        "Days",
+        "Exception 1, e.g., Personalized items",
+        "Exception 2, e.g., Hygiene products"
+      ],
+      "sourcePath": "general/aftersales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9hZnRlcnNhbGVzLm1kOumAgOi0p+eUs+ivt+WkhOeQhg",
+      "pageTitle": "通用售后客服话术",
+      "sectionTitle": "退货申请处理",
+      "scene": "客户要求退货",
+      "template": "I'm sorry to hear you'd like to return your order! 😔\n\nTo process your return:\n1) Please confirm your order number: [Order Number]\n2) Reason for return: [Reason]\n3) Item condition: [Unused/Used]\n\nNext steps:\n• We'll send you a return shipping label\n• Pack the item securely\n• Drop off at [Carrier location]\n• Refund processed within [Days] days of receipt\n\nAny questions about the process? 📦",
+      "variables": [
+        "Order Number",
+        "Reason",
+        "Unused/Used",
+        "Carrier location",
+        "Days"
+      ],
+      "sourcePath": "general/aftersales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9hZnRlcnNhbGVzLm1kOuaNoui0p+WkhOeQhg",
+      "pageTitle": "通用售后客服话术",
+      "sectionTitle": "换货处理",
+      "scene": "客户要求换货",
+      "template": "Happy to help with an exchange! 🔄\n\nYour current order: [Product details]\nExchange for: [New product/size/color]\n\nProcess:\n1) We'll ship the new item first\n2) Return the original within [Days] days\n3) Free return shipping label provided\n\nStock check: [New item] is [In stock/Out of stock]\nShall I proceed with the exchange? 📦",
+      "variables": [
+        "Product details",
+        "New product/size/color",
+        "Days",
+        "New item",
+        "In stock/Out of stock"
+      ],
+      "sourcePath": "general/aftersales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9hZnRlcnNhbGVzLm1kOui0qOmHj+mXrumimOWkhOeQhg",
+      "pageTitle": "通用售后客服话术",
+      "sectionTitle": "质量问题处理",
+      "scene": "客户收到有质量问题的商品",
+      "template": "I'm very sorry about the quality issue! 😔\n\nPlease send us:\n1) Photos of the defect\n2) Photo of the product label/tag\n3) Brief description of the problem\n\nWe'll offer:\n✓ Full replacement (no return needed)\n✓ OR Full refund (keep the item)\n✓ PLUS [Discount/Credit] for your next order\n\nWe sincerely apologize for the inconvenience! 💙",
+      "variables": [
+        "Discount/Credit"
+      ],
+      "sourcePath": "general/aftersales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9hZnRlcnNhbGVzLm1kOuWVhuWTgeS4jeespuWkhOeQhg",
+      "pageTitle": "通用售后客服话术",
+      "sectionTitle": "商品不符处理",
+      "scene": "客户收到的商品与描述不符",
+      "template": "I apologize that the item doesn't match the description! 😔\n\nPlease provide:\n• Photo of what you received\n• What was different from the listing\n\nWe'll immediately:\n✓ Send the correct item\n✓ OR Process a full refund\n✓ Return shipping on us\n\nThis shouldn't have happened. We're sorry! 💙",
+      "variables": [],
+      "sourcePath": "general/aftersales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9hZnRlcnNhbGVzLm1kOueJqea1gemXrumimOWkhOeQhg",
+      "pageTitle": "通用售后客服话术",
+      "sectionTitle": "物流问题处理",
+      "scene": "包裹丢失、延迟、损坏",
+      "template": "I'm sorry about the shipping issue! 📦\n\nLet me check your tracking: [Tracking Number]\nStatus: [Current status]\n\nIf the package is:\n• Delayed: We'll contact the carrier and update you\n• Lost: We'll file a claim and send a replacement or refund\n• Damaged: Please send photos, we'll replace immediately\n\nWe'll resolve this for you! 🚚",
+      "variables": [
+        "Tracking Number",
+        "Current status"
+      ],
+      "sourcePath": "general/aftersales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9hZnRlcnNhbGVzLm1kOuaKleivieWkhOeQhg",
+      "pageTitle": "通用售后客服话术",
+      "sectionTitle": "投诉处理",
+      "scene": "客户投诉、表达不满",
+      "template": "I'm truly sorry for your experience! 😔\n\nI understand your frustration, and I want to make this right.\n\nPlease share:\n• What happened\n• How we can improve\n• What resolution you'd prefer\n\nWe take all feedback seriously and will:\n1) Investigate the issue\n2) Provide a solution within [Time]\n3) Ensure this doesn't happen again\n\nYour satisfaction is our priority! 💙",
+      "variables": [
+        "Time"
+      ],
+      "sourcePath": "general/aftersales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9hZnRlcnNhbGVzLm1kOuW3ruivhOWbnuW6lA",
+      "pageTitle": "通用售后客服话术",
+      "sectionTitle": "差评回应",
+      "scene": "客户留下差评后的跟进",
+      "template": "Thank you for your feedback! 🙏\n\nI'm sorry we didn't meet your expectations. \nWe've reviewed your order and would like to make things right.\n\nWe can offer:\n• [Solution 1]\n• [Solution 2]\n• [Solution 3]\n\nPlease contact us directly so we can resolve this for you.\nWe value your business and hope to earn back your trust! 💙",
+      "variables": [
+        "Solution 1",
+        "Solution 2",
+        "Solution 3"
+      ],
+      "sourcePath": "general/aftersales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9hZnRlcnNhbGVzLm1kOuivhOS7t+W8leWvvA",
+      "pageTitle": "通用售后客服话术",
+      "sectionTitle": "评价引导",
+      "scene": "售后满意后引导客户留评",
+      "template": "Thank you for your purchase! 🎉\n\nWe hope you're enjoying your [Product Name]!\n\nIf you're satisfied with your order, we'd really appreciate a review. \nYour feedback helps other customers and supports our small business.\n\nIf there's anything that could be better, please let us know first - \nwe want to make sure you're 100% happy!\n\nThank you for your support! ⭐",
+      "variables": [
+        "Product Name"
+      ],
+      "sourcePath": "general/aftersales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9hZnRlcnNhbGVzLm1kOua7oeaEj+W6puWbnuiuvw",
+      "pageTitle": "通用售后客服话术",
+      "sectionTitle": "满意度回访",
+      "scene": "售后问题解决后的回访",
+      "template": "Hi! Just following up on your recent order. 😊\n\nI wanted to make sure:\n✓ You received your [replacement/refund]\n✓ Everything is working well\n✓ You're satisfied with the resolution\n\nIs there anything else I can help with?\n\nThank you for your patience and understanding!\nWe appreciate your business! 💙",
+      "variables": [
+        "replacement/refund"
+      ],
+      "sourcePath": "general/aftersales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrmrKLov47or60",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "欢迎语",
+      "scene": "客户首次咨询时的开场白",
+      "template": "Hello! Welcome to our store! 👋 \nThank you for your interest in our products. \nHow can I help you today? \nFeel free to ask any questions about our products, shipping, or anything else. \nI'm here to help! 😊",
+      "variables": [],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrkuqflk4Hlkqjor6I",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "产品咨询",
+      "scene": "客户询问产品详情",
+      "template": "Thank you for your interest in [Product Name]! \nHere are the key features:\n• [Feature 1]\n• [Feature 2]\n• [Feature 3]\n\nSpecifications: [Specs]\nBest for: [Use cases]\n\nYou can find more details in the product description. \nAny specific questions? I'm happy to help! 📦",
+      "variables": [
+        "Product Name",
+        "Feature 1",
+        "Feature 2",
+        "Feature 3",
+        "Specs",
+        "Use cases"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrku7fmoLzor7TmmI4",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "价格说明",
+      "scene": "客户询问价格、能否优惠",
+      "template": "The current price for [Product Name] is $[Price]. \nThis is our best price, reflecting the quality and value of the product.\n\nCurrent promotions:\n• [Promotion 1]\n• [Promotion 2]\n\nWe also offer [bulk discounts/loyalty rewards] for repeat customers. \nLet me know if you have any questions! 💰",
+      "variables": [
+        "Product Name",
+        "Price",
+        "Promotion 1",
+        "Promotion 2",
+        "bulk discounts/loyalty rewards"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrlupPlrZjmn6Xor6I",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "库存查询",
+      "scene": "客户询问库存情况",
+      "template": "Let me check the stock for you! 📦\n\n[Product Name] - [Color/Size]:\n• Current stock: [Quantity] units\n• Status: [In stock/Low stock/Out of stock]\n\nThis is a popular item and sells quickly. \nIf you're interested, I recommend ordering soon to secure yours! \nNeed help with anything else? 🛒",
+      "variables": [
+        "Product Name",
+        "Color/Size",
+        "Quantity",
+        "In stock/Low stock/Out of stock"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrphY3pgIHor7TmmI4",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "配送说明",
+      "scene": "客户询问配送方式、时效",
+      "template": "Shipping information for your location:\n\n📦 Shipping methods:\n• Standard: [Time] days - $[Price]\n• Express: [Time] days - $[Price]\n• Free shipping on orders over $[Amount]\n\nWe ship from [Location] and provide tracking for all orders.\nEstimated delivery: [Date range]\n\nAny questions about shipping? 🚚",
+      "variables": [
+        "Time",
+        "Price",
+        "Amount",
+        "Location",
+        "Date range"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrkvJjmg6DmtLvliqg",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "优惠活动",
+      "scene": "客户询问当前优惠",
+      "template": "Great timing! We have some exciting offers right now! 🎉\n\nCurrent promotions:\n• [Promotion 1]: [Details]\n• [Promotion 2]: [Details]\n• [Promotion 3]: [Details]\n\nValid until: [End date]\n\nDon't miss out! Let me know if you need help applying any discounts. 💝",
+      "variables": [
+        "Promotion 1",
+        "Details",
+        "Promotion 2",
+        "Promotion 3",
+        "End date"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrkuqflk4Hlr7nmr5Q",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "产品对比",
+      "scene": "客户询问不同产品的区别",
+      "template": "Great question! Here's a comparison of [Product A] vs [Product B]:\n\n[Product A]:\n• Best for: [Use case]\n• Key feature: [Feature]\n• Price: $[Price]\n\n[Product B]:\n• Best for: [Use case]\n• Key feature: [Feature]\n• Price: $[Price]\n\nBased on your needs, I'd recommend [Recommendation]. \nWould you like more details on either? 🤔",
+      "variables": [
+        "Product A",
+        "Product B",
+        "Use case",
+        "Feature",
+        "Price",
+        "Recommendation"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrotK3kubDkv53pmpw",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "购买保障",
+      "scene": "客户对购买安全有疑虑",
+      "template": "Your purchase is fully protected! 🛡️\n\nWe offer:\n✓ [Return policy, e.g., 30-day returns]\n✓ [Warranty, e.g., 1-year warranty]\n✓ [Secure payment]\n✓ [Customer support]\n\nOur store has [X]% positive reviews and [X] satisfied customers.\nYou can shop with confidence! \nAny other concerns? 💙",
+      "variables": [
+        "Return policy, e.g., 30-day returns",
+        "Warranty, e.g., 1-year warranty",
+        "Secure payment",
+        "Customer support",
+        "X"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrkuqflk4HmjqjojZA",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "产品推荐",
+      "scene": "向客户推荐相关产品",
+      "template": "Based on your interest in [Product A], you might also like:\n\n1. [Product B] - [Brief description]\n2. [Product C] - [Brief description]\n3. [Product D] - [Brief description]\n\nMany customers who bought [Product A] also purchased these!\nWould you like more details on any of them? 🛍️",
+      "variables": [
+        "Product A",
+        "Product B",
+        "Brief description",
+        "Product C",
+        "Product D"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrnu5PmnZ/or60",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "结束语",
+      "scene": "咨询结束时的收尾",
+      "template": "Thank you for chatting with us! 😊\n\nQuick summary:\n• [Key point 1]\n• [Key point 2]\n\nIf you have any more questions, feel free to reach out anytime.\nWe're here to help!\n\nHave a great day and happy shopping! 🎉",
+      "variables": [
+        "Key point 1",
+        "Key point 2"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrorqLljZXnoa7orqQ",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "订单确认",
+      "scene": "客户下单后确认订单信息",
+      "template": "Thank you for your order! 🎉\n\nOrder details:\n• Order #: [Order Number]\n• Product: [Product Name]\n• Quantity: [Quantity]\n• Total: $[Amount]\n\nShipping to: [Address]\nEstimated delivery: [Date]\n\nPlease verify this information is correct. \nIf you need to make any changes, let us know ASAP!\nWe'll notify you when your order ships. 📦",
+      "variables": [
+        "Order Number",
+        "Product Name",
+        "Quantity",
+        "Amount",
+        "Address",
+        "Date"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrlj5HotKfpgJrnn6U",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "发货通知",
+      "scene": "订单发货后通知客户",
+      "template": "Great news! Your order has shipped! 🚚\n\nTracking information:\n• Carrier: [Carrier Name]\n• Tracking #: [Tracking Number]\n• Estimated delivery: [Date]\n\nTrack your package: [Tracking Link]\n\nTips:\n• Save this tracking number\n• Check tracking for updates\n• Contact us if no movement after [Days] days\n\nEnjoy your purchase! 📦",
+      "variables": [
+        "Carrier Name",
+        "Tracking Number",
+        "Date",
+        "Tracking Link",
+        "Days"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrnianmtYHov73ouKo",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "物流追踪",
+      "scene": "客户询问物流进度",
+      "template": "Let me check your order status! 📦\n\nOrder #: [Order Number]\nTracking #: [Tracking Number]\nCurrent status: [Status]\nLocation: [Current Location]\nEstimated delivery: [Date]\n\nTrack here: [Tracking Link]\n\nIf tracking hasn't updated in [Days] days, please let us know and we'll investigate with the carrier. 🚚",
+      "variables": [
+        "Order Number",
+        "Tracking Number",
+        "Status",
+        "Current Location",
+        "Date",
+        "Tracking Link",
+        "Days"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrnianmtYHlu7bov5/lpITnkIY",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "物流延迟处理",
+      "scene": "物流出现延迟",
+      "template": "I apologize for the shipping delay! 😔\n\nI've checked your order:\n• Order #: [Order Number]\n• Current status: [Status]\n• Reason for delay: [Reason, e.g., carrier delays, weather, customs]\n\nWe're monitoring this closely. \nNew estimated delivery: [Date]\n\nIf it doesn't arrive by [Date], please contact us and we'll:\n• File a claim with the carrier\n• Send a replacement or issue a refund\n\nWe appreciate your patience! 🙏",
+      "variables": [
+        "Order Number",
+        "Status",
+        "Reason, e.g., carrier delays, weather, customs",
+        "Date"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrmlK/ku5jpl67popjlpITnkIY",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "支付问题处理",
+      "scene": "客户支付失败或有支付疑问",
+      "template": "I see there might be a payment issue! 💳\n\nPlease check:\n• Card information is correct\n• Billing address matches your card\n• Sufficient funds available\n• Card is not expired\n\nIf the issue persists:\n• Try a different payment method\n• Contact your bank\n• Clear browser cache and try again\n\nNeed help? I can guide you through the process! 🛒",
+      "variables": [],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrorqLljZXkv67mlLk",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "订单修改",
+      "scene": "客户要求修改订单",
+      "template": "I understand you'd like to modify your order! 📝\n\nOrder #: [Order Number]\nCurrent status: [Status]\n\nIf your order hasn't shipped yet:\n✓ We can change: [Address/Size/Color/Quantity]\n✓ Please confirm the changes you need\n\nIf your order has already shipped:\n• Address change: We'll try to intercept with the carrier\n• Item change: Please return and reorder, or wait for delivery and exchange\n\nWhat changes do you need? 🔄",
+      "variables": [
+        "Order Number",
+        "Status",
+        "Address/Size/Color/Quantity"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrorqLljZXlj5bmtog",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "订单取消",
+      "scene": "客户要求取消订单",
+      "template": "I can help you cancel your order! 🛑\n\nOrder #: [Order Number]\nStatus: [Status]\n\nIf not yet shipped:\n✓ Cancellation confirmed\n✓ Refund processed within [Days] business days\n\nIf already shipped:\n• We can try to intercept the package\n• Or you can refuse delivery / return when received\n• Refund after we receive the item back\n\nShall I proceed with the cancellation? 📦",
+      "variables": [
+        "Order Number",
+        "Status",
+        "Days"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrlnLDlnYDnoa7orqQv5L+u5pS5",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "地址确认/修改",
+      "scene": "确认或修改收货地址",
+      "template": "Let me verify your shipping address! 📍\n\nCurrent address on file:\n[Full Address]\n\nIs this correct? \n\nIf you need to change it:\n• Before shipping: We can update immediately\n• After shipping: We'll contact the carrier (may incur fees)\n\nPlease confirm or provide the correct address! 🏠",
+      "variables": [
+        "Full Address"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrpooTorqHpgIHovr7ml7bpl7Q",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "预计送达时间",
+      "scene": "客户询问预计送达时间",
+      "template": "Delivery estimate for your order: 📅\n\nOrder #: [Order Number]\nShipping method: [Method]\nShip from: [Location]\nShip to: [Destination]\n\nEstimated delivery: [Date Range]\n\nNote: This is an estimate and may vary due to:\n• Carrier performance\n• Weather conditions\n• Customs processing (international)\n\nWe'll send tracking info once shipped! 🚚",
+      "variables": [
+        "Order Number",
+        "Method",
+        "Location",
+        "Destination",
+        "Date Range"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrorqLljZXnirbmgIHmn6Xor6I",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "订单状态查询",
+      "scene": "客户询问订单当前状态",
+      "template": "Here's your order status! 📋\n\nOrder #: [Order Number]\nStatus: [Current Status]\n\nTimeline:\n✓ Order placed: [Date]\n✓ Payment confirmed: [Date]\n[✓/⏳] Processing: [Date/In progress]\n[✓/⏳] Shipped: [Date/Pending]\n[✓/⏳] Delivered: [Date/Pending]\n\nNext step: [What happens next]\n\nQuestions? I'm here to help! 📦",
+      "variables": [
+        "Order Number",
+        "Current Status",
+        "Date",
+        "✓/⏳",
+        "Date/In progress",
+        "Date/Pending",
+        "What happens next"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FsaWV4cHJlc3MvYWZ0ZXJzYWxlcy5tZDpBbGlFeHByZXNzIOWUruWQjuivneacr+WIl+ihqO+8iOWFsSAxMCDmnaHvvIk",
+      "pageTitle": "AliExpress 速卖通售后客服话术",
+      "sectionTitle": "AliExpress 售后话术列表（共 10 条）",
+      "scene": "纠纷升级到平台介入",
+      "template": "Hello! Our return policy:\n\nReturn Window: 15 days after delivery\nConditions: Item unused, original packaging\n\nReturn Options:\n• Full refund: Return item to us\n• Partial refund: Keep item + get [X]% back\n• Free return: For defective/wrong items\n\nHow to Return:\n1. Open dispute on AliExpress\n2. Select \"Return goods\"\n3. Ship with tracking number\n4. Refund after we receive\n\nNote: International return shipping is buyer's responsibility (unless our fault).\n\nWhich option works for you?",
+      "variables": [
+        "X"
+      ],
+      "sourcePath": "platforms/aliexpress/aftersales.md",
+      "group": "platform",
+      "platform": "aliexpress",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FsaWV4cHJlc3MvcHJlc2FsZXMubWQ6QWxpRXhwcmVzcyDllK7liY3or53mnK/liJfooajvvIjlhbEgMTAg5p2h77yJ",
+      "pageTitle": "AliExpress 速卖通售前客服话术",
+      "sectionTitle": "AliExpress 售前话术列表（共 10 条）",
+      "scene": "告知买家当前优惠活动",
+      "template": "Hello! Thank you for your interest in [Product Name]!\n\nProduct Details:\n• Material: [Material]\n• Size: [Size options]\n• Color: [Color options]\n• MOQ: [Quantity]\n\nCurrent Price: $[Price] (bulk discounts available)\nShipping to [Country]: [X-X] days via [Shipping method]\n\nWould you like me to provide more details or a custom quote? I'm here to help!",
+      "variables": [
+        "Product Name",
+        "Material",
+        "Size options",
+        "Color options",
+        "Quantity",
+        "Price",
+        "Country",
+        "X-X",
+        "Shipping method"
+      ],
+      "sourcePath": "platforms/aliexpress/presales.md",
+      "group": "platform",
+      "platform": "aliexpress",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FsaWV4cHJlc3Mvc2FsZXMubWQ6QWxpRXhwcmVzcyDllK7kuK3or53mnK/liJfooajvvIjlhbEgMTAg5p2h77yJ",
+      "pageTitle": "AliExpress 速卖通售中客服话术",
+      "sectionTitle": "AliExpress 售中话术列表（共 10 条）",
+      "scene": "买家催促发货",
+      "template": "Hello! Thank you for your order!\n\nOrder Confirmed:\n• Order #: [Order Number]\n• Items: [Product list]\n• Total: $[Amount]\n• Shipping to: [Country]\n\nNext Steps:\n• Processing: 1-3 business days\n• Shipping method: [Method]\n• Estimated delivery: [X-X] days\n\nYou'll receive tracking info once shipped. Thank you for shopping with us!",
+      "variables": [
+        "Order Number",
+        "Product list",
+        "Amount",
+        "Country",
+        "Method",
+        "X-X"
+      ],
+      "sourcePath": "platforms/aliexpress/sales.md",
+      "group": "platform",
+      "platform": "aliexpress",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOumAgOi0p+aUv+etluivtOaYjg",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "退货政策说明",
+      "scene": "客户询问退货政策或要求退货",
+      "template": "Hello! We offer a 30-day return policy for most items. If you are not completely satisfied with your purchase, you can initiate a return request through your Amazon account under \"Your Orders\". Please make sure the item is in its original condition and packaging, unless it arrived damaged or defective. If you need any help with the return steps, feel free to let us know.",
+      "variables": [],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOkEtdG8tWiDnuqDnurflpITnkIY",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "A-to-Z 纠纷处理",
+      "scene": "客户威胁或已开启 A-to-Z 索赔",
+      "template": "Hello! I understand you have concerns about your order. We'd like to help resolve this as smoothly as possible. Please share a brief description of the issue and any relevant photos if available. If we are unable to find a solution that works for you, you can also open an A-to-z Guarantee claim through Amazon, and Amazon will review the case and help protect your rights as a buyer.",
+      "variables": [],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOuS6p+WTgeivhOS7t+W8leWvvA",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "产品评价引导",
+      "scene": "售后满意时，引导客户留评",
+      "template": "Hello! Thank you for your purchase. We hope you are enjoying your [Product Name]. If everything meets your expectations, we would really appreciate it if you could take a moment to leave a product review on Amazon. Your feedback helps other customers make decisions and also encourages us to keep improving. If there is anything that is not ideal, please contact us first and we will do our best to make it right.",
+      "variables": [
+        "Product Name"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOumAgOasvuWkhOeQhg",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "退款处理",
+      "scene": "客户申请退款，说明退款流程",
+      "template": "Hello! I have received your refund request. Once the returned item is received and inspected by Amazon or our warehouse (depending on the return method), your refund will be processed to your original payment method. This usually takes a few business days. We will keep an eye on the progress, and if you do not see the refund after [X] days, please contact us so we can help you follow up.",
+      "variables": [
+        "X"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOuaNoui0p+WkhOeQhg",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "换货处理",
+      "scene": "客户要求换货",
+      "template": "Hello! I understand you would like to exchange your item. On Amazon, exchanges are often handled as a return plus a new order. Please initiate a return request for the current item through your Amazon account, and once the return is accepted, you can place a new order for the item you prefer. If you tell us more about the issue, we can also suggest the most suitable replacement option for you.",
+      "variables": [],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOuWVhuWTgei0qOmHj+mXrumimA",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "商品质量问题",
+      "scene": "客户收到破损或有缺陷的商品",
+      "template": "Hello! I sincerely apologize that you received a defective item. This is not the standard we strive for. Please send us a brief description of the problem along with clear photos or a short video if possible. We will review it quickly and offer you a suitable solution, such as a replacement, partial refund, or full refund, in line with Amazon's policies and your preference.",
+      "variables": [],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOuWVhuWTgeS4jeespuWkhOeQhg",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "商品不符处理",
+      "scene": "客户收到的商品与描述不符",
+      "template": "Hello! I apologize that you received the wrong or not-as-described item. This was our mistake, and we take it seriously. Please provide a photo of what you received, and we will arrange a solution as soon as possible — for example, sending the correct item or issuing a refund, depending on your choice and Amazon's rules.",
+      "variables": [],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOumAgOi0p+agh+etvuaPkOS+mw",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "退货标签提供",
+      "scene": "客户需要退货标签",
+      "template": "Hello! I can help you with the return label. Once your return request is approved through Amazon, you will usually see a prepaid return label or QR code provided by Amazon on the return page. Please print the label (or use the QR code at the designated drop-off location), attach it securely to the package, and send the item back. If you have any difficulty downloading or printing the label, please let us know.",
+      "variables": [],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOumDqOWIhumAgOasvg",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "部分退款",
+      "scene": "提供部分退款作为补偿",
+      "template": "Hello! I understand the issue you mentioned and I'm sorry for the inconvenience caused. As a solution, we can offer you a partial refund of [Amount] while you keep the item, so you don't need to go through the return process. If this is acceptable to you, please confirm, and we will submit the partial refund request through Amazon as soon as possible.",
+      "variables": [
+        "Amount"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOuWuouaIt+a7oeaEj+W6puWbnuiuvw",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "客户满意度回访",
+      "scene": "售后问题解决后回访客户",
+      "template": "Hello! I wanted to follow up on your recent purchase of [Product Name]. How are you enjoying it? Is everything working as expected? If you have any questions or concerns, please don't hesitate to contact us via Amazon messages. We are always here to help and want to make sure you are fully satisfied with your purchase.",
+      "variables": [
+        "Product Name"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9wcmVzYWxlcy5tZDpQcmltZSDphY3pgIHor7TmmI4",
+      "pageTitle": "Amazon 售前客服话术",
+      "sectionTitle": "Prime 配送说明",
+      "scene": "客户询问配送时效、是否支持 Prime",
+      "template": "Hello! This item is eligible for Amazon Prime fast shipping. If you are a Prime member, you can enjoy free two-day (or faster, where available) delivery on this order. At checkout, please make sure your address supports Prime service, and Amazon will handle the delivery directly and keep you updated with tracking information.",
+      "variables": [],
+      "sourcePath": "platforms/amazon/presales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9wcmVzYWxlcy5tZDpBLXRvLVog5L+d6Zqc6K+05piO",
+      "pageTitle": "Amazon 售前客服话术",
+      "sectionTitle": "A-to-Z 保障说明",
+      "scene": "客户对购买安全有疑虑",
+      "template": "Hello! This purchase is protected by Amazon's A-to-z Guarantee, which helps you if there are issues with delivery or the condition of your item. If anything goes wrong after you place the order, you can contact us through Amazon messages or open an A-to-z claim, and Amazon will help review the case and protect your rights as a buyer.",
+      "variables": [],
+      "sourcePath": "platforms/amazon/presales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9wcmVzYWxlcy5tZDpGQkEg54mp5rWB6K+05piO",
+      "pageTitle": "Amazon 售前客服话术",
+      "sectionTitle": "FBA 物流说明",
+      "scene": "客户询问发货方式、物流速度",
+      "template": "Hello! This item is fulfilled by Amazon (FBA), which means it is stored, packed, and shipped by Amazon from their own warehouses. Orders are processed quickly, and you can track the parcel directly in your Amazon account. If there are any shipping-related issues, Amazon's customer service team can step in to assist you.",
+      "variables": [],
+      "sourcePath": "platforms/amazon/presales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9wcmVzYWxlcy5tZDpQcmltZSDkvJrlkZjkvJjmg6A",
+      "pageTitle": "Amazon 售前客服话术",
+      "sectionTitle": "Prime 会员优惠",
+      "scene": "客户询问会员专属优惠",
+      "template": "Hello! As an Amazon Prime member, you can enjoy free fast shipping on this item and sometimes additional member-only discounts. When you are logged in with your Prime account, any available promotions or coupons will be shown automatically on the product page and at checkout. If you have questions about a specific offer, feel free to let us know.",
+      "variables": [],
+      "sourcePath": "platforms/amazon/presales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9wcmVzYWxlcy5tZDrkuqflk4HmjqjojZA",
+      "pageTitle": "Amazon 售前客服话术",
+      "sectionTitle": "产品推荐",
+      "scene": "向客户推荐相关产品",
+      "template": "Hello! Based on your interest in [Product A], I think you might also like [Product B]. It has similar features but offers [unique benefit]. Many customers who bought [Product A] also purchased [Product B] and were very satisfied. Would you like to learn more about it?",
+      "variables": [
+        "Product A",
+        "Product B",
+        "unique benefit"
+      ],
+      "sourcePath": "platforms/amazon/presales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9wcmVzYWxlcy5tZDrlupPlrZjntKflvKDmj5DphpI",
+      "pageTitle": "Amazon 售前客服话术",
+      "sectionTitle": "库存紧张提醒",
+      "scene": "热销商品库存不足时",
+      "template": "Hello! Thank you for your interest in this item. I wanted to let you know that we currently have limited stock — only [Number] units left. This is a popular product and it tends to sell out quickly, so if it meets your needs, we recommend placing the order as soon as you are ready to avoid it going out of stock.",
+      "variables": [
+        "Number"
+      ],
+      "sourcePath": "platforms/amazon/presales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9wcmVzYWxlcy5tZDrkuqflk4Hlr7nmr5Tor7TmmI4",
+      "pageTitle": "Amazon 售前客服话术",
+      "sectionTitle": "产品对比说明",
+      "scene": "客户询问不同产品的区别",
+      "template": "Hello! Great question about the difference between [Product A] and [Product B]. [Product A] is better for [use case 1], while [Product B] performs better for [use case 2]. The main differences are: [difference 1], [difference 2], and [difference 3]. Based on your needs, I'd be happy to recommend one of them — if you can share a bit more about how you plan to use it, I can give you a more specific suggestion.",
+      "variables": [
+        "Product A",
+        "Product B",
+        "use case 1",
+        "use case 2",
+        "difference 1",
+        "difference 2",
+        "difference 3"
+      ],
+      "sourcePath": "platforms/amazon/presales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9wcmVzYWxlcy5tZDrkvJjmg6DmtLvliqjor7TmmI4",
+      "pageTitle": "Amazon 售前客服话术",
+      "sectionTitle": "优惠活动说明",
+      "scene": "客户询问当前优惠",
+      "template": "Hello! We currently have a promotion for this item: [promotion details, e.g. coupon, discount, or bundle]. You can check the promotion section on the product page and apply the coupon at checkout to enjoy the discount. If you are not sure how to use the offer, please let us know and we can guide you step by step.",
+      "variables": [
+        "promotion details, e.g. coupon, discount, or bundle"
+      ],
+      "sourcePath": "platforms/amazon/presales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9wcmVzYWxlcy5tZDrkuqflk4Hop4TmoLzlkqjor6I",
+      "pageTitle": "Amazon 售前客服话术",
+      "sectionTitle": "产品规格咨询",
+      "scene": "客户询问产品详细规格",
+      "template": "Hello! Thank you for your question about [specification]. The [Product Name] has the following key specifications: [spec 1], [spec 2], [spec 3]. More detailed information is listed in the product description section of the page. If you need any additional details or have a specific use case, please let me know and I'll be happy to help.",
+      "variables": [
+        "specification",
+        "Product Name",
+        "spec 1",
+        "spec 2",
+        "spec 3"
+      ],
+      "sourcePath": "platforms/amazon/presales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9wcmVzYWxlcy5tZDrotK3kubDkv53pmpzor7TmmI4",
+      "pageTitle": "Amazon 售前客服话术",
+      "sectionTitle": "购买保障说明",
+      "scene": "客户担心购买风险",
+      "template": "Hello! When you purchase from us on Amazon, you are covered by both Amazon's order protection and our shop's after-sales service. If you experience any issues with your order — such as damage, missing items, or the product not matching the description — please contact us through Amazon messages and we will work with you to find a solution, including replacement or refund in line with Amazon's policies.",
+      "variables": [],
+      "sourcePath": "platforms/amazon/presales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9zYWxlcy5tZDrorqLljZXnoa7orqQ",
+      "pageTitle": "Amazon 售中客服话术",
+      "sectionTitle": "订单确认",
+      "scene": "客户下单后主动发送确认信息",
+      "template": "Hello! Thank you for your order. Your order number is [Order Number]. The item will be shipped via Amazon FBA, and you will be able to see the latest shipping status directly in your Amazon account under \"Your Orders\". If you have any questions during the process, please feel free to contact us via Amazon messages.",
+      "variables": [
+        "Order Number"
+      ],
+      "sourcePath": "platforms/amazon/sales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9zYWxlcy5tZDrlj5HotKflu7bov5/lpITnkIY",
+      "pageTitle": "Amazon 售中客服话术",
+      "sectionTitle": "发货延迟处理",
+      "scene": "物流出现延迟，需要向客户解释",
+      "template": "Hello! I apologize for the shipping delay. I've checked your order and confirmed that it is being processed, but the carrier is currently experiencing a slight delay. We are closely monitoring the shipment and will keep you updated. If it does not move within [X] days, please let us know and we will work with Amazon and the carrier to resolve it for you.",
+      "variables": [
+        "X"
+      ],
+      "sourcePath": "platforms/amazon/sales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9zYWxlcy5tZDrnianmtYHov73ouKo",
+      "pageTitle": "Amazon 售中客服话术",
+      "sectionTitle": "物流追踪",
+      "scene": "客户询问物流进度、追踪号码",
+      "template": "Hello! Your order [Order Number] has been shipped. The tracking number is [Tracking Number]. You can track your package on Amazon's \"Your Orders\" page or on the carrier's website using this tracking number. If the tracking information does not update for a while, please contact us and we will help you follow up with the carrier.",
+      "variables": [
+        "Order Number",
+        "Tracking Number"
+      ],
+      "sourcePath": "platforms/amazon/sales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9zYWxlcy5tZDrmlK/ku5jpl67popjlpITnkIY",
+      "pageTitle": "Amazon 售中客服话术",
+      "sectionTitle": "支付问题处理",
+      "scene": "客户支付失败或有支付疑问",
+      "template": "Hello! I see there might be an issue with your payment for this order. Please double-check that your card information, billing address, and available balance are correct in your Amazon account. In many cases, Amazon will automatically retry the payment. If the problem continues, you may try a different payment method or contact Amazon customer service for further assistance, and we'll be here to help from our side as well.",
+      "variables": [],
+      "sourcePath": "platforms/amazon/sales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9zYWxlcy5tZDrorqLljZXkv67mlLk",
+      "pageTitle": "Amazon 售中客服话术",
+      "sectionTitle": "订单修改",
+      "scene": "客户要求修改订单信息",
+      "template": "Hello! I understand you would like to change your order details. Once an Amazon order is in processing or shipped status, we usually cannot directly modify the items or quantities. If your order has not been shipped yet, you can try to cancel it in \"Your Orders\" and place a new order with the correct information. If it has already been shipped, please let us know your specific request and we will suggest the best solution for you.",
+      "variables": [],
+      "sourcePath": "platforms/amazon/sales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9zYWxlcy5tZDrlnLDlnYDnoa7orqQ",
+      "pageTitle": "Amazon 售中客服话术",
+      "sectionTitle": "地址确认",
+      "scene": "发货前确认客户收货地址",
+      "template": "Hello! I wanted to confirm your shipping address before we ship your order. The address on file is: [Address]. Is this correct? If you need to update it, please do so in your Amazon account as soon as possible. Once the order enters the shipping process, we may no longer be able to change the address, and the package will be sent to the address currently shown in your order.",
+      "variables": [
+        "Address"
+      ],
+      "sourcePath": "platforms/amazon/sales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9zYWxlcy5tZDrpooTorqHpgIHovr7ml7bpl7Q",
+      "pageTitle": "Amazon 售中客服话术",
+      "sectionTitle": "预计送达时间",
+      "scene": "客户询问预计送达日期",
+      "template": "Hello! Thank you for your order. Based on your shipping address and the shipping method you selected, your estimated delivery date is [Date]. This is an estimate provided by Amazon and may vary slightly depending on the carrier's actual performance and local conditions. You can always check the latest estimated delivery date on your order details page on Amazon.",
+      "variables": [
+        "Date"
+      ],
+      "sourcePath": "platforms/amazon/sales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9zYWxlcy5tZDrorqLljZXnirbmgIHmn6Xor6I",
+      "pageTitle": "Amazon 售中客服话术",
+      "sectionTitle": "订单状态查询",
+      "scene": "客户询问订单当前状态",
+      "template": "Hello! I've checked the status of your order [Order Number]. It is currently in the status of [Current Status, e.g. \"Preparing for Shipment\" / \"Shipped\"]. You can also view this information in your Amazon account under \"Your Orders\". If the status does not change for an unusually long time, please let us know and we will help you investigate further.",
+      "variables": [
+        "Order Number",
+        "Current Status, e.g. \"Preparing for Shipment\" / \"Shipped\""
+      ],
+      "sourcePath": "platforms/amazon/sales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9zYWxlcy5tZDrlkIjlubborqLljZU",
+      "pageTitle": "Amazon 售中客服话术",
+      "sectionTitle": "合并订单",
+      "scene": "客户希望多个订单合并发货",
+      "template": "Hello! I see you placed multiple orders and would like to have them shipped together. Whether orders can be combined depends on Amazon's system, warehouse location, and shipping method. If Amazon supports combining them, it will automatically arrange shipment in one package when possible. We, as the seller, generally cannot manually merge orders, but if you tell us your order numbers, we can check and give you more specific information.",
+      "variables": [],
+      "sourcePath": "platforms/amazon/sales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9zYWxlcy5tZDrlgqzljZXlpITnkIY",
+      "pageTitle": "Amazon 售中客服话术",
+      "sectionTitle": "催单处理",
+      "scene": "客户催促发货或送达",
+      "template": "Hello! I understand you are concerned about the delivery time. I've checked your order and confirmed that it is on the way. We will keep an eye on the tracking information and follow up with the carrier if there are any unusual delays. If the package does not arrive by [Latest Date], please contact us again and we will help you with further solutions, such as replacement or refund according to Amazon's policies.",
+      "variables": [
+        "Latest Date"
+      ],
+      "sourcePath": "platforms/amazon/sales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2ViYXkvYWZ0ZXJzYWxlcy5tZDplQmF5IOWUruWQjuivneacr+WIl+ihqO+8iOWFsSAxMCDmnaHvvIk",
+      "pageTitle": "eBay 售后客服话术",
+      "sectionTitle": "eBay 售后话术列表（共 10 条）",
+      "scene": "买家要求 eBay 介入",
+      "template": "Hello! We offer a 30-day hassle-free return policy. To initiate a return: 1) Go to your Purchase History; 2) Select the item and click \"Return this item\"; 3) Choose your reason and ship it back. Once we receive the item, we'll process your refund within 2 business days. Let me know if you need help!",
+      "variables": [],
+      "sourcePath": "platforms/ebay/aftersales.md",
+      "group": "platform",
+      "platform": "ebay",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2ViYXkvcHJlc2FsZXMubWQ6ZUJheSDllK7liY3or53mnK/liJfooajvvIjlhbEgMTAg5p2h77yJ",
+      "pageTitle": "eBay 售前客服话术",
+      "sectionTitle": "eBay 售前话术列表（共 10 条）",
+      "scene": "买家询问批量购买折扣",
+      "template": "Hello! We're a Top Rated Seller on eBay with 99.8% positive feedback. This means we've consistently provided excellent service, fast shipping, and accurate item descriptions. You can buy with confidence knowing you're dealing with a trusted seller. Thank you for your interest!",
+      "variables": [],
+      "sourcePath": "platforms/ebay/presales.md",
+      "group": "platform",
+      "platform": "ebay",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2ViYXkvc2FsZXMubWQ6ZUJheSDllK7kuK3or53mnK/liJfooajvvIjlhbEgMTAg5p2h77yJ",
+      "pageTitle": "eBay 售中客服话术",
+      "sectionTitle": "eBay 售中话术列表（共 10 条）",
+      "scene": "买家催促发货",
+      "template": "Hello! Thank you for your purchase! Your order number is [Order Number]. We'll process and ship your order within 24 hours of payment confirmation. You'll receive tracking information via email once it ships. Estimated delivery is [date]. If you have any questions, please don't hesitate to contact us!",
+      "variables": [
+        "Order Number",
+        "date"
+      ],
+      "sourcePath": "platforms/ebay/sales.md",
+      "group": "platform",
+      "platform": "ebay",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2pkL2FmdGVyc2FsZXMubWQ65Lqs5Lic5ZSu5ZCO6K+d5pyv5YiX6KGo77yI5YWxIDEwIOadoe+8iQ",
+      "pageTitle": "京东售后客服话术",
+      "sectionTitle": "京东售后话术列表（共 10 条）",
+      "scene": "订单完成后回访客户",
+      "template": "您好，我们支持7天无理由退货！\n\n退货流程：\n在京东\"我的订单\"中申请退货即可\n\n退货条件：\n• 商品保持原包装和完好状态\n• 不影响二次销售\n• 质量问题无需承担运费\n\n如需帮助，随时联系我们！",
+      "variables": [],
+      "sourcePath": "platforms/jd/aftersales.md",
+      "group": "platform",
+      "platform": "jd",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2pkL3ByZXNhbGVzLm1kOuS6rOS4nOWUruWJjeivneacr+WIl+ihqO+8iOWFsSAxMCDmnaHvvIk",
+      "pageTitle": "京东售前客服话术",
+      "sectionTitle": "京东售前话术列表（共 10 条）",
+      "scene": "买家对售后有疑虑",
+      "template": "您好，此商品支持京东物流快速配送！\n\n配送优势：\n• 京东自营仓库发货\n• 211限时达（上午11点前下单当日达）\n• 全程可追踪\n\n如果您是京东PLUS会员，可享受免费快速配送服务。\n\n下单时请确认您的地址支持京东物流，京东会直接处理配送并更新物流信息。",
+      "variables": [],
+      "sourcePath": "platforms/jd/presales.md",
+      "group": "platform",
+      "platform": "jd",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2pkL3NhbGVzLm1kOuS6rOS4nOWUruS4reivneacr+WIl+ihqO+8iOWFsSAxMCDmnaHvvIk",
+      "pageTitle": "京东售中客服话术",
+      "sectionTitle": "京东售中话术列表（共 10 条）",
+      "scene": "买家催促发货/送达",
+      "template": "您好，感谢您的订单！\n\n订单信息：\n• 订单号：[订单号]\n• 商品：[商品名称]\n• 金额：[金额]元\n\n商品将通过京东物流发货，您可直接在京东\"我的订单\"中查看最新物流状态。\n\n如有任何问题，请通过京东客服联系我们。",
+      "variables": [
+        "订单号",
+        "商品名称",
+        "金额"
+      ],
+      "sourcePath": "platforms/jd/sales.md",
+      "group": "platform",
+      "platform": "jd",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2xhemFkYS9hZnRlcnNhbGVzLm1kOkxhemFkYSDllK7lkI7or53mnK/liJfooajvvIjlhbEgMTAg5p2h77yJ",
+      "pageTitle": "Lazada 售后客服话术",
+      "sectionTitle": "Lazada 售后话术列表（共 10 条）",
+      "scene": "发放复购优惠券",
+      "template": "Our return policy: 15-Day Free Returns for LazMall products! 📦\n\nProcess:\nLazada app → My Orders → Return/Refund → Select reason → Submit\n\nBenefits:\n✓ Free return shipping label\n✓ Refund processed within [Time] days after we receive the item\n\nEasy & hassle-free! ✨",
+      "variables": [
+        "Time"
+      ],
+      "sourcePath": "platforms/lazada/aftersales.md",
+      "group": "platform",
+      "platform": "lazada",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2xhemFkYS9wcmVzYWxlcy5tZDpMYXphZGEg5ZSu5YmN6K+d5pyv5YiX6KGo77yI5YWxIDEwIOadoe+8iQ",
+      "pageTitle": "Lazada 售前客服话术",
+      "sectionTitle": "Lazada 售前话术列表（共 10 条）",
+      "scene": "预告即将到来的促销活动",
+      "template": "Hello! Thank you for your interest in our products! 😊 We're an official LazMall seller with authentic products and fast shipping across Southeast Asia. How can I help you today? Feel free to ask about products, shipping, or promotions!",
+      "variables": [],
+      "sourcePath": "platforms/lazada/presales.md",
+      "group": "platform",
+      "platform": "lazada",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2xhemFkYS9zYWxlcy5tZDpMYXphZGEg5ZSu5Lit6K+d5pyv5YiX6KGo77yI5YWxIDEwIOadoe+8iQ",
+      "pageTitle": "Lazada 售中客服话术",
+      "sectionTitle": "Lazada 售中话术列表（共 10 条）",
+      "scene": "买家催促发货/送达",
+      "template": "Thank you for your order! 🎉\n\nOrder Confirmed:\n• Order #: [Order Number]\n• Payment received: [Amount]\n• Processing time: [Time] hours\n• Estimated delivery: [Date]\n\nTrack your order in \"My Orders\" section.\n\nQuestions? Chat with us anytime! 💬",
+      "variables": [
+        "Order Number",
+        "Amount",
+        "Time",
+        "Date"
+      ],
+      "sourcePath": "platforms/lazada/sales.md",
+      "group": "platform",
+      "platform": "lazada",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BlZS9hZnRlcnNhbGVzLm1kOlNob3BlZSDllK7lkI7or53mnK/liJfooajvvIjlhbEgMTAg5p2h77yJ",
+      "pageTitle": "Shopee 售后客服话术模板",
+      "sectionTitle": "Shopee 售后话术列表（共 10 条）",
+      "scene": "订单完成后回访客户",
+      "template": "您好！Shopee支持[天数]天无理由退换货。退换货条件：商品未使用、保持原包装、提供购买凭证。退换货流程：在订单页面申请→我们审核→寄回商品→退款或换货。退货运费由[承担方]承担。如有疑问，随时咨询我。",
+      "variables": [
+        "天数",
+        "承担方"
+      ],
+      "sourcePath": "platforms/shopee/aftersales.md",
+      "group": "platform",
+      "platform": "shopee",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BlZS9wcmVzYWxlcy5tZDrnoI3ku7flupTlr7k",
+      "pageTitle": "Shopee 售前客服话术",
+      "sectionTitle": "砍价应对",
+      "scene": "客户询问能否降价、要求优惠",
+      "template": "您好！感谢您的询价。这款商品的价格已经是我们的最低价了，因为我们直接从工厂采购，价格非常有竞争力。不过，如果您现在下单，我可以为您申请[赠品/优惠券]。您觉得怎么样？",
+      "variables": [
+        "赠品/优惠券"
+      ],
+      "sourcePath": "platforms/shopee/presales.md",
+      "group": "platform",
+      "platform": "shopee",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BlZS9wcmVzYWxlcy5tZDrlpJrnq5nngrnnianmtYHor7TmmI4",
+      "pageTitle": "Shopee 售前客服话术",
+      "sectionTitle": "多站点物流说明",
+      "scene": "客户询问配送方式、物流时效",
+      "template": "您好！关于物流，Shopee在不同站点有不同的物流方式。对于[站点名称]，我们使用[物流方式]，预计[时间]内送达。物流费用已包含在商品价格中，您无需额外支付。如有疑问，随时咨询我。",
+      "variables": [
+        "站点名称",
+        "物流方式",
+        "时间"
+      ],
+      "sourcePath": "platforms/shopee/presales.md",
+      "group": "platform",
+      "platform": "shopee",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BlZS9wcmVzYWxlcy5tZDrkvJjmg6DliLjkvb/nlKg",
+      "pageTitle": "Shopee 售前客服话术",
+      "sectionTitle": "优惠券使用",
+      "scene": "客户询问优惠券如何使用",
+      "template": "您好！关于优惠券，Shopee平台经常会有各种优惠券活动。您可以在Shopee首页或活动页面领取优惠券。使用优惠券时，请确保满足使用条件（如最低消费金额）。如果您有优惠券问题，我可以帮您查看。",
+      "variables": [],
+      "sourcePath": "platforms/shopee/presales.md",
+      "group": "platform",
+      "platform": "shopee",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BlZS9wcmVzYWxlcy5tZDrllYblk4Hlkqjor6I",
+      "pageTitle": "Shopee 售前客服话术",
+      "sectionTitle": "商品咨询",
+      "scene": "客户询问商品详情",
+      "template": "您好！关于[商品名称]，我可以为您详细介绍。这款商品的特点是[特点1]、[特点2]、[特点3]。商品详情页面有详细的图片和说明，您可以查看。如果您还有其他问题，随时咨询我。",
+      "variables": [
+        "商品名称",
+        "特点1",
+        "特点2",
+        "特点3"
+      ],
+      "sourcePath": "platforms/shopee/presales.md",
+      "group": "platform",
+      "platform": "shopee",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BlZS9wcmVzYWxlcy5tZDrllYblk4HmjqjojZA",
+      "pageTitle": "Shopee 售前客服话术",
+      "sectionTitle": "商品推荐",
+      "scene": "向客户推荐相关产品",
+      "template": "您好！根据您对[商品A]的兴趣，我推荐您看看[商品B]。这款商品具有[特点1]、[特点2]等特点，很多购买[商品A]的客户也购买了[商品B]，反馈都很好。您想了解一下吗？",
+      "variables": [
+        "商品A",
+        "商品B",
+        "特点1",
+        "特点2"
+      ],
+      "sourcePath": "platforms/shopee/presales.md",
+      "group": "platform",
+      "platform": "shopee",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BlZS9wcmVzYWxlcy5tZDrlupPlrZjntKflvKDmj5DphpI",
+      "pageTitle": "Shopee 售前客服话术",
+      "sectionTitle": "库存紧张提醒",
+      "scene": "热销商品库存不足时",
+      "template": "您好！感谢您对这款商品的关注。目前库存比较紧张，只剩[数量]件了。这是热销商品，经常断货。如果您感兴趣，建议尽快下单，以免缺货。如有疑问，随时咨询我！",
+      "variables": [
+        "数量"
+      ],
+      "sourcePath": "platforms/shopee/presales.md",
+      "group": "platform",
+      "platform": "shopee",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BlZS9wcmVzYWxlcy5tZDrllYblk4Hlr7nmr5Tor7TmmI4",
+      "pageTitle": "Shopee 售前客服话术",
+      "sectionTitle": "商品对比说明",
+      "scene": "客户询问不同商品的区别",
+      "template": "您好！关于[商品A]和[商品B]的区别，主要在于：[区别1]、[区别2]、[区别3]。根据您的需求[需求描述]，我建议您选择[推荐商品]，因为[推荐理由]。您觉得怎么样？",
+      "variables": [
+        "商品A",
+        "商品B",
+        "区别1",
+        "区别2",
+        "区别3",
+        "需求描述",
+        "推荐商品",
+        "推荐理由"
+      ],
+      "sourcePath": "platforms/shopee/presales.md",
+      "group": "platform",
+      "platform": "shopee",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BlZS9wcmVzYWxlcy5tZDrkvJjmg6DmtLvliqjor7TmmI4",
+      "pageTitle": "Shopee 售前客服话术",
+      "sectionTitle": "优惠活动说明",
+      "scene": "客户询问当前优惠活动",
+      "template": "您好！目前我们正在开展[活动名称]活动，活动时间是[开始时间]至[结束时间]。活动期间，[优惠内容]。此外，Shopee平台还有[平台优惠]。机会难得，建议您尽快下单！",
+      "variables": [
+        "活动名称",
+        "开始时间",
+        "结束时间",
+        "优惠内容",
+        "平台优惠"
+      ],
+      "sourcePath": "platforms/shopee/presales.md",
+      "group": "platform",
+      "platform": "shopee",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BlZS9wcmVzYWxlcy5tZDrllYblk4Hop4TmoLzlkqjor6I",
+      "pageTitle": "Shopee 售前客服话术",
+      "sectionTitle": "商品规格咨询",
+      "scene": "客户询问商品规格",
+      "template": "您好！关于[规格问题]，[商品名称]的规格是：[规格1]、[规格2]、[规格3]。商品详情页面有详细的规格说明和图片，您可以查看。如果您需要更多信息，随时咨询我！",
+      "variables": [
+        "规格问题",
+        "商品名称",
+        "规格1",
+        "规格2",
+        "规格3"
+      ],
+      "sourcePath": "platforms/shopee/presales.md",
+      "group": "platform",
+      "platform": "shopee",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BlZS9wcmVzYWxlcy5tZDrotK3kubDkv53pmpzor7TmmI4",
+      "pageTitle": "Shopee 售前客服话术",
+      "sectionTitle": "购买保障说明",
+      "scene": "客户对购买安全有疑虑",
+      "template": "您好！在Shopee购买，您享有Shopee买家保障。如果商品有问题，Shopee会帮助您解决。我们店铺有[X]%的好评率，是[认证卖家]。您可以放心购买！",
+      "variables": [
+        "X",
+        "认证卖家"
+      ],
+      "sourcePath": "platforms/shopee/presales.md",
+      "group": "platform",
+      "platform": "shopee",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BlZS9zYWxlcy5tZDpTaG9wZWUg5ZSu5Lit6K+d5pyv5YiX6KGo77yI5YWxIDEwIOadoe+8iQ",
+      "pageTitle": "Shopee 售中客服话术模板",
+      "sectionTitle": "Shopee 售中话术列表（共 10 条）",
+      "scene": "客户催促发货",
+      "template": "您好！感谢您的订单，订单号是[订单号]。订单已确认，我们会尽快为您安排发货。发货后，您可以在Shopee订单页面查看物流信息。预计[时间]内送达，请注意查收。如有问题，随时联系我！",
+      "variables": [
+        "订单号",
+        "时间"
+      ],
+      "sourcePath": "platforms/shopee/sales.md",
+      "group": "platform",
+      "platform": "shopee",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDpTaG9waWZ5IOWUruWQjuivneacr+WIl+ihqO+8iOWFsSAxMCDmnaHvvIk",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "Shopify 售后话术列表（共 10 条）",
+      "scene": "售后完成后发放复购优惠",
+      "template": "Hello! Our return policy: 30-day return window from delivery date. Items must be unused with original tags/packaging. Free returns for defective items. Customer pays return shipping for change of mind.\n\nTo start a return:\n1) Log into your account\n2) Go to Orders\n3) Select \"Return Item\"\n4) Print return label\n\nRefund processed within 5-7 days after we receive the item. Questions? We're here to help!",
+      "variables": [],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvcHJlc2FsZXMubWQ6U2hvcGlmeSDllK7liY3or53mnK/liJfooajvvIjlhbEgMTAg5p2h77yJ",
+      "pageTitle": "Shopify 独立站售前客服话术",
+      "sectionTitle": "Shopify 售前话术列表（共 10 条）",
+      "scene": "客户想了解更多品牌信息",
+      "template": "Hello! Thank you for your interest in [Brand Name]! We're a [description - e.g., family-owned business / established brand since 2015] dedicated to [brand mission]. \n\nYou can shop with confidence:\n• 10,000+ happy customers worldwide\n• 4.8/5 average rating on Trustpilot\n• Featured in [Media mentions]\n• Secure checkout with SSL encryption\n\nCheck out our reviews: [Review link]\nFollow us on Instagram: [Social link]\n\nAny questions? I'm here to help!",
+      "variables": [
+        "Brand Name",
+        "description - e.g., family-owned business / established brand since 2015",
+        "brand mission",
+        "Media mentions",
+        "Review link",
+        "Social link"
+      ],
+      "sourcePath": "platforms/shopify/presales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvc2FsZXMubWQ6U2hvcGlmeSDllK7kuK3or53mnK/liJfooajvvIjlhbEgMTAg5p2h77yJ",
+      "pageTitle": "Shopify 独立站售中客服话术",
+      "sectionTitle": "Shopify 售中话术列表（共 10 条）",
+      "scene": "国际订单清关状态说明",
+      "template": "Hello! Thank you for your order from [Brand Name]!\n\nOrder #[Order Number] has been confirmed.\n\nOrder Details:\n• Items: [Product list]\n• Total: [Amount]\n• Payment: [Payment method] - Confirmed\n• Shipping to: [Address]\n\nWhat's Next:\nWe'll process your order within 24-48 hours and send you a shipping confirmation with tracking number. You can view your order status anytime at: [Order status link]\n\nQuestions? Reply to this message or email us at [Email]. We're here to help!",
+      "variables": [
+        "Brand Name",
+        "Order Number",
+        "Product list",
+        "Amount",
+        "Payment method",
+        "Address",
+        "Order status link",
+        "Email"
+      ],
+      "sourcePath": "platforms/shopify/sales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rhb2Jhby9hZnRlcnNhbGVzLm1kOua3mOWuneWUruWQjuivneacr+WIl+ihqO+8iOWFsSAxMCDmnaHvvIk",
+      "pageTitle": "淘宝/天猫售后客服话术",
+      "sectionTitle": "淘宝售后话术列表（共 10 条）",
+      "scene": "订单完成后回访客户",
+      "template": "亲，我们支持7天无理由退货！\n\n退货流程：\n在淘宝\"我的订单\"中申请退货即可\n\n退货条件：\n• 商品保持原包装和完好状态\n• 不影响二次销售\n• 质量问题无需承担运费\n\n如需帮助，随时联系我们～",
+      "variables": [],
+      "sourcePath": "platforms/taobao/aftersales.md",
+      "group": "platform",
+      "platform": "taobao",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rhb2Jhby9wcmVzYWxlcy5tZDrmt5jlrp3llK7liY3or53mnK/liJfooajvvIjlhbEgMTAg5p2h77yJ",
+      "pageTitle": "淘宝/天猫售前客服话术",
+      "sectionTitle": "淘宝售前话术列表（共 10 条）",
+      "scene": "引导买家收藏加购",
+      "template": "亲，欢迎光临[店铺名称]！我是客服[客服名]，很高兴为您服务～\n\n我们是[类目]类目Top卖家，主营[产品类别]。\n\n店铺优势：\n✓ 正品保障\n✓ 7天无理由退换\n✓ 运费险\n✓ 极速发货\n\n有任何问题随时咨询我，在线秒回！",
+      "variables": [
+        "店铺名称",
+        "客服名",
+        "类目",
+        "产品类别"
+      ],
+      "sourcePath": "platforms/taobao/presales.md",
+      "group": "platform",
+      "platform": "taobao",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rhb2Jhby9zYWxlcy5tZDrmt5jlrp3llK7kuK3or53mnK/liJfooajvvIjlhbEgMTAg5p2h77yJ",
+      "pageTitle": "淘宝/天猫售中客服话术",
+      "sectionTitle": "淘宝售中话术列表（共 10 条）",
+      "scene": "买家催促发货/送达",
+      "template": "亲，感谢您的订单！\n\n订单信息：\n• 订单号：[订单号]\n• 商品：[商品名称]\n• 金额：[金额]元\n\n商品将通过淘宝物流发货，您可直接在淘宝\"我的订单\"中查看最新物流状态。\n\n如有任何问题，请通过旺旺联系我们～",
+      "variables": [
+        "订单号",
+        "商品名称",
+        "金额"
+      ],
+      "sourcePath": "platforms/taobao/sales.md",
+      "group": "platform",
+      "platform": "taobao",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3RlbXUvYWZ0ZXJzYWxlcy5tZDpUZW11IOWUruWQjuivneacr+WIl+ihqO+8iOWFsSAxMCDmnaHvvIk",
+      "pageTitle": "Temu 售后客服话术",
+      "sectionTitle": "Temu 售后话术列表（共 10 条）",
+      "scene": "订单完成后回访客户",
+      "template": "90-Day FREE Returns! 📦\n\nHow to Return:\nTemu app → Orders → Return/Refund → Select reason → Print label\n\nBenefits:\n✓ Prepaid return label provided\n✓ Refund within [Time] days after return received\n✓ No restocking fees\n\nEasy & hassle-free! ✨",
+      "variables": [
+        "Time"
+      ],
+      "sourcePath": "platforms/temu/aftersales.md",
+      "group": "platform",
+      "platform": "temu",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3RlbXUvcHJlc2FsZXMubWQ6VGVtdSDllK7liY3or53mnK/liJfooajvvIjlhbEgMTAg5p2h77yJ",
+      "pageTitle": "Temu 售前客服话术",
+      "sectionTitle": "Temu 售前话术列表（共 10 条）",
+      "scene": "推广限时优惠",
+      "template": "Hi! Thanks for checking out our product! 😊\n\n[Product Name] features:\n• [Feature 1]\n• [Feature 2]\n• [Feature 3]\n\nPrice: $[Price] - that's [Discount]% OFF retail!\n\nPlus:\n✓ FREE shipping\n✓ 90-day free returns\n\nIn stock and ready to ship! Order now! 🛒",
+      "variables": [
+        "Product Name",
+        "Feature 1",
+        "Feature 2",
+        "Feature 3",
+        "Price",
+        "Discount"
+      ],
+      "sourcePath": "platforms/temu/presales.md",
+      "group": "platform",
+      "platform": "temu",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3RlbXUvc2FsZXMubWQ6VGVtdSDllK7kuK3or53mnK/liJfooajvvIjlhbEgMTAg5p2h77yJ",
+      "pageTitle": "Temu 售中客服话术",
+      "sectionTitle": "Temu 售中话术列表（共 10 条）",
+      "scene": "确认包裹已送达",
+      "template": "Order confirmed! 🎉\n\nOrder Details:\n• Order #: [Order Number]\n• Total: $[Amount]\n• You saved: $[Savings]!\n• Items: [Items]\n\nNext Steps:\n• Processing: 24-48 hours\n• Track in Temu app → Orders\n• Estimated delivery: [Date]\n\nThank you for shopping with Temu! 💕",
+      "variables": [
+        "Order Number",
+        "Amount",
+        "Savings",
+        "Items",
+        "Date"
+      ],
+      "sourcePath": "platforms/temu/sales.md",
+      "group": "platform",
+      "platform": "temu",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL2FmdGVyc2FsZXMubWQ66YCA5o2i6LSn5pS/562W",
+      "pageTitle": "TikTok Shop 售后客服话术",
+      "sectionTitle": "退换货政策",
+      "scene": "客户咨询退换货规则",
+      "template": "Hi! 👋 We offer [X]-day hassle-free returns! Items must be unused with original packaging. Here's how: 1) Go to your orders 2) Click \"Return\" 3) Ship it back with the label we provide. Refund processes within [X] days after we receive it! Easy peasy! 📦",
+      "variables": [
+        "X"
+      ],
+      "sourcePath": "platforms/tiktok-shop/aftersales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL2FmdGVyc2FsZXMubWQ66YCA6LSn55Sz6K+35aSE55CG",
+      "pageTitle": "TikTok Shop 售后客服话术",
+      "sectionTitle": "退货申请处理",
+      "scene": "批准客户退货申请",
+      "template": "Got it! ✅ Your return request is approved! Here's your return label: [Link]. Please ship within [X] days. Once we receive it, refund will be processed in [X] business days. Need help with anything else? We're here for you! 💕",
+      "variables": [
+        "Link",
+        "X"
+      ],
+      "sourcePath": "platforms/tiktok-shop/aftersales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL2FmdGVyc2FsZXMubWQ66LSo6YeP6Zeu6aKY5aSE55CG",
+      "pageTitle": "TikTok Shop 售后客服话术",
+      "sectionTitle": "质量问题处理",
+      "scene": "客户反馈商品有质量问题",
+      "template": "Oh no, we're SO sorry about this! 😔 This is definitely not up to our standards. Please send me a photo/video of the issue. I'll get you a full refund OR replacement right away - your choice! No need to return the item. We really appreciate your patience! 🙏",
+      "variables": [],
+      "sourcePath": "platforms/tiktok-shop/aftersales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL2FmdGVyc2FsZXMubWQ65ZWG5ZOB5LiN56ym5aSE55CG",
+      "pageTitle": "TikTok Shop 售后客服话术",
+      "sectionTitle": "商品不符处理",
+      "scene": "收到的商品与描述不符",
+      "template": "We're so sorry for the mix-up! 😅 That's totally our mistake. I'm sending out the correct item TODAY with express shipping - no extra charge! Keep the wrong item as our apology gift. You'll get tracking info shortly. So sorry again! 💕",
+      "variables": [],
+      "sourcePath": "platforms/tiktok-shop/aftersales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL2FmdGVyc2FsZXMubWQ65beu6K+E5oy95Zue",
+      "pageTitle": "TikTok Shop 售后客服话术",
+      "sectionTitle": "差评挽回",
+      "scene": "客户留下差评后主动联系",
+      "template": "Hi! We saw your review and we're really sorry about your experience. 😔 We'd love to make this right! Can I offer you [Full refund/Replacement/Store credit]? Your satisfaction means everything to us. Please give us a chance to fix this! 🙏",
+      "variables": [
+        "Full refund/Replacement/Store credit"
+      ],
+      "sourcePath": "platforms/tiktok-shop/aftersales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL2FmdGVyc2FsZXMubWQ66K+E5Lu35byV5a+8",
+      "pageTitle": "TikTok Shop 售后客服话术",
+      "sectionTitle": "评价引导",
+      "scene": "订单完成后引导好评",
+      "template": "Hey! 💕 Hope you're loving your [Product]! If you have a moment, we'd really appreciate a review - it helps other shoppers and supports our small business! 🙏 Got any issues? Message us first and we'll make it right! Thank you so much! ⭐",
+      "variables": [
+        "Product"
+      ],
+      "sourcePath": "platforms/tiktok-shop/aftersales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL2FmdGVyc2FsZXMubWQ66YCA5qy+5aSE55CG",
+      "pageTitle": "TikTok Shop 售后客服话术",
+      "sectionTitle": "退款处理",
+      "scene": "通知客户退款进度",
+      "template": "Good news! 💰 Your refund of $[Amount] has been processed! It'll be back in your account within [X] business days depending on your bank. You'll get a confirmation email too. Thanks for your patience! Hope to see you again! 💕",
+      "variables": [
+        "Amount",
+        "X"
+      ],
+      "sourcePath": "platforms/tiktok-shop/aftersales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL2FmdGVyc2FsZXMubWQ65o2i6LSn5aSE55CG",
+      "pageTitle": "TikTok Shop 售后客服话术",
+      "sectionTitle": "换货处理",
+      "scene": "客户申请换货",
+      "template": "No problem! 🔄 I'll send out the replacement [Size/Color] right away! You'll get tracking within 24 hours. For the original item, use this return label: [Link]. Once we receive it, you're all set! Thanks for giving us a chance to make it right! 💪",
+      "variables": [
+        "Size/Color",
+        "Link"
+      ],
+      "sourcePath": "platforms/tiktok-shop/aftersales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL2FmdGVyc2FsZXMubWQ66YOo5YiG6YCA5qy+",
+      "pageTitle": "TikTok Shop 售后客服话术",
+      "sectionTitle": "部分退款",
+      "scene": "协商部分退款解决问题",
+      "template": "I totally understand your frustration. 😔 While we can't do a full return, I'd like to offer you a [X]% partial refund ($[Amount]) as compensation. You can keep the item too! Does that work for you? We really want to make this right! 🙏",
+      "variables": [
+        "X",
+        "Amount"
+      ],
+      "sourcePath": "platforms/tiktok-shop/aftersales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL2FmdGVyc2FsZXMubWQ65a6i5oi35Zue6K6/",
+      "pageTitle": "TikTok Shop 售后客服话术",
+      "sectionTitle": "客户回访",
+      "scene": "订单完成后回访客户",
+      "template": "Hey! 👋 Just checking in - how's your [Product] working out? Everything good? If you love it, we'd be SO grateful for a quick review! ⭐ If anything's not perfect, let me know and I'll fix it ASAP! Thanks for being part of our TikTok family! 💕",
+      "variables": [
+        "Product"
+      ],
+      "sourcePath": "platforms/tiktok-shop/aftersales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3ByZXNhbGVzLm1kOuebtOaSreasoui/juivrQ",
+      "pageTitle": "TikTok Shop 售前客服话术",
+      "sectionTitle": "直播欢迎语",
+      "scene": "直播开场，欢迎观众",
+      "template": "Welcome to our live! 🎉 Thanks for joining! We have amazing deals today with exclusive live-only discounts. Drop a ❤️ if you're excited! Follow us for more live shopping events. Let me show you our best products!",
+      "variables": [],
+      "sourcePath": "platforms/tiktok-shop/presales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3ByZXNhbGVzLm1kOuebtOaSreS6p+WTgeS7i+e7jQ",
+      "pageTitle": "TikTok Shop 售前客服话术",
+      "sectionTitle": "直播产品介绍",
+      "scene": "直播中介绍产品",
+      "template": "Let me show you this [Product Name]! 🔥 This is our bestseller with [Key Feature 1], [Key Feature 2], and [Key Feature 3]. Today's live price is only $[Price] - that's [Discount]% off! Limited stock available. Click the yellow cart to add to your bag!",
+      "variables": [
+        "Product Name",
+        "Key Feature 1",
+        "Key Feature 2",
+        "Key Feature 3",
+        "Price",
+        "Discount"
+      ],
+      "sourcePath": "platforms/tiktok-shop/presales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3ByZXNhbGVzLm1kOuivhOiuuuWMuuWbnuWkjQ",
+      "pageTitle": "TikTok Shop 售前客服话术",
+      "sectionTitle": "评论区回复",
+      "scene": "回复短视频评论区咨询",
+      "template": "Hi! Thanks for your comment! 💕 Yes, we ship to [Country]! Shipping takes [Time] days. We have this in stock right now. Click the link in bio or shop during our next live for special discounts! Follow us so you don't miss it!",
+      "variables": [
+        "Country",
+        "Time"
+      ],
+      "sourcePath": "platforms/tiktok-shop/presales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3ByZXNhbGVzLm1kOuebtOaSremZkOaXtuS8mOaDoA",
+      "pageTitle": "TikTok Shop 售前客服话术",
+      "sectionTitle": "直播限时优惠",
+      "scene": "直播中推出限时折扣",
+      "template": "⏰ FLASH SALE ALERT! For the next 10 minutes only, get an EXTRA [Discount]% off on [Product Name]! This is our lowest price ever! Don't miss out - add to cart NOW! Only [Number] left in stock! 🛒",
+      "variables": [
+        "Discount",
+        "Product Name",
+        "Number"
+      ],
+      "sourcePath": "platforms/tiktok-shop/presales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3ByZXNhbGVzLm1kOuWwuueggeWSqOivouWbnuWkjQ",
+      "pageTitle": "TikTok Shop 售前客服话术",
+      "sectionTitle": "尺码咨询回复",
+      "scene": "客户询问尺码建议",
+      "template": "Great question! For sizing, we recommend: [Size Guide]. This runs [true to size/small/large]. Check our size chart in the product description. If you're between sizes, I suggest sizing [up/down]. We also offer free returns if it doesn't fit! 📏",
+      "variables": [
+        "Size Guide",
+        "true to size/small/large",
+        "up/down"
+      ],
+      "sourcePath": "platforms/tiktok-shop/presales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3ByZXNhbGVzLm1kOuebtOaSreS6kuWKqOW8leWvvA",
+      "pageTitle": "TikTok Shop 售前客服话术",
+      "sectionTitle": "直播互动引导",
+      "scene": "引导观众互动、点赞、关注",
+      "template": "Drop a 💚 if you want to see this in [Color]! Comment \"LINK\" and I'll send you the product link! New here? Hit that FOLLOW button for exclusive follower-only deals! Let's get to [Number] likes and I'll do a special giveaway! 🎁",
+      "variables": [
+        "Color",
+        "Number"
+      ],
+      "sourcePath": "platforms/tiktok-shop/presales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3ByZXNhbGVzLm1kOuS6p+WTgeWvueavlOivtOaYjg",
+      "pageTitle": "TikTok Shop 售前客服话术",
+      "sectionTitle": "产品对比说明",
+      "scene": "客户询问不同产品的区别",
+      "template": "Comparing [Product A] vs [Product B]: [Product A] is perfect for [Use Case 1] with [Feature]. [Product B] is better for [Use Case 2] with [Feature]. Both are on sale today! Which one do you prefer? Comment 1 or 2! 🤔",
+      "variables": [
+        "Product A",
+        "Product B",
+        "Use Case 1",
+        "Feature",
+        "Use Case 2"
+      ],
+      "sourcePath": "platforms/tiktok-shop/presales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3ByZXNhbGVzLm1kOuW6k+WtmOaPkOmGkg",
+      "pageTitle": "TikTok Shop 售前客服话术",
+      "sectionTitle": "库存提醒",
+      "scene": "热销商品库存紧张时",
+      "template": "🚨 STOCK UPDATE: We only have [Number] units left of [Product Name]! This is selling out FAST! If you want it, add to cart NOW before it's gone! We might not restock this color/size for weeks! Don't miss out! 🏃‍♀️",
+      "variables": [
+        "Number",
+        "Product Name"
+      ],
+      "sourcePath": "platforms/tiktok-shop/presales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3ByZXNhbGVzLm1kOueyieS4neS4k+WxnuS8mOaDoA",
+      "pageTitle": "TikTok Shop 售前客服话术",
+      "sectionTitle": "粉丝专属优惠",
+      "scene": "提供粉丝专属折扣码",
+      "template": "💝 FOLLOWERS ONLY DEAL! Use code [CODE] at checkout for an extra [Discount]% off! This code is ONLY for our TikTok family! Valid for the next [Time] hours. Screenshot this so you don't forget! Thank you for supporting our small business! 🙏",
+      "variables": [
+        "CODE",
+        "Discount",
+        "Time"
+      ],
+      "sourcePath": "platforms/tiktok-shop/presales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3ByZXNhbGVzLm1kOuaWsOWTgemihOWRig",
+      "pageTitle": "TikTok Shop 售前客服话术",
+      "sectionTitle": "新品预告",
+      "scene": "预告即将上新的产品",
+      "template": "👀 SNEAK PEEK! We're dropping a NEW [Product Type] next week! Turn on post notifications so you don't miss the launch! It's going to be [Feature/Benefit]. Drop a 🔥 if you're excited! Early birds get [Discount]% off! Save this video!",
+      "variables": [
+        "Product Type",
+        "Feature/Benefit",
+        "Discount"
+      ],
+      "sourcePath": "platforms/tiktok-shop/presales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3NhbGVzLm1kOuiuouWNleehruiupA",
+      "pageTitle": "TikTok Shop 售中客服话术",
+      "sectionTitle": "订单确认",
+      "scene": "客户下单后确认订单信息",
+      "template": "Hey! 🎉 Thanks for your order! Order #[Order Number] is confirmed! We're packing it up now and will ship within [Time]. You'll get a tracking number once it's on the way! So excited for you to receive it! 💕",
+      "variables": [
+        "Order Number",
+        "Time"
+      ],
+      "sourcePath": "platforms/tiktok-shop/sales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3NhbGVzLm1kOuWPkei0p+mAmuefpQ",
+      "pageTitle": "TikTok Shop 售中客服话术",
+      "sectionTitle": "发货通知",
+      "scene": "订单发货后通知客户",
+      "template": "Great news! 📦 Your order #[Order Number] just shipped! Tracking: [Tracking Number]. Track it here: [Link]. Expected delivery: [Date]. Can't wait for you to get it! Drop us a review when it arrives! 🙏",
+      "variables": [
+        "Order Number",
+        "Tracking Number",
+        "Link",
+        "Date"
+      ],
+      "sourcePath": "platforms/tiktok-shop/sales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3NhbGVzLm1kOueJqea1gei/vei4qg",
+      "pageTitle": "TikTok Shop 售中客服话术",
+      "sectionTitle": "物流追踪",
+      "scene": "客户询问物流状态",
+      "template": "Hi! Let me check that for you! 📍 Your package is currently [Status] - it's on its way! Tracking: [Tracking Number]. Expected to arrive by [Date]. You can track it anytime at [Link]. Almost there! 🚚",
+      "variables": [
+        "Status",
+        "Tracking Number",
+        "Date",
+        "Link"
+      ],
+      "sourcePath": "platforms/tiktok-shop/sales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3NhbGVzLm1kOuiuouWNleS/ruaUuQ",
+      "pageTitle": "TikTok Shop 售中客服话术",
+      "sectionTitle": "订单修改",
+      "scene": "客户要求修改订单信息",
+      "template": "Got it! ✏️ Let me help you with that! If your order hasn't shipped yet, I can update [Address/Size/Color] for you. Just confirm the new details and I'll make the change ASAP! If it's already shipped, no worries - we can arrange a return/exchange! 💪",
+      "variables": [
+        "Address/Size/Color"
+      ],
+      "sourcePath": "platforms/tiktok-shop/sales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3NhbGVzLm1kOuWcsOWdgOehruiupA",
+      "pageTitle": "TikTok Shop 售中客服话术",
+      "sectionTitle": "地址确认",
+      "scene": "发货前确认收货地址",
+      "template": "Quick check before we ship! 📬 Your delivery address is: [Address]. Is this correct? Please confirm so we can get your order out today! If you need to change it, let me know right away! 🏃‍♀️",
+      "variables": [
+        "Address"
+      ],
+      "sourcePath": "platforms/tiktok-shop/sales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3NhbGVzLm1kOuWPkei0p+W7tui/n+ivtOaYjg",
+      "pageTitle": "TikTok Shop 售中客服话术",
+      "sectionTitle": "发货延迟说明",
+      "scene": "订单发货延迟需要解释",
+      "template": "Hey! So sorry for the delay! 🙏 [Reason for delay]. Your order is now being processed and will ship by [Date]. As a thank you for your patience, here's a [Discount]% off code for your next order: [Code]. We really appreciate you! 💕",
+      "variables": [
+        "Reason for delay",
+        "Date",
+        "Discount",
+        "Code"
+      ],
+      "sourcePath": "platforms/tiktok-shop/sales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3NhbGVzLm1kOuWCrOWNleWkhOeQhg",
+      "pageTitle": "TikTok Shop 售中客服话术",
+      "sectionTitle": "催单处理",
+      "scene": "客户催促发货",
+      "template": "Totally understand! 🏃‍♀️ Let me check on your order right now! Order #[Order Number] is [Status]. We're working to get it out ASAP! You'll receive tracking info within [Time]. Thanks so much for your patience! 🙏",
+      "variables": [
+        "Order Number",
+        "Status",
+        "Time"
+      ],
+      "sourcePath": "platforms/tiktok-shop/sales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3NhbGVzLm1kOumihOiuoemAgei+vuaXtumXtA",
+      "pageTitle": "TikTok Shop 售中客服话术",
+      "sectionTitle": "预计送达时间",
+      "scene": "客户询问送达时间",
+      "template": "Great question! 📅 Based on your location, estimated delivery is [Date Range]. Standard shipping takes [X-Y] days. Once shipped, you'll get real-time tracking updates! Want faster delivery? We also offer express shipping! ⚡",
+      "variables": [
+        "Date Range",
+        "X-Y"
+      ],
+      "sourcePath": "platforms/tiktok-shop/sales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3NhbGVzLm1kOuiuouWNleWPlua2iA",
+      "pageTitle": "TikTok Shop 售中客服话术",
+      "sectionTitle": "订单取消",
+      "scene": "客户要求取消订单",
+      "template": "No problem! 👍 I can help you cancel order #[Order Number]. Since it hasn't shipped yet, I'll process the cancellation now. Refund will be back to your original payment method within [Time] days. Changed your mind? You're always welcome back! 💕",
+      "variables": [
+        "Order Number",
+        "Time"
+      ],
+      "sourcePath": "platforms/tiktok-shop/sales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL3NhbGVzLm1kOuaUr+S7mOmXrumimOWkhOeQhg",
+      "pageTitle": "TikTok Shop 售中客服话术",
+      "sectionTitle": "支付问题处理",
+      "scene": "客户遇到支付失败",
+      "template": "Oh no! 😅 Payment issues can happen sometimes. Try these: 1) Check your card details 2) Make sure you have enough balance 3) Try a different payment method. If it still doesn't work, screenshot the error and send it to me - I'll help you figure it out! 💪",
+      "variables": [],
+      "sourcePath": "platforms/tiktok-shop/sales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3dpc2gvYWZ0ZXJzYWxlcy5tZDpXaXNoIOWUruWQjuivneacr+WIl+ihqO+8iOWFsSAxMCDmnaHvvIk",
+      "pageTitle": "Wish 售后客服话术",
+      "sectionTitle": "Wish 售后话术列表（共 10 条）",
+      "scene": "订单完成后回访客户",
+      "template": "30-Day Return Policy! 📦\n\nHow to Return:\nWish app → Order History → Request Return → Select reason\n\nProcess:\n• We provide return label\n• Refund processed within [Time] days after return received\n• Items must be unused with tags\n\nEasy returns! Questions? Ask us! ✨",
+      "variables": [
+        "Time"
+      ],
+      "sourcePath": "platforms/wish/aftersales.md",
+      "group": "platform",
+      "platform": "wish",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3dpc2gvcHJlc2FsZXMubWQ6V2lzaCDllK7liY3or53mnK/liJfooajvvIjlhbEgMTAg5p2h77yJ",
+      "pageTitle": "Wish 售前客服话术",
+      "sectionTitle": "Wish 售前话术列表（共 10 条）",
+      "scene": "向买家推荐新品",
+      "template": "Hi! Thanks for your interest! 😊\n\nThis [Product Name] features:\n• [Feature 1]\n• [Feature 2]\n• [Feature 3]\n\nPrice: $[Price] with FREE shipping!\nDelivery time: [Time] days\nStock: [Number] units available\n\nOrder now for fast delivery! Any questions? Ask away! 💬",
+      "variables": [
+        "Product Name",
+        "Feature 1",
+        "Feature 2",
+        "Feature 3",
+        "Price",
+        "Time",
+        "Number"
+      ],
+      "sourcePath": "platforms/wish/presales.md",
+      "group": "platform",
+      "platform": "wish",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3dpc2gvc2FsZXMubWQ6V2lzaCDllK7kuK3or53mnK/liJfooajvvIjlhbEgMTAg5p2h77yJ",
+      "pageTitle": "Wish 售中客服话术",
+      "sectionTitle": "Wish 售中话术列表（共 10 条）",
+      "scene": "确认包裹已送达",
+      "template": "Order confirmed! 🎉\n\nOrder Details:\n• Order ID: [Order ID]\n• Amount: $[Amount]\n• Items: [Items]\n\nNext Steps:\n• Processing: 24-48 hours\n• Tracking: Via Wish app\n• Estimated delivery: [Date]\n\nThank you for your purchase! 💕",
+      "variables": [
+        "Order ID",
+        "Amount",
+        "Items",
+        "Date"
+      ],
+      "sourcePath": "platforms/wish/sales.md",
+      "group": "platform",
+      "platform": "wish",
+      "industry": "all"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9hbGNvaG9sLm1kOuWUruWJjeivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "酒水客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"怎么保存/能放多久\"",
+      "template": "亲您好！这款[酒品名称]是我们的明星产品～\n核心亮点：\n• 产地：[产地/酒庄]，[产区特点]\n• 年份：[年份]，[年份特点]\n• 口感：[口感描述，如醇厚/清爽/果香浓郁]\n• 度数：[酒精度]°\n• 荣誉：[获奖/评分/认证]\n适合[场景，如商务宴请/自饮/送礼]，性价比很高！",
+      "variables": [
+        "酒品名称",
+        "产地/酒庄",
+        "产区特点",
+        "年份",
+        "年份特点",
+        "口感描述，如醇厚/清爽/果香浓郁",
+        "酒精度",
+        "获奖/评分/认证",
+        "场景，如商务宴请/自饮/送礼"
+      ],
+      "sourcePath": "industries/alcohol.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "alcohol"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9hbGNvaG9sLm1kOuWUruS4reivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "酒水客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收检查",
+      "template": "亲，订单收到啦！\n确认信息：\n• 酒品：[名称]×[数量]\n• 规格：[容量/包装]\n• 地址：[收货地址]\n温馨提示：\n• 酒水需成年人签收\n• 请保持电话畅通\n• 部分地区可能无法配送[偏远/禁运]\n信息都对吗？确认后马上安排发货！",
+      "variables": [
+        "名称",
+        "数量",
+        "容量/包装",
+        "收货地址",
+        "偏远/禁运"
+      ],
+      "sourcePath": "industries/alcohol.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "alcohol"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9hbGNvaG9sLm1kOuWUruWQjuivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "酒水客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导满意客户复购或好评",
+      "template": "亲，看到您已签收～\n想确认一下：\n• 包装是否完好？\n• 数量规格是否正确？\n• 瓶身有无破损？\n• 防伪标识是否完整？\n如果一切满意，请按照储存建议保存。\n有任何问题随时联系我，祝您品鉴愉快！",
+      "variables": [],
+      "sourcePath": "industries/alcohol.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "alcohol"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iYWJ5LWNsb3RoaW5nLm1kOuWUruWJjeivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "童装童鞋客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"怎么洗\"",
+      "template": "亲，这款[产品名称]很受宝妈欢迎！\n✨ 核心亮点：\n• 材质：[材质，如纯棉/A类标准/有机棉]\n• 设计：[设计特点，如卡通/简约/运动风]\n• 特点：[产品特点，如柔软/透气/好穿脱]\n🌟 很多宝宝穿了都说舒服，需要我帮您推荐尺码吗？",
+      "variables": [
+        "产品名称",
+        "材质，如纯棉/A类标准/有机棉",
+        "设计特点，如卡通/简约/运动风",
+        "产品特点，如柔软/透气/好穿脱"
+      ],
+      "sourcePath": "industries/baby-clothing.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "baby-clothing"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iYWJ5LWNsb3RoaW5nLm1kOuWUruS4reivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "童装童鞋客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到啦！💕\n📋 确认：[商品][尺码][颜色]，地址[地址]\n信息都对吗？确认无误尽快发货！",
+      "variables": [
+        "商品",
+        "尺码",
+        "颜色",
+        "地址"
+      ],
+      "sourcePath": "industries/baby-clothing.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "baby-clothing"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iYWJ5LWNsb3RoaW5nLm1kOuWUruWQjuivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "童装童鞋客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购/好评",
+      "template": "亲，包裹签收啦～\n👶 尺码合适吗？宝宝喜欢吗？\n有问题随时说，满意帮忙好评哦！💕",
+      "variables": [],
+      "sourcePath": "industries/baby-clothing.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "baby-clothing"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iYWJ5LWZvb2QubWQ65ZSu5YmN6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "奶粉辅食客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"什么时候加辅食\"",
+      "template": "亲，这款[产品名称]很受宝妈欢迎！\n✨ 核心亮点：\n• 配方：[配方特点，如A2蛋白/有机/羊奶]\n• 营养：[营养成分，如DHA/益生菌/乳铁蛋白]\n• 适合：[适合月龄]宝宝\n🌟 很多宝宝吃了[效果，如不上火/好吸收]，需要我帮您看看适不适合您家宝宝吗？",
+      "variables": [
+        "产品名称",
+        "配方特点，如A2蛋白/有机/羊奶",
+        "营养成分，如DHA/益生菌/乳铁蛋白",
+        "适合月龄",
+        "效果，如不上火/好吸收"
+      ],
+      "sourcePath": "industries/baby-food.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "baby-food"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iYWJ5LWZvb2QubWQ65ZSu5Lit6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "奶粉辅食客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到啦！💕\n📋 确认：[产品][段位/口味]×[数量]，地址[地址]\n信息都对吗？确认无误尽快发货！",
+      "variables": [
+        "产品",
+        "段位/口味",
+        "数量",
+        "地址"
+      ],
+      "sourcePath": "industries/baby-food.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "baby-food"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iYWJ5LWZvb2QubWQ65ZSu5ZCO6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "奶粉辅食客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购/好评",
+      "template": "亲，包裹签收啦～\n🍼 收到了吗？包装完好吗？\n宝宝吃了有任何问题随时说！💕",
+      "variables": [],
+      "sourcePath": "industries/baby-food.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "baby-food"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iYWJ5LXByb2R1Y3RzLm1kOuWUruWJjeivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "婴儿用品客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"新生儿需要什么\"",
+      "template": "亲，这款[产品名称]很受宝妈欢迎！\n✨ 核心亮点：\n• 材质：[材质，如食品级/医用级/有机棉]\n• 功能：[功能特点]\n• 安全：[安全特点，如无BPA/无荧光剂]\n🌟 很多宝宝用了反馈很好，需要我详细介绍吗？",
+      "variables": [
+        "产品名称",
+        "材质，如食品级/医用级/有机棉",
+        "功能特点",
+        "安全特点，如无BPA/无荧光剂"
+      ],
+      "sourcePath": "industries/baby-products.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "baby-products"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iYWJ5LXByb2R1Y3RzLm1kOuWUruS4reivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "婴儿用品客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到啦！💕\n📋 确认：[商品][规格]×[数量]，地址[地址]\n信息都对吗？确认无误尽快发货！",
+      "variables": [
+        "商品",
+        "规格",
+        "数量",
+        "地址"
+      ],
+      "sourcePath": "industries/baby-products.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "baby-products"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iYWJ5LXByb2R1Y3RzLm1kOuWUruWQjuivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "婴儿用品客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购/好评",
+      "template": "亲，包裹签收啦～\n👶 收到了吗？宝宝用着怎么样？\n有问题随时说，满意帮忙好评哦！💕",
+      "variables": [],
+      "sourcePath": "industries/baby-products.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "baby-products"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iYWdzLm1kOuWUruWJjeivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "箱包客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"哪个颜色好\"",
+      "template": "亲，这款很受欢迎～\n✨ 亮点：\n• 材质：[真皮/PU/帆布]，[质感/耐用]\n• 容量：可装[物品描述]\n• 设计：[设计特点]\n需要了解具体尺寸吗？",
+      "variables": [
+        "真皮/PU/帆布",
+        "质感/耐用",
+        "物品描述",
+        "设计特点"
+      ],
+      "sourcePath": "industries/bags.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "bags"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iYWdzLm1kOuWUruS4reivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "箱包客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到！\n📋 [商品][颜色]\n确认无误尽快发货～",
+      "variables": [
+        "商品",
+        "颜色"
+      ],
+      "sourcePath": "industries/bags.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "bags"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iYWdzLm1kOuWUruWQjuivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "箱包客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购",
+      "template": "亲，包裹签收了～\n包包满意吗？满意帮忙好评！💕",
+      "variables": [],
+      "sourcePath": "industries/bags.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "bags"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHktZGV2aWNlcy5tZDrllK7liY3or53mnK/vvIgxMOadoe+8iQ",
+      "pageTitle": "美容仪器客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"多久用一次\"",
+      "template": "亲，这款[产品名称]是我们的明星产品！\n✨ 核心功能：\n• 技术：[技术原理，如射频/微电流/LED]\n• 功效：[主要功效，如紧致/提拉/淡纹]\n• 特点：[产品特点，如无痛/便携/多功能]\n🌟 坚持使用[时间]，效果看得见！需要我详细介绍吗？",
+      "variables": [
+        "产品名称",
+        "技术原理，如射频/微电流/LED",
+        "主要功效，如紧致/提拉/淡纹",
+        "产品特点，如无痛/便携/多功能",
+        "时间"
+      ],
+      "sourcePath": "industries/beauty-devices.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty-devices"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHktZGV2aWNlcy5tZDrllK7kuK3or53mnK/vvIgxMOadoe+8iQ",
+      "pageTitle": "美容仪器客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到啦！💕\n📋 确认：[产品名称][颜色]，地址[地址]\n信息都对吗？确认无误尽快发货！",
+      "variables": [
+        "产品名称",
+        "颜色",
+        "地址"
+      ],
+      "sourcePath": "industries/beauty-devices.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty-devices"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHktZGV2aWNlcy5tZDrllK7lkI7or53mnK/vvIgxMOadoe+8iQ",
+      "pageTitle": "美容仪器客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购/好评",
+      "template": "亲，包裹签收啦～\n🔧 收到了吗？配件齐全吗？\n有任何问题随时说，我教您使用！💕",
+      "variables": [],
+      "sourcePath": "industries/beauty-devices.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty-devices"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ65oiQ5YiG6K+05piO",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "成分说明",
+      "scene": "客户询问产品成分、是否含某种成分",
+      "template": "Hi! Here are the key ingredients in this product: 🧴\nMain actives: [Ingredient 1], [Ingredient 2], [Ingredient 3].\nFree from: [Parabens/Sulfates/Fragrance/etc.].\nThis formula is [Vegan/Cruelty-free/Dermatologist tested].\nFull ingredient list is in the product images.\nHave specific ingredient concerns? Let us know! 💕",
+      "variables": [
+        "Ingredient 1",
+        "Ingredient 2",
+        "Ingredient 3",
+        "Parabens/Sulfates/Fragrance/etc.",
+        "Vegan/Cruelty-free/Dermatologist tested"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ66IKk6LSo5o6o6I2Q",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "肤质推荐",
+      "scene": "客户不确定产品是否适合自己肤质",
+      "template": "This product is best for: [Skin type, e.g., Oily/Dry/Combination/Sensitive]. 🌸\nBenefits:\n✓ [Benefit 1, e.g., Controls oil]\n✓ [Benefit 2, e.g., Hydrates without clogging pores]\n✓ [Benefit 3, e.g., Gentle formula].\nNot recommended for: [Skin conditions to avoid].\nTell us your skin type and concerns, we'll help you choose! 💆‍♀️",
+      "variables": [
+        "Skin type, e.g., Oily/Dry/Combination/Sensitive",
+        "Benefit 1, e.g., Controls oil",
+        "Benefit 2, e.g., Hydrates without clogging pores",
+        "Benefit 3, e.g., Gentle formula",
+        "Skin conditions to avoid"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ65pWP5oSf6IKM5ZKo6K+i",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "敏感肌咨询",
+      "scene": "敏感肌客户询问是否适用",
+      "template": "For sensitive skin: 🌿\nThis product is [Suitable/Not recommended] for sensitive skin.\nGentle features: [Fragrance-free/Hypoallergenic/pH balanced].\nWe recommend: Do a patch test first!\nApply a small amount behind your ear, wait 24 hours.\nIf no reaction, you're good to go!\nQuestions about sensitivity? We're here to help! 💙",
+      "variables": [
+        "Suitable/Not recommended",
+        "Fragrance-free/Hypoallergenic/pH balanced"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ65L2/55So5pa55rOV6K+05piO",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "使用方法说明",
+      "scene": "客户询问如何使用产品",
+      "template": "How to use this product: ✨\nStep 1: [First step, e.g., Cleanse face]\nStep 2: [Application method, e.g., Apply 2-3 drops]\nStep 3: [Follow-up, e.g., Pat gently until absorbed].\nBest time: [Morning/Evening/Both].\nUse with: [Complementary products].\nPro tip: [Usage tip for best results]! 🌟",
+      "variables": [
+        "First step, e.g., Cleanse face",
+        "Application method, e.g., Apply 2-3 drops",
+        "Follow-up, e.g., Pat gently until absorbed",
+        "Morning/Evening/Both",
+        "Complementary products",
+        "Usage tip for best results"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ65Lqn5ZOB5a+55q+U",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "产品对比",
+      "scene": "客户在多个产品间犹豫",
+      "template": "Comparing [Product A] vs [Product B]: 💄\n[Product A]: Best for [Skin type/Concern], focuses on [Key benefit].\n[Product B]: Best for [Skin type/Concern], focuses on [Key benefit].\nPrice difference: [Comparison].\nOur recommendation: Based on your [Concern], we suggest [Product].\nWant a personalized recommendation? Share your skincare goals! 🎯",
+      "variables": [
+        "Product A",
+        "Product B",
+        "Skin type/Concern",
+        "Key benefit",
+        "Comparison",
+        "Concern",
+        "Product"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ65rip5bqm5L+d5oqk6K+05piO",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "温度保护说明",
+      "scene": "说明产品运输中的温度保护",
+      "template": "Shipping care for your skincare: 📦\nWe use [Insulated packaging/Ice packs] for temperature-sensitive items.\nYour product will arrive in perfect condition!\nUpon arrival: Store in [Cool, dry place/Refrigerator if needed].\nExtreme weather? We may delay shipping to protect product quality.\nYour skincare deserves the best care! 💝",
+      "variables": [
+        "Insulated packaging/Ice packs",
+        "Cool, dry place/Refrigerator if needed"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ66LWg5ZOB6K+05piO",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "赠品说明",
+      "scene": "说明订单赠品",
+      "template": "Great news! Your order includes FREE gifts: 🎁\n✓ [Gift 1, e.g., Deluxe sample of [Product]]\n✓ [Gift 2, e.g., Skincare pouch]\n✓ [Gift 3, e.g., [Discount] off next purchase].\nGifts are while supplies last!\nWe've carefully selected items to complement your purchase! 💕",
+      "variables": [
+        "Gift 1, e.g., Deluxe sample of [Product",
+        "Gift 2, e.g., Skincare pouch",
+        "Gift 3, e.g., [Discount"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ65aWX6KOF6K+05piO",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "套装说明",
+      "scene": "推荐套装或组合购买",
+      "template": "This set includes: 🧴\n1) [Product 1] - [Benefit]\n2) [Product 2] - [Benefit]\n3) [Product 3] - [Benefit].\nSet value: [Original price] → [Set price] (Save [Amount]!)\nThese products work together for [Combined benefit].\nPerfect for starting a complete routine! ✨",
+      "variables": [
+        "Product 1",
+        "Benefit",
+        "Product 2",
+        "Product 3",
+        "Original price",
+        "Set price",
+        "Amount",
+        "Combined benefit"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ66aaW5qyh5L2/55So5bu66K6u",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "首次使用建议",
+      "scene": "新客户首次购买护肤品",
+      "template": "First time using this product? Here's our advice: 🌸\nWeek 1: Use every other day to let skin adjust.\nWeek 2+: Increase to daily use if no irritation.\nNormal reactions: [Slight tingling/Mild purging] may occur initially.\nStop if: Severe redness, burning, or swelling.\nWe're here to guide you through your skincare journey! 💙",
+      "variables": [
+        "Slight tingling/Mild purging"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ65Lya5ZGY5LyY5oOg",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "会员优惠",
+      "scene": "向会员推荐专属优惠",
+      "template": "As our valued customer, you qualify for: 💎\n✓ [Discount]% off this order\n✓ Double points on skincare\n✓ Early access to new launches\n✓ Free shipping on orders over [Amount].\nUse code: [CODE] at checkout!\nThank you for being part of our beauty community! 🌟",
+      "variables": [
+        "Discount",
+        "Amount",
+        "CODE"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ66L+H5pWP5Y+N5bqU5aSE55CG",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "过敏反应处理",
+      "scene": "客户反馈使用后出现过敏反应",
+      "template": "We're so sorry to hear about your reaction! 😔\nPlease immediately:\n1) Stop using the product\n2) Rinse affected area with cool water\n3) See a doctor if symptoms persist.\nSend us photos of the reaction and product batch number.\nWe'll provide: Full refund + [Compensation].\nYour safety is our top priority! 💙",
+      "variables": [
+        "Compensation"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ65pWI5p6c5ZKo6K+i",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "效果咨询",
+      "scene": "客户询问使用效果或效果不明显",
+      "template": "Results timeline for this product: ⏰\nWeek 1-2: Skin adjusts, may see [Initial changes].\nWeek 4-6: Noticeable [Expected results].\nWeek 8+: Full benefits visible.\nTips for better results:\n✓ Use consistently\n✓ Apply correct amount\n✓ Pair with [Complementary product].\nSkincare is a journey - we're here to support you! 🌸",
+      "variables": [
+        "Initial changes",
+        "Expected results",
+        "Complementary product"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ65Lqn5ZOB6Zeu6aKY",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "产品问题",
+      "scene": "客户收到有问题的产品（变质、漏液等）",
+      "template": "We apologize for the product issue! 😔\nPlease send photos of:\n1) The problem (texture/color/leak)\n2) Batch number on packaging\n3) Expiry date.\nWe'll immediately send: Replacement OR Full refund.\nNo need to return damaged product!\nPlus [Discount] for your next order. We're truly sorry! 💙",
+      "variables": [
+        "Discount"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ65aSN6LSt5byV5a+8",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "复购引导",
+      "scene": "客户产品即将用完或满意后复购",
+      "template": "Running low on your favorite? 💕\nReorder now and enjoy:\n✓ [Discount]% loyalty discount\n✓ Free [Sample/Gift] with purchase\n✓ Priority shipping.\nPro tip: [Product] pairs great with [New product] for enhanced results!\nThank you for trusting us with your skincare! 🌟",
+      "variables": [
+        "Discount",
+        "Sample/Gift",
+        "Product",
+        "New product"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ65L2/55So5oqA5ben5YiG5Lqr",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "使用技巧分享",
+      "scene": "分享产品使用技巧提升满意度",
+      "template": "Get the most from your [Product]: ✨\n💡 Tip 1: [Application technique]\n💡 Tip 2: [Best time to use]\n💡 Tip 3: [Storage advice]\n💡 Tip 4: [Layering order in routine].\nMany customers see better results with these tips!\nQuestions about your routine? We love helping! 💆‍♀️",
+      "variables": [
+        "Product",
+        "Application technique",
+        "Best time to use",
+        "Storage advice",
+        "Layering order in routine"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9kaWFwZXJzLm1kOuWUruWJjeivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "纸尿裤客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"敏感宝宝能用吗\"",
+      "template": "亲，这款[产品名称]很受宝妈欢迎！\n✨ 核心亮点：\n• 材质：[材质，如棉柔/丝柔/有机棉]\n• 吸收：[吸收特点，如瞬吸/大吸量/整夜干爽]\n• 特点：[产品特点，如超薄/透气/防漏]\n🌟 很多宝宝用了不红屁屁，需要我帮您推荐尺码吗？",
+      "variables": [
+        "产品名称",
+        "材质，如棉柔/丝柔/有机棉",
+        "吸收特点，如瞬吸/大吸量/整夜干爽",
+        "产品特点，如超薄/透气/防漏"
+      ],
+      "sourcePath": "industries/diapers.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "diapers"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9kaWFwZXJzLm1kOuWUruS4reivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "纸尿裤客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到啦！💕\n📋 确认：[产品][尺码]×[数量]，地址[地址]\n信息都对吗？确认无误尽快发货！",
+      "variables": [
+        "产品",
+        "尺码",
+        "数量",
+        "地址"
+      ],
+      "sourcePath": "industries/diapers.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "diapers"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9kaWFwZXJzLm1kOuWUruWQjuivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "纸尿裤客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购/好评",
+      "template": "亲，包裹签收啦～\n🍼 收到了吗？包装完好吗？\n宝宝用了有任何问题随时说！💕",
+      "variables": [],
+      "sourcePath": "industries/diapers.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "diapers"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9lbGVjdHJvbmljcy5tZDrkuqflk4Hlj4LmlbDlkqjor6I",
+      "pageTitle": "电子产品行业客服话术",
+      "sectionTitle": "产品参数咨询",
+      "scene": "客户询问产品规格、参数",
+      "template": "Thank you for your interest in [Product Name]! 📱\n\nKey specifications:\n• [Spec 1, e.g., Processor: Snapdragon 8 Gen 2]\n• [Spec 2, e.g., RAM: 8GB]\n• [Spec 3, e.g., Storage: 256GB]\n• [Spec 4, e.g., Battery: 5000mAh]\n• [Spec 5, e.g., Display: 6.7\" AMOLED]\n\nFull specs are in the product description. \nAny specific questions about the specs? I'm happy to help! 🔧",
+      "variables": [
+        "Product Name",
+        "Spec 1, e.g., Processor: Snapdragon 8 Gen 2",
+        "Spec 2, e.g., RAM: 8GB",
+        "Spec 3, e.g., Storage: 256GB",
+        "Spec 4, e.g., Battery: 5000mAh",
+        "Spec 5, e.g., Display: 6.7\" AMOLED"
+      ],
+      "sourcePath": "industries/electronics.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "electronics"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9lbGVjdHJvbmljcy5tZDrlhbzlrrnmgKfor7TmmI4",
+      "pageTitle": "电子产品行业客服话术",
+      "sectionTitle": "兼容性说明",
+      "scene": "客户询问产品是否兼容",
+      "template": "Great question about compatibility! 🔌\n\n[Product Name] is compatible with:\n✓ [Compatible device/system 1]\n✓ [Compatible device/system 2]\n✓ [Compatible device/system 3]\n\nNOT compatible with:\n✗ [Incompatible device/system]\n\nPlease check your device model before ordering. \nNeed help checking compatibility? Send me your device info! 💻",
+      "variables": [
+        "Product Name",
+        "Compatible device/system 1",
+        "Compatible device/system 2",
+        "Compatible device/system 3",
+        "Incompatible device/system"
+      ],
+      "sourcePath": "industries/electronics.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "electronics"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9lbGVjdHJvbmljcy5tZDrlip/og73ku4vnu40",
+      "pageTitle": "电子产品行业客服话术",
+      "sectionTitle": "功能介绍",
+      "scene": "客户询问产品功能、特点",
+      "template": "[Product Name] features: ⭐\n\nMain functions:\n• [Function 1] - [Brief description]\n• [Function 2] - [Brief description]\n• [Function 3] - [Brief description]\n\nHighlights:\n✓ [Highlight 1]\n✓ [Highlight 2]\n✓ [Highlight 3]\n\nPerfect for: [Use cases]\nWant to see it in action? Check our demo video! 🎬",
+      "variables": [
+        "Product Name",
+        "Function 1",
+        "Brief description",
+        "Function 2",
+        "Function 3",
+        "Highlight 1",
+        "Highlight 2",
+        "Highlight 3",
+        "Use cases"
+      ],
+      "sourcePath": "industries/electronics.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "electronics"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9lbGVjdHJvbmljcy5tZDrniYjmnKzlr7nmr5Q",
+      "pageTitle": "电子产品行业客服话术",
+      "sectionTitle": "版本对比",
+      "scene": "客户询问不同版本/型号的区别",
+      "template": "Comparing [Model A] vs [Model B]: 📊\n\n[Model A] ($[Price]):\n• [Key spec 1]\n• [Key spec 2]\n• Best for: [Use case]\n\n[Model B] ($[Price]):\n• [Key spec 1]\n• [Key spec 2]\n• Best for: [Use case]\n\nMy recommendation: [Recommendation based on common needs]\nWhich features matter most to you? 🤔",
+      "variables": [
+        "Model A",
+        "Model B",
+        "Price",
+        "Key spec 1",
+        "Key spec 2",
+        "Use case",
+        "Recommendation based on common needs"
+      ],
+      "sourcePath": "industries/electronics.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "electronics"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9lbGVjdHJvbmljcy5tZDrphY3ku7bor7TmmI4",
+      "pageTitle": "电子产品行业客服话术",
+      "sectionTitle": "配件说明",
+      "scene": "客户询问包装内容、需要哪些配件",
+      "template": "What's in the box: 📦\n• [Product Name]\n• [Accessory 1, e.g., USB-C cable]\n• [Accessory 2, e.g., User manual]\n• [Accessory 3, e.g., Warranty card]\n\nNOT included (sold separately):\n• [Item 1, e.g., Charger]\n• [Item 2, e.g., Case]\n\nRecommended accessories: [Links]\nNeed the complete setup? Check our bundle deals! 🎁",
+      "variables": [
+        "Product Name",
+        "Accessory 1, e.g., USB-C cable",
+        "Accessory 2, e.g., User manual",
+        "Accessory 3, e.g., Warranty card",
+        "Item 1, e.g., Charger",
+        "Item 2, e.g., Case",
+        "Links"
+      ],
+      "sourcePath": "industries/electronics.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "electronics"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9lbGVjdHJvbmljcy5tZDrorqLljZXnoa7orqQ",
+      "pageTitle": "电子产品行业客服话术",
+      "sectionTitle": "订单确认",
+      "scene": "确认客户订单信息",
+      "template": "Order confirmed! 🎉\n\nYour order:\n• Product: [Product Name]\n• Model: [Model/Version]\n• Color: [Color]\n• Quantity: [Quantity]\n\nPlease verify this is correct. \nIf you need to make changes, let us know before shipping!\nEstimated delivery: [Date] 📦",
+      "variables": [
+        "Product Name",
+        "Model/Version",
+        "Color",
+        "Quantity",
+        "Date"
+      ],
+      "sourcePath": "industries/electronics.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "electronics"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9lbGVjdHJvbmljcy5tZDrlj5HotKfpgJrnn6U",
+      "pageTitle": "电子产品行业客服话术",
+      "sectionTitle": "发货通知",
+      "scene": "通知客户订单已发货",
+      "template": "Great news! Your order has shipped! 🚚\n\nTracking info:\n• Carrier: [Carrier name]\n• Tracking #: [Tracking number]\n• Estimated arrival: [Date]\n\nTrack your package: [Tracking link]\n\nUpon arrival, please:\n1) Check the package for damage\n2) Test the product immediately\n3) Contact us if any issues\n\nEnjoy your new [Product Name]! 📱",
+      "variables": [
+        "Carrier name",
+        "Tracking number",
+        "Date",
+        "Tracking link",
+        "Product Name"
+      ],
+      "sourcePath": "industries/electronics.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "electronics"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9lbGVjdHJvbmljcy5tZDrkvb/nlKjliY3lh4blpIc",
+      "pageTitle": "电子产品行业客服话术",
+      "sectionTitle": "使用前准备",
+      "scene": "提醒客户收货后的注意事项",
+      "template": "Before using your [Product Name]: ⚡\n\nSetup steps:\n1) [Step 1, e.g., Fully charge before first use]\n2) [Step 2, e.g., Download the companion app]\n3) [Step 3, e.g., Register for warranty]\n\nImportant:\n• [Tip 1]\n• [Tip 2]\n\nQuick start guide: [Link]\nNeed help setting up? We're here! 🛠️",
+      "variables": [
+        "Product Name",
+        "Step 1, e.g., Fully charge before first use",
+        "Step 2, e.g., Download the companion app",
+        "Step 3, e.g., Register for warranty",
+        "Tip 1",
+        "Tip 2",
+        "Link"
+      ],
+      "sourcePath": "industries/electronics.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "electronics"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9lbGVjdHJvbmljcy5tZDrmv4DmtLsv5rOo5YaM6K+05piO",
+      "pageTitle": "电子产品行业客服话术",
+      "sectionTitle": "激活/注册说明",
+      "scene": "指导客户激活产品或注册保修",
+      "template": "To activate your [Product Name]: 🔐\n\nSteps:\n1) Visit [Website/App]\n2) Create an account or sign in\n3) Enter serial number: [Location of serial number]\n4) Complete registration\n\nBenefits of registration:\n✓ [Warranty activation]\n✓ [Software updates]\n✓ [Customer support access]\n\nNeed help? Send me your serial number and I'll guide you! 📝",
+      "variables": [
+        "Product Name",
+        "Website/App",
+        "Location of serial number",
+        "Warranty activation",
+        "Software updates",
+        "Customer support access"
+      ],
+      "sourcePath": "industries/electronics.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "electronics"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9lbGVjdHJvbmljcy5tZDrlm7rku7Yv6L2v5Lu25pu05paw",
+      "pageTitle": "电子产品行业客服话术",
+      "sectionTitle": "固件/软件更新",
+      "scene": "提醒客户更新固件或软件",
+      "template": "Software update available! 📲\n\nCurrent version: [Version]\nLatest version: [Version]\n\nNew features:\n• [Feature 1]\n• [Feature 2]\n• Bug fixes and improvements\n\nHow to update:\n1) [Step 1]\n2) [Step 2]\n3) [Step 3]\n\nImportant: Backup your data before updating!\nQuestions about the update? Ask away! 💻",
+      "variables": [
+        "Version",
+        "Feature 1",
+        "Feature 2",
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ],
+      "sourcePath": "industries/electronics.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "electronics"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9lbGVjdHJvbmljcy5tZDrmlYXpmpzmjpLmn6U",
+      "pageTitle": "电子产品行业客服话术",
+      "sectionTitle": "故障排查",
+      "scene": "客户反映产品有问题",
+      "template": "Sorry to hear you're having issues! 😔 Let's troubleshoot:\n\nPlease try these steps:\n1) [Step 1, e.g., Restart the device]\n2) [Step 2, e.g., Check connections]\n3) [Step 3, e.g., Reset to factory settings]\n\nIf the issue persists, please provide:\n• Device model\n• Serial number\n• Description of the problem\n• Photos/videos if possible\n\nWe'll find a solution! 🔧",
+      "variables": [
+        "Step 1, e.g., Restart the device",
+        "Step 2, e.g., Check connections",
+        "Step 3, e.g., Reset to factory settings"
+      ],
+      "sourcePath": "industries/electronics.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "electronics"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9lbGVjdHJvbmljcy5tZDrkv53kv67or7TmmI4",
+      "pageTitle": "电子产品行业客服话术",
+      "sectionTitle": "保修说明",
+      "scene": "客户询问保修政策",
+      "template": "Warranty information: 🛡️\n\nCoverage:\n• Warranty period: [Duration, e.g., 1 year]\n• What's covered: [Manufacturing defects, hardware failures]\n• What's NOT covered: [Physical damage, water damage, unauthorized repairs]\n\nTo claim warranty:\n1) Contact us with proof of purchase\n2) Describe the issue\n3) We'll provide RMA instructions\n\nYour warranty status: [Active/Expired]\nQuestions? I'm here to help! 📋",
+      "variables": [
+        "Duration, e.g., 1 year",
+        "Manufacturing defects, hardware failures",
+        "Physical damage, water damage, unauthorized repairs",
+        "Active/Expired"
+      ],
+      "sourcePath": "industries/electronics.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "electronics"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9lbGVjdHJvbmljcy5tZDrpgIDmjaLotKflpITnkIY",
+      "pageTitle": "电子产品行业客服话术",
+      "sectionTitle": "退换货处理",
+      "scene": "客户要求退换货",
+      "template": "We're sorry the product didn't meet your expectations! 😔\n\nReturn/Exchange policy:\n• Return window: [Days] days\n• Condition: Original packaging, unused/like-new\n• Refund method: [Original payment method]\n\nProcess:\n1) Request return in your order\n2) We'll send a prepaid shipping label\n3) Ship the item back\n4) Refund processed within [Days] days\n\nNeed an exchange instead? Let us know! 📦",
+      "variables": [
+        "Days",
+        "Original payment method"
+      ],
+      "sourcePath": "industries/electronics.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "electronics"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9lbGVjdHJvbmljcy5tZDrnu7Tkv67mnI3liqE",
+      "pageTitle": "电子产品行业客服话术",
+      "sectionTitle": "维修服务",
+      "scene": "产品需要维修",
+      "template": "We can help with repairs! 🔧\n\nRepair options:\n• In-warranty: Free repair/replacement\n• Out-of-warranty: Repair fee $[Price]\n\nProcess:\n1) Contact us with issue description\n2) We'll provide RMA number\n3) Ship to our service center\n4) Repair time: [Days] days\n5) Return shipping included\n\nEstimated repair cost: $[Price]\nWant to proceed? 🛠️",
+      "variables": [
+        "Price",
+        "Days"
+      ],
+      "sourcePath": "industries/electronics.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "electronics"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9lbGVjdHJvbmljcy5tZDrmioDmnK/mlK/mjIE",
+      "pageTitle": "电子产品行业客服话术",
+      "sectionTitle": "技术支持",
+      "scene": "客户需要技术帮助",
+      "template": "Happy to provide technical support! 💻\n\nFor faster assistance, please provide:\n• Product model\n• Serial number\n• Operating system (if applicable)\n• Detailed description of the issue\n• Screenshots/videos if possible\n\nSupport resources:\n• User manual: [Link]\n• FAQ: [Link]\n• Video tutorials: [Link]\n\nLet's solve this together! 🤝",
+      "variables": [
+        "Link"
+      ],
+      "sourcePath": "industries/electronics.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "electronics"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOuWwuueggeWSqOivog",
+      "pageTitle": "服装行业客服话术",
+      "sectionTitle": "尺码咨询",
+      "scene": "客户询问尺码、不确定选哪个尺码",
+      "template": "Hi! For sizing, please check our size chart in the product images. 📏 \nMeasurements: Bust: [Size] | Waist: [Size] | Hip: [Size] | Length: [Size]. \nThis item runs [true to size/small/large]. \nIf you're between sizes, we recommend sizing [up/down]. \nNeed help? Send us your measurements (height, weight, bust, waist, hip) and we'll recommend the perfect size! 👗",
+      "variables": [
+        "Size",
+        "true to size/small/large",
+        "up/down"
+      ],
+      "sourcePath": "industries/fashion.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fashion"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOuadkOi0qOivtOaYjg",
+      "pageTitle": "服装行业客服话术",
+      "sectionTitle": "材质说明",
+      "scene": "客户询问材质成分、是否起球、透气性等",
+      "template": "Material: [Material composition, e.g., 95% Cotton, 5% Spandex]. \nFeatures: \n✓ [Feature 1, e.g., Breathable] \n✓ [Feature 2, e.g., Stretchy] \n✓ [Feature 3, e.g., Machine washable]. \nCare instructions: [Washing instructions]. \nThis fabric is perfect for [Season/Occasion]. \nFeel: [Soft/Smooth/Textured]. \nQuestions about the material? Ask away! 🧵",
+      "variables": [
+        "Material composition, e.g., 95% Cotton, 5% Spandex",
+        "Feature 1, e.g., Breathable",
+        "Feature 2, e.g., Stretchy",
+        "Feature 3, e.g., Machine washable",
+        "Washing instructions",
+        "Season/Occasion",
+        "Soft/Smooth/Textured"
+      ],
+      "sourcePath": "industries/fashion.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fashion"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOuminOiJsuivtOaYjg",
+      "pageTitle": "服装行业客服话术",
+      "sectionTitle": "颜色说明",
+      "scene": "客户询问颜色、色差问题",
+      "template": "Available colors: [Color 1], [Color 2], [Color 3]. 🎨 \nPlease note: Colors may vary slightly due to screen settings. We've photographed the actual product! \nCurrent stock: [Color]: [Quantity] units. \nPopular choice: [Best-selling color]. \nNeed color advice? Tell us your skin tone/style and we'll recommend! 💕",
+      "variables": [
+        "Color 1",
+        "Color 2",
+        "Color 3",
+        "Color",
+        "Quantity",
+        "Best-selling color"
+      ],
+      "sourcePath": "industries/fashion.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fashion"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOuaQremFjeW7uuiurg",
+      "pageTitle": "服装行业客服话术",
+      "sectionTitle": "搭配建议",
+      "scene": "客户询问如何搭配",
+      "template": "Styling tips for this piece: 👗 \nCasual look: Pair with [Item 1] + [Item 2]. \nDressy look: Style with [Item 3] + [Item 4]. \nPerfect for: [Occasions]. \nTrending style: [Current trend]. \nCheck our store for matching accessories! \nNeed personalized styling advice? Share your style preferences! 💃",
+      "variables": [
+        "Item 1",
+        "Item 2",
+        "Item 3",
+        "Item 4",
+        "Occasions",
+        "Current trend"
+      ],
+      "sourcePath": "industries/fashion.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fashion"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOueJiOWei+ivtOaYjg",
+      "pageTitle": "服装行业客服话术",
+      "sectionTitle": "版型说明",
+      "scene": "客户询问版型、是否修身",
+      "template": "Fit: [Slim fit/Regular fit/Loose fit/Oversized]. \nStyle: [Style description]. \nBest for body type: [Body type recommendations]. \nModel info: Height [Height], wearing size [Size]. \nThis design is [Flattering feature]. \nWant to see how it looks? Check our customer photos in reviews! \nQuestions about fit? Ask us! 👕",
+      "variables": [
+        "Slim fit/Regular fit/Loose fit/Oversized",
+        "Style description",
+        "Body type recommendations",
+        "Height",
+        "Size",
+        "Flattering feature"
+      ],
+      "sourcePath": "industries/fashion.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fashion"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOuWwuueggeehruiupA",
+      "pageTitle": "服装行业客服话术",
+      "sectionTitle": "尺码确认",
+      "scene": "发货前确认客户选择的尺码",
+      "template": "Order confirmed! 🎉 \nJust double-checking: You ordered size [Size] in [Color]. \nBased on our size chart, this should fit: [Measurements]. \nIf you need to change the size before shipping, let us know ASAP! \nWe want to make sure you get the perfect fit! 📦",
+      "variables": [
+        "Size",
+        "Color",
+        "Measurements"
+      ],
+      "sourcePath": "industries/fashion.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fashion"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOuminOiJsuehruiupA",
+      "pageTitle": "服装行业客服话术",
+      "sectionTitle": "颜色确认",
+      "scene": "发货前确认客户选择的颜色",
+      "template": "Your order: [Product Name] in [Color], Size [Size]. 🎨 \nPlease note: The actual color may vary slightly from the photo due to lighting/screen settings. \nWe've included the most accurate product photos. \nIf the color doesn't match your expectations upon arrival, we offer easy returns! 💝",
+      "variables": [
+        "Product Name",
+        "Color",
+        "Size"
+      ],
+      "sourcePath": "industries/fashion.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fashion"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOuWMheijheivtOaYjg",
+      "pageTitle": "服装行业客服话术",
+      "sectionTitle": "包装说明",
+      "scene": "说明包装方式、可能的褶皱问题",
+      "template": "Packaging info: Your item will arrive folded/rolled to minimize shipping costs and environmental impact. 📦 \nSome wrinkles are normal! Simply: \n1) Hang it up for 24 hours OR \n2) Steam/iron on low heat. \nIt'll look perfect! We've packed it with care! 🌟",
+      "variables": [],
+      "sourcePath": "industries/fashion.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fashion"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOumihOWUruivtOaYjg",
+      "pageTitle": "服装行业客服话术",
+      "sectionTitle": "预售说明",
+      "scene": "预售商品的发货时间说明",
+      "template": "This item is on pre-order! 🎉 \nExpected ship date: [Date]. \nWhy pre-order? [Reason: New arrival/Limited edition/High demand]. \nYou'll receive: \n✓ Guaranteed stock \n✓ [Discount/Bonus] \n✓ Priority shipping. \nWe'll notify you when it ships! Thank you for your patience! 💕",
+      "variables": [
+        "Date",
+        "Reason: New arrival/Limited edition/High demand",
+        "Discount/Bonus"
+      ],
+      "sourcePath": "industries/fashion.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fashion"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOuWumuWItuivtOaYjg",
+      "pageTitle": "服装行业客服话术",
+      "sectionTitle": "定制说明",
+      "scene": "定制商品的确认和说明",
+      "template": "Custom order confirmed! ✂️ \nYour specifications: \nSize: [Custom size] | Color: [Color] | Special requests: [Requests]. \nProduction time: [Time] days. \nWe'll send progress photos! \nCustom items are non-returnable unless defective. \nQuestions during production? Contact us anytime! 🎨",
+      "variables": [
+        "Custom size",
+        "Color",
+        "Requests",
+        "Time"
+      ],
+      "sourcePath": "industries/fashion.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fashion"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOuWwuueggeS4jeWQiOmAgg",
+      "pageTitle": "服装行业客服话术",
+      "sectionTitle": "尺码不合适",
+      "scene": "客户收货后发现尺码不合适",
+      "template": "Size doesn't fit? No worries! 👗 \nWe offer FREE size exchanges! \nProcess: \n1) Request exchange in your order \n2) We'll send the new size \n3) Return the original (free label provided). \nOr get a full refund! \nPlease keep tags attached. We want you to love it! 💝",
+      "variables": [],
+      "sourcePath": "industries/fashion.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fashion"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOuminOiJsuW3ruW8gg",
+      "pageTitle": "服装行业客服话术",
+      "sectionTitle": "颜色差异",
+      "scene": "客户反映颜色与图片不符",
+      "template": "Color not as expected? We understand! 🎨 \nLighting and screens can affect color perception. \nIf you're not satisfied: \n1) Send us a photo \n2) We'll offer: Full refund OR Exchange for different color. \nReturn shipping on us! \nYour satisfaction is our priority! 💙",
+      "variables": [],
+      "sourcePath": "industries/fashion.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fashion"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOui0qOmHj+mXrumimA",
+      "pageTitle": "服装行业客服话术",
+      "sectionTitle": "质量问题",
+      "scene": "客户收到有质量问题的商品",
+      "template": "We're very sorry about the quality issue! 😔 \nPlease send photos of: \n1) The defect \n2) Product tag. \nWe'll immediately: Send replacement OR Full refund + keep the item. \nNo return needed for defective items! \nPlus [Discount] for your next order. We apologize! 💙",
+      "variables": [
+        "Discount"
+      ],
+      "sourcePath": "industries/fashion.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fashion"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOua0l+aKpOW7uuiurg",
+      "pageTitle": "服装行业客服话术",
+      "sectionTitle": "洗护建议",
+      "scene": "客户询问如何洗涤保养",
+      "template": "Care instructions for your garment: 🧺 \nWashing: [Instructions, e.g., Machine wash cold, gentle cycle]. \nDrying: [Instructions, e.g., Hang dry or tumble dry low]. \nIroning: [Instructions, e.g., Low heat if needed]. \nStorage: [Tips]. \nFollowing these will keep your item looking great! Questions? Ask us! ✨",
+      "variables": [
+        "Instructions, e.g., Machine wash cold, gentle cycle",
+        "Instructions, e.g., Hang dry or tumble dry low",
+        "Instructions, e.g., Low heat if needed",
+        "Tips"
+      ],
+      "sourcePath": "industries/fashion.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fashion"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOuWkjei0reaOqOiNkA",
+      "pageTitle": "服装行业客服话术",
+      "sectionTitle": "复购推荐",
+      "scene": "客户满意后推荐相关产品",
+      "template": "Love your purchase and want styling tips? 💕 \nThis piece pairs beautifully with: [Suggestions]. \nCheck our store for: \n✓ Matching accessories \n✓ Complementary items \n✓ Complete the look sets. \nShare your styled photos and tag us - we might feature you! \nNeed personal styling advice? DM us! 👗",
+      "variables": [
+        "Suggestions"
+      ],
+      "sourcePath": "industries/fashion.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fashion"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mcmVzaC1mb29kLm1kOuWUruWJjeivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "生鲜客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户询问\"会不会有坏的/品相怎么样\"",
+      "template": "亲您好！我们的[产品名称]都是[当天采摘/现捕现发/产地直供]，从[产地]直达您手中。我们承诺：\n✓ 采摘/捕捞后[X]小时内发货\n✓ 全程冷链运输，保持[温度范围]\n✓ 收到不新鲜可直接退款\n您可以放心购买，我们对品质有信心！",
+      "variables": [
+        "产品名称",
+        "当天采摘/现捕现发/产地直供",
+        "产地",
+        "X",
+        "温度范围"
+      ],
+      "sourcePath": "industries/fresh-food.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fresh-food"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mcmVzaC1mb29kLm1kOuWUruS4reivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "生鲜客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒客户签收时的注意事项",
+      "template": "亲，您的订单已确认：\n📋 商品：[产品名称] [规格] [数量]\n📍 地址：[收货地址]\n📞 电话：[联系方式]\n\n⚠️ 温馨提示：\n• 预计[X月X日]发货\n• [冷链配送]，请保持电话畅通\n• 收货时请当面验货\n\n如需修改订单，请尽快联系我们。感谢您的信任！",
+      "variables": [
+        "产品名称",
+        "规格",
+        "数量",
+        "收货地址",
+        "联系方式",
+        "X月X日",
+        "冷链配送"
+      ],
+      "sourcePath": "industries/fresh-food.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fresh-food"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mcmVzaC1mb29kLm1kOuWUruWQjuivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "生鲜客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导满意客户复购或好评",
+      "template": "亲，您好！看到您已签收[产品名称]，想确认一下：\n\n✅ 商品是否完好？\n✅ 新鲜度是否满意？\n✅ 数量重量是否准确？\n\n如果一切满意，请您放心食用。如有任何问题，请随时联系我们，我们会立即处理。\n\n💡 温馨提示：收到后请尽快[冷藏/冷冻]，[X]天内食用口感最佳哦！",
+      "variables": [
+        "产品名称",
+        "冷藏/冷冻",
+        "X"
+      ],
+      "sourcePath": "industries/fresh-food.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fresh-food"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9ob21lLm1kOuWwuuWvuOinhOagvOehruiupA",
+      "pageTitle": "家居用品行业客服话术",
+      "sectionTitle": "尺寸规格确认",
+      "scene": "客户询问产品尺寸、是否适合空间",
+      "template": "Hi! Here are the exact dimensions: 📐\nLength: [Size] | Width: [Size] | Height: [Size]\nWeight: [Weight]\nSpace needed: Allow [Extra space] around for [Doors/Drawers/Movement].\nMeasuring tip: Measure your space AND doorways for delivery!\nSend us your room dimensions and we'll confirm if it fits! 🏠",
+      "variables": [
+        "Size",
+        "Weight",
+        "Extra space",
+        "Doors/Drawers/Movement"
+      ],
+      "sourcePath": "industries/home.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "home"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9ob21lLm1kOuadkOi0qOivtOaYjg",
+      "pageTitle": "家居用品行业客服话术",
+      "sectionTitle": "材质说明",
+      "scene": "客户询问材质、耐用性、环保性",
+      "template": "Material details for this item: 🪵\nMain material: [Material, e.g., Solid oak/MDF/Metal frame]\nFinish: [Finish type, e.g., Water-resistant lacquer]\nCertifications: [E0 grade/FSC certified/Low VOC]\nDurability: Designed for [Years] of daily use.\nEasy to clean with [Cleaning method].\nQuestions about materials? Ask away! ✨",
+      "variables": [
+        "Material, e.g., Solid oak/MDF/Metal frame",
+        "Finish type, e.g., Water-resistant lacquer",
+        "E0 grade/FSC certified/Low VOC",
+        "Years",
+        "Cleaning method"
+      ],
+      "sourcePath": "industries/home.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "home"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9ob21lLm1kOue7hOijhemavuW6puivtOaYjg",
+      "pageTitle": "家居用品行业客服话术",
+      "sectionTitle": "组装难度说明",
+      "scene": "客户询问是否需要组装、组装难度",
+      "template": "Assembly info: 🔧\nAssembly required: [Yes/No/Partial]\nDifficulty: [Easy/Medium/Advanced] - [Time estimate]\nTools needed: [Tools, e.g., Phillips screwdriver included]\nInstructions: Step-by-step guide + video tutorial included.\nNeed help? We offer [Assembly service] for [Price].\nMost customers complete assembly in [Time]! 💪",
+      "variables": [
+        "Yes/No/Partial",
+        "Easy/Medium/Advanced",
+        "Time estimate",
+        "Tools, e.g., Phillips screwdriver included",
+        "Assembly service",
+        "Price",
+        "Time"
+      ],
+      "sourcePath": "industries/home.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "home"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9ob21lLm1kOumFjemAgeaWueW8j+ivtOaYjg",
+      "pageTitle": "家居用品行业客服话术",
+      "sectionTitle": "配送方式说明",
+      "scene": "客户询问大件家具配送方式",
+      "template": "Delivery options for this item: 🚚\nStandard: Curbside delivery in [Days] days - [Price/Free]\nRoom of choice: Delivered to your room - [Price]\nWhite glove: Delivery + Assembly + Packaging removal - [Price]\nLarge items ship via freight carrier.\nYou'll receive tracking + delivery appointment.\nWhich option works best for you? 📦",
+      "variables": [
+        "Days",
+        "Price/Free",
+        "Price"
+      ],
+      "sourcePath": "industries/home.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "home"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9ob21lLm1kOuminOiJsi/mrL7lvI/noa7orqQ",
+      "pageTitle": "家居用品行业客服话术",
+      "sectionTitle": "颜色/款式确认",
+      "scene": "客户询问颜色选择、实物色差",
+      "template": "Available options: 🎨\nColors: [Color 1], [Color 2], [Color 3]\nPlease note: Wood grain patterns are unique - each piece is one-of-a-kind!\nColor accuracy: Photos show actual product, slight variation due to screens.\nCan't decide? [Color] is our bestseller and matches most decor!\nNeed swatches? We can send free samples! 💕",
+      "variables": [
+        "Color 1",
+        "Color 2",
+        "Color 3",
+        "Color"
+      ],
+      "sourcePath": "industries/home.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "home"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9ob21lLm1kOuiuouWNleehruiupA",
+      "pageTitle": "家居用品行业客服话术",
+      "sectionTitle": "订单确认",
+      "scene": "确认订单详情和配送信息",
+      "template": "Order confirmed! 🎉\nItem: [Product name]\nSpecs: [Size/Color/Options]\nDelivery: [Method] to [Address]\nEstimated arrival: [Date range]\nPlease ensure someone is available to receive.\nQuestions before shipping? Contact us now! 📦",
+      "variables": [
+        "Product name",
+        "Size/Color/Options",
+        "Method",
+        "Address",
+        "Date range"
+      ],
+      "sourcePath": "industries/home.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "home"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9ob21lLm1kOuWMheijheivtOaYjg",
+      "pageTitle": "家居用品行业客服话术",
+      "sectionTitle": "包装说明",
+      "scene": "说明大件家具包装方式",
+      "template": "Packaging info for your order: 📦\nPackages: This item ships in [Number] box(es)\nBox dimensions: [Dimensions] | Weight: [Weight]\nProtection: [Foam corners/Cardboard reinforcement/Shrink wrap]\nUpon arrival: Check all boxes for damage before signing!\nKeep packaging until assembly is complete. 🏠",
+      "variables": [
+        "Number",
+        "Dimensions",
+        "Weight",
+        "Foam corners/Cardboard reinforcement/Shrink wrap"
+      ],
+      "sourcePath": "industries/home.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "home"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9ob21lLm1kOue7hOijheacjeWKoeaOqOiNkA",
+      "pageTitle": "家居用品行业客服话术",
+      "sectionTitle": "组装服务推荐",
+      "scene": "向客户推荐组装服务",
+      "template": "Want hassle-free setup? 🔧\nAdd professional assembly for just [Price]!\nIncludes:\n✓ Expert assembly by certified technicians\n✓ All packaging removed\n✓ [Warranty] on assembly work\nBook within [Time] of delivery.\nMany customers love this stress-free option! 💪",
+      "variables": [
+        "Price",
+        "Warranty",
+        "Time"
+      ],
+      "sourcePath": "industries/home.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "home"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9ob21lLm1kOumFjeS7tuehruiupA",
+      "pageTitle": "家居用品行业客服话术",
+      "sectionTitle": "配件确认",
+      "scene": "确认配件齐全或补发配件",
+      "template": "Your order includes all hardware: 🔩\n✓ [List of screws, bolts, etc.]\n✓ [Tools if included]\n✓ Assembly instructions\n✓ [Extra parts for future use]\nMissing anything? Send us a photo of what you have.\nWe'll ship missing parts within 24 hours - FREE! 📦",
+      "variables": [
+        "List of screws, bolts, etc.",
+        "Tools if included",
+        "Extra parts for future use"
+      ],
+      "sourcePath": "industries/home.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "home"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9ob21lLm1kOuWumuWItuiuouWNleivtOaYjg",
+      "pageTitle": "家居用品行业客服话术",
+      "sectionTitle": "定制订单说明",
+      "scene": "定制家具的确认和说明",
+      "template": "Custom order confirmed! ✂️\nYour specifications:\nSize: [Custom dimensions]\nMaterial: [Selected material]\nColor/Finish: [Selected finish]\nSpecial requests: [Notes]\nProduction time: [Weeks] weeks\nCustom items are made-to-order and non-returnable unless defective.\nWe'll send progress updates! 🏠",
+      "variables": [
+        "Custom dimensions",
+        "Selected material",
+        "Selected finish",
+        "Notes",
+        "Weeks"
+      ],
+      "sourcePath": "industries/home.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "home"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9ob21lLm1kOuaNn+Wdj+WkhOeQhg",
+      "pageTitle": "家居用品行业客服话术",
+      "sectionTitle": "损坏处理",
+      "scene": "客户收货后发现损坏",
+      "template": "So sorry about the damage! 😔\nPlease send photos of:\n1) Damaged area (close-up)\n2) Outer packaging condition\n3) Shipping label\nWe'll arrange:\n✓ Replacement part shipped FREE, OR\n✓ Full replacement item, OR\n✓ Partial refund if you'd like to keep it.\nResponse within 24 hours! 💙",
+      "variables": [],
+      "sourcePath": "industries/home.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "home"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9ob21lLm1kOue7hOijhemXrumimA",
+      "pageTitle": "家居用品行业客服话术",
+      "sectionTitle": "组装问题",
+      "scene": "客户组装遇到困难",
+      "template": "Assembly trouble? We're here to help! 🔧\nCommon solutions:\n1) Check video tutorial: [Link]\n2) Verify all parts against checklist\n3) [Specific tip for common issue]\nStill stuck? Send us:\n✓ Photo of where you're at\n✓ Which step is confusing\nWe'll guide you through or arrange assembly service! 💪",
+      "variables": [
+        "Link",
+        "Specific tip for common issue"
+      ],
+      "sourcePath": "industries/home.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "home"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9ob21lLm1kOumAgOi0p+aUv+etluivtOaYjg",
+      "pageTitle": "家居用品行业客服话术",
+      "sectionTitle": "退货政策说明",
+      "scene": "客户询问退货或要求退货",
+      "template": "Our return policy: 📋\nTimeframe: [Days] days from delivery\nCondition: Unassembled, original packaging\nProcess:\n1) Request return in your order\n2) We arrange pickup (large items)\n3) Refund upon inspection\nRestocking fee: [Percentage] for assembled items\nQuestions? We're happy to help! 💙",
+      "variables": [
+        "Days",
+        "Percentage"
+      ],
+      "sourcePath": "industries/home.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "home"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9ob21lLm1kOuS/neWFu+aMh+WvvA",
+      "pageTitle": "家居用品行业客服话术",
+      "sectionTitle": "保养指导",
+      "scene": "分享家具保养技巧",
+      "template": "Care tips for your [Product]: ✨\nDaily: [Dust with soft cloth]\nWeekly: [Specific cleaning method]\nAvoid: [Direct sunlight/Heat sources/Harsh chemicals]\nFor scratches: [Touch-up solution]\nFor stains: [Cleaning method]\nProper care extends life by years! 🏠",
+      "variables": [
+        "Product",
+        "Dust with soft cloth",
+        "Specific cleaning method",
+        "Direct sunlight/Heat sources/Harsh chemicals",
+        "Touch-up solution",
+        "Cleaning method"
+      ],
+      "sourcePath": "industries/home.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "home"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9ob21lLm1kOumFjeS7tuihpeWFhQ",
+      "pageTitle": "家居用品行业客服话术",
+      "sectionTitle": "配件补充",
+      "scene": "客户需要额外配件或更换配件",
+      "template": "Need extra parts? 🔩\nWe can send:\n✓ Replacement hardware - FREE\n✓ Extra shelf/drawer - [Price]\n✓ Touch-up kit - [Price]\nJust tell us:\n1) Your order number\n2) Which part you need\n3) Quantity\nParts ship within 24-48 hours! 📦",
+      "variables": [
+        "Price"
+      ],
+      "sourcePath": "industries/home.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "home"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9raWRzLWNsb3RoaW5nLm1kOuWUruWJjeivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "童装客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"哪个颜色好\"",
+      "template": "亲，这款童装很受欢迎～\n✨ 亮点：\n• 面料：[A类/纯棉]，亲肤透气，宝宝穿着舒服\n• 设计：[设计特点]，活泼可爱\n• 做工：无骨缝制，不磨皮肤\n宝宝多大了？我帮您推荐尺码～",
+      "variables": [
+        "A类/纯棉",
+        "设计特点"
+      ],
+      "sourcePath": "industries/kids-clothing.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "kids-clothing"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9raWRzLWNsb3RoaW5nLm1kOuWUruS4reivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "童装客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到！💕\n📋 [商品][尺码][颜色]，地址[地址]\n确认无误尽快发货，宝宝早点穿上新衣服～",
+      "variables": [
+        "商品",
+        "尺码",
+        "颜色",
+        "地址"
+      ],
+      "sourcePath": "industries/kids-clothing.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "kids-clothing"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9raWRzLWNsb3RoaW5nLm1kOuWUruWQjuivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "童装客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购",
+      "template": "亲，包裹签收了～\n宝宝穿着合适吗？有问题随时说！\n满意帮忙好评，感谢支持～💕",
+      "variables": [],
+      "sourcePath": "industries/kids-clothing.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "kids-clothing"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9raWRzLXNob2VzLm1kOuWUruWJjeivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "童鞋客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"哪个颜色好\"",
+      "template": "亲，这款童鞋很受欢迎～\n✨ 亮点：\n• 材质：[透气/柔软]，宝宝穿着舒服\n• 鞋底：[防滑/软底]，保护小脚\n• 设计：[魔术贴/一脚蹬]，穿脱方便\n宝宝多大了？我帮您推荐尺码～",
+      "variables": [
+        "透气/柔软",
+        "防滑/软底",
+        "魔术贴/一脚蹬"
+      ],
+      "sourcePath": "industries/kids-shoes.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "kids-shoes"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9raWRzLXNob2VzLm1kOuWUruS4reivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "童鞋客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到！\n📋 [商品][尺码][颜色]\n确认无误尽快发货，宝宝早点穿上新鞋～",
+      "variables": [
+        "商品",
+        "尺码",
+        "颜色"
+      ],
+      "sourcePath": "industries/kids-shoes.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "kids-shoes"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9raWRzLXNob2VzLm1kOuWUruWQjuivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "童鞋客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购",
+      "template": "亲，包裹签收了～\n宝宝穿着合适吗？满意帮忙好评！💕",
+      "variables": [],
+      "sourcePath": "industries/kids-shoes.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "kids-shoes"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9sZWF0aGVyLm1kOuWUruWJjeivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "皮具客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"哪个颜色好\"",
+      "template": "亲，这款[皮带/钱包/皮夹]很受欢迎～\n✨ 亮点：\n• 材质：[头层牛皮/二层皮]，质感好\n• 做工：[手工/精细车线]\n• 设计：[设计特点]\n真皮越用越有光泽～",
+      "variables": [
+        "皮带/钱包/皮夹",
+        "头层牛皮/二层皮",
+        "手工/精细车线",
+        "设计特点"
+      ],
+      "sourcePath": "industries/leather.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "leather"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9sZWF0aGVyLm1kOuWUruS4reivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "皮具客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到！\n📋 [商品][颜色]\n确认无误尽快发货～",
+      "variables": [
+        "商品",
+        "颜色"
+      ],
+      "sourcePath": "industries/leather.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "leather"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9sZWF0aGVyLm1kOuWUruWQjuivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "皮具客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购",
+      "template": "亲，包裹签收了～\n质感满意吗？满意帮忙好评！",
+      "variables": [],
+      "sourcePath": "industries/leather.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "leather"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9tYWtldXAubWQ65ZSu5YmN6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "彩妆客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"成分安全吗/孕妇能用吗\"",
+      "template": "亲，这款[产品名称]超火的！\n✨ 核心亮点：\n• 质地：[质地，如丝滑/轻薄/滋润]\n• 妆效：[妆效，如雾面/水光/自然]\n• 持妆：[持妆时长]小时不脱妆\n🌟 很多姐妹回购，需要我帮您推荐色号吗？",
+      "variables": [
+        "产品名称",
+        "质地，如丝滑/轻薄/滋润",
+        "妆效，如雾面/水光/自然",
+        "持妆时长"
+      ],
+      "sourcePath": "industries/makeup.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "makeup"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9tYWtldXAubWQ65ZSu5Lit6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "彩妆客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到啦！💕\n📋 确认：[商品][色号]×[数量]，地址[地址]\n信息都对吗？确认无误尽快发货！",
+      "variables": [
+        "商品",
+        "色号",
+        "数量",
+        "地址"
+      ],
+      "sourcePath": "industries/makeup.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "makeup"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9tYWtldXAubWQ65ZSu5ZCO6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "彩妆客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购/好评",
+      "template": "亲，包裹签收啦～\n💄 色号满意吗？上妆效果怎么样？\n有问题随时说，满意帮忙好评哦！💕",
+      "variables": [],
+      "sourcePath": "industries/makeup.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "makeup"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9tYXRlcm5pdHkubWQ65ZSu5YmN6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "孕产用品客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"哺乳期能用吗\"",
+      "template": "亲，这款[产品名称]很受准妈妈欢迎！\n✨ 核心亮点：\n• 材质：[材质，如纯棉/医用级/有机]\n• 功能：[功能特点]\n• 安全：[安全特点，如孕妇专用/无添加]\n🌟 很多宝妈用了反馈很好，需要我详细介绍吗？",
+      "variables": [
+        "产品名称",
+        "材质，如纯棉/医用级/有机",
+        "功能特点",
+        "安全特点，如孕妇专用/无添加"
+      ],
+      "sourcePath": "industries/maternity.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "maternity"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9tYXRlcm5pdHkubWQ65ZSu5Lit6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "孕产用品客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到啦！💕\n📋 确认：[商品][规格]×[数量]，地址[地址]\n信息都对吗？确认无误尽快发货！",
+      "variables": [
+        "商品",
+        "规格",
+        "数量",
+        "地址"
+      ],
+      "sourcePath": "industries/maternity.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "maternity"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9tYXRlcm5pdHkubWQ65ZSu5ZCO6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "孕产用品客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购/好评",
+      "template": "亲，包裹签收啦～\n🤰 收到了吗？满意吗？\n有问题随时说，祝孕期愉快！💕",
+      "variables": [],
+      "sourcePath": "industries/maternity.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "maternity"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9tZW5zLWNsb3RoaW5nLm1kOuWUruWJjeivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "男装客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"哪个颜色好\"",
+      "template": "您好，这款[产品名称]卖得很好～\n✨ 亮点：\n• 面料：[面料成分]，[舒适/透气/挺括]\n• 版型：[修身/宽松/商务]，上身有型\n• 做工：[工艺特点]\n适合[场合]穿，需要帮您推荐尺码吗？",
+      "variables": [
+        "产品名称",
+        "面料成分",
+        "舒适/透气/挺括",
+        "修身/宽松/商务",
+        "工艺特点",
+        "场合"
+      ],
+      "sourcePath": "industries/mens-clothing.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "mens-clothing"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9tZW5zLWNsb3RoaW5nLm1kOuWUruS4reivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "男装客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "您好，订单收到！\n📋 [商品][尺码][颜色]，地址[地址]\n确认无误尽快发货～",
+      "variables": [
+        "商品",
+        "尺码",
+        "颜色",
+        "地址"
+      ],
+      "sourcePath": "industries/mens-clothing.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "mens-clothing"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9tZW5zLWNsb3RoaW5nLm1kOuWUruWQjuivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "男装客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购",
+      "template": "您好，包裹签收了～\n尺码合适吗？有问题随时说，满意帮忙好评！",
+      "variables": [],
+      "sourcePath": "industries/mens-clothing.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "mens-clothing"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9tZW5zLWdyb29taW5nLm1kOuWUruWJjeivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "男士护理客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"发蜡/发泥怎么选\"",
+      "template": "兄弟，这款[产品名称]很受欢迎！\n✨ 核心亮点：\n• 功效：[主要功效，如控油/祛痘/保湿]\n• 质地：[质地特点，如清爽不油腻]\n• 特点：[产品特点，如男士专研配方]\n🌟 很多老客户回购，简单好用，效果明显！",
+      "variables": [
+        "产品名称",
+        "主要功效，如控油/祛痘/保湿",
+        "质地特点，如清爽不油腻",
+        "产品特点，如男士专研配方"
+      ],
+      "sourcePath": "industries/mens-grooming.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "mens-grooming"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9tZW5zLWdyb29taW5nLm1kOuWUruS4reivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "男士护理客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "兄弟，订单收到！\n📋 确认：[商品]×[数量]，地址[地址]\n信息对吗？确认后尽快发货！",
+      "variables": [
+        "商品",
+        "数量",
+        "地址"
+      ],
+      "sourcePath": "industries/mens-grooming.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "mens-grooming"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9tZW5zLWdyb29taW5nLm1kOuWUruWQjuivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "男士护理客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购/好评",
+      "template": "兄弟，包裹签收了～\n🧴 收到了吗？产品满意吗？\n有问题随时说，满意帮忙好评！💪",
+      "variables": [],
+      "sourcePath": "industries/mens-grooming.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "mens-grooming"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9tZW5zLXNob2VzLm1kOuWUruWJjeivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "男鞋客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"哪个颜色好\"",
+      "template": "您好，这款卖得很好～\n✨ 亮点：\n• 材质：[真皮/头层牛皮]，透气舒适\n• 鞋底：[橡胶/牛筋底]，防滑耐磨\n• 适合：[商务/休闲/运动]\n需要帮您推荐尺码吗？",
+      "variables": [
+        "真皮/头层牛皮",
+        "橡胶/牛筋底",
+        "商务/休闲/运动"
+      ],
+      "sourcePath": "industries/mens-shoes.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "mens-shoes"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9tZW5zLXNob2VzLm1kOuWUruS4reivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "男鞋客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "您好，订单收到！\n📋 [商品][尺码][颜色]\n确认无误尽快发货",
+      "variables": [
+        "商品",
+        "尺码",
+        "颜色"
+      ],
+      "sourcePath": "industries/mens-shoes.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "mens-shoes"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9tZW5zLXNob2VzLm1kOuWUruWQjuivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "男鞋客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购",
+      "template": "您好，包裹签收了～\n尺码合适吗？满意帮忙好评！",
+      "variables": [],
+      "sourcePath": "industries/mens-shoes.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "mens-shoes"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9uYWlsLWxhc2gubWQ65ZSu5YmN6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "美甲美睫客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"新手能用吗\"",
+      "template": "亲，这款[产品名称]超火的！\n✨ 核心亮点：\n• 材质：[材质，如进口甲油胶/貂毛睫毛]\n• 效果：[效果，如显白/自然/浓密]\n• 持久：[持久度，如2-3周不掉]\n🌟 很多姐妹回购，需要我帮您推荐款式吗？",
+      "variables": [
+        "产品名称",
+        "材质，如进口甲油胶/貂毛睫毛",
+        "效果，如显白/自然/浓密",
+        "持久度，如2-3周不掉"
+      ],
+      "sourcePath": "industries/nail-lash.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "nail-lash"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9uYWlsLWxhc2gubWQ65ZSu5Lit6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "美甲美睫客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到啦！💕\n📋 确认：[商品][款式/颜色]×[数量]，地址[地址]\n信息都对吗？确认无误尽快发货！",
+      "variables": [
+        "商品",
+        "款式/颜色",
+        "数量",
+        "地址"
+      ],
+      "sourcePath": "industries/nail-lash.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "nail-lash"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9uYWlsLWxhc2gubWQ65ZSu5ZCO6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "美甲美睫客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购/好评",
+      "template": "亲，包裹签收啦～\n💅 款式满意吗？做出来效果怎么样？\n有问题随时说，满意帮忙好评哦！💕",
+      "variables": [],
+      "sourcePath": "industries/nail-lash.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "nail-lash"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9vdXRkb29yLm1kOuijheWkh+inhOagvOivtOaYjg",
+      "pageTitle": "户外运动行业客服话术",
+      "sectionTitle": "装备规格说明",
+      "scene": "客户询问装备参数、性能指标",
+      "template": "Hi! Here are the specs for this gear: ⛺\nDimensions: [Size] | Weight: [Weight]\nCapacity: [Capacity, e.g., 50L/4-person]\nMaterial: [Material, e.g., Ripstop nylon/Aluminum alloy]\nWeather rating: [Rating, e.g., Waterproof 3000mm]\nBest for: [Activity type/Conditions]\nNeed help choosing the right size? Tell us your plans! 🏔️",
+      "variables": [
+        "Size",
+        "Weight",
+        "Capacity, e.g., 50L/4-person",
+        "Material, e.g., Ripstop nylon/Aluminum alloy",
+        "Rating, e.g., Waterproof 3000mm",
+        "Activity type/Conditions"
+      ],
+      "sourcePath": "industries/outdoor.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "outdoor"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9vdXRkb29yLm1kOuWuieWFqOiupOivgeivtOaYjg",
+      "pageTitle": "户外运动行业客服话术",
+      "sectionTitle": "安全认证说明",
+      "scene": "客户询问产品安全性、认证标准",
+      "template": "Safety certifications for this product: ✅\nCertified by: [CE/UIAA/EN standard/etc.]\nTested for: [Load capacity/Impact resistance/etc.]\nSafety features:\n✓ [Feature 1, e.g., Reinforced stitching]\n✓ [Feature 2, e.g., Reflective elements]\n✓ [Feature 3, e.g., Emergency whistle]\nYour safety is our priority! 🛡️",
+      "variables": [
+        "CE/UIAA/EN standard/etc.",
+        "Load capacity/Impact resistance/etc.",
+        "Feature 1, e.g., Reinforced stitching",
+        "Feature 2, e.g., Reflective elements",
+        "Feature 3, e.g., Emergency whistle"
+      ],
+      "sourcePath": "industries/outdoor.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "outdoor"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9vdXRkb29yLm1kOumAgueUqOWcuuaZr+aOqOiNkA",
+      "pageTitle": "户外运动行业客服话术",
+      "sectionTitle": "适用场景推荐",
+      "scene": "客户不确定装备是否适合自己的活动",
+      "template": "This gear is perfect for: 🏕️\nActivities: [Hiking/Camping/Climbing/etc.]\nConditions: [Temperature range/Terrain type]\nSkill level: [Beginner/Intermediate/Advanced]\nNot recommended for: [Extreme conditions/Activities]\nTell us your adventure plans and we'll confirm if this is right for you! 🌲",
+      "variables": [
+        "Hiking/Camping/Climbing/etc.",
+        "Temperature range/Terrain type",
+        "Beginner/Intermediate/Advanced",
+        "Extreme conditions/Activities"
+      ],
+      "sourcePath": "industries/outdoor.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "outdoor"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9vdXRkb29yLm1kOuWwuueggemAieaLqeaMh+WvvA",
+      "pageTitle": "户外运动行业客服话术",
+      "sectionTitle": "尺码选择指导",
+      "scene": "客户询问装备尺码（背包、服装、鞋类）",
+      "template": "Sizing guide for this item: 📏\nSize [S/M/L]: Fits [Measurements/Weight range]\nHow to measure: [Measurement instructions]\nFit type: [Regular/Athletic/Relaxed]\nBetween sizes? Go [up/down] for [Layering/Comfort].\nPro tip: [Specific sizing advice for this product]\nShare your measurements for a personalized recommendation! 👟",
+      "variables": [
+        "S/M/L",
+        "Measurements/Weight range",
+        "Measurement instructions",
+        "Regular/Athletic/Relaxed",
+        "up/down",
+        "Layering/Comfort",
+        "Specific sizing advice for this product"
+      ],
+      "sourcePath": "industries/outdoor.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "outdoor"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9vdXRkb29yLm1kOuS6p+WTgeWvueavlA",
+      "pageTitle": "户外运动行业客服话术",
+      "sectionTitle": "产品对比",
+      "scene": "客户在多个装备间犹豫",
+      "template": "Comparing [Product A] vs [Product B]: ⚖️\n[Product A]:\n• Best for: [Use case]\n• Pros: [Lighter/More durable/Better value]\n• Weight: [Weight]\n\n[Product B]:\n• Best for: [Use case]\n• Pros: [More features/Higher capacity]\n• Weight: [Weight]\n\nOur pick: [Recommendation based on common needs]\nWhat's your priority - weight, durability, or features? 🎯",
+      "variables": [
+        "Product A",
+        "Product B",
+        "Use case",
+        "Lighter/More durable/Better value",
+        "Weight",
+        "More features/Higher capacity",
+        "Recommendation based on common needs"
+      ],
+      "sourcePath": "industries/outdoor.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "outdoor"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9vdXRkb29yLm1kOuijheWkh+ajgOafpeaPkOmGkg",
+      "pageTitle": "户外运动行业客服话术",
+      "sectionTitle": "装备检查提醒",
+      "scene": "发货前提醒客户检查装备",
+      "template": "Your gear is shipping! 📦\nBefore your adventure, please:\n✓ Inspect all seams and zippers\n✓ Test all buckles and straps\n✓ Set up/try on at home first\n✓ Check all included accessories\nReport any issues within [Days] days.\nHave an amazing trip! 🏔️",
+      "variables": [
+        "Days"
+      ],
+      "sourcePath": "industries/outdoor.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "outdoor"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9vdXRkb29yLm1kOuS/neWFu+W7uuiurg",
+      "pageTitle": "户外运动行业客服话术",
+      "sectionTitle": "保养建议",
+      "scene": "分享装备保养方法",
+      "template": "Care tips for your new gear: 🧹\nAfter each use:\n• [Cleaning step 1]\n• [Cleaning step 2]\nStorage: [Storage instructions]\nAvoid: [Things to avoid]\nMaintenance: [Periodic maintenance tips]\nProper care = longer gear life! ⛺",
+      "variables": [
+        "Cleaning step 1",
+        "Cleaning step 2",
+        "Storage instructions",
+        "Things to avoid",
+        "Periodic maintenance tips"
+      ],
+      "sourcePath": "industries/outdoor.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "outdoor"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9vdXRkb29yLm1kOuWll+ijheaOqOiNkA",
+      "pageTitle": "户外运动行业客服话术",
+      "sectionTitle": "套装推荐",
+      "scene": "推荐配套装备",
+      "template": "Complete your setup! 🎒\nThis [Product] pairs great with:\n✓ [Accessory 1] - [Benefit] - [Price]\n✓ [Accessory 2] - [Benefit] - [Price]\n✓ [Accessory 3] - [Benefit] - [Price]\nBundle discount: Save [Amount] when you add these!\nEssential for [Activity type]. Want us to add them? 🏕️",
+      "variables": [
+        "Product",
+        "Accessory 1",
+        "Benefit",
+        "Price",
+        "Accessory 2",
+        "Accessory 3",
+        "Amount",
+        "Activity type"
+      ],
+      "sourcePath": "industries/outdoor.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "outdoor"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9vdXRkb29yLm1kOuWto+iKguW7uuiurg",
+      "pageTitle": "户外运动行业客服话术",
+      "sectionTitle": "季节建议",
+      "scene": "根据季节推荐合适装备",
+      "template": "For [Season] adventures: 🌡️\nThis gear is rated for: [Temperature range]\n[Season] tips:\n✓ [Tip 1, e.g., Layer with base layer]\n✓ [Tip 2, e.g., Add rain cover]\n✓ [Tip 3, e.g., Check weather forecast]\nNeed [Season]-specific gear? Check our [Collection]!\nStay safe out there! ❄️☀️",
+      "variables": [
+        "Season",
+        "Temperature range",
+        "Tip 1, e.g., Layer with base layer",
+        "Tip 2, e.g., Add rain cover",
+        "Tip 3, e.g., Check weather forecast",
+        "Collection"
+      ],
+      "sourcePath": "industries/outdoor.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "outdoor"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9vdXRkb29yLm1kOuS8muWRmC/np6/liIbor7TmmI4",
+      "pageTitle": "户外运动行业客服话术",
+      "sectionTitle": "会员/积分说明",
+      "scene": "向会员推荐优惠",
+      "template": "As an outdoor enthusiast, you've earned: 🏆\n✓ [Points] reward points\n✓ [Discount]% member discount\n✓ Early access to new gear\n✓ Free gear maintenance guide\nUse code [CODE] for extra [Discount] off!\nThanks for being part of our adventure community! 🌲",
+      "variables": [
+        "Points",
+        "Discount",
+        "CODE"
+      ],
+      "sourcePath": "industries/outdoor.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "outdoor"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9vdXRkb29yLm1kOuijheWkh+aVhemanOWkhOeQhg",
+      "pageTitle": "户外运动行业客服话术",
+      "sectionTitle": "装备故障处理",
+      "scene": "客户反馈装备故障",
+      "template": "Sorry to hear about the issue! 😔\nFor your safety, please STOP using the gear immediately.\nSend us:\n1) Photos/video of the problem\n2) When and how it occurred\n3) Product tag/serial number\nWe'll provide:\n✓ Free replacement, OR\n✓ Professional repair, OR\n✓ Full refund\nResponse within 24 hours! 🛡️",
+      "variables": [],
+      "sourcePath": "industries/outdoor.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "outdoor"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9vdXRkb29yLm1kOumAgOaNoui0p+ivtOaYjg",
+      "pageTitle": "户外运动行业客服话术",
+      "sectionTitle": "退换货说明",
+      "scene": "客户要求退换货",
+      "template": "Our return policy for outdoor gear: 📋\nUnused items: [Days]-day full refund\nTried once (indoor): Exchange or store credit\nUsed outdoors: Case-by-case review\nProcess:\n1) Contact us with order number\n2) We'll provide return label\n3) Refund/exchange upon receipt\nGear must be clean and complete. Questions? 💙",
+      "variables": [
+        "Days"
+      ],
+      "sourcePath": "industries/outdoor.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "outdoor"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9vdXRkb29yLm1kOue7tOS/ruacjeWKoQ",
+      "pageTitle": "户外运动行业客服话术",
+      "sectionTitle": "维修服务",
+      "scene": "客户装备需要维修",
+      "template": "We offer repair services! 🔧\nCommon repairs:\n• Zipper replacement: [Price]\n• Seam resealing: [Price]\n• Buckle/strap repair: [Price]\n• [Other repair]: [Price]\nTurnaround: [Days] days\nWarranty repairs: FREE\nSend photos first - we'll quote before you ship! ⛺",
+      "variables": [
+        "Price",
+        "Other repair",
+        "Days"
+      ],
+      "sourcePath": "industries/outdoor.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "outdoor"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9vdXRkb29yLm1kOuS9v+eUqOaKgOW3p+WIhuS6qw",
+      "pageTitle": "户外运动行业客服话术",
+      "sectionTitle": "使用技巧分享",
+      "scene": "分享装备使用技巧",
+      "template": "Pro tips for your [Product]: 💡\nSetup: [Setup tip]\nIn the field: [Usage tip]\nPacking: [Packing tip]\nCommon mistake to avoid: [Mistake]\nVideo guide: [Link if available]\nThese tips come from experienced adventurers! 🏔️",
+      "variables": [
+        "Product",
+        "Setup tip",
+        "Usage tip",
+        "Packing tip",
+        "Mistake",
+        "Link if available"
+      ],
+      "sourcePath": "industries/outdoor.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "outdoor"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9vdXRkb29yLm1kOuWNh+e6p+aOqOiNkA",
+      "pageTitle": "户外运动行业客服话术",
+      "sectionTitle": "升级推荐",
+      "scene": "向老客户推荐升级装备",
+      "template": "Ready to upgrade your gear? 🚀\nBased on your [Previous purchase], you might love:\n[Upgraded product]: \n• [Improvement 1]\n• [Improvement 2]\n• [Improvement 3]\nUpgrade offer: Trade in your old gear for [Discount] off!\nMany customers upgrade after [Timeframe]. Interested? 🏕️",
+      "variables": [
+        "Previous purchase",
+        "Upgraded product",
+        "Improvement 1",
+        "Improvement 2",
+        "Improvement 3",
+        "Discount",
+        "Timeframe"
+      ],
+      "sourcePath": "industries/outdoor.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "outdoor"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9wZXJmdW1lLm1kOuWUruWJjeivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "香水客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"夏天/冬天能用吗\"",
+      "template": "亲，这款[品牌][香水名]非常经典！\n✨ 香调层次：\n• 前调：[前调，如柑橘/佛手柑]\n• 中调：[中调，如玫瑰/茉莉]\n• 后调：[后调，如麝香/檀木]\n🌟 整体风格[清新/性感/优雅]，留香[时长]小时，很多人闻了都问同款！",
+      "variables": [
+        "品牌",
+        "香水名",
+        "前调，如柑橘/佛手柑",
+        "中调，如玫瑰/茉莉",
+        "后调，如麝香/檀木",
+        "清新/性感/优雅",
+        "时长"
+      ],
+      "sourcePath": "industries/perfume.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "perfume"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9wZXJmdW1lLm1kOuWUruS4reivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "香水客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到啦！💕\n📋 确认：[品牌][香水名][规格]，地址[地址]\n信息都对吗？确认无误尽快发货！",
+      "variables": [
+        "品牌",
+        "香水名",
+        "规格",
+        "地址"
+      ],
+      "sourcePath": "industries/perfume.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "perfume"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9wZXJmdW1lLm1kOuWUruWQjuivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "香水客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购/好评",
+      "template": "亲，包裹签收啦～\n🌸 香味喜欢吗？留香效果怎么样？\n有问题随时说，满意帮忙好评哦！💕",
+      "variables": [],
+      "sourcePath": "industries/perfume.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "perfume"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9wbHVzLXNpemUubWQ65ZSu5YmN6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "大码女装客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"能遮[部位]吗\"",
+      "template": "亲，这款专为微胖姐妹设计～\n✨ 亮点：\n• 版型：[显瘦设计，如A字/H型]\n• 面料：[弹力好/垂感好]，穿着舒服不紧绷\n• 设计：[遮肉细节，如收腰/V领]\n上身效果很好，很多姐妹回购！",
+      "variables": [
+        "显瘦设计，如A字/H型",
+        "弹力好/垂感好",
+        "遮肉细节，如收腰/V领"
+      ],
+      "sourcePath": "industries/plus-size.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "plus-size"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9wbHVzLXNpemUubWQ65ZSu5Lit6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "大码女装客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到！💕\n📋 [商品][尺码][颜色]\n确认无误尽快发货，期待您穿上美美的～",
+      "variables": [
+        "商品",
+        "尺码",
+        "颜色"
+      ],
+      "sourcePath": "industries/plus-size.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "plus-size"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9wbHVzLXNpemUubWQ65ZSu5ZCO6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "大码女装客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购",
+      "template": "亲，包裹签收了～\n尺码合适吗？上身效果满意吗？\n有问题随时说，满意帮忙好评！💕",
+      "variables": [],
+      "sourcePath": "industries/plus-size.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "plus-size"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9za2luY2FyZS5tZDrllK7liY3or53mnK/vvIgxMOadoe+8iQ",
+      "pageTitle": "护肤品客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"敏感肌能用吗\"",
+      "template": "亲，这款[产品名称]是我们的明星单品～\n✨ 核心功效：\n• 主打成分：[成分]，[功效]\n• 质地：[质地描述，如清爽/滋润]\n• 适合肤质：[肤质类型]\n🌟 很多姐妹用了反馈[效果]，需要我帮您看看适不适合您吗？",
+      "variables": [
+        "产品名称",
+        "成分",
+        "功效",
+        "质地描述，如清爽/滋润",
+        "肤质类型",
+        "效果"
+      ],
+      "sourcePath": "industries/skincare.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "skincare"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9za2luY2FyZS5tZDrllK7kuK3or53mnK/vvIgxMOadoe+8iQ",
+      "pageTitle": "护肤品客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到啦！💕\n📋 确认：[商品名称]×[数量]，地址[地址]\n信息都对吗？确认无误尽快发货！",
+      "variables": [
+        "商品名称",
+        "数量",
+        "地址"
+      ],
+      "sourcePath": "industries/skincare.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "skincare"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9za2luY2FyZS5tZDrllK7lkI7or53mnK/vvIgxMOadoe+8iQ",
+      "pageTitle": "护肤品客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购/好评",
+      "template": "亲，包裹签收啦～\n🌸 产品收到了吗？包装完好吗？\n有任何问题随时说，满意帮忙好评哦！💕",
+      "variables": [],
+      "sourcePath": "industries/skincare.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "skincare"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9zbmFja3MubWQ65ZSu5YmN6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "零食客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"有没有添加剂/热量高吗\"",
+      "template": "亲，这款[产品名称]是我们的爆款零食～\n✨ 核心亮点：\n• 口味：[口味描述，如香辣/原味/奶香]\n• 口感：[口感描述，如酥脆/软糯/Q弹]\n• 特色：[特色卖点，如0添加/低卡/非油炸]\n🌟 回购率超高，很多吃货都说停不下来！要不要试试？",
+      "variables": [
+        "产品名称",
+        "口味描述，如香辣/原味/奶香",
+        "口感描述，如酥脆/软糯/Q弹",
+        "特色卖点，如0添加/低卡/非油炸"
+      ],
+      "sourcePath": "industries/snacks.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "snacks"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9zbmFja3MubWQ65ZSu5Lit6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "零食客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收检查",
+      "template": "亲，订单收到啦！🎉\n📋 确认：[商品名称]×[数量]\n📍 地址：[收货地址]\n信息都对吗？确认后马上安排发货！",
+      "variables": [
+        "商品名称",
+        "数量",
+        "收货地址"
+      ],
+      "sourcePath": "industries/snacks.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "snacks"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9zbmFja3MubWQ65ZSu5ZCO6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "零食客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导满意客户复购或好评",
+      "template": "亲，包裹签收啦～\n🍬 零食收到了吗？包装完好吗？\n尝过觉得好吃的话，方便帮忙好评吗？💕\n有任何问题随时找我！",
+      "variables": [],
+      "sourcePath": "industries/snacks.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "snacks"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9zcG9ydHN3ZWFyLm1kOuWUruWJjeivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "运动服客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"哪个颜色好\"",
+      "template": "亲，这款很适合运动穿～\n✨ 亮点：\n• 面料：[速干/透气/弹力]\n• 功能：[吸汗排湿/防晒/反光]\n• 版型：[修身/宽松]，运动不束缚\n您主要做什么运动？我帮您确认是否合适～",
+      "variables": [
+        "速干/透气/弹力",
+        "吸汗排湿/防晒/反光",
+        "修身/宽松"
+      ],
+      "sourcePath": "industries/sportswear.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "sportswear"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9zcG9ydHN3ZWFyLm1kOuWUruS4reivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "运动服客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到！\n📋 [商品][尺码][颜色]\n确认无误尽快发货～",
+      "variables": [
+        "商品",
+        "尺码",
+        "颜色"
+      ],
+      "sourcePath": "industries/sportswear.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "sportswear"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9zcG9ydHN3ZWFyLm1kOuWUruWQjuivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "运动服客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购",
+      "template": "亲，包裹签收了～\n尺码合适吗？运动穿着舒服吗？\n满意帮忙好评！",
+      "variables": [],
+      "sourcePath": "industries/sportswear.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "sportswear"
+    },
+    {
+      "id": "aW5kdXN0cmllcy90ZWEubWQ65ZSu5YmN6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "茶叶客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"有什么功效/对身体好吗\"",
+      "template": "亲您好！这款[茶叶名称]是我们的明星产品～\n核心亮点：\n• 产地：[产地/茶园]，[产区特点]\n• 等级：[特级/一级/明前/雨前]\n• 工艺：[传统手工/现代工艺]\n• 口感：[鲜爽/醇厚/清香/回甘]\n• 荣誉：[获奖/认证/非遗]\n适合[场景，如日常品饮/待客/送礼]，性价比很高！",
+      "variables": [
+        "茶叶名称",
+        "产地/茶园",
+        "产区特点",
+        "特级/一级/明前/雨前",
+        "传统手工/现代工艺",
+        "鲜爽/醇厚/清香/回甘",
+        "获奖/认证/非遗",
+        "场景，如日常品饮/待客/送礼"
+      ],
+      "sourcePath": "industries/tea.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "tea"
+    },
+    {
+      "id": "aW5kdXN0cmllcy90ZWEubWQ65ZSu5Lit6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "茶叶客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收检查",
+      "template": "亲，订单收到啦！\n确认信息：\n• 茶叶：[名称]×[数量]\n• 规格：[重量/包装]\n• 地址：[收货地址]\n温馨提示：\n• 茶叶密封包装，收到后尽快储存\n• 请保持电话畅通\n• [新茶/特殊茶]需注意[说明]\n信息都对吗？确认后马上安排发货！",
+      "variables": [
+        "名称",
+        "数量",
+        "重量/包装",
+        "收货地址",
+        "新茶/特殊茶",
+        "说明"
+      ],
+      "sourcePath": "industries/tea.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "tea"
+    },
+    {
+      "id": "aW5kdXN0cmllcy90ZWEubWQ65ZSu5ZCO6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "茶叶客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导满意客户复购或好评",
+      "template": "亲，看到您已签收～\n想确认一下：\n• 包装是否完好？\n• 数量规格是否正确？\n• 茶叶有无受潮？\n• 密封是否完整？\n如果一切满意，请按照储存建议保存。\n有任何问题随时联系我，祝您品茗愉快！",
+      "variables": [],
+      "sourcePath": "industries/tea.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "tea"
+    },
+    {
+      "id": "aW5kdXN0cmllcy90b3lzLm1kOuWUruWJjeivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "玩具客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"送礼合适吗\"",
+      "template": "亲，这款[产品名称]很受欢迎！\n✨ 核心亮点：\n• 功能：[功能特点，如益智/声光/遥控]\n• 材质：[材质，如ABS/原木/毛绒]\n• 适合：[适合年龄]岁宝宝\n🌟 很多宝宝玩了都很喜欢，需要我详细介绍吗？",
+      "variables": [
+        "产品名称",
+        "功能特点，如益智/声光/遥控",
+        "材质，如ABS/原木/毛绒",
+        "适合年龄"
+      ],
+      "sourcePath": "industries/toys.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "toys"
+    },
+    {
+      "id": "aW5kdXN0cmllcy90b3lzLm1kOuWUruS4reivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "玩具客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到啦！💕\n📋 确认：[商品][颜色/款式]，地址[地址]\n信息都对吗？确认无误尽快发货！",
+      "variables": [
+        "商品",
+        "颜色/款式",
+        "地址"
+      ],
+      "sourcePath": "industries/toys.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "toys"
+    },
+    {
+      "id": "aW5kdXN0cmllcy90b3lzLm1kOuWUruWQjuivneacr++8iDEw5p2h77yJ",
+      "pageTitle": "玩具客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购/好评",
+      "template": "亲，包裹签收啦～\n🎮 收到了吗？宝宝喜欢吗？\n有问题随时说，满意帮忙好评哦！💕",
+      "variables": [],
+      "sourcePath": "industries/toys.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "toys"
+    },
+    {
+      "id": "aW5kdXN0cmllcy90cmFkaXRpb25hbC1jbG90aGluZy5tZDrllK7liY3or53mnK/vvIgxMOadoe+8iQ",
+      "pageTitle": "汉服/民族服饰客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"哪个颜色好看\"",
+      "template": "亲，这款很受欢迎～\n✨ 亮点：\n• 形制：[形制名称，如明制/宋制/唐制]\n• 面料：[面料，如提花/绣花/雪纺]\n• 工艺：[工艺特点]\n上身效果很仙，需要帮您推荐尺码吗？",
+      "variables": [
+        "形制名称，如明制/宋制/唐制",
+        "面料，如提花/绣花/雪纺",
+        "工艺特点"
+      ],
+      "sourcePath": "industries/traditional-clothing.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "traditional-clothing"
+    },
+    {
+      "id": "aW5kdXN0cmllcy90cmFkaXRpb25hbC1jbG90aGluZy5tZDrllK7kuK3or53mnK/vvIgxMOadoe+8iQ",
+      "pageTitle": "汉服/民族服饰客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到！\n📋 [商品][尺码][颜色]\n[现货/定制]，预计[时间]发出～",
+      "variables": [
+        "商品",
+        "尺码",
+        "颜色",
+        "现货/定制",
+        "时间"
+      ],
+      "sourcePath": "industries/traditional-clothing.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "traditional-clothing"
+    },
+    {
+      "id": "aW5kdXN0cmllcy90cmFkaXRpb25hbC1jbG90aGluZy5tZDrllK7lkI7or53mnK/vvIgxMOadoe+8iQ",
+      "pageTitle": "汉服/民族服饰客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购",
+      "template": "亲，包裹签收了～\n上身效果满意吗？满意帮忙好评！\n期待您的美照～💕",
+      "variables": [],
+      "sourcePath": "industries/traditional-clothing.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "traditional-clothing"
+    },
+    {
+      "id": "aW5kdXN0cmllcy91bmRlcndlYXIubWQ65ZSu5YmN6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "内衣客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"哪个颜色好\"",
+      "template": "亲，这款很受欢迎～\n✨ 亮点：\n• 面料：[面料成分]，亲肤透气\n• 设计：[无钢圈/聚拢/无痕]\n• 舒适度：[特点描述]\n需要帮您推荐尺码吗？",
+      "variables": [
+        "面料成分",
+        "无钢圈/聚拢/无痕",
+        "特点描述"
+      ],
+      "sourcePath": "industries/underwear.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "underwear"
+    },
+    {
+      "id": "aW5kdXN0cmllcy91bmRlcndlYXIubWQ65ZSu5Lit6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "内衣客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到！\n📋 [商品][尺码][颜色]，地址[地址]\n确认无误尽快发货～",
+      "variables": [
+        "商品",
+        "尺码",
+        "颜色",
+        "地址"
+      ],
+      "sourcePath": "industries/underwear.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "underwear"
+    },
+    {
+      "id": "aW5kdXN0cmllcy91bmRlcndlYXIubWQ65ZSu5ZCO6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "内衣客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购",
+      "template": "亲，包裹签收了～\n尺码合适吗？穿着舒服吗？\n有问题随时说，满意帮忙好评！",
+      "variables": [],
+      "sourcePath": "industries/underwear.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "underwear"
+    },
+    {
+      "id": "aW5kdXN0cmllcy93b21lbnMtY2xvdGhpbmcubWQ65ZSu5YmN6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "女装客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"哪个颜色好看\"",
+      "template": "亲，这款[产品名称]是我们店的爆款哦～\n✨ 核心亮点：\n• 面料：[面料成分]，[面料特点]\n• 版型：[版型特点，如显瘦/宽松]\n• 设计：[设计亮点]\n👗 上身效果特别好，很多姐妹回购！需要我帮您推荐尺码吗？",
+      "variables": [
+        "产品名称",
+        "面料成分",
+        "面料特点",
+        "版型特点，如显瘦/宽松",
+        "设计亮点"
+      ],
+      "sourcePath": "industries/womens-clothing.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "womens-clothing"
+    },
+    {
+      "id": "aW5kdXN0cmllcy93b21lbnMtY2xvdGhpbmcubWQ65ZSu5Lit6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "女装客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到啦！💕\n📋 确认：[商品][尺码][颜色]，地址[地址]\n信息都对吗？确认无误尽快发货！",
+      "variables": [
+        "商品",
+        "尺码",
+        "颜色",
+        "地址"
+      ],
+      "sourcePath": "industries/womens-clothing.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "womens-clothing"
+    },
+    {
+      "id": "aW5kdXN0cmllcy93b21lbnMtY2xvdGhpbmcubWQ65ZSu5ZCO6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "女装客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购/好评",
+      "template": "亲，包裹签收啦～\n👗 尺码合适吗？颜色喜欢吗？\n有问题随时说，满意帮忙好评哦！💕",
+      "variables": [],
+      "sourcePath": "industries/womens-clothing.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "womens-clothing"
+    },
+    {
+      "id": "aW5kdXN0cmllcy93b21lbnMtc2hvZXMubWQ65ZSu5YmN6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "女鞋客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"哪个颜色好\"",
+      "template": "亲，这款很受欢迎～\n✨ 亮点：\n• 材质：[真皮/PU/布面]，[柔软/透气]\n• 鞋底：[软底/防滑]，走路舒服\n• 设计：[设计特点]\n上脚效果很好，需要帮您推荐尺码吗？",
+      "variables": [
+        "真皮/PU/布面",
+        "柔软/透气",
+        "软底/防滑",
+        "设计特点"
+      ],
+      "sourcePath": "industries/womens-shoes.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "womens-shoes"
+    },
+    {
+      "id": "aW5kdXN0cmllcy93b21lbnMtc2hvZXMubWQ65ZSu5Lit6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "女鞋客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "亲，订单收到！\n📋 [商品][尺码][颜色]\n确认无误尽快发货～",
+      "variables": [
+        "商品",
+        "尺码",
+        "颜色"
+      ],
+      "sourcePath": "industries/womens-shoes.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "womens-shoes"
+    },
+    {
+      "id": "aW5kdXN0cmllcy93b21lbnMtc2hvZXMubWQ65ZSu5ZCO6K+d5pyv77yIMTDmnaHvvIk",
+      "pageTitle": "女鞋客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导复购",
+      "template": "亲，包裹签收了～\n尺码合适吗？穿着舒服吗？\n满意帮忙好评！",
+      "variables": [],
+      "sourcePath": "industries/womens-shoes.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "womens-shoes"
+    },
+    {
+      "id": "aW5kdXN0cmllcy93b3Jrd2Vhci5tZDrllK7liY3or53mnK/vvIgxMOadoe+8iQ",
+      "pageTitle": "工装制服客服话术",
+      "sectionTitle": "售前话术（10条）",
+      "scene": "客户问\"可以先看样品吗\"",
+      "template": "您好，这款工装很受欢迎～\n✨ 亮点：\n• 面料：[面料]，[耐磨/透气/防静电]\n• 做工：[工艺特点]\n• 功能：[功能特点]\n适合[行业/场景]使用，需要了解定制吗？",
+      "variables": [
+        "面料",
+        "耐磨/透气/防静电",
+        "工艺特点",
+        "功能特点",
+        "行业/场景"
+      ],
+      "sourcePath": "industries/workwear.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "workwear"
+    },
+    {
+      "id": "aW5kdXN0cmllcy93b3Jrd2Vhci5tZDrllK7kuK3or53mnK/vvIgxMOadoe+8iQ",
+      "pageTitle": "工装制服客服话术",
+      "sectionTitle": "售中话术（10条）",
+      "scene": "提醒签收",
+      "template": "您好，订单收到！\n📋 订单信息：\n• 款式：[款式]\n• 数量：[数量]\n• 定制：[定制内容]\n确认无误安排生产～",
+      "variables": [
+        "款式",
+        "数量",
+        "定制内容"
+      ],
+      "sourcePath": "industries/workwear.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "workwear"
+    },
+    {
+      "id": "aW5kdXN0cmllcy93b3Jrd2Vhci5tZDrllK7lkI7or53mnK/vvIgxMOadoe+8iQ",
+      "pageTitle": "工装制服客服话术",
+      "sectionTitle": "售后话术（10条）",
+      "scene": "引导长期合作",
+      "template": "您好，包裹签收了～\n质量满意吗？有问题随时反馈\n满意的话期待长期合作！",
+      "variables": [],
+      "sourcePath": "industries/workwear.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "workwear"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "customer-service-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Free knowledge base entry + online generator for customer service scripts",
+  "scripts": {
+    "build:site": "node scripts/build-kb.mjs",
+    "dev:serve": "python -m http.server 4173 --directory docs"
+  }
+}

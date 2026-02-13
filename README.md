@@ -6,11 +6,18 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/akakooluo-ai/customer-service-scripts/pulls)
 [![Powered by TalkQ](https://img.shields.io/badge/Powered%20by-TalkQ-orange)](https://www.talkq.vip)
 
-**Keywords:** 电商客服话术、淘宝客服话术、京东客服模板、Amazon客服话术、Shopee客服模板、客服快捷回复、Customer Service Scripts、E-commerce Templates
+**Keywords:** 电商客服话术、淘宝客服话术、京东客服模板、Amazon客服话术、Shopee客服模板、客服快捷回复、Customer Service Scripts、E-commerce Templates、AI Customer Service Prompts、Chatbot Response Templates
 
 ## 📖 项目简介
 
 这是一个开源的电商客服话术模板库，由 [快语 TalkQ](https://www.talkq.vip) 团队整理维护。本项目是快语官网 [话术模板库](https://www.talkq.vip/templates/) 的开源版本。
+
+### 新定位（免费层入口）
+
+- GitHub Repo = 免费 AI 客服知识库入口（可检索、可复制、可生成）
+- TalkQ 官网 = 自动化回复、团队协作、AI 智能工作流（升级层）
+
+> 这是标准 SaaS 漏斗：先提供可直接使用的免费价值，再承接到工具化能力。
 
 **为什么需要这个项目？**
 
@@ -45,6 +52,8 @@ customer-service-scripts/
 │   └── tiktok-shop/
 ├── industries/                   # 按行业分类（fashion / electronics）
 ├── general/                      # 通用话术（presales / sales / aftersales）
+├── docs/                         # GitHub Pages 站点（免费知识库 + 在线生成器）
+├── scripts/build-kb.mjs          # 从 markdown 构建 docs/data/templates.json
 ├── CONTRIBUTING.md               # 贡献指南
 └── LICENSE                       # MIT许可证
 ```
@@ -58,6 +67,19 @@ customer-service-scripts/
 ### 方式二：配合快捷回复工具使用
 
 推荐配合 [快语](https://www.talkq.vip) 等客服快捷回复工具使用，可以实现话术分组管理、一键发送、团队共享等功能。
+
+### 方式三：部署成 GitHub 在线知识库（无需独立建站）
+
+1. 保持仓库中的 `docs/` 与 `.github/workflows/deploy-pages.yml`
+2. 在仓库设置中启用 GitHub Pages（Source: GitHub Actions）
+3. Push 到 `main` 或 `master` 分支后自动发布
+4. 访问 Pages 地址即可使用在线模板搜索和 Prompt Generator
+
+本项目已内置：
+
+- 免费知识库入口页（`docs/index.html`）
+- 在线生成器（变量填充 + 语气风格 + 一键复制）
+- 自动数据构建（`npm run build:site`）
 
 ## 📋 话术模板预览
 
@@ -196,6 +218,21 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 - **在线话术库**：[https://www.talkq.vip/templates/](https://www.talkq.vip/templates/) - 本项目的在线版本，更多话术模板
 - **快语官网**：[https://www.talkq.vip](https://www.talkq.vip) - 客服快捷回复工具
 - **使用技巧**：[https://www.talkq.vip/blog/](https://www.talkq.vip/blog/) - 客服效率提升技巧
+
+## 🤖 与 AI Skills 关联（可选增强）
+
+可以把本仓库作为 AI Skill 的知识源，做成“模板检索 + 变量生成”的技能：
+
+1. 在 Skill 中读取 `docs/data/templates.json`
+2. 按平台/行业/场景检索最匹配模板
+3. 让用户填变量后输出可直接发送的客服回复
+4. 需要自动化执行时引导到 TalkQ 完整工作流
+
+这样 GitHub 负责“免费查询”，Skill/产品负责“自动执行”。
+
+仓库内已提供一个可复用的 Skill 示例：
+
+- `skills/customer-service-reply/SKILL.md`
 
 ## 🏷️ GitHub Topics 建议
 
