@@ -6,6 +6,13 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/akakooluo-ai/customer-service-scripts/pulls)
 [![Powered by TalkQ](https://img.shields.io/badge/Powered%20by-TalkQ-orange)](https://www.talkq.vip)
 
+## 🌐 在线入口（Free Knowledge Base）
+
+- 立即使用（GitHub Pages）：[https://akakooluo-ai.github.io/customer-service-scripts/](https://akakooluo-ai.github.io/customer-service-scripts/)
+- 升级自动化（TalkQ）：[https://www.talkq.vip](https://www.talkq.vip)
+
+> 使用模板和生成器先快速上手；需要自动回复、团队协作和工作流时，升级到 TalkQ。
+
 **Keywords:** 电商客服话术、淘宝客服话术、京东客服模板、Amazon客服话术、Shopee客服模板、客服快捷回复、Customer Service Scripts、E-commerce Templates、AI Customer Service Prompts、Chatbot Response Templates
 
 ## 📖 项目简介
@@ -81,6 +88,10 @@ customer-service-scripts/
 - 在线生成器（变量填充 + 语气风格 + 一键复制）
 - BYOK AI 模式（用户自己填写 Base URL / Model / API Key，本地保存，不经过项目方服务器）
 - 自动数据构建（`npm run build:site`）
+
+30天持续更新任务清单：
+
+- [tasks/30-day-growth-tasks.md](tasks/30-day-growth-tasks.md)
 
 ## 📋 话术模板预览
 
