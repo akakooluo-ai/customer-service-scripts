@@ -80,7 +80,7 @@ customer-service-scripts/
 1. 保持仓库中的 `docs/` 与 `.github/workflows/deploy-pages.yml`
 2. 在仓库设置中启用 GitHub Pages（Source: GitHub Actions）
 3. Push 到 `main` 或 `master` 分支后自动发布
-4. 访问 Pages 地址即可使用在线模板搜索和 Prompt Generator
+4. 访问 Pages 地址即可使用在线模板搜索和客服话术生成器（Customer Service Response Generator）
 
 本项目已内置：
 
