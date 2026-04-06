@@ -8,8 +8,10 @@
 
 ## 🌐 在线入口（Free Knowledge Base）
 
-- 立即使用（GitHub Pages）：[https://akakooluo-ai.github.io/customer-service-scripts/](https://akakooluo-ai.github.io/customer-service-scripts/)
+- 立即使用（GitHub Pages）：[https://akakooluo-ai.github.io/customer-service-scripts/](https://akakooluo-ai.github.io/customer-service-scripts/) 
+  Search 1,300+ customer service templates online, fill variables, and generate ready-to-send replies.
 - 升级自动化（TalkQ）：[https://www.talkq.vip](https://www.talkq.vip)
+  Move from manual copy-and-send to AI reply automation, team collaboration, and workflow routing.
 
 > 使用模板和生成器先快速上手；需要自动回复、团队协作和工作流时，升级到 TalkQ。
 
