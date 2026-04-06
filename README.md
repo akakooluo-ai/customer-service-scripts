@@ -89,9 +89,29 @@ customer-service-scripts/
 - BYOK AI 模式（用户自己填写 Base URL / Model / API Key，本地保存，不经过项目方服务器）
 - 自动数据构建（`npm run build:site`）
 
+## Monthly Changelog
+
+### 2026-04
+
+- Renamed the online generator to `Customer Service Response Generator`
+- Added GitHub Pages live entry links and a 30-day growth task list
+- Confirmed `main` as the primary branch for GitHub Pages deployment
+- Improved the build pipeline so both `##` and `###` template headings are indexed into `docs/data/templates.json`
+
 30天持续更新任务清单：
 
 - [tasks/30-day-growth-tasks.md](tasks/30-day-growth-tasks.md)
+
+## Template Mode vs AI Mode
+
+| Mode | Best For | Input Needed | Output Style | Risk Level |
+|-----|-----|-----|-----|-----|
+| Template Mode | Fast copy-and-send replies | Pick a template and fill `[Variable]` fields | Stable, policy-safe, close to the source template | Low |
+| AI Mode (BYOK) | Personalized rewrites and tone adjustment | Base URL, model, API key, selected template, variables | More natural and adaptive wording | Medium |
+
+Template Mode is the fastest way to ship a reply. When a team needs more natural phrasing, multilingual adjustments, or context-aware rewrites, the built-in AI Mode can generate a refined response locally in the browser.
+
+Want batch automation, team collaboration, and workflow routing instead of one-by-one generation? Upgrade to [TalkQ](https://www.talkq.vip).
 
 ## 📋 话术模板预览
 

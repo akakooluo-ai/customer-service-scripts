@@ -55,11 +55,12 @@ function parseMarkdown(filePath, relativePath) {
   const pageTitle = (lines.find((line) => line.startsWith("# ")) || "# Untitled").replace(/^# /, "").trim();
   const topMeta = parseTopMeta(relativePath);
   const blocks = [];
+  const sectionHeadingPattern = /^#{2,3}\s+(?:(\d+)\.\s+)?(.+)$/;
 
   let i = 0;
   while (i < lines.length) {
     const line = lines[i];
-    const sectionMatch = line.match(/^##\s+(?:(\d+)\.\s+)?(.+)$/);
+    const sectionMatch = line.match(sectionHeadingPattern);
     if (!sectionMatch) {
       i += 1;
       continue;
@@ -71,7 +72,7 @@ function parseMarkdown(filePath, relativePath) {
     let j = i + 1;
     while (j < lines.length) {
       const cursor = lines[j];
-      if (/^##\s+/.test(cursor)) {
+      if (sectionHeadingPattern.test(cursor)) {
         break;
       }
       const sceneMatch = cursor.match(/\*\*适用场景：\*\*\s*(.+)$/);
