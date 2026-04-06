@@ -1,6 +1,6 @@
 # 电商客服话术大全 | E-commerce Customer Service Scripts
 
-> 🛒 专业的电商客服话术模板库，覆盖 Amazon、淘宝、京东、Shopee 等 11 大平台，以及服装、美妆、母婴等 30 个行业。
+> 🛒 专业的电商客服话术模板库，覆盖 Amazon、淘宝、京东、Shopee 等 11 大平台，以及服装、美妆、母婴、食品饮品等 34 个行业，已索引 1,325 条模板。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/akakooluo-ai/customer-service-scripts/pulls)
@@ -59,7 +59,7 @@ customer-service-scripts/
 │   ├── taobao/
 │   ├── jd/
 │   └── tiktok-shop/
-├── industries/                   # 按行业分类（fashion / electronics）
+├── industries/                   # 按行业分类（34个行业模板）
 ├── general/                      # 通用话术（presales / sales / aftersales）
 ├── docs/                         # GitHub Pages 站点（免费知识库 + 在线生成器）
 ├── scripts/build-kb.mjs          # 从 markdown 构建 docs/data/templates.json
@@ -138,23 +138,27 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 
 ## 📊 覆盖平台
 
-| 平台 | 售前 | 售中 | 售后 |
-|-----|:---:|:---:|:---:|
-| [Amazon](platforms/amazon/) | [✅](platforms/amazon/presales.md) | [✅](platforms/amazon/sales.md) | [✅](platforms/amazon/aftersales.md) |
-| [Shopee](platforms/shopee/) | [✅](platforms/shopee/presales.md) | [✅](platforms/shopee/sales.md) | [✅](platforms/shopee/aftersales.md) |
-| [TikTok Shop](platforms/tiktok-shop/) | [✅](platforms/tiktok-shop/presales.md) | [✅](platforms/tiktok-shop/sales.md) | [✅](platforms/tiktok-shop/aftersales.md) |
-| [eBay](platforms/ebay/) | [✅](platforms/ebay/presales.md) | [✅](platforms/ebay/sales.md) | [✅](platforms/ebay/aftersales.md) |
-| [Shopify](platforms/shopify/) | [✅](platforms/shopify/presales.md) | [✅](platforms/shopify/sales.md) | [✅](platforms/shopify/aftersales.md) |
-| [AliExpress](platforms/aliexpress/) | [✅](platforms/aliexpress/presales.md) | [✅](platforms/aliexpress/sales.md) | [✅](platforms/aliexpress/aftersales.md) |
-| [Lazada](platforms/lazada/) | [✅](platforms/lazada/presales.md) | [✅](platforms/lazada/sales.md) | [✅](platforms/lazada/aftersales.md) |
-| [Wish](platforms/wish/) | [✅](platforms/wish/presales.md) | [✅](platforms/wish/sales.md) | [✅](platforms/wish/aftersales.md) |
-| [Temu](platforms/temu/) | [✅](platforms/temu/presales.md) | [✅](platforms/temu/sales.md) | [✅](platforms/temu/aftersales.md) |
-| [淘宝/天猫](platforms/taobao/) | [✅](platforms/taobao/presales.md) | [✅](platforms/taobao/sales.md) | [✅](platforms/taobao/aftersales.md) |
-| [京东](platforms/jd/) | [✅](platforms/jd/presales.md) | [✅](platforms/jd/sales.md) | [✅](platforms/jd/aftersales.md) |
+当前已覆盖 `11` 个电商平台，共 `350` 条平台模板。
+
+| 平台 | 售前 | 售中 | 售后 | 合计 |
+|-----|:---:|:---:|:---:|:---:|
+| [Amazon](platforms/amazon/) | [10](platforms/amazon/presales.md) | [10](platforms/amazon/sales.md) | [20](platforms/amazon/aftersales.md) | 40 |
+| [Shopee](platforms/shopee/) | [10](platforms/shopee/presales.md) | [10](platforms/shopee/sales.md) | [10](platforms/shopee/aftersales.md) | 30 |
+| [TikTok Shop](platforms/tiktok-shop/) | [10](platforms/tiktok-shop/presales.md) | [10](platforms/tiktok-shop/sales.md) | [10](platforms/tiktok-shop/aftersales.md) | 30 |
+| [eBay](platforms/ebay/) | [10](platforms/ebay/presales.md) | [10](platforms/ebay/sales.md) | [10](platforms/ebay/aftersales.md) | 30 |
+| [Shopify](platforms/shopify/) | [10](platforms/shopify/presales.md) | [10](platforms/shopify/sales.md) | [20](platforms/shopify/aftersales.md) | 40 |
+| [AliExpress](platforms/aliexpress/) | [10](platforms/aliexpress/presales.md) | [10](platforms/aliexpress/sales.md) | [10](platforms/aliexpress/aftersales.md) | 30 |
+| [Lazada](platforms/lazada/) | [10](platforms/lazada/presales.md) | [10](platforms/lazada/sales.md) | [10](platforms/lazada/aftersales.md) | 30 |
+| [Wish](platforms/wish/) | [10](platforms/wish/presales.md) | [10](platforms/wish/sales.md) | [10](platforms/wish/aftersales.md) | 30 |
+| [Temu](platforms/temu/) | [10](platforms/temu/presales.md) | [10](platforms/temu/sales.md) | [10](platforms/temu/aftersales.md) | 30 |
+| [淘宝/天猫](platforms/taobao/) | [10](platforms/taobao/presales.md) | [10](platforms/taobao/sales.md) | [10](platforms/taobao/aftersales.md) | 30 |
+| [京东](platforms/jd/) | [10](platforms/jd/presales.md) | [10](platforms/jd/sales.md) | [10](platforms/jd/aftersales.md) | 30 |
 
 > 欢迎贡献更多平台话术！
 
 ## 🏭 覆盖行业
+
+当前已覆盖 `34` 个行业，共 `945` 条行业模板。
 
 <table>
 <tr>
@@ -212,7 +216,13 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 | 家居用品 | 15 | [查看](industries/home.md) |
 | 户外运动 | 15 | [查看](industries/outdoor.md) |
 
-*更多行业持续更新中...*
+**🍵 食品饮品**
+| 行业 | 数量 | 链接 |
+|-----|:---:|:---:|
+| 生鲜食品 | 30 | [查看](industries/fresh-food.md) |
+| 休闲零食 | 30 | [查看](industries/snacks.md) |
+| 茶叶 | 30 | [查看](industries/tea.md) |
+| 酒类 | 30 | [查看](industries/alcohol.md) |
 
 </td>
 </tr>
