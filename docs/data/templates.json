@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-06T08:48:34.668Z",
-  "count": 1305,
+  "generatedAt": "2026-04-06T09:15:13.724Z",
+  "count": 1325,
   "groups": [
     "general",
     "industry",
@@ -1199,6 +1199,152 @@
       "template": "Hello! I wanted to follow up on your recent purchase of [Product Name]. How are you enjoying it? Is everything working as expected? If you have any questions or concerns, please don't hesitate to contact us via Amazon messages. We are always here to help and want to make sure you are fully satisfied with your purchase.",
       "variables": [
         "Product Name"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOkZCQSDphY3pgIHlu7bov5/or7TmmI4",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "FBA 配送延迟说明",
+      "scene": "Amazon FBA 订单送达时间晚于预期",
+      "template": "Hello! I checked your order and can confirm that the shipment is currently delayed in Amazon's fulfillment network.\n\nCurrent status: [Status]\nLatest update: [Date/Time]\nNew estimated delivery date: [Date]\n\nBecause this order is handled through Amazon fulfillment, delivery timing is controlled by Amazon's logistics system. We are still monitoring the case closely from our side.\n\nIf the package does not arrive by [Follow-up Date], please message us again and we will help review the next available resolution under Amazon's process.",
+      "variables": [
+        "Status",
+        "Date/Time",
+        "Date",
+        "Follow-up Date"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOldJU01PIOi3n+i/m+WbnuWkjQ",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "WISMO 跟进回复",
+      "scene": "客户询问“我的订单到哪里了”",
+      "template": "Hello! Thank you for checking in on your order.\n\nAccording to the latest Amazon tracking update:\n• Order number: [Order Number]\n• Current status: [Status]\n• Last scan: [Date/Time]\n• Estimated delivery: [Date]\n\nAt this time, the package is still in transit. Tracking updates can occasionally pause between scans, but this does not always mean there is a problem.\n\nIf there is still no delivery or new tracking movement after [Timeframe], please let us know and we will continue assisting you.",
+      "variables": [
+        "Order Number",
+        "Status",
+        "Date/Time",
+        "Date",
+        "Timeframe"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOkEtdG8teiDntKLotZTpmY3nuqfmsp/pgJo",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "A-to-z 索赔降级沟通",
+      "scene": "客户准备发起索赔前先尝试协商",
+      "template": "Hello! I understand your concern and truly want to help resolve this as quickly as possible.\n\nBefore you take any further steps, please share the exact issue with the order, along with photos if relevant. Once we review the details, we will respond with the most appropriate solution available, such as replacement, refund, or return guidance in line with Amazon policy.\n\nWe appreciate the chance to address this for you directly and will do our best to make the process smooth.",
+      "variables": [],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOkEtdG8teiDlt7LlvIDlkK/lkI7nmoTmnZDmlpnlvJXlr7w",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "A-to-z 已开启后的材料引导",
+      "scene": "客户已经开启 A-to-z，需要说明后续",
+      "template": "Hello! I understand that an A-to-z Guarantee claim has already been opened for this order.\n\nTo help the review move forward smoothly, please make sure all relevant details are included in the claim, such as:\n• A short description of the issue\n• Photos or screenshots if applicable\n• The resolution you are seeking\n\nAmazon will review the case based on the order details and evidence provided. We will also cooperate fully within Amazon's process.",
+      "variables": [],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOuW3sumAgei+vuacquaUtuWIsA",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "已送达未收到",
+      "scene": "Amazon 显示 delivered，但客户说没收到",
+      "template": "Hello! I'm sorry to hear that the order shows as delivered but you have not received it.\n\nPlease first check:\n• Around your mailbox, porch, front desk, or reception\n• With family members, neighbors, or building staff\n• Whether Amazon marked it delivered slightly early and it arrives within 24 hours\n\nIf it still does not appear after [Timeframe], please contact us again through Amazon messages, and we will help guide you through the next step within Amazon's support process.",
+      "variables": [
+        "Timeframe"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOumDqOWIhumAgOasvuehruiupA",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "部分退款确认",
+      "scene": "客户同意保留商品并接受部分退款",
+      "template": "Hello! Thank you for confirming that a partial refund works for you.\n\nWe will now submit a partial refund request for:\n• Order: [Order Number]\n• Amount: [Amount]\n• Reason: [Reason]\n\nOnce processed, the refund will be sent back to your original payment method through Amazon. Posting time may vary depending on your payment provider.\n\nIf you need anything else, feel free to message us.",
+      "variables": [
+        "Order Number",
+        "Amount",
+        "Reason"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOumAgOi0p+WcqOmAlOivtOaYjg",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "退货在途说明",
+      "scene": "客户已经寄回商品，询问何时退款",
+      "template": "Hello! Thank you for the return update.\n\nAt the moment, your return is still in transit / being processed by Amazon's return system.\n\nIn most cases:\n• The return is scanned on arrival\n• The item is inspected\n• The refund is then issued to the original payment method\n\nIf you do not see a refund update after [Timeframe], please let us know and we will help you review the case.",
+      "variables": [
+        "Timeframe"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOuabtOaNouaWueahiOivtOaYjg",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "更换方案说明",
+      "scene": "客户想更换尺码或款式",
+      "template": "Hello! I understand you'd like a different size or variation.\n\nOn Amazon, exchanges are usually handled by returning the current item and placing a new order for the preferred option.\n\nRecommended steps:\n1. Start the return from \"Your Orders\"\n2. Choose the return reason\n3. Place a new order for [Replacement Option]\n\nIf you'd like, I can also help confirm whether the replacement option is currently available before you reorder.",
+      "variables": [
+        "Replacement Option"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOkZCQSDnoLTmjZ/ljIXoo7nlpITnkIY",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "FBA 破损包裹处理",
+      "scene": "客户收到外箱或商品破损，订单由 FBA 配送",
+      "template": "Hello! I'm very sorry that your FBA order arrived damaged.\n\nPlease send us:\n• A photo of the damaged item\n• A photo of the outer packaging\n• A brief description of the issue\n\nOnce we review the details, we will help guide you toward the most suitable resolution available for the order, such as return, replacement, or refund according to Amazon's process.",
+      "variables": [],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOumAgOasvuWIsOi0puW7tui/n+ivtOaYjg",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "退款到账延迟说明",
+      "scene": "Amazon 已显示 refunded，但客户账户未看到",
+      "template": "Hello! I checked your case and the refund has already been processed through Amazon.\n\nRefund details:\n• Order: [Order Number]\n• Amount: [Amount]\n• Refund date: [Date]\n\nEven after the refund is issued, your bank or card provider may need additional time to post it to your statement.\n\nIf the amount still does not appear after [Timeframe], please contact your payment provider and feel free to message us again if you need confirmation details for reference.",
+      "variables": [
+        "Order Number",
+        "Amount",
+        "Date",
+        "Timeframe"
       ],
       "sourcePath": "platforms/amazon/aftersales.md",
       "group": "platform",
@@ -3353,6 +3499,175 @@
         "Amount",
         "Link",
         "Store link"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDpXSVNNTyDlu7bov5/lronmipo",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "WISMO 延迟安抚",
+      "scene": "客户反复追问订单何时送达",
+      "template": "Hello! I completely understand why you're checking in on order #[Order Number].\n\nLatest Tracking Update:\n• Current status: [Status]\n• Last scan: [Date/Time]\n• Carrier: [Carrier Name]\n• Updated delivery estimate: [Date]\n\nAt the moment, the package is still moving through the carrier network, but the tracking has been slower than expected. We're actively monitoring it for you.\n\nIf there is no new movement by [Follow-up Date], we'll open a carrier investigation and discuss the next best solution with you right away.\n\nThank you for your patience. I know delays are frustrating, and we're staying on top of this for you.",
+      "variables": [
+        "Order Number",
+        "Status",
+        "Date/Time",
+        "Carrier Name",
+        "Date",
+        "Follow-up Date"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrpooTllK7orqLljZXlu7bmnJ/or7TmmI4",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "预售订单延期说明",
+      "scene": "预售或补货商品出库延期",
+      "template": "Hello! I'm reaching out with an update on your preorder/backorder item in order #[Order Number].\n\nOriginal ship date: [Original Date]\nNew ship date: [New Date]\nReason: [Reason]\n\nWe know this delay is disappointing, and we're very sorry. Your order is still reserved and will be fulfilled in priority sequence once stock is ready.\n\nIf you'd rather not wait, we can also help with:\n• Switching to a similar in-stock item\n• Converting the value to store credit\n• Cancelling for a full refund\n\nPlease let me know which option you prefer.",
+      "variables": [
+        "Order Number",
+        "Original Date",
+        "New Date",
+        "Reason"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrljIXoo7nmmL7npLrlt7LpgIHovr7kvYblrqLmiLfmnKrmlLbliLA",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "包裹显示已送达但客户未收到",
+      "scene": "客户称物流显示 delivered 但实际未收到",
+      "template": "Hello! I'm sorry to hear that order #[Order Number] shows as delivered but hasn't reached you yet.\n\nPlease try these quick checks first:\n1) Check around your mailbox, front desk, porch, or side entrance\n2) Ask household members or neighbors whether they accepted it\n3) Wait 24 hours, as some carriers mark packages delivered slightly early\n\nIf it still doesn't appear after [Timeframe], reply here and we'll help you open a carrier trace and review the best next step, such as a replacement or refund based on the investigation.\n\nWe'll do our best to help resolve this quickly.",
+      "variables": [
+        "Order Number",
+        "Timeframe"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrnianmtYHlgZzmu57otoXov4cgMyDlpKk",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "物流停滞超过 3 天",
+      "scene": "跟踪长时间无更新，需要主动解释",
+      "template": "Hello! I checked order #[Order Number], and I can confirm the tracking has not updated since [Date].\n\nCurrent carrier status: [Status]\nTracking number: [Tracking Number]\n\nThis usually means the package is waiting for the next carrier scan or transfer between hubs. We've already flagged it for follow-up.\n\nOur next step:\n• Monitor for a fresh scan within [Timeframe]\n• Contact the carrier if there is still no movement\n• Offer a replacement or refund if the shipment is confirmed lost\n\nI'll keep you posted as soon as we have another update.",
+      "variables": [
+        "Order Number",
+        "Date",
+        "Status",
+        "Tracking Number",
+        "Timeframe"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrmi5LmlLbpgIDlm57or7TmmI4",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "拒收退回说明",
+      "scene": "客户想拒收包裹并了解退款时间",
+      "template": "Hello! If you'd like to refuse delivery for order #[Order Number], that's okay.\n\nPlease note:\n• Refused packages are sent back by the carrier\n• Refunds are usually processed after the return is marked received\n• Return transit time depends on the carrier and destination\n\nOnce the package is returned to us, we'll review it and process your refund to [Original Payment Method]. I'll be happy to help track the return progress for you if needed.",
+      "variables": [
+        "Order Number",
+        "Original Payment Method"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrlnLDlnYDplJnor6/lr7zoh7TpgIDlm54",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "地址错误导致退回",
+      "scene": "包裹因地址问题被退回仓库",
+      "template": "Hello! I checked order #[Order Number], and it looks like the shipment is being returned due to an address issue.\n\nCarrier note: [Carrier Note]\n\nWe can help in either of these ways:\n• Reship the order to the corrected address: [New Address]\n• Cancel the order and issue a refund once the return is received\n\nPlease confirm your preferred option, and we'll handle it from there as quickly as possible.",
+      "variables": [
+        "Order Number",
+        "Carrier Note",
+        "New Address"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrpgIDmrL7lt7Llj5HotbfkvYbpk7booYzmnKrliLDotKY",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "退款已发起但银行未到账",
+      "scene": "客户说退款状态显示成功但账户没收到",
+      "template": "Hello! I checked order #[Order Number], and your refund was processed on [Date].\n\nRefund summary:\n• Amount: [Amount]\n• Method: [Payment Method]\n• Reference: [Reference ID if available]\n\nEven after a refund is issued on our side, banks and payment providers may need [Timeframe] to post it to your account.\n\nIf you still don't see it after that window, please contact your payment provider with the refund date above, and let us know if you'd like us to provide confirmation details.",
+      "variables": [
+        "Order Number",
+        "Date",
+        "Amount",
+        "Payment Method",
+        "Reference ID if available",
+        "Timeframe"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrpgIDotKflt7LmlLbliLDlvoXotKjmo4A",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "退货已收到待质检",
+      "scene": "客户询问退货包裹已送达后为何还未退款",
+      "template": "Hello! Thanks for checking in on your return for order #[Order Number].\n\nOur system shows the return package was delivered on [Date], and it is currently waiting for inspection.\n\nNext steps:\n• Return inspection: [Timeframe]\n• Refund processing: [Timeframe]\n• Final posting to your account: depends on your payment provider\n\nWe understand you're waiting on the refund, and we'll move it through as quickly as possible. If you'd like, I can also help monitor the case and update you once the inspection is complete.",
+      "variables": [
+        "Order Number",
+        "Date",
+        "Timeframe"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrlupfpk7rkv6HnlKjooaXlgb8",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "店铺信用补偿",
+      "scene": "不适合现金退款时提供 store credit",
+      "template": "Hello! I'm sorry again for the inconvenience with order #[Order Number].\n\nTo help make this right, we can offer store credit of [Amount], which you can use toward any future purchase on our site.\n\nStore credit details:\n• Amount: [Amount]\n• Valid until: [Date]\n• Applies to: [Eligible Products or Conditions]\n\nIf you'd prefer a different solution, such as a return or partial refund, let me know and I'll walk through the options with you.",
+      "variables": [
+        "Order Number",
+        "Amount",
+        "Date",
+        "Eligible Products or Conditions"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrmjaLotKfnvLrotKfmm7/ku6PmjqjojZA",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "换货缺货替代推荐",
+      "scene": "客户想换货，但原款缺货",
+      "template": "Hello! I checked the exchange request for order #[Order Number], and the requested replacement item is currently out of stock.\n\nHere are the best alternatives:\n• Option 1: [Alternative Product A]\n• Option 2: [Alternative Product B]\n• Option 3: Wait for restock around [Restock Date]\n\nIf none of these work for you, we can also proceed with a full return and refund.\n\nPlease tell me which option you'd prefer, and I'll take care of the next step for you.",
+      "variables": [
+        "Order Number",
+        "Alternative Product A",
+        "Alternative Product B",
+        "Restock Date"
       ],
       "sourcePath": "platforms/shopify/aftersales.md",
       "group": "platform",

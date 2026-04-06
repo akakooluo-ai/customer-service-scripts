@@ -110,6 +110,185 @@ Hello! I wanted to follow up on your recent purchase of [Product Name]. How are 
 
 ---
 
+## 11. FBA 配送延迟说明
+
+**适用场景：** Amazon FBA 订单送达时间晚于预期
+
+```
+Hello! I checked your order and can confirm that the shipment is currently delayed in Amazon's fulfillment network.
+
+Current status: [Status]
+Latest update: [Date/Time]
+New estimated delivery date: [Date]
+
+Because this order is handled through Amazon fulfillment, delivery timing is controlled by Amazon's logistics system. We are still monitoring the case closely from our side.
+
+If the package does not arrive by [Follow-up Date], please message us again and we will help review the next available resolution under Amazon's process.
+```
+
+---
+
+## 12. WISMO 跟进回复
+
+**适用场景：** 客户询问“我的订单到哪里了”
+
+```
+Hello! Thank you for checking in on your order.
+
+According to the latest Amazon tracking update:
+• Order number: [Order Number]
+• Current status: [Status]
+• Last scan: [Date/Time]
+• Estimated delivery: [Date]
+
+At this time, the package is still in transit. Tracking updates can occasionally pause between scans, but this does not always mean there is a problem.
+
+If there is still no delivery or new tracking movement after [Timeframe], please let us know and we will continue assisting you.
+```
+
+---
+
+## 13. A-to-z 索赔降级沟通
+
+**适用场景：** 客户准备发起索赔前先尝试协商
+
+```
+Hello! I understand your concern and truly want to help resolve this as quickly as possible.
+
+Before you take any further steps, please share the exact issue with the order, along with photos if relevant. Once we review the details, we will respond with the most appropriate solution available, such as replacement, refund, or return guidance in line with Amazon policy.
+
+We appreciate the chance to address this for you directly and will do our best to make the process smooth.
+```
+
+---
+
+## 14. A-to-z 已开启后的材料引导
+
+**适用场景：** 客户已经开启 A-to-z，需要说明后续
+
+```
+Hello! I understand that an A-to-z Guarantee claim has already been opened for this order.
+
+To help the review move forward smoothly, please make sure all relevant details are included in the claim, such as:
+• A short description of the issue
+• Photos or screenshots if applicable
+• The resolution you are seeking
+
+Amazon will review the case based on the order details and evidence provided. We will also cooperate fully within Amazon's process.
+```
+
+---
+
+## 15. 已送达未收到
+
+**适用场景：** Amazon 显示 delivered，但客户说没收到
+
+```
+Hello! I'm sorry to hear that the order shows as delivered but you have not received it.
+
+Please first check:
+• Around your mailbox, porch, front desk, or reception
+• With family members, neighbors, or building staff
+• Whether Amazon marked it delivered slightly early and it arrives within 24 hours
+
+If it still does not appear after [Timeframe], please contact us again through Amazon messages, and we will help guide you through the next step within Amazon's support process.
+```
+
+---
+
+## 16. 部分退款确认
+
+**适用场景：** 客户同意保留商品并接受部分退款
+
+```
+Hello! Thank you for confirming that a partial refund works for you.
+
+We will now submit a partial refund request for:
+• Order: [Order Number]
+• Amount: [Amount]
+• Reason: [Reason]
+
+Once processed, the refund will be sent back to your original payment method through Amazon. Posting time may vary depending on your payment provider.
+
+If you need anything else, feel free to message us.
+```
+
+---
+
+## 17. 退货在途说明
+
+**适用场景：** 客户已经寄回商品，询问何时退款
+
+```
+Hello! Thank you for the return update.
+
+At the moment, your return is still in transit / being processed by Amazon's return system.
+
+In most cases:
+• The return is scanned on arrival
+• The item is inspected
+• The refund is then issued to the original payment method
+
+If you do not see a refund update after [Timeframe], please let us know and we will help you review the case.
+```
+
+---
+
+## 18. 更换方案说明
+
+**适用场景：** 客户想更换尺码或款式
+
+```
+Hello! I understand you'd like a different size or variation.
+
+On Amazon, exchanges are usually handled by returning the current item and placing a new order for the preferred option.
+
+Recommended steps:
+1. Start the return from "Your Orders"
+2. Choose the return reason
+3. Place a new order for [Replacement Option]
+
+If you'd like, I can also help confirm whether the replacement option is currently available before you reorder.
+```
+
+---
+
+## 19. FBA 破损包裹处理
+
+**适用场景：** 客户收到外箱或商品破损，订单由 FBA 配送
+
+```
+Hello! I'm very sorry that your FBA order arrived damaged.
+
+Please send us:
+• A photo of the damaged item
+• A photo of the outer packaging
+• A brief description of the issue
+
+Once we review the details, we will help guide you toward the most suitable resolution available for the order, such as return, replacement, or refund according to Amazon's process.
+```
+
+---
+
+## 20. 退款到账延迟说明
+
+**适用场景：** Amazon 已显示 refunded，但客户账户未看到
+
+```
+Hello! I checked your case and the refund has already been processed through Amazon.
+
+Refund details:
+• Order: [Order Number]
+• Amount: [Amount]
+• Refund date: [Date]
+
+Even after the refund is issued, your bank or card provider may need additional time to post it to your statement.
+
+If the amount still does not appear after [Timeframe], please contact your payment provider and feel free to message us again if you need confirmation details for reference.
+```
+
+---
+
 ## 使用技巧
 
 1. **快速响应**：Amazon 要求 24 小时内回复，A-to-Z 索赔要在 48 小时内响应

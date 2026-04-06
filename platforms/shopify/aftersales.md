@@ -10,7 +10,7 @@
 
 ---
 
-## Shopify 售后话术列表（共 10 条）
+## Shopify 售后话术列表（共 20 条）
 
 ### 1. 退货政策说明
 
@@ -220,6 +220,203 @@ Free shipping on orders over [Amount]
 Shop now: [Store link]
 
 We look forward to serving you again!
+```
+
+---
+
+### 11. WISMO 延迟安抚
+
+**适用场景：** 客户反复追问订单何时送达
+
+```
+Hello! I completely understand why you're checking in on order #[Order Number].
+
+Latest Tracking Update:
+• Current status: [Status]
+• Last scan: [Date/Time]
+• Carrier: [Carrier Name]
+• Updated delivery estimate: [Date]
+
+At the moment, the package is still moving through the carrier network, but the tracking has been slower than expected. We're actively monitoring it for you.
+
+If there is no new movement by [Follow-up Date], we'll open a carrier investigation and discuss the next best solution with you right away.
+
+Thank you for your patience. I know delays are frustrating, and we're staying on top of this for you.
+```
+
+---
+
+### 12. 预售订单延期说明
+
+**适用场景：** 预售或补货商品出库延期
+
+```
+Hello! I'm reaching out with an update on your preorder/backorder item in order #[Order Number].
+
+Original ship date: [Original Date]
+New ship date: [New Date]
+Reason: [Reason]
+
+We know this delay is disappointing, and we're very sorry. Your order is still reserved and will be fulfilled in priority sequence once stock is ready.
+
+If you'd rather not wait, we can also help with:
+• Switching to a similar in-stock item
+• Converting the value to store credit
+• Cancelling for a full refund
+
+Please let me know which option you prefer.
+```
+
+---
+
+### 13. 包裹显示已送达但客户未收到
+
+**适用场景：** 客户称物流显示 delivered 但实际未收到
+
+```
+Hello! I'm sorry to hear that order #[Order Number] shows as delivered but hasn't reached you yet.
+
+Please try these quick checks first:
+1) Check around your mailbox, front desk, porch, or side entrance
+2) Ask household members or neighbors whether they accepted it
+3) Wait 24 hours, as some carriers mark packages delivered slightly early
+
+If it still doesn't appear after [Timeframe], reply here and we'll help you open a carrier trace and review the best next step, such as a replacement or refund based on the investigation.
+
+We'll do our best to help resolve this quickly.
+```
+
+---
+
+### 14. 物流停滞超过 3 天
+
+**适用场景：** 跟踪长时间无更新，需要主动解释
+
+```
+Hello! I checked order #[Order Number], and I can confirm the tracking has not updated since [Date].
+
+Current carrier status: [Status]
+Tracking number: [Tracking Number]
+
+This usually means the package is waiting for the next carrier scan or transfer between hubs. We've already flagged it for follow-up.
+
+Our next step:
+• Monitor for a fresh scan within [Timeframe]
+• Contact the carrier if there is still no movement
+• Offer a replacement or refund if the shipment is confirmed lost
+
+I'll keep you posted as soon as we have another update.
+```
+
+---
+
+### 15. 拒收退回说明
+
+**适用场景：** 客户想拒收包裹并了解退款时间
+
+```
+Hello! If you'd like to refuse delivery for order #[Order Number], that's okay.
+
+Please note:
+• Refused packages are sent back by the carrier
+• Refunds are usually processed after the return is marked received
+• Return transit time depends on the carrier and destination
+
+Once the package is returned to us, we'll review it and process your refund to [Original Payment Method]. I'll be happy to help track the return progress for you if needed.
+```
+
+---
+
+### 16. 地址错误导致退回
+
+**适用场景：** 包裹因地址问题被退回仓库
+
+```
+Hello! I checked order #[Order Number], and it looks like the shipment is being returned due to an address issue.
+
+Carrier note: [Carrier Note]
+
+We can help in either of these ways:
+• Reship the order to the corrected address: [New Address]
+• Cancel the order and issue a refund once the return is received
+
+Please confirm your preferred option, and we'll handle it from there as quickly as possible.
+```
+
+---
+
+### 17. 退款已发起但银行未到账
+
+**适用场景：** 客户说退款状态显示成功但账户没收到
+
+```
+Hello! I checked order #[Order Number], and your refund was processed on [Date].
+
+Refund summary:
+• Amount: [Amount]
+• Method: [Payment Method]
+• Reference: [Reference ID if available]
+
+Even after a refund is issued on our side, banks and payment providers may need [Timeframe] to post it to your account.
+
+If you still don't see it after that window, please contact your payment provider with the refund date above, and let us know if you'd like us to provide confirmation details.
+```
+
+---
+
+### 18. 退货已收到待质检
+
+**适用场景：** 客户询问退货包裹已送达后为何还未退款
+
+```
+Hello! Thanks for checking in on your return for order #[Order Number].
+
+Our system shows the return package was delivered on [Date], and it is currently waiting for inspection.
+
+Next steps:
+• Return inspection: [Timeframe]
+• Refund processing: [Timeframe]
+• Final posting to your account: depends on your payment provider
+
+We understand you're waiting on the refund, and we'll move it through as quickly as possible. If you'd like, I can also help monitor the case and update you once the inspection is complete.
+```
+
+---
+
+### 19. 店铺信用补偿
+
+**适用场景：** 不适合现金退款时提供 store credit
+
+```
+Hello! I'm sorry again for the inconvenience with order #[Order Number].
+
+To help make this right, we can offer store credit of [Amount], which you can use toward any future purchase on our site.
+
+Store credit details:
+• Amount: [Amount]
+• Valid until: [Date]
+• Applies to: [Eligible Products or Conditions]
+
+If you'd prefer a different solution, such as a return or partial refund, let me know and I'll walk through the options with you.
+```
+
+---
+
+### 20. 换货缺货替代推荐
+
+**适用场景：** 客户想换货，但原款缺货
+
+```
+Hello! I checked the exchange request for order #[Order Number], and the requested replacement item is currently out of stock.
+
+Here are the best alternatives:
+• Option 1: [Alternative Product A]
+• Option 2: [Alternative Product B]
+• Option 3: Wait for restock around [Restock Date]
+
+If none of these work for you, we can also proceed with a full return and refund.
+
+Please tell me which option you'd prefer, and I'll take care of the next step for you.
 ```
 
 ---
