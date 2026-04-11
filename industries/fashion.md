@@ -249,6 +249,54 @@ Need personal styling advice? DM us! 👗
 
 ---
 
+## 16. 色差投诉（光线与显示器）说明
+
+**适用场景：** 客户称实物颜色与图片差异大，需降级冲突、提供换货选项
+
+```
+Hi! I'm sorry the color didn't match what you imagined.
+
+We photograph in [studio/natural] light, but monitors and phone screens can shift how colors look. If the item is unworn with tags, we can help with: [Exchange for another color] or [Return for refund] within [Days] days.
+
+If you can share a photo of the item next to natural daylight, we can double-check whether it matches our QC reference. Either way, we'll make the return/exchange process simple.
+```
+
+---
+
+## 17. 预售多次延期道歉与补偿
+
+**适用场景：** 预售款交期一再推迟，客户情绪激动
+
+```
+I'm truly sorry — your preorder for [Item] has been delayed again. The revised ship date is now [Date], because [Reason: fabric delay / port / production].
+
+We know this is frustrating. To make it right:
+• [Compensation: discount / shipping upgrade / small gift]
+• You may also cancel for a full refund at any time before shipment — just say the word.
+
+If you'd like to keep the order, we'll send a tracking link the moment it ships and prioritize your package.
+```
+
+---
+
+## 18. 洗涤后缩水是否质量问题
+
+**适用场景：** 客户按说明洗涤后仍缩水，质疑面料或描述
+
+```
+Hello! Thanks for letting us know about shrinkage after washing.
+
+If care instructions were followed ([Machine wash cold / line dry, etc.]) and shrinkage is beyond normal tolerance for this fabric, we'll treat it as a quality issue: [Replacement / Refund / Partial refund].
+
+Please share:
+• Photos with a ruler measurement (chest/length)
+• Which wash cycle and temperature you used
+
+If care instructions weren't followed, we may not be able to cover it — but I'll still suggest [restretch tips / professional alteration credit] if helpful.
+```
+
+---
+
 ## 使用技巧
 
 1. **尺码推荐**：主动询问客户身材数据，给出专业推荐

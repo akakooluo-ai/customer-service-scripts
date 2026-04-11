@@ -289,6 +289,155 @@ If the amount still does not appear after [Timeframe], please contact your payme
 
 ---
 
+## 21. 承诺送达日未送达询问
+
+**适用场景：** 客户引用承诺送达日（delivery promise）询问赔偿或进度
+
+```
+Hello! Thank you for your message about order [Order Number].
+
+I reviewed the latest tracking information:
+• Current status: [Status]
+• Latest carrier update: [Date/Time]
+• Revised estimated delivery: [Date]
+
+Because Amazon fulfillment and carrier operations can shift during transit, delivery dates may update as the package moves. If the shipment becomes significantly delayed or shows an exception, please message us again with a screenshot of the tracking page and we will help review the available resolution options under Amazon's policies.
+```
+
+---
+
+## 22. 已发货后买家申请取消
+
+**适用场景：** 包裹已在途，客户要求取消订单
+
+```
+Hello! I understand you'd like to cancel order [Order Number].
+
+At this moment the shipment status is [Shipped/In transit/Delivered]. Once an order has shipped, cancellation is usually not possible through the seller side.
+
+If you no longer want the item, the fastest path is to refuse delivery (if available in your region) or use the return option in your Amazon account under "Your Orders" once delivered. If you tell me your current tracking status, I can point you to the most suitable next step.
+```
+
+---
+
+## 23. 企业买家发票信息
+
+**适用场景：** Amazon Business 客户索要发票或税号信息
+
+```
+Hello! Thanks for reaching out about invoicing for order [Order Number].
+
+For Amazon Business purchases, invoice and tax details are often available directly in your Amazon account:
+• Go to "Your Orders" → select the order → "Invoice" (if available)
+
+If you need additional details such as [VAT/Tax ID/Company name], please tell us exactly what fields are required. We will provide what we can in line with Amazon's invoicing rules and respond within [Timeframe].
+```
+
+---
+
+## 24. 超过退货窗口的善意复核
+
+**适用场景：** 超过 30 天窗口，客户仍希望退货/退款
+
+```
+Hello! Thank you for explaining your situation regarding order [Order Number].
+
+The standard return window has passed, but we still want to review your request fairly. Please share:
+• A brief description of the issue
+• Photos (if quality-related)
+• The outcome you prefer (return/refund/replacement)
+
+We cannot guarantee an exception, but we will review and reply within [Timeframe] with the best available option under Amazon policy.
+```
+
+---
+
+## 25. 多渠道配送（MCF）延迟说明
+
+**适用场景：** 使用 MCF 的订单物流异常或延迟
+
+```
+Hello! I'm sorry for the delay with order [Order Number].
+
+This shipment is fulfilled through Amazon's multi-channel fulfillment network. Current tracking shows:
+• Status: [Status]
+• Last update: [Date/Time]
+
+We are monitoring the shipment closely. If tracking does not progress after [Timeframe], please message us again and we will help review next steps such as re-shipment or refund, depending on eligibility and Amazon's fulfillment outcome.
+```
+
+---
+
+## 26. Amazon Locker 取件问题
+
+**适用场景：** Locker 容量满、超时未取、取件码问题
+
+```
+Hello! I'm sorry for the trouble with your Amazon Locker delivery for order [Order Number].
+
+Locker issues are usually resolved quickest through your delivery instructions in "Your Orders" (for example: extend pickup window or redirect delivery if Amazon offers that option for your shipment).
+
+If you can share a screenshot of the error message and your current tracking status, I will help interpret the next step and guide you based on what Amazon shows for this shipment.
+```
+
+---
+
+## 27. 产品注册与厂保（非亚马逊渠道）
+
+**适用场景：** 客户询问序列号注册、厂家保修
+
+```
+Hello! Thanks for your message about warranty registration for [Product Name].
+
+Many brands handle registration and manufacturer warranty directly. If your package includes a warranty card or QR code, that is usually the fastest path.
+
+If you need purchase proof from Amazon, you can use your order invoice from "Your Orders". If you tell us what the manufacturer requires (for example: invoice PDF, serial number format), we will confirm what we can provide within Amazon messaging rules.
+```
+
+---
+
+## 28. 礼品留言缺失或错误
+
+**适用场景：** 客户投诉礼品留言未打印或内容错误
+
+```
+Hello! I'm very sorry that the gift message did not arrive as expected for order [Order Number].
+
+Please tell me what you expected to see versus what happened (missing/incorrect). If you have a photo of the packing slip or gift note area, that helps us review quickly.
+
+We will work to make this right under Amazon's policies, which may include [Refund/Replacement/Partial refund], depending on what is possible for this item and fulfillment type.
+```
+
+---
+
+## 29. 订阅省（S&S）发货与取消节奏
+
+**适用场景：** Subscribe & Save 频率、跳过、取消后仍发货的疑问
+
+```
+Hello! Thanks for your question about Subscribe & Save for order [Order Number].
+
+Delivery frequency and upcoming shipments are managed in your Amazon account under "Subscribe & Save". You can adjust delivery dates, skip a delivery, or cancel the subscription there.
+
+If a shipment already processed before the cancellation took effect, you can still use the normal return process for that delivery if it meets return eligibility. If you tell me the delivery date shown on the order, I can help confirm the most accurate next step.
+```
+
+---
+
+## 30. 安全-T / 卖家保护相关中性说明
+
+**适用场景：** 客户提及 SAFE-T；保持中性、引导按亚马逊流程处理
+
+```
+Hello! Thank you for your message regarding order [Order Number].
+
+Amazon provides buyer and seller protections through its standard programs and case review processes. If Amazon opens a case or request for documentation, the best path is to follow the instructions shown on the case page and provide any evidence requested (tracking, photos, messages).
+
+If you share the current case type/status you see in your account, I can help explain the typical timeline and what information is most helpful for review.
+```
+
+---
+
 ## 使用技巧
 
 1. **快速响应**：Amazon 要求 24 小时内回复，A-to-Z 索赔要在 48 小时内响应

@@ -223,6 +223,106 @@ We appreciate your business! 💙
 
 ---
 
+## 11. 物流严重延误（双语）
+
+**适用场景：** 客户投诉物流太慢，需中英同步安抚
+
+```
+Hello — we're very sorry your order #[Order Number] is taking longer than expected.
+
+Current tracking: [Carrier] [Tracking] — last update: [Date]. New ETA: [Date]. We know waiting is frustrating; we're monitoring daily.
+
+If it doesn't move by [Date], we'll [refund / reship / issue store credit] per our policy.
+
+您好，非常抱歉，您的订单 #[Order Number] 物流比预期更慢。
+
+当前物流：[Carrier] [Tracking]，上次更新：[Date]，目前预计送达：[Date]。我们理解等待很煎熬，会每日跟进。
+
+若 [Date] 前仍无有效更新，我们将按政策为您 [退款 / 补发 / 店铺积分补偿]。
+```
+
+---
+
+## 12. 错发商品（双语）
+
+**适用场景：** 客户收到错误 SKU，需道歉与换货/退款指引
+
+```
+Hello — we apologize: you received the wrong item for order #[Order Number].
+
+Please send a photo of what arrived + the packing slip. We'll send the correct item immediately and provide a prepaid return label (or let you keep the wrong item if it's low value).
+
+If you prefer a refund instead, we'll process it within [Timeframe].
+
+您好，非常抱歉，订单 #[Order Number] 我们发错了商品。
+
+请发来实物照片及面单信息。我们会立即补发正确商品，并提供预付退货运单（若货值较低也可能无需退回）。
+
+若您更希望直接退款，我们将在 [Timeframe] 内处理完毕。
+```
+
+---
+
+## 13. 态度投诉 / 升级前安抚（双语）
+
+**适用场景：** 客户不满客服态度或要投诉到平台
+
+```
+Hello — I'm sorry this experience felt dismissive or slow. That is not the standard we want for you.
+
+I'm taking ownership of your case for order #[Order Number]. Here's what I'll do next: [Step 1] by [Time], then [Step 2].
+
+If you'd still like to escalate, you have that right — but I'd really like one chance to fix this for you today.
+
+您好，若您感到被怠慢或回复不及时，我们真诚道歉，这不符合我们应提供的服务标准。
+
+我将亲自跟进您的订单 #[Order Number]。接下来我会：[步骤 1]（[时间] 前完成），然后 [步骤 2]。
+
+您当然有权继续向平台投诉，但我们非常希望先给您一个满意的解决方案。
+```
+
+---
+
+## 14. 部分退款协商（双语）
+
+**适用场景：** 轻微瑕疵或轻微延误，提议部分退款保留商品
+
+```
+Hello — thanks for your honesty about the issue with order #[Order Number].
+
+Because [reason: minor cosmetic flaw / small delay], we'd like to offer a partial refund of [Amount] while you keep the item. If that works, we'll issue it within [Timeframe].
+
+If you'd rather return for a full refund, we can do that too — tell me which you prefer.
+
+您好，感谢您如实说明订单 #[Order Number] 的情况。
+
+鉴于 [原因：轻微外观瑕疵 / 轻微延误等]，我们可为您提供 [金额] 的部分退款，商品无需退回。若同意，我们将在 [Timeframe] 内处理。
+
+若您更希望退货全额退款，也可以，请告知您的选择。
+```
+
+---
+
+## 15. 公开差评 / 社媒负面提及（双语）
+
+**适用场景：** 客户在社媒或差评区点名，邀请转私域处理
+
+```
+Hello — we saw your post about order #[Order Number]. I'm sorry you had to air this publicly to get attention.
+
+Please DM us here (or email [Email]) with your order number — we'll prioritize a resolution: [refund / replacement / credit] after a quick review.
+
+We appreciate the chance to make it right.
+
+您好，我们看到您关于订单 #[Order Number] 的公开反馈，很抱歉让您不得不通过这种方式引起注意。
+
+请私信我们或发送邮件至 [Email]，并附上订单号，我们会优先处理，并在快速核实后提供 [退款 / 换货 / 补偿] 等方案。
+
+感谢您愿意给我们一次补救的机会。
+```
+
+---
+
 ## 使用技巧
 
 1. **快速响应**：售后问题要在 24 小时内响应

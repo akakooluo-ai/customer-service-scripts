@@ -1,6 +1,6 @@
 # 电商客服话术大全 | E-commerce Customer Service Scripts
 
-> 🛒 专业的电商客服话术模板库，覆盖 Amazon、淘宝、京东、Shopee 等 11 大平台，以及服装、美妆、母婴、食品饮品等 34 个行业，已索引 1,325 条模板。
+> 🛒 专业的电商客服话术模板库，覆盖 Amazon、淘宝、京东、Shopee 等 11 大平台，以及服装、美妆、母婴、食品饮品等 34 个行业，已索引 1,360 条模板。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/akakooluo-ai/customer-service-scripts/pulls)
@@ -9,7 +9,7 @@
 ## 🌐 在线入口（Free Knowledge Base）
 
 - 立即使用（GitHub Pages）：[https://akakooluo-ai.github.io/customer-service-scripts/](https://akakooluo-ai.github.io/customer-service-scripts/) 
-  Search 1,300+ customer service templates online, fill variables, and generate ready-to-send replies.
+  Search 1,360+ customer service templates online, fill variables, and generate ready-to-send replies.
 - 升级自动化（TalkQ）：[https://www.talkq.vip](https://www.talkq.vip)
   Move from manual copy-and-send to AI reply automation, team collaboration, and workflow routing.
 
@@ -99,6 +99,9 @@ customer-service-scripts/
 - Added GitHub Pages live entry links and a 30-day growth task list
 - Confirmed `main` as the primary branch for GitHub Pages deployment
 - Improved the build pipeline so both `##` and `###` template headings are indexed into `docs/data/templates.json`
+- Added 10 Shopify and 10 Amazon after-sales templates (split shipments, Locker, MCF, pre-ship cancel, chargeback de-escalation, etc.) and rebuilt `docs/data/templates.json`
+- **2026-04-11:** Week 2 growth batch merged into repo (see **Progress log** table in [tasks/30-day-growth-tasks.md](tasks/30-day-growth-tasks.md))
+- **2026-04-11:** Week 3 — added industry templates (beauty +4, electronics +3, fashion +3), bilingual complaint/apology blocks in `general/aftersales.md` (+5), README comparison note, TalkQ CTA in `docs/index.html` footer
 
 30天持续更新任务清单：
 
@@ -113,7 +116,15 @@ customer-service-scripts/
 
 Template Mode is the fastest way to ship a reply. When a team needs more natural phrasing, multilingual adjustments, or context-aware rewrites, the built-in AI Mode can generate a refined response locally in the browser.
 
+**Quick comparison:** use **Template Mode** for regulated wording, refunds with fixed policy text, and anything you must audit later. Use **AI Mode** when you already picked a template but need a softer apology, a different language register, or a shorter SMS-style rewrite — still starting from the same `[Variable]` contract so facts stay consistent.
+
 Want batch automation, team collaboration, and workflow routing instead of one-by-one generation? Upgrade to [TalkQ](https://www.talkq.vip).
+
+### Use-case snapshot: shipping delay (before / after)
+
+**Before (vague):** “Your package is delayed. Please wait.”
+
+**After (template-driven):** Open `platforms/shopify/aftersales.md` → *WISMO 延迟安抚*, fill `[Order Number]`, `[Carrier]`, `[New ETA]`, and `[Compensation]` — you get a calm, step-by-step update customers can act on. The same pattern works for Amazon FBA delay scripts under `platforms/amazon/aftersales.md`.
 
 ## 📋 话术模板预览
 
@@ -138,15 +149,15 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 
 ## 📊 覆盖平台
 
-当前已覆盖 `11` 个电商平台，共 `350` 条平台模板。
+当前已覆盖 `11` 个电商平台，共 `370` 条平台模板。
 
 | 平台 | 售前 | 售中 | 售后 | 合计 |
 |-----|:---:|:---:|:---:|:---:|
-| [Amazon](platforms/amazon/) | [10](platforms/amazon/presales.md) | [10](platforms/amazon/sales.md) | [20](platforms/amazon/aftersales.md) | 40 |
+| [Amazon](platforms/amazon/) | [10](platforms/amazon/presales.md) | [10](platforms/amazon/sales.md) | [30](platforms/amazon/aftersales.md) | 50 |
 | [Shopee](platforms/shopee/) | [10](platforms/shopee/presales.md) | [10](platforms/shopee/sales.md) | [10](platforms/shopee/aftersales.md) | 30 |
 | [TikTok Shop](platforms/tiktok-shop/) | [10](platforms/tiktok-shop/presales.md) | [10](platforms/tiktok-shop/sales.md) | [10](platforms/tiktok-shop/aftersales.md) | 30 |
 | [eBay](platforms/ebay/) | [10](platforms/ebay/presales.md) | [10](platforms/ebay/sales.md) | [10](platforms/ebay/aftersales.md) | 30 |
-| [Shopify](platforms/shopify/) | [10](platforms/shopify/presales.md) | [10](platforms/shopify/sales.md) | [20](platforms/shopify/aftersales.md) | 40 |
+| [Shopify](platforms/shopify/) | [10](platforms/shopify/presales.md) | [10](platforms/shopify/sales.md) | [30](platforms/shopify/aftersales.md) | 50 |
 | [AliExpress](platforms/aliexpress/) | [10](platforms/aliexpress/presales.md) | [10](platforms/aliexpress/sales.md) | [10](platforms/aliexpress/aftersales.md) | 30 |
 | [Lazada](platforms/lazada/) | [10](platforms/lazada/presales.md) | [10](platforms/lazada/sales.md) | [10](platforms/lazada/aftersales.md) | 30 |
 | [Wish](platforms/wish/) | [10](platforms/wish/presales.md) | [10](platforms/wish/sales.md) | [10](platforms/wish/aftersales.md) | 30 |
@@ -158,7 +169,7 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 
 ## 🏭 覆盖行业
 
-当前已覆盖 `34` 个行业，共 `945` 条行业模板。
+当前已覆盖 `34` 个行业，共 `955` 条行业模板。
 
 <table>
 <tr>
@@ -167,7 +178,7 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 **👗 服饰鞋包**
 | 行业 | 数量 | 链接 |
 |-----|:---:|:---:|
-| 服装行业 | 15 | [查看](industries/fashion.md) |
+| 服装行业 | 18 | [查看](industries/fashion.md) |
 | 女装 | 30 | [查看](industries/womens-clothing.md) |
 | 男装 | 30 | [查看](industries/mens-clothing.md) |
 | 童装 | 30 | [查看](industries/kids-clothing.md) |
@@ -188,7 +199,7 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 **💄 美妆护肤**
 | 行业 | 数量 | 链接 |
 |-----|:---:|:---:|
-| 美妆护肤 | 15 | [查看](industries/beauty.md) |
+| 美妆护肤 | 19 | [查看](industries/beauty.md) |
 | 护肤品 | 30 | [查看](industries/skincare.md) |
 | 彩妆 | 30 | [查看](industries/makeup.md) |
 | 香水 | 30 | [查看](industries/perfume.md) |
@@ -212,7 +223,7 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 **🏠 家居数码**
 | 行业 | 数量 | 链接 |
 |-----|:---:|:---:|
-| 电子产品 | 15 | [查看](industries/electronics.md) |
+| 电子产品 | 18 | [查看](industries/electronics.md) |
 | 家居用品 | 15 | [查看](industries/home.md) |
 | 户外运动 | 15 | [查看](industries/outdoor.md) |
 

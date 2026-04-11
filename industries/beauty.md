@@ -255,6 +255,71 @@ Questions about your routine? We love helping! 💆‍♀️
 
 ---
 
+## 16. 高温融化 / 膏体变形说明
+
+**适用场景：** 客户投诉口红、膏霜夏季运输后软化、断裂或渗油
+
+```
+Hi! I'm really sorry your [Product name] arrived looking different than expected.
+
+Warm weather can temporarily soften some formulas during shipping. Please try:
+1) Place it upright in a cool place for [Hours] hours (not the freezer unless the label allows it)
+2) If it's a stick product, lightly set the tip back into the base if it shifted
+
+If texture, scent, or performance still seems off after it stabilizes, send photos and your order number — we'll replace it or refund you. Your safety and satisfaction come first.
+```
+
+---
+
+## 17. 色号不符 / 选色失误安抚
+
+**适用场景：** 客户认为粉底、唇釉等色号与网页或预期不符
+
+```
+Hello! Thank you for telling us about the shade issue with [Product].
+
+Color can look different under lighting, screen calibration, and skin undertone. To help right away, I'd like to offer:
+• [Option A: exchange for shade X]
+• [Option B: store credit of Amount]
+• [Option C: mini sample bundle to find a better match]
+
+If you can share a quick photo in natural light (optional), we can recommend the closest match for your undertone. Either way, we'll make this easy for you.
+```
+
+---
+
+## 18. 漏液 / 包装破损道歉与补发
+
+**适用场景：** 外盒或瓶口渗漏、泵头损坏导致漏液
+
+```
+I'm very sorry your order arrived with leakage or damaged packaging — that's not acceptable.
+
+Please send:
+• Photos of the outer box and the product
+• A short note of how much product was lost (estimate is fine)
+
+We'll immediately arrange: [Replacement / Refund / Partial refund + keep item] — whichever you prefer — and flag this batch with our warehouse. Thank you for your patience.
+```
+
+---
+
+## 19. 刺痛 / 发热感（非过敏）使用指导
+
+**适用场景：** 客户首次使用酸类、A 醇等出现短暂刺痛，需专业安抚与观察指引
+
+```
+Hi! Thanks for reaching out about the tingling from [Product/ingredient].
+
+Some active formulas can cause brief tingling the first few uses, especially if the skin barrier is dry or you're new to actives. Please pause use for [48 hours] and focus on gentle moisturizer + SPF.
+
+If you notice rash, swelling, widespread redness, or pain, stop using it and seek medical advice if needed — and message us with photos so we can help with a return/refund.
+
+If it's only mild tingling that fades within minutes, try introducing it [Frequency, e.g., every other night] and avoid stacking with [Other strong actives]. I'm happy to tailor a simple routine plan.
+```
+
+---
+
 ## 使用技巧
 
 1. **成分透明**：成分信息要准确，避免隐瞒可能致敏成分

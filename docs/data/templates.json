@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-06T09:15:13.724Z",
-  "count": 1325,
+  "generatedAt": "2026-04-11T02:14:01.003Z",
+  "count": 1360,
   "groups": [
     "general",
     "industry",
@@ -205,6 +205,96 @@
       "template": "Hi! Just following up on your recent order. 😊\n\nI wanted to make sure:\n✓ You received your [replacement/refund]\n✓ Everything is working well\n✓ You're satisfied with the resolution\n\nIs there anything else I can help with?\n\nThank you for your patience and understanding!\nWe appreciate your business! 💙",
       "variables": [
         "replacement/refund"
+      ],
+      "sourcePath": "general/aftersales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9hZnRlcnNhbGVzLm1kOueJqea1geS4pemHjeW7tuivr++8iOWPjOivre+8iQ",
+      "pageTitle": "通用售后客服话术",
+      "sectionTitle": "物流严重延误（双语）",
+      "scene": "客户投诉物流太慢，需中英同步安抚",
+      "template": "Hello — we're very sorry your order #[Order Number] is taking longer than expected.\n\nCurrent tracking: [Carrier] [Tracking] — last update: [Date]. New ETA: [Date]. We know waiting is frustrating; we're monitoring daily.\n\nIf it doesn't move by [Date], we'll [refund / reship / issue store credit] per our policy.\n\n您好，非常抱歉，您的订单 #[Order Number] 物流比预期更慢。\n\n当前物流：[Carrier] [Tracking]，上次更新：[Date]，目前预计送达：[Date]。我们理解等待很煎熬，会每日跟进。\n\n若 [Date] 前仍无有效更新，我们将按政策为您 [退款 / 补发 / 店铺积分补偿]。",
+      "variables": [
+        "Order Number",
+        "Carrier",
+        "Tracking",
+        "Date",
+        "refund / reship / issue store credit",
+        "退款 / 补发 / 店铺积分补偿"
+      ],
+      "sourcePath": "general/aftersales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9hZnRlcnNhbGVzLm1kOumUmeWPkeWVhuWTge+8iOWPjOivre+8iQ",
+      "pageTitle": "通用售后客服话术",
+      "sectionTitle": "错发商品（双语）",
+      "scene": "客户收到错误 SKU，需道歉与换货/退款指引",
+      "template": "Hello — we apologize: you received the wrong item for order #[Order Number].\n\nPlease send a photo of what arrived + the packing slip. We'll send the correct item immediately and provide a prepaid return label (or let you keep the wrong item if it's low value).\n\nIf you prefer a refund instead, we'll process it within [Timeframe].\n\n您好，非常抱歉，订单 #[Order Number] 我们发错了商品。\n\n请发来实物照片及面单信息。我们会立即补发正确商品，并提供预付退货运单（若货值较低也可能无需退回）。\n\n若您更希望直接退款，我们将在 [Timeframe] 内处理完毕。",
+      "variables": [
+        "Order Number",
+        "Timeframe"
+      ],
+      "sourcePath": "general/aftersales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9hZnRlcnNhbGVzLm1kOuaAgeW6puaKleiviSAvIOWNh+e6p+WJjeWuieaKmu+8iOWPjOivre+8iQ",
+      "pageTitle": "通用售后客服话术",
+      "sectionTitle": "态度投诉 / 升级前安抚（双语）",
+      "scene": "客户不满客服态度或要投诉到平台",
+      "template": "Hello — I'm sorry this experience felt dismissive or slow. That is not the standard we want for you.\n\nI'm taking ownership of your case for order #[Order Number]. Here's what I'll do next: [Step 1] by [Time], then [Step 2].\n\nIf you'd still like to escalate, you have that right — but I'd really like one chance to fix this for you today.\n\n您好，若您感到被怠慢或回复不及时，我们真诚道歉，这不符合我们应提供的服务标准。\n\n我将亲自跟进您的订单 #[Order Number]。接下来我会：[步骤 1]（[时间] 前完成），然后 [步骤 2]。\n\n您当然有权继续向平台投诉，但我们非常希望先给您一个满意的解决方案。",
+      "variables": [
+        "Order Number",
+        "Step 1",
+        "Time",
+        "Step 2",
+        "步骤 1",
+        "时间",
+        "步骤 2"
+      ],
+      "sourcePath": "general/aftersales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9hZnRlcnNhbGVzLm1kOumDqOWIhumAgOasvuWNj+WVhu+8iOWPjOivre+8iQ",
+      "pageTitle": "通用售后客服话术",
+      "sectionTitle": "部分退款协商（双语）",
+      "scene": "轻微瑕疵或轻微延误，提议部分退款保留商品",
+      "template": "Hello — thanks for your honesty about the issue with order #[Order Number].\n\nBecause [reason: minor cosmetic flaw / small delay], we'd like to offer a partial refund of [Amount] while you keep the item. If that works, we'll issue it within [Timeframe].\n\nIf you'd rather return for a full refund, we can do that too — tell me which you prefer.\n\n您好，感谢您如实说明订单 #[Order Number] 的情况。\n\n鉴于 [原因：轻微外观瑕疵 / 轻微延误等]，我们可为您提供 [金额] 的部分退款，商品无需退回。若同意，我们将在 [Timeframe] 内处理。\n\n若您更希望退货全额退款，也可以，请告知您的选择。",
+      "variables": [
+        "Order Number",
+        "reason: minor cosmetic flaw / small delay",
+        "Amount",
+        "Timeframe",
+        "原因：轻微外观瑕疵 / 轻微延误等",
+        "金额"
+      ],
+      "sourcePath": "general/aftersales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9hZnRlcnNhbGVzLm1kOuWFrOW8gOW3ruivhCAvIOekvuWqkui0n+mdouaPkOWPiu+8iOWPjOivre+8iQ",
+      "pageTitle": "通用售后客服话术",
+      "sectionTitle": "公开差评 / 社媒负面提及（双语）",
+      "scene": "客户在社媒或差评区点名，邀请转私域处理",
+      "template": "Hello — we saw your post about order #[Order Number]. I'm sorry you had to air this publicly to get attention.\n\nPlease DM us here (or email [Email]) with your order number — we'll prioritize a resolution: [refund / replacement / credit] after a quick review.\n\nWe appreciate the chance to make it right.\n\n您好，我们看到您关于订单 #[Order Number] 的公开反馈，很抱歉让您不得不通过这种方式引起注意。\n\n请私信我们或发送邮件至 [Email]，并附上订单号，我们会优先处理，并在快速核实后提供 [退款 / 换货 / 补偿] 等方案。\n\n感谢您愿意给我们一次补救的机会。",
+      "variables": [
+        "Order Number",
+        "Email",
+        "refund / replacement / credit",
+        "退款 / 换货 / 补偿"
       ],
       "sourcePath": "general/aftersales.md",
       "group": "general",
@@ -1345,6 +1435,157 @@
         "Amount",
         "Date",
         "Timeframe"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOuaJv+ivuumAgei+vuaXpeacqumAgei+vuivoumXrg",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "承诺送达日未送达询问",
+      "scene": "客户引用承诺送达日（delivery promise）询问赔偿或进度",
+      "template": "Hello! Thank you for your message about order [Order Number].\n\nI reviewed the latest tracking information:\n• Current status: [Status]\n• Latest carrier update: [Date/Time]\n• Revised estimated delivery: [Date]\n\nBecause Amazon fulfillment and carrier operations can shift during transit, delivery dates may update as the package moves. If the shipment becomes significantly delayed or shows an exception, please message us again with a screenshot of the tracking page and we will help review the available resolution options under Amazon's policies.",
+      "variables": [
+        "Order Number",
+        "Status",
+        "Date/Time",
+        "Date"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOuW3suWPkei0p+WQjuS5sOWutueUs+ivt+WPlua2iA",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "已发货后买家申请取消",
+      "scene": "包裹已在途，客户要求取消订单",
+      "template": "Hello! I understand you'd like to cancel order [Order Number].\n\nAt this moment the shipment status is [Shipped/In transit/Delivered]. Once an order has shipped, cancellation is usually not possible through the seller side.\n\nIf you no longer want the item, the fastest path is to refuse delivery (if available in your region) or use the return option in your Amazon account under \"Your Orders\" once delivered. If you tell me your current tracking status, I can point you to the most suitable next step.",
+      "variables": [
+        "Order Number",
+        "Shipped/In transit/Delivered"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOuS8geS4muS5sOWutuWPkeelqOS/oeaBrw",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "企业买家发票信息",
+      "scene": "Amazon Business 客户索要发票或税号信息",
+      "template": "Hello! Thanks for reaching out about invoicing for order [Order Number].\n\nFor Amazon Business purchases, invoice and tax details are often available directly in your Amazon account:\n• Go to \"Your Orders\" → select the order → \"Invoice\" (if available)\n\nIf you need additional details such as [VAT/Tax ID/Company name], please tell us exactly what fields are required. We will provide what we can in line with Amazon's invoicing rules and respond within [Timeframe].",
+      "variables": [
+        "Order Number",
+        "VAT/Tax ID/Company name",
+        "Timeframe"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOui2hei/h+mAgOi0p+eql+WPo+eahOWWhOaEj+WkjeaguA",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "超过退货窗口的善意复核",
+      "scene": "超过 30 天窗口，客户仍希望退货/退款",
+      "template": "Hello! Thank you for explaining your situation regarding order [Order Number].\n\nThe standard return window has passed, but we still want to review your request fairly. Please share:\n• A brief description of the issue\n• Photos (if quality-related)\n• The outcome you prefer (return/refund/replacement)\n\nWe cannot guarantee an exception, but we will review and reply within [Timeframe] with the best available option under Amazon policy.",
+      "variables": [
+        "Order Number",
+        "Timeframe"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOuWkmua4oOmBk+mFjemAge+8iE1DRu+8ieW7tui/n+ivtOaYjg",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "多渠道配送（MCF）延迟说明",
+      "scene": "使用 MCF 的订单物流异常或延迟",
+      "template": "Hello! I'm sorry for the delay with order [Order Number].\n\nThis shipment is fulfilled through Amazon's multi-channel fulfillment network. Current tracking shows:\n• Status: [Status]\n• Last update: [Date/Time]\n\nWe are monitoring the shipment closely. If tracking does not progress after [Timeframe], please message us again and we will help review next steps such as re-shipment or refund, depending on eligibility and Amazon's fulfillment outcome.",
+      "variables": [
+        "Order Number",
+        "Status",
+        "Date/Time",
+        "Timeframe"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOkFtYXpvbiBMb2NrZXIg5Y+W5Lu26Zeu6aKY",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "Amazon Locker 取件问题",
+      "scene": "Locker 容量满、超时未取、取件码问题",
+      "template": "Hello! I'm sorry for the trouble with your Amazon Locker delivery for order [Order Number].\n\nLocker issues are usually resolved quickest through your delivery instructions in \"Your Orders\" (for example: extend pickup window or redirect delivery if Amazon offers that option for your shipment).\n\nIf you can share a screenshot of the error message and your current tracking status, I will help interpret the next step and guide you based on what Amazon shows for this shipment.",
+      "variables": [
+        "Order Number"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOuS6p+WTgeazqOWGjOS4juWOguS/ne+8iOmdnuS6mumprOmAiua4oOmBk++8iQ",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "产品注册与厂保（非亚马逊渠道）",
+      "scene": "客户询问序列号注册、厂家保修",
+      "template": "Hello! Thanks for your message about warranty registration for [Product Name].\n\nMany brands handle registration and manufacturer warranty directly. If your package includes a warranty card or QR code, that is usually the fastest path.\n\nIf you need purchase proof from Amazon, you can use your order invoice from \"Your Orders\". If you tell us what the manufacturer requires (for example: invoice PDF, serial number format), we will confirm what we can provide within Amazon messaging rules.",
+      "variables": [
+        "Product Name"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOuekvOWTgeeVmeiogOe8uuWkseaIlumUmeivrw",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "礼品留言缺失或错误",
+      "scene": "客户投诉礼品留言未打印或内容错误",
+      "template": "Hello! I'm very sorry that the gift message did not arrive as expected for order [Order Number].\n\nPlease tell me what you expected to see versus what happened (missing/incorrect). If you have a photo of the packing slip or gift note area, that helps us review quickly.\n\nWe will work to make this right under Amazon's policies, which may include [Refund/Replacement/Partial refund], depending on what is possible for this item and fulfillment type.",
+      "variables": [
+        "Order Number",
+        "Refund/Replacement/Partial refund"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOuiuoumYheecge+8iFMmU++8ieWPkei0p+S4juWPlua2iOiKguWljw",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "订阅省（S&S）发货与取消节奏",
+      "scene": "Subscribe & Save 频率、跳过、取消后仍发货的疑问",
+      "template": "Hello! Thanks for your question about Subscribe & Save for order [Order Number].\n\nDelivery frequency and upcoming shipments are managed in your Amazon account under \"Subscribe & Save\". You can adjust delivery dates, skip a delivery, or cancel the subscription there.\n\nIf a shipment already processed before the cancellation took effect, you can still use the normal return process for that delivery if it meets return eligibility. If you tell me the delivery date shown on the order, I can help confirm the most accurate next step.",
+      "variables": [
+        "Order Number"
+      ],
+      "sourcePath": "platforms/amazon/aftersales.md",
+      "group": "platform",
+      "platform": "amazon",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2FtYXpvbi9hZnRlcnNhbGVzLm1kOuWuieWFqC1UIC8g5Y2W5a625L+d5oqk55u45YWz5Lit5oCn6K+05piO",
+      "pageTitle": "Amazon 售后客服话术",
+      "sectionTitle": "安全-T / 卖家保护相关中性说明",
+      "scene": "客户提及 SAFE-T；保持中性、引导按亚马逊流程处理",
+      "template": "Hello! Thank you for your message regarding order [Order Number].\n\nAmazon provides buyer and seller protections through its standard programs and case review processes. If Amazon opens a case or request for documentation, the best path is to follow the instructions shown on the case page and provide any evidence requested (tracking, photos, messages).\n\nIf you share the current case type/status you see in your account, I can help explain the typical timeline and what information is most helpful for review.",
+      "variables": [
+        "Order Number"
       ],
       "sourcePath": "platforms/amazon/aftersales.md",
       "group": "platform",
@@ -3668,6 +3909,171 @@
         "Alternative Product A",
         "Alternative Product B",
         "Restock Date"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrlj5HotKfliY3lj5bmtojorqLljZU",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "发货前取消订单",
+      "scene": "客户要求在包裹发出前取消整单或部分商品",
+      "template": "Hello! Thanks for reaching out about order #[Order Number].\n\nI've checked the fulfillment status: [Not yet shipped / Partially shipped].\n\nIf the order (or the items you mentioned) has not shipped yet, I can cancel it for you and issue a refund to your original payment method. Refunds usually post within [Timeframe].\n\nIf anything has already shipped, we'll need to use the normal return process once you receive it. Please confirm which items you want to cancel, and I'll take care of the next step.",
+      "variables": [
+        "Order Number",
+        "Not yet shipped / Partially shipped",
+        "Timeframe"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrmi4bljZXlj5HotKcgLyDnrKzkuozku7bku43lnKjpgJQ",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "拆单发货 / 第二件仍在途",
+      "scene": "一单多件，客户只收到部分包裹（WISMO）",
+      "template": "Hello! Thanks for your message about order #[Order Number].\n\nYour order was split into multiple shipments:\n• Delivered: [Carrier + tracking] — delivered on [Date]\n• Still in transit: [Carrier + tracking] — estimated delivery [Date]\n\nSometimes packages arrive 1–2 days apart. If the second package does not move for [Timeframe] or misses the estimated date, message us with your order number and we'll help investigate and update you.",
+      "variables": [
+        "Order Number",
+        "Carrier + tracking",
+        "Date",
+        "Timeframe"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrlj5bku7blpLHotKUgLyDph43mlrDpooTnuqbkuIrpl6jlj5bku7Y",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "取件失败 / 重新预约上门取件",
+      "scene": "退货已生成 label，但快递员未取件或取件失败",
+      "template": "Hello! I'm sorry for the trouble with the return pickup for order #[Order Number].\n\nReturn label: [Label ID or link]\nOriginal pickup date: [Date]\n\nI can help reschedule pickup for [New date/time window]. Please make sure someone is available at [Address] and the package is sealed with the label attached.\n\nIf pickup continues to fail, we can switch to a drop-off option at [Location/link]. Let me know what works best for you.",
+      "variables": [
+        "Order Number",
+        "Label ID or link",
+        "Date",
+        "New date/time window",
+        "Address",
+        "Location/link"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrljbHpmanlk4HmiJbpmZDliLbnsbvpgIDotKfor7TmmI4",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "危险品或限制类退货说明",
+      "scene": "含电池、喷雾等，无法提供预付退货运单",
+      "template": "Hello! Thanks for contacting us about the return for order #[Order Number].\n\nBecause this item contains [Battery/Aerosol/Other restricted material], carrier rules may require special handling. In some cases we cannot issue a standard prepaid label.\n\nHere are the safest options we can offer:\n• Option A: [Return instructions / approved carrier method]\n• Option B: [Keep item + partial refund / store credit] if a return is not feasible\n\nPlease confirm which option you prefer, and we'll guide you through the exact steps.",
+      "variables": [
+        "Order Number",
+        "Battery/Aerosol/Other restricted material",
+        "Return instructions / approved carrier method",
+        "Keep item + partial refund / store credit"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrnpLzlk4HpgIDotKfml6DorqLljZXlj7c",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "礼品退货无订单号",
+      "scene": "收礼人没有购买者邮箱或订单信息",
+      "template": "Hello! Happy to help with a gift return.\n\nTo locate the order, please share any details you have:\n• Gift giver's name (if comfortable)\n• Shipping address used for delivery\n• Approximate order date\n• Product name/SKU and a photo of the packing slip (if available)\n\nIf we can verify the purchase, we'll provide return instructions. If we cannot match it, the original purchaser may need to start the return from their account — I can share the quickest steps for that as well.",
+      "variables": [],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrku5PlupPlt7LmlLbotKfkvYbpgIDmrL7mnKrlhaXotKY",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "仓库已收货但退款未入账",
+      "scene": "物流显示退货妥投，客户尚未看到退款",
+      "template": "Hello! Thanks for your patience regarding order #[Order Number].\n\nI can confirm the return carrier shows delivered on [Date]. Our warehouse is currently processing received returns within [Timeframe].\n\nOnce inspection is complete, your refund of [Amount] will be issued to your original payment method. You'll receive an email confirmation when it's submitted.\n\nIf you don't see movement after [Follow-up date], reply here and I'll escalate the case for you.",
+      "variables": [
+        "Order Number",
+        "Date",
+        "Timeframe",
+        "Amount",
+        "Follow-up date"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrmi6bmiKrlpLHotKXlt7Lnrb7mlLYgLyDlvJXlr7zmi5LmlLbmiJbpgIDlm54",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "拦截失败已签收 / 引导拒收或退回",
+      "scene": "客户要求拦截包裹但包裹已送达",
+      "template": "Hello! I'm sorry — we attempted to intercept shipment #[Tracking], but the carrier shows it was delivered on [Date].\n\nIf you no longer want the items, you can:\n• Refuse/return via the standard return process using [Return portal link], or\n• Message us for a prepaid label if your order qualifies\n\nPlease do not use the items if you plan to return them, so we can process your refund smoothly after inspection.",
+      "variables": [
+        "Tracking",
+        "Date",
+        "Return portal link"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrlkIzln44v5pys5Zyw6YWN6YCB5pS557qm5pe26Ze056qX",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "同城/本地配送改约时间窗",
+      "scene": "本地配送合作方需要客户配合时间段",
+      "template": "Hello! Regarding your local delivery for order #[Order Number], the carrier needs to schedule a delivery window.\n\nAvailable windows:\n• [Window 1]\n• [Window 2]\n\nPlease reply with the option that works best (and any building/access notes). If none work, tell us your preferred times and we'll try to coordinate.\n\nIf you miss the window, we can reschedule, but it may add [Timeframe] to delivery.",
+      "variables": [
+        "Order Number",
+        "Window 1",
+        "Window 2",
+        "Timeframe"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrmjaLotKfml7bnm67moIfmrL7mmoLml7bnvLrotKc",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "换货时目标款暂时缺货",
+      "scene": "换货流程中目标尺码/颜色断货",
+      "template": "Hello! I checked your exchange request for order #[Order Number], and the item you wanted ([Variant]) is temporarily out of stock.\n\nOptions:\n• Wait for restock (estimated around [Date])\n• Switch to [Alternative variant/product]\n• Cancel the exchange and proceed with a return + refund\n\nLet me know which option you prefer and I'll update the request right away.",
+      "variables": [
+        "Order Number",
+        "Variant",
+        "Date",
+        "Alternative variant/product"
+      ],
+      "sourcePath": "platforms/shopify/aftersales.md",
+      "group": "platform",
+      "platform": "shopify",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BpZnkvYWZ0ZXJzYWxlcy5tZDrmi5Lku5gv5LqJ6K6u5YmN5a6J5oqa5LiO5LqL5a6e5qC45a+5",
+      "pageTitle": "Shopify 独立站售后客服话术",
+      "sectionTitle": "拒付/争议前安抚与事实核对",
+      "scene": "客户威胁 chargeback，先尝试在店铺侧解决",
+      "template": "Hello! I'm sorry you've had a frustrating experience with order #[Order Number]. I want to help resolve this directly with you.\n\nPlease tell me what went wrong and your preferred outcome (for example: refund, replacement, or store credit). If you can share [Photos/Order details], I can review and respond within [Timeframe].\n\nMany payment issues are faster to fix through our team than through a dispute process. If we cannot reach a fair solution, you still have your normal buyer protections — but I'd really like a chance to make this right first.",
+      "variables": [
+        "Order Number",
+        "Photos/Order details",
+        "Timeframe"
       ],
       "sourcePath": "platforms/shopify/aftersales.md",
       "group": "platform",
@@ -8916,6 +9322,69 @@
       "industry": "beauty"
     },
     {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ66auY5rip6J6N5YyWIC8g6IaP5L2T5Y+Y5b2i6K+05piO",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "高温融化 / 膏体变形说明",
+      "scene": "客户投诉口红、膏霜夏季运输后软化、断裂或渗油",
+      "template": "Hi! I'm really sorry your [Product name] arrived looking different than expected.\n\nWarm weather can temporarily soften some formulas during shipping. Please try:\n1) Place it upright in a cool place for [Hours] hours (not the freezer unless the label allows it)\n2) If it's a stick product, lightly set the tip back into the base if it shifted\n\nIf texture, scent, or performance still seems off after it stabilizes, send photos and your order number — we'll replace it or refund you. Your safety and satisfaction come first.",
+      "variables": [
+        "Product name",
+        "Hours"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ66Imy5Y+35LiN56ymIC8g6YCJ6Imy5aSx6K+v5a6J5oqa",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "色号不符 / 选色失误安抚",
+      "scene": "客户认为粉底、唇釉等色号与网页或预期不符",
+      "template": "Hello! Thank you for telling us about the shade issue with [Product].\n\nColor can look different under lighting, screen calibration, and skin undertone. To help right away, I'd like to offer:\n• [Option A: exchange for shade X]\n• [Option B: store credit of Amount]\n• [Option C: mini sample bundle to find a better match]\n\nIf you can share a quick photo in natural light (optional), we can recommend the closest match for your undertone. Either way, we'll make this easy for you.",
+      "variables": [
+        "Product",
+        "Option A: exchange for shade X",
+        "Option B: store credit of Amount",
+        "Option C: mini sample bundle to find a better match"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ65ryP5rayIC8g5YyF6KOF56C05o2f6YGT5q2J5LiO6KGl5Y+R",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "漏液 / 包装破损道歉与补发",
+      "scene": "外盒或瓶口渗漏、泵头损坏导致漏液",
+      "template": "I'm very sorry your order arrived with leakage or damaged packaging — that's not acceptable.\n\nPlease send:\n• Photos of the outer box and the product\n• A short note of how much product was lost (estimate is fine)\n\nWe'll immediately arrange: [Replacement / Refund / Partial refund + keep item] — whichever you prefer — and flag this batch with our warehouse. Thank you for your patience.",
+      "variables": [
+        "Replacement / Refund / Partial refund + keep item"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9iZWF1dHkubWQ65Yi655ebIC8g5Y+R54Ot5oSf77yI6Z2e6L+H5pWP77yJ5L2/55So5oyH5a+8",
+      "pageTitle": "美妆护肤行业客服话术",
+      "sectionTitle": "刺痛 / 发热感（非过敏）使用指导",
+      "scene": "客户首次使用酸类、A 醇等出现短暂刺痛，需专业安抚与观察指引",
+      "template": "Hi! Thanks for reaching out about the tingling from [Product/ingredient].\n\nSome active formulas can cause brief tingling the first few uses, especially if the skin barrier is dry or you're new to actives. Please pause use for [48 hours] and focus on gentle moisturizer + SPF.\n\nIf you notice rash, swelling, widespread redness, or pain, stop using it and seek medical advice if needed — and message us with photos so we can help with a return/refund.\n\nIf it's only mild tingling that fades within minutes, try introducing it [Frequency, e.g., every other night] and avoid stacking with [Other strong actives]. I'm happy to tailor a simple routine plan.",
+      "variables": [
+        "Product/ingredient",
+        "48 hours",
+        "Frequency, e.g., every other night",
+        "Other strong actives"
+      ],
+      "sourcePath": "industries/beauty.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "beauty"
+    },
+    {
       "id": "aW5kdXN0cmllcy9kaWFwZXJzLm1kOuS6p+WTgeaguOW/g+WNlueCuQ",
       "pageTitle": "纸尿裤客服话术",
       "sectionTitle": "产品核心卖点",
@@ -9618,6 +10087,57 @@
       "industry": "electronics"
     },
     {
+      "id": "aW5kdXN0cmllcy9lbGVjdHJvbmljcy5tZDrlhYXnlLXlj5Hng60gLyDmuKnmjqfor7TmmI4",
+      "pageTitle": "电子产品行业客服话术",
+      "sectionTitle": "充电发热 / 温控说明",
+      "scene": "客户担心手机壳、充电器、笔电适配器发热是否正常",
+      "template": "Hello! Thanks for checking in about warmth while charging/using [Product].\n\nIt's normal for [chargers/adapters/power banks] to feel warm under load, especially with fast charging. Please ensure:\n• Official or certified cable and adapter\n• Ventilation around the device (avoid pillows/blankets covering it)\n• Ambient temperature under [°C]\n\nIf it becomes very hot to touch, smells unusual, swells, or charging stops/starts repeatedly, stop use immediately and contact us with your order number and a short video if possible — we'll prioritize a replacement or refund under warranty.",
+      "variables": [
+        "Product",
+        "chargers/adapters/power banks",
+        "°C"
+      ],
+      "sourcePath": "industries/electronics.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "electronics"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9lbGVjdHJvbmljcy5tZDrlk4HmjqfnkZXnlrXvvIjlvILlk43jgIHnvJ3pmpnjgIHlnY/ngrnvvInmipXor4nlpITnkIY",
+      "pageTitle": "电子产品行业客服话术",
+      "sectionTitle": "品控瑕疵（异响、缝隙、坏点）投诉处理",
+      "scene": "耳机杂音、屏幕坏点、外壳缝隙等质量争议",
+      "template": "I'm sorry your [Product] doesn't meet the quality you expected.\n\nTo resolve this quickly, please send:\n• A short description (when it happens / which area)\n• Photos or a 10–20s video if it's visual/audio\n\nWe'll confirm whether it matches our warranty policy and offer: [Repair / Replacement / Refund] within [Timeframe]. If it's within DOA window, we'll expedite shipping for you.",
+      "variables": [
+        "Product",
+        "Repair / Replacement / Refund",
+        "Timeframe"
+      ],
+      "sourcePath": "industries/electronics.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "electronics"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9lbGVjdHJvbmljcy5tZDrlm7rku7bnvLrpmbflt7Lnn6Xpl67popjkuI7ooaXkuIHml7bpl7Tnur8",
+      "pageTitle": "电子产品行业客服话术",
+      "sectionTitle": "固件缺陷已知问题与补丁时间线",
+      "scene": "已知软件 bug，客户投诉功能不可用",
+      "template": "Thank you for reporting this issue with [Product] — we're aware some users are seeing [Symptom] on firmware [Version].\n\nCurrent status:\n• Workaround (if any): [Steps]\n• Target fix: [ETA or \"under validation\"]\n\nWe'll notify you when [Version] is released. If the workaround doesn't fit your use case, we can help with [Return window option / exchange] according to your order date and policy.",
+      "variables": [
+        "Product",
+        "Symptom",
+        "Version",
+        "Steps",
+        "ETA or \"under validation\"",
+        "Return window option / exchange"
+      ],
+      "sourcePath": "industries/electronics.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "electronics"
+    },
+    {
       "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOuWwuueggeWSqOivog",
       "pageTitle": "服装行业客服话术",
       "sectionTitle": "尺码咨询",
@@ -9850,6 +10370,56 @@
       "template": "Love your purchase and want styling tips? 💕 \nThis piece pairs beautifully with: [Suggestions]. \nCheck our store for: \n✓ Matching accessories \n✓ Complementary items \n✓ Complete the look sets. \nShare your styled photos and tag us - we might feature you! \nNeed personal styling advice? DM us! 👗",
       "variables": [
         "Suggestions"
+      ],
+      "sourcePath": "industries/fashion.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fashion"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOuiJsuW3ruaKleivie+8iOWFiee6v+S4juaYvuekuuWZqO+8ieivtOaYjg",
+      "pageTitle": "服装行业客服话术",
+      "sectionTitle": "色差投诉（光线与显示器）说明",
+      "scene": "客户称实物颜色与图片差异大，需降级冲突、提供换货选项",
+      "template": "Hi! I'm sorry the color didn't match what you imagined.\n\nWe photograph in [studio/natural] light, but monitors and phone screens can shift how colors look. If the item is unworn with tags, we can help with: [Exchange for another color] or [Return for refund] within [Days] days.\n\nIf you can share a photo of the item next to natural daylight, we can double-check whether it matches our QC reference. Either way, we'll make the return/exchange process simple.",
+      "variables": [
+        "studio/natural",
+        "Exchange for another color",
+        "Return for refund",
+        "Days"
+      ],
+      "sourcePath": "industries/fashion.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fashion"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOumihOWUruWkmuasoeW7tuacn+mBk+atieS4juihpeWBvw",
+      "pageTitle": "服装行业客服话术",
+      "sectionTitle": "预售多次延期道歉与补偿",
+      "scene": "预售款交期一再推迟，客户情绪激动",
+      "template": "I'm truly sorry — your preorder for [Item] has been delayed again. The revised ship date is now [Date], because [Reason: fabric delay / port / production].\n\nWe know this is frustrating. To make it right:\n• [Compensation: discount / shipping upgrade / small gift]\n• You may also cancel for a full refund at any time before shipment — just say the word.\n\nIf you'd like to keep the order, we'll send a tracking link the moment it ships and prioritize your package.",
+      "variables": [
+        "Item",
+        "Date",
+        "Reason: fabric delay / port / production",
+        "Compensation: discount / shipping upgrade / small gift"
+      ],
+      "sourcePath": "industries/fashion.md",
+      "group": "industry",
+      "platform": "all",
+      "industry": "fashion"
+    },
+    {
+      "id": "aW5kdXN0cmllcy9mYXNoaW9uLm1kOua0l+a2pOWQjue8qeawtOaYr+WQpui0qOmHj+mXrumimA",
+      "pageTitle": "服装行业客服话术",
+      "sectionTitle": "洗涤后缩水是否质量问题",
+      "scene": "客户按说明洗涤后仍缩水，质疑面料或描述",
+      "template": "Hello! Thanks for letting us know about shrinkage after washing.\n\nIf care instructions were followed ([Machine wash cold / line dry, etc.]) and shrinkage is beyond normal tolerance for this fabric, we'll treat it as a quality issue: [Replacement / Refund / Partial refund].\n\nPlease share:\n• Photos with a ruler measurement (chest/length)\n• Which wash cycle and temperature you used\n\nIf care instructions weren't followed, we may not be able to cover it — but I'll still suggest [restretch tips / professional alteration credit] if helpful.",
+      "variables": [
+        "Machine wash cold / line dry, etc.",
+        "Replacement / Refund / Partial refund",
+        "restretch tips / professional alteration credit"
       ],
       "sourcePath": "industries/fashion.md",
       "group": "industry",

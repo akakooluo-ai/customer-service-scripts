@@ -356,6 +356,55 @@ Let's solve this together! 🤝
 
 ---
 
+## 16. 充电发热 / 温控说明
+
+**适用场景：** 客户担心手机壳、充电器、笔电适配器发热是否正常
+
+```
+Hello! Thanks for checking in about warmth while charging/using [Product].
+
+It's normal for [chargers/adapters/power banks] to feel warm under load, especially with fast charging. Please ensure:
+• Official or certified cable and adapter
+• Ventilation around the device (avoid pillows/blankets covering it)
+• Ambient temperature under [°C]
+
+If it becomes very hot to touch, smells unusual, swells, or charging stops/starts repeatedly, stop use immediately and contact us with your order number and a short video if possible — we'll prioritize a replacement or refund under warranty.
+```
+
+---
+
+## 17. 品控瑕疵（异响、缝隙、坏点）投诉处理
+
+**适用场景：** 耳机杂音、屏幕坏点、外壳缝隙等质量争议
+
+```
+I'm sorry your [Product] doesn't meet the quality you expected.
+
+To resolve this quickly, please send:
+• A short description (when it happens / which area)
+• Photos or a 10–20s video if it's visual/audio
+
+We'll confirm whether it matches our warranty policy and offer: [Repair / Replacement / Refund] within [Timeframe]. If it's within DOA window, we'll expedite shipping for you.
+```
+
+---
+
+## 18. 固件缺陷已知问题与补丁时间线
+
+**适用场景：** 已知软件 bug，客户投诉功能不可用
+
+```
+Thank you for reporting this issue with [Product] — we're aware some users are seeing [Symptom] on firmware [Version].
+
+Current status:
+• Workaround (if any): [Steps]
+• Target fix: [ETA or "under validation"]
+
+We'll notify you when [Version] is released. If the workaround doesn't fit your use case, we can help with [Return window option / exchange] according to your order date and policy.
+```
+
+---
+
 ## 使用技巧
 
 1. **参数准确**：电子产品参数要准确，避免误导客户

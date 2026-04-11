@@ -10,7 +10,7 @@
 
 ---
 
-## Shopify 售后话术列表（共 20 条）
+## Shopify 售后话术列表（共 30 条）
 
 ### 1. 退货政策说明
 
@@ -417,6 +417,172 @@ Here are the best alternatives:
 If none of these work for you, we can also proceed with a full return and refund.
 
 Please tell me which option you'd prefer, and I'll take care of the next step for you.
+```
+
+---
+
+### 21. 发货前取消订单
+
+**适用场景：** 客户要求在包裹发出前取消整单或部分商品
+
+```
+Hello! Thanks for reaching out about order #[Order Number].
+
+I've checked the fulfillment status: [Not yet shipped / Partially shipped].
+
+If the order (or the items you mentioned) has not shipped yet, I can cancel it for you and issue a refund to your original payment method. Refunds usually post within [Timeframe].
+
+If anything has already shipped, we'll need to use the normal return process once you receive it. Please confirm which items you want to cancel, and I'll take care of the next step.
+```
+
+---
+
+### 22. 拆单发货 / 第二件仍在途
+
+**适用场景：** 一单多件，客户只收到部分包裹（WISMO）
+
+```
+Hello! Thanks for your message about order #[Order Number].
+
+Your order was split into multiple shipments:
+• Delivered: [Carrier + tracking] — delivered on [Date]
+• Still in transit: [Carrier + tracking] — estimated delivery [Date]
+
+Sometimes packages arrive 1–2 days apart. If the second package does not move for [Timeframe] or misses the estimated date, message us with your order number and we'll help investigate and update you.
+```
+
+---
+
+### 23. 取件失败 / 重新预约上门取件
+
+**适用场景：** 退货已生成 label，但快递员未取件或取件失败
+
+```
+Hello! I'm sorry for the trouble with the return pickup for order #[Order Number].
+
+Return label: [Label ID or link]
+Original pickup date: [Date]
+
+I can help reschedule pickup for [New date/time window]. Please make sure someone is available at [Address] and the package is sealed with the label attached.
+
+If pickup continues to fail, we can switch to a drop-off option at [Location/link]. Let me know what works best for you.
+```
+
+---
+
+### 24. 危险品或限制类退货说明
+
+**适用场景：** 含电池、喷雾等，无法提供预付退货运单
+
+```
+Hello! Thanks for contacting us about the return for order #[Order Number].
+
+Because this item contains [Battery/Aerosol/Other restricted material], carrier rules may require special handling. In some cases we cannot issue a standard prepaid label.
+
+Here are the safest options we can offer:
+• Option A: [Return instructions / approved carrier method]
+• Option B: [Keep item + partial refund / store credit] if a return is not feasible
+
+Please confirm which option you prefer, and we'll guide you through the exact steps.
+```
+
+---
+
+### 25. 礼品退货无订单号
+
+**适用场景：** 收礼人没有购买者邮箱或订单信息
+
+```
+Hello! Happy to help with a gift return.
+
+To locate the order, please share any details you have:
+• Gift giver's name (if comfortable)
+• Shipping address used for delivery
+• Approximate order date
+• Product name/SKU and a photo of the packing slip (if available)
+
+If we can verify the purchase, we'll provide return instructions. If we cannot match it, the original purchaser may need to start the return from their account — I can share the quickest steps for that as well.
+```
+
+---
+
+### 26. 仓库已收货但退款未入账
+
+**适用场景：** 物流显示退货妥投，客户尚未看到退款
+
+```
+Hello! Thanks for your patience regarding order #[Order Number].
+
+I can confirm the return carrier shows delivered on [Date]. Our warehouse is currently processing received returns within [Timeframe].
+
+Once inspection is complete, your refund of [Amount] will be issued to your original payment method. You'll receive an email confirmation when it's submitted.
+
+If you don't see movement after [Follow-up date], reply here and I'll escalate the case for you.
+```
+
+---
+
+### 27. 拦截失败已签收 / 引导拒收或退回
+
+**适用场景：** 客户要求拦截包裹但包裹已送达
+
+```
+Hello! I'm sorry — we attempted to intercept shipment #[Tracking], but the carrier shows it was delivered on [Date].
+
+If you no longer want the items, you can:
+• Refuse/return via the standard return process using [Return portal link], or
+• Message us for a prepaid label if your order qualifies
+
+Please do not use the items if you plan to return them, so we can process your refund smoothly after inspection.
+```
+
+---
+
+### 28. 同城/本地配送改约时间窗
+
+**适用场景：** 本地配送合作方需要客户配合时间段
+
+```
+Hello! Regarding your local delivery for order #[Order Number], the carrier needs to schedule a delivery window.
+
+Available windows:
+• [Window 1]
+• [Window 2]
+
+Please reply with the option that works best (and any building/access notes). If none work, tell us your preferred times and we'll try to coordinate.
+
+If you miss the window, we can reschedule, but it may add [Timeframe] to delivery.
+```
+
+---
+
+### 29. 换货时目标款暂时缺货
+
+**适用场景：** 换货流程中目标尺码/颜色断货
+
+```
+Hello! I checked your exchange request for order #[Order Number], and the item you wanted ([Variant]) is temporarily out of stock.
+
+Options:
+• Wait for restock (estimated around [Date])
+• Switch to [Alternative variant/product]
+• Cancel the exchange and proceed with a return + refund
+
+Let me know which option you prefer and I'll update the request right away.
+```
+
+---
+
+### 30. 拒付/争议前安抚与事实核对
+
+**适用场景：** 客户威胁 chargeback，先尝试在店铺侧解决
+
+```
+Hello! I'm sorry you've had a frustrating experience with order #[Order Number]. I want to help resolve this directly with you.
+
+Please tell me what went wrong and your preferred outcome (for example: refund, replacement, or store credit). If you can share [Photos/Order details], I can review and respond within [Timeframe].
+
+Many payment issues are faster to fix through our team than through a dispute process. If we cannot reach a fair solution, you still have your normal buyer protections — but I'd really like a chance to make this right first.
 ```
 
 ---
