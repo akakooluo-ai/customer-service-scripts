@@ -87,7 +87,7 @@ I apologize for the shipping delay! 😔
 I've checked your order:
 • Order #: [Order Number]
 • Current status: [Status]
-• Reason for delay: [Reason, e.g., carrier delays, weather, customs]
+• Reason for delay: [Delay Reason]
 
 We're monitoring this closely. 
 New estimated delivery: [Date]
@@ -135,7 +135,7 @@ Order #: [Order Number]
 Current status: [Status]
 
 If your order hasn't shipped yet:
-✓ We can change: [Address/Size/Color/Quantity]
+✓ We can change: [Editable Fields]
 ✓ Please confirm the changes you need
 
 If your order has already shipped:
@@ -229,9 +229,9 @@ Status: [Current Status]
 Timeline:
 ✓ Order placed: [Date]
 ✓ Payment confirmed: [Date]
-[✓/⏳] Processing: [Date/In progress]
-[✓/⏳] Shipped: [Date/Pending]
-[✓/⏳] Delivered: [Date/Pending]
+[Processing Status] Processing: [Processing Update]
+[Shipping Status] Shipped: [Shipping Update]
+[Delivery Status] Delivered: [Delivery Update]
 
 Next step: [What happens next]
 

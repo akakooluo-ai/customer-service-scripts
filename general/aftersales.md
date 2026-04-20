@@ -23,8 +23,8 @@ Our return policy: 📦
 • Processing time: [Days] business days after we receive the item
 
 Exceptions:
-• [Exception 1, e.g., Personalized items]
-• [Exception 2, e.g., Hygiene products]
+• [Return Exception 1]
+• [Return Exception 2]
 
 Need to start a return? Let me help! 💙
 ```
@@ -41,7 +41,7 @@ I'm sorry to hear you'd like to return your order! 😔
 To process your return:
 1) Please confirm your order number: [Order Number]
 2) Reason for return: [Reason]
-3) Item condition: [Unused/Used]
+3) Item condition: [Item Condition]
 
 Next steps:
 • We'll send you a return shipping label
@@ -62,14 +62,14 @@ Any questions about the process? 📦
 Happy to help with an exchange! 🔄
 
 Your current order: [Product details]
-Exchange for: [New product/size/color]
+Exchange for: [Requested Replacement Item]
 
 Process:
 1) We'll ship the new item first
 2) Return the original within [Days] days
 3) Free return shipping label provided
 
-Stock check: [New item] is [In stock/Out of stock]
+Stock check: [Replacement Item] is [Replacement Stock Status]
 Shall I proceed with the exchange? 📦
 ```
 
@@ -90,7 +90,7 @@ Please send us:
 We'll offer:
 ✓ Full replacement (no return needed)
 ✓ OR Full refund (keep the item)
-✓ PLUS [Discount/Credit] for your next order
+✓ PLUS [Compensation Offer] for your next order
 
 We sincerely apologize for the inconvenience! 💙
 ```
@@ -211,7 +211,7 @@ Thank you for your support! ⭐
 Hi! Just following up on your recent order. 😊
 
 I wanted to make sure:
-✓ You received your [replacement/refund]
+✓ You received your [Resolution Outcome]
 ✓ Everything is working well
 ✓ You're satisfied with the resolution
 
@@ -232,13 +232,13 @@ Hello — we're very sorry your order #[Order Number] is taking longer than expe
 
 Current tracking: [Carrier] [Tracking] — last update: [Date]. New ETA: [Date]. We know waiting is frustrating; we're monitoring daily.
 
-If it doesn't move by [Date], we'll [refund / reship / issue store credit] per our policy.
+If it doesn't move by [Date], we'll [Resolution Plan] per our policy.
 
 您好，非常抱歉，您的订单 #[Order Number] 物流比预期更慢。
 
 当前物流：[Carrier] [Tracking]，上次更新：[Date]，目前预计送达：[Date]。我们理解等待很煎熬，会每日跟进。
 
-若 [Date] 前仍无有效更新，我们将按政策为您 [退款 / 补发 / 店铺积分补偿]。
+若 [Date] 前仍无有效更新，我们将按政策为您 [处理方案]。
 ```
 
 ---
@@ -290,13 +290,13 @@ If you'd still like to escalate, you have that right — but I'd really like one
 ```
 Hello — thanks for your honesty about the issue with order #[Order Number].
 
-Because [reason: minor cosmetic flaw / small delay], we'd like to offer a partial refund of [Amount] while you keep the item. If that works, we'll issue it within [Timeframe].
+Because [Issue Summary], we'd like to offer a partial refund of [Amount] while you keep the item. If that works, we'll issue it within [Timeframe].
 
 If you'd rather return for a full refund, we can do that too — tell me which you prefer.
 
 您好，感谢您如实说明订单 #[Order Number] 的情况。
 
-鉴于 [原因：轻微外观瑕疵 / 轻微延误等]，我们可为您提供 [金额] 的部分退款，商品无需退回。若同意，我们将在 [Timeframe] 内处理。
+鉴于 [问题说明]，我们可为您提供 [金额] 的部分退款，商品无需退回。若同意，我们将在 [Timeframe] 内处理。
 
 若您更希望退货全额退款，也可以，请告知您的选择。
 ```
@@ -310,13 +310,13 @@ If you'd rather return for a full refund, we can do that too — tell me which y
 ```
 Hello — we saw your post about order #[Order Number]. I'm sorry you had to air this publicly to get attention.
 
-Please DM us here (or email [Email]) with your order number — we'll prioritize a resolution: [refund / replacement / credit] after a quick review.
+Please DM us here (or email [Email]) with your order number — we'll prioritize a resolution: [Preferred Resolution] after a quick review.
 
 We appreciate the chance to make it right.
 
 您好，我们看到您关于订单 #[Order Number] 的公开反馈，很抱歉让您不得不通过这种方式引起注意。
 
-请私信我们或发送邮件至 [Email]，并附上订单号，我们会优先处理，并在快速核实后提供 [退款 / 换货 / 补偿] 等方案。
+请私信我们或发送邮件至 [Email]，并附上订单号，我们会优先处理，并在快速核实后提供 [优先处理方案]。
 
 感谢您愿意给我们一次补救的机会。
 ```

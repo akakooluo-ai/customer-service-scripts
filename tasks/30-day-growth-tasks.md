@@ -17,6 +17,7 @@
 
 | Date | What shipped |
 |------|----------------|
+| 2026-04-20 (Mon) | **Week 4 (repo, mostly complete):** README added **Top 20 Templates This Month (2026-04)** roundup; `general/presales.md` +10 high-conversion templates (`## 11`–`20`) covering urgency, coupon recovery, threshold upsell, first-order conversion, cart recovery, and bundle upsell; audited duplicate templates (no same-file duplicate blocks found; repeated cross-industry blocks kept intentionally for category landing coverage); normalized placeholder names in `general/presales.md`, `general/sales.md`, and `general/aftersales.md`; `npm run build:site` → `docs/data/templates.json` (`1370` total); README monthly changelog + counts updated. **Still manual:** validate Pages after push; decide whether to mirror the roundup into GitHub Discussions. |
 | 2026-04-11 (Sat) | **Week 2 (repo):** `platforms/shopify/aftersales.md` +10 templates (§21–30); `platforms/amazon/aftersales.md` +10 (§21–30); `docs/index.html` already had Top Shopify / Top Amazon use-case cards; `npm run build:site` → `docs/data/templates.json`; README — before/after snippet, template counts, changelog. **Still manual:** open a GitHub Discussion for long-tail keywords; smoke-test GitHub Pages after push. |
 | 2026-04-11 (Sat) | **Week 3 (repo):** `industries/beauty.md` +4 (`## 16`–`19`); `industries/electronics.md` +3 (`## 16`–`18`); `industries/fashion.md` +3 (`## 16`–`18`); `general/aftersales.md` +5 bilingual complaint/apology (`## 11`–`15`); README — Template Mode vs AI Mode **Quick comparison** bullets + counts; `docs/index.html` — footer TalkQ CTA; `npm run build:site`. **Still manual:** Discussion poll (draft below). |
 
@@ -82,11 +83,11 @@ Body (paste & adjust):
 
 ## Week 4 (Optimization + Packaging)
 
-- [ ] Add 10 high-conversion templates: urgency, coupon recovery, refund retention
-- [ ] Audit old templates: remove duplicates and improve variable placeholders
-- [ ] Add monthly changelog entry in README
+- [x] Add 10 high-conversion templates: urgency, coupon recovery, refund retention
+- [x] Audit old templates: remove duplicates and improve variable placeholders
+- [x] Add monthly changelog entry in README
 - [ ] Validate GitHub Pages deployment status and fix broken links
-- [ ] Publish "Top 20 templates this month" list in README or Discussions
+- [x] Publish "Top 20 templates this month" list in README or Discussions
 
 Keywords:
 - `customer support prompt generator`

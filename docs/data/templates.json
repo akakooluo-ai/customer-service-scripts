@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-11T02:14:01.003Z",
-  "count": 1360,
+  "generatedAt": "2026-04-20T01:26:41.631Z",
+  "count": 1370,
   "groups": [
     "general",
     "industry",
@@ -65,11 +65,11 @@
       "pageTitle": "通用售后客服话术",
       "sectionTitle": "退货政策说明",
       "scene": "客户询问退货政策",
-      "template": "Our return policy: 📦\n\n• Return window: [Days] days from delivery\n• Condition: Unused, original packaging, tags attached\n• Refund method: Original payment method\n• Processing time: [Days] business days after we receive the item\n\nExceptions:\n• [Exception 1, e.g., Personalized items]\n• [Exception 2, e.g., Hygiene products]\n\nNeed to start a return? Let me help! 💙",
+      "template": "Our return policy: 📦\n\n• Return window: [Days] days from delivery\n• Condition: Unused, original packaging, tags attached\n• Refund method: Original payment method\n• Processing time: [Days] business days after we receive the item\n\nExceptions:\n• [Return Exception 1]\n• [Return Exception 2]\n\nNeed to start a return? Let me help! 💙",
       "variables": [
         "Days",
-        "Exception 1, e.g., Personalized items",
-        "Exception 2, e.g., Hygiene products"
+        "Return Exception 1",
+        "Return Exception 2"
       ],
       "sourcePath": "general/aftersales.md",
       "group": "general",
@@ -81,11 +81,11 @@
       "pageTitle": "通用售后客服话术",
       "sectionTitle": "退货申请处理",
       "scene": "客户要求退货",
-      "template": "I'm sorry to hear you'd like to return your order! 😔\n\nTo process your return:\n1) Please confirm your order number: [Order Number]\n2) Reason for return: [Reason]\n3) Item condition: [Unused/Used]\n\nNext steps:\n• We'll send you a return shipping label\n• Pack the item securely\n• Drop off at [Carrier location]\n• Refund processed within [Days] days of receipt\n\nAny questions about the process? 📦",
+      "template": "I'm sorry to hear you'd like to return your order! 😔\n\nTo process your return:\n1) Please confirm your order number: [Order Number]\n2) Reason for return: [Reason]\n3) Item condition: [Item Condition]\n\nNext steps:\n• We'll send you a return shipping label\n• Pack the item securely\n• Drop off at [Carrier location]\n• Refund processed within [Days] days of receipt\n\nAny questions about the process? 📦",
       "variables": [
         "Order Number",
         "Reason",
-        "Unused/Used",
+        "Item Condition",
         "Carrier location",
         "Days"
       ],
@@ -99,13 +99,13 @@
       "pageTitle": "通用售后客服话术",
       "sectionTitle": "换货处理",
       "scene": "客户要求换货",
-      "template": "Happy to help with an exchange! 🔄\n\nYour current order: [Product details]\nExchange for: [New product/size/color]\n\nProcess:\n1) We'll ship the new item first\n2) Return the original within [Days] days\n3) Free return shipping label provided\n\nStock check: [New item] is [In stock/Out of stock]\nShall I proceed with the exchange? 📦",
+      "template": "Happy to help with an exchange! 🔄\n\nYour current order: [Product details]\nExchange for: [Requested Replacement Item]\n\nProcess:\n1) We'll ship the new item first\n2) Return the original within [Days] days\n3) Free return shipping label provided\n\nStock check: [Replacement Item] is [Replacement Stock Status]\nShall I proceed with the exchange? 📦",
       "variables": [
         "Product details",
-        "New product/size/color",
+        "Requested Replacement Item",
         "Days",
-        "New item",
-        "In stock/Out of stock"
+        "Replacement Item",
+        "Replacement Stock Status"
       ],
       "sourcePath": "general/aftersales.md",
       "group": "general",
@@ -117,9 +117,9 @@
       "pageTitle": "通用售后客服话术",
       "sectionTitle": "质量问题处理",
       "scene": "客户收到有质量问题的商品",
-      "template": "I'm very sorry about the quality issue! 😔\n\nPlease send us:\n1) Photos of the defect\n2) Photo of the product label/tag\n3) Brief description of the problem\n\nWe'll offer:\n✓ Full replacement (no return needed)\n✓ OR Full refund (keep the item)\n✓ PLUS [Discount/Credit] for your next order\n\nWe sincerely apologize for the inconvenience! 💙",
+      "template": "I'm very sorry about the quality issue! 😔\n\nPlease send us:\n1) Photos of the defect\n2) Photo of the product label/tag\n3) Brief description of the problem\n\nWe'll offer:\n✓ Full replacement (no return needed)\n✓ OR Full refund (keep the item)\n✓ PLUS [Compensation Offer] for your next order\n\nWe sincerely apologize for the inconvenience! 💙",
       "variables": [
-        "Discount/Credit"
+        "Compensation Offer"
       ],
       "sourcePath": "general/aftersales.md",
       "group": "general",
@@ -202,9 +202,9 @@
       "pageTitle": "通用售后客服话术",
       "sectionTitle": "满意度回访",
       "scene": "售后问题解决后的回访",
-      "template": "Hi! Just following up on your recent order. 😊\n\nI wanted to make sure:\n✓ You received your [replacement/refund]\n✓ Everything is working well\n✓ You're satisfied with the resolution\n\nIs there anything else I can help with?\n\nThank you for your patience and understanding!\nWe appreciate your business! 💙",
+      "template": "Hi! Just following up on your recent order. 😊\n\nI wanted to make sure:\n✓ You received your [Resolution Outcome]\n✓ Everything is working well\n✓ You're satisfied with the resolution\n\nIs there anything else I can help with?\n\nThank you for your patience and understanding!\nWe appreciate your business! 💙",
       "variables": [
-        "replacement/refund"
+        "Resolution Outcome"
       ],
       "sourcePath": "general/aftersales.md",
       "group": "general",
@@ -216,14 +216,14 @@
       "pageTitle": "通用售后客服话术",
       "sectionTitle": "物流严重延误（双语）",
       "scene": "客户投诉物流太慢，需中英同步安抚",
-      "template": "Hello — we're very sorry your order #[Order Number] is taking longer than expected.\n\nCurrent tracking: [Carrier] [Tracking] — last update: [Date]. New ETA: [Date]. We know waiting is frustrating; we're monitoring daily.\n\nIf it doesn't move by [Date], we'll [refund / reship / issue store credit] per our policy.\n\n您好，非常抱歉，您的订单 #[Order Number] 物流比预期更慢。\n\n当前物流：[Carrier] [Tracking]，上次更新：[Date]，目前预计送达：[Date]。我们理解等待很煎熬，会每日跟进。\n\n若 [Date] 前仍无有效更新，我们将按政策为您 [退款 / 补发 / 店铺积分补偿]。",
+      "template": "Hello — we're very sorry your order #[Order Number] is taking longer than expected.\n\nCurrent tracking: [Carrier] [Tracking] — last update: [Date]. New ETA: [Date]. We know waiting is frustrating; we're monitoring daily.\n\nIf it doesn't move by [Date], we'll [Resolution Plan] per our policy.\n\n您好，非常抱歉，您的订单 #[Order Number] 物流比预期更慢。\n\n当前物流：[Carrier] [Tracking]，上次更新：[Date]，目前预计送达：[Date]。我们理解等待很煎熬，会每日跟进。\n\n若 [Date] 前仍无有效更新，我们将按政策为您 [处理方案]。",
       "variables": [
         "Order Number",
         "Carrier",
         "Tracking",
         "Date",
-        "refund / reship / issue store credit",
-        "退款 / 补发 / 店铺积分补偿"
+        "Resolution Plan",
+        "处理方案"
       ],
       "sourcePath": "general/aftersales.md",
       "group": "general",
@@ -270,13 +270,13 @@
       "pageTitle": "通用售后客服话术",
       "sectionTitle": "部分退款协商（双语）",
       "scene": "轻微瑕疵或轻微延误，提议部分退款保留商品",
-      "template": "Hello — thanks for your honesty about the issue with order #[Order Number].\n\nBecause [reason: minor cosmetic flaw / small delay], we'd like to offer a partial refund of [Amount] while you keep the item. If that works, we'll issue it within [Timeframe].\n\nIf you'd rather return for a full refund, we can do that too — tell me which you prefer.\n\n您好，感谢您如实说明订单 #[Order Number] 的情况。\n\n鉴于 [原因：轻微外观瑕疵 / 轻微延误等]，我们可为您提供 [金额] 的部分退款，商品无需退回。若同意，我们将在 [Timeframe] 内处理。\n\n若您更希望退货全额退款，也可以，请告知您的选择。",
+      "template": "Hello — thanks for your honesty about the issue with order #[Order Number].\n\nBecause [Issue Summary], we'd like to offer a partial refund of [Amount] while you keep the item. If that works, we'll issue it within [Timeframe].\n\nIf you'd rather return for a full refund, we can do that too — tell me which you prefer.\n\n您好，感谢您如实说明订单 #[Order Number] 的情况。\n\n鉴于 [问题说明]，我们可为您提供 [金额] 的部分退款，商品无需退回。若同意，我们将在 [Timeframe] 内处理。\n\n若您更希望退货全额退款，也可以，请告知您的选择。",
       "variables": [
         "Order Number",
-        "reason: minor cosmetic flaw / small delay",
+        "Issue Summary",
         "Amount",
         "Timeframe",
-        "原因：轻微外观瑕疵 / 轻微延误等",
+        "问题说明",
         "金额"
       ],
       "sourcePath": "general/aftersales.md",
@@ -289,12 +289,12 @@
       "pageTitle": "通用售后客服话术",
       "sectionTitle": "公开差评 / 社媒负面提及（双语）",
       "scene": "客户在社媒或差评区点名，邀请转私域处理",
-      "template": "Hello — we saw your post about order #[Order Number]. I'm sorry you had to air this publicly to get attention.\n\nPlease DM us here (or email [Email]) with your order number — we'll prioritize a resolution: [refund / replacement / credit] after a quick review.\n\nWe appreciate the chance to make it right.\n\n您好，我们看到您关于订单 #[Order Number] 的公开反馈，很抱歉让您不得不通过这种方式引起注意。\n\n请私信我们或发送邮件至 [Email]，并附上订单号，我们会优先处理，并在快速核实后提供 [退款 / 换货 / 补偿] 等方案。\n\n感谢您愿意给我们一次补救的机会。",
+      "template": "Hello — we saw your post about order #[Order Number]. I'm sorry you had to air this publicly to get attention.\n\nPlease DM us here (or email [Email]) with your order number — we'll prioritize a resolution: [Preferred Resolution] after a quick review.\n\nWe appreciate the chance to make it right.\n\n您好，我们看到您关于订单 #[Order Number] 的公开反馈，很抱歉让您不得不通过这种方式引起注意。\n\n请私信我们或发送邮件至 [Email]，并附上订单号，我们会优先处理，并在快速核实后提供 [优先处理方案]。\n\n感谢您愿意给我们一次补救的机会。",
       "variables": [
         "Order Number",
         "Email",
-        "refund / replacement / credit",
-        "退款 / 换货 / 补偿"
+        "Preferred Resolution",
+        "优先处理方案"
       ],
       "sourcePath": "general/aftersales.md",
       "group": "general",
@@ -337,13 +337,13 @@
       "pageTitle": "通用售前客服话术",
       "sectionTitle": "价格说明",
       "scene": "客户询问价格、能否优惠",
-      "template": "The current price for [Product Name] is $[Price]. \nThis is our best price, reflecting the quality and value of the product.\n\nCurrent promotions:\n• [Promotion 1]\n• [Promotion 2]\n\nWe also offer [bulk discounts/loyalty rewards] for repeat customers. \nLet me know if you have any questions! 💰",
+      "template": "The current price for [Product Name] is $[Price]. \nThis is our best price, reflecting the quality and value of the product.\n\nCurrent promotions:\n• [Promotion 1]\n• [Promotion 2]\n\nWe also offer [Repeat Customer Offer] for repeat customers. \nLet me know if you have any questions! 💰",
       "variables": [
         "Product Name",
         "Price",
         "Promotion 1",
         "Promotion 2",
-        "bulk discounts/loyalty rewards"
+        "Repeat Customer Offer"
       ],
       "sourcePath": "general/presales.md",
       "group": "general",
@@ -355,12 +355,12 @@
       "pageTitle": "通用售前客服话术",
       "sectionTitle": "库存查询",
       "scene": "客户询问库存情况",
-      "template": "Let me check the stock for you! 📦\n\n[Product Name] - [Color/Size]:\n• Current stock: [Quantity] units\n• Status: [In stock/Low stock/Out of stock]\n\nThis is a popular item and sells quickly. \nIf you're interested, I recommend ordering soon to secure yours! \nNeed help with anything else? 🛒",
+      "template": "Let me check the stock for you! 📦\n\n[Product Name] - [Variant]:\n• Current stock: [Quantity] units\n• Status: [Stock Status]\n\nThis is a popular item and sells quickly. \nIf you're interested, I recommend ordering soon to secure yours! \nNeed help with anything else? 🛒",
       "variables": [
         "Product Name",
-        "Color/Size",
+        "Variant",
         "Quantity",
-        "In stock/Low stock/Out of stock"
+        "Stock Status"
       ],
       "sourcePath": "general/presales.md",
       "group": "general",
@@ -427,10 +427,10 @@
       "pageTitle": "通用售前客服话术",
       "sectionTitle": "购买保障",
       "scene": "客户对购买安全有疑虑",
-      "template": "Your purchase is fully protected! 🛡️\n\nWe offer:\n✓ [Return policy, e.g., 30-day returns]\n✓ [Warranty, e.g., 1-year warranty]\n✓ [Secure payment]\n✓ [Customer support]\n\nOur store has [X]% positive reviews and [X] satisfied customers.\nYou can shop with confidence! \nAny other concerns? 💙",
+      "template": "Your purchase is fully protected! 🛡️\n\nWe offer:\n✓ [Return Policy]\n✓ [Warranty]\n✓ [Secure payment]\n✓ [Customer support]\n\nOur store has [X]% positive reviews and [X] satisfied customers.\nYou can shop with confidence! \nAny other concerns? 💙",
       "variables": [
-        "Return policy, e.g., 30-day returns",
-        "Warranty, e.g., 1-year warranty",
+        "Return Policy",
+        "Warranty",
         "Secure payment",
         "Customer support",
         "X"
@@ -467,6 +467,191 @@
       "variables": [
         "Key point 1",
         "Key point 2"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrpmZDml7bkvJjmg6Dmj5DphpI",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "限时优惠提醒",
+      "scene": "客户已表现出兴趣，但迟迟未下单，需要温和催单",
+      "template": "Just a quick heads-up: the current offer on [Product Name] ends on [Offer End Time]. ⏰\n\nRight now you can get:\n• Price: $[Price]\n• Discount: [Discount Offer]\n• Extra benefit: [Extra Benefit]\n\nIf you've been considering it, this is the best time to place the order before the promotion ends.\n\nIf you'd like, I can also help confirm the right [Preferred Variant] before you check out.",
+      "variables": [
+        "Product Name",
+        "Offer End Time",
+        "Price",
+        "Discount Offer",
+        "Extra Benefit",
+        "Preferred Variant"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrkvJjmg6DliLjlpLHmlYjmjL3lm54",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "优惠券失效挽回",
+      "scene": "客户反馈优惠券不能用、错过了活动，需尽量挽回订单",
+      "template": "I'm sorry that coupon didn't work as expected. Let me help with that. 🎫\n\nHere are the options I can offer for [Product Name]:\n• Replacement code: [Code]\n• Discount value: [Discount Value]\n• Valid until: [Coupon Expiry Time]\n\nIf the system still doesn't accept it, send me a screenshot and I'll check whether it's due to:\n• Minimum order value\n• Product exclusions\n• Account/location restrictions\n\nI don't want you to miss the deal if you're ready to order today.",
+      "variables": [
+        "Product Name",
+        "Code",
+        "Discount Value",
+        "Coupon Expiry Time"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrlh5HljZXovr7lhY3pgq4v5ruh5YeP5byV5a+8",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "凑单达免邮/满减引导",
+      "scene": "客户购物车金额接近免邮或满减门槛",
+      "template": "You're very close to unlocking a better deal on your order. 🛒\n\nCurrent cart total: $[Current Amount]\nOffer threshold: $[Target Amount]\nYou only need: $[Gap Amount] more to get [Threshold Reward].\n\nPopular add-on options:\n• [Add-on Product 1] - $[Price]\n• [Add-on Product 2] - $[Price]\n• [Add-on Product 3] - $[Price]\n\nIf you'd like, I can recommend the most practical add-on based on what you're already buying.",
+      "variables": [
+        "Current Amount",
+        "Target Amount",
+        "Gap Amount",
+        "Threshold Reward",
+        "Add-on Product 1",
+        "Price",
+        "Add-on Product 2",
+        "Add-on Product 3"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrpppbljZXkvJjmg6DovazljJY",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "首单优惠转化",
+      "scene": "新客第一次咨询，想降低试单门槛",
+      "template": "Welcome! Since this would be your first order with us, I'd love to make it easier for you to try us out. 🎉\n\nFor first-time customers, we currently offer:\n• [First order discount]\n• [First Order Bonus]\n• [Shopping Assurance]\n\nUse code: [Code]\nValid until: [Date]\n\nIf you want, I can also help you choose the best starter option so your first purchase feels low-risk and worthwhile.",
+      "variables": [
+        "First order discount",
+        "First Order Bonus",
+        "Shopping Assurance",
+        "Code",
+        "Date"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrkvY7lupPlrZjmiJDkuqTkv4Pov5s",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "低库存成交促进",
+      "scene": "热门 SKU 库存紧张，需提醒客户及时下单",
+      "template": "I want to be transparent: [Product Name] in [Variant] is running low in stock. 📦\n\nCurrent availability:\n• Remaining units: [Quantity]\n• Restock date: [Restock Date]\n\nBecause this option has been selling quickly, there's a chance it may sell out before the next restock.\n\nIf this is the version you want, I'd recommend ordering soon. If you'd like, I can also suggest the closest alternative in case it goes out of stock.",
+      "variables": [
+        "Product Name",
+        "Variant",
+        "Quantity",
+        "Restock Date"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrljbPlsIbmtqjku7fmj5DphpI",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "即将涨价提醒",
+      "scene": "客户反复观望，价格即将调整",
+      "template": "Just so you can make the best decision: the price for [Product Name] is scheduled to change on [Date]. 💡\n\nCurrent price: $[Current Price]\nNew price after adjustment: $[New Price]\nReason: [Price Change Reason]\n\nIf you place the order before [Price Lock Deadline], you'll still lock in the current lower price.\n\nIf you need help deciding between options before then, I'm happy to help.",
+      "variables": [
+        "Product Name",
+        "Date",
+        "Current Price",
+        "New Price",
+        "Price Change Reason",
+        "Price Lock Deadline"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrmr5Tku7fmlLblj6PmiJDkuqQ",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "比价收口成交",
+      "scene": "客户拿竞品或其他店铺比价，需要突出本店价值并促成下单",
+      "template": "That's a fair question. Price matters, and so does what you actually receive. 🤝\n\nWith our [Product Name], you're getting:\n• [Key quality point]\n• [After-sales Support]\n• [Delivery Advantage]\n• [Extra Value]\n\nSo while another listing may look cheaper at first glance, our offer is designed to give you better overall value and less risk after purchase.\n\nIf you'd like, I can help you compare the exact differences so you can buy with confidence.",
+      "variables": [
+        "Product Name",
+        "Key quality point",
+        "After-sales Support",
+        "Delivery Advantage",
+        "Extra Value"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrnirnosavlrqLmiLflronlv4PkuIvljZU",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "犹豫客户安心下单",
+      "scene": "客户想买但担心踩坑，需要降低决策焦虑",
+      "template": "It's completely normal to want to be sure before placing an order. 😊\n\nTo make your decision easier, here are the protections we provide:\n• [Return window]\n• [Quality Guarantee]\n• [Shipping tracking]\n• [Support promise]\n\nIf the item isn't the right fit, we'll help with [Resolution Option] according to our policy.\n\nIf you tell me what you're most concerned about, I'll answer that part directly so you can decide with confidence.",
+      "variables": [
+        "Return window",
+        "Quality Guarantee",
+        "Shipping tracking",
+        "Support promise",
+        "Resolution Option"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrotK3nianovabmjL3lm57ot5/ov5s",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "购物车挽回跟进",
+      "scene": "客户已加购或聊到临门一脚，但未完成支付",
+      "template": "I noticed you were interested in [Product Name], so I wanted to check in before you miss the current offer. 🛍️\n\nYour potential order includes:\n• Product: [Product Name]\n• Price: $[Price]\n• Offer: [Promotion]\n\nIf something is stopping you from checking out, tell me what it is:\n• Need a better size/color recommendation?\n• Unsure about delivery time?\n• Trouble applying the discount?\n\nIf you reply here, I'll help you get it sorted quickly.",
+      "variables": [
+        "Product Name",
+        "Price",
+        "Promotion"
+      ],
+      "sourcePath": "general/presales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9wcmVzYWxlcy5tZDrlpZfoo4Uv5Yqg6LSt5o+Q5Y2H5a6i5Y2V",
+      "pageTitle": "通用售前客服话术",
+      "sectionTitle": "套装/加购提升客单",
+      "scene": "客户准备下单，适合推荐套装或关联加购提升成交额",
+      "template": "Great choice on [Main Product]! Many customers also add one of these to get better overall value: ✨\n\nRecommended add-ons:\n• [Product A] - solves [Need]\n• [Product B] - works well for [Use case]\n• [Product C] - helps with [Benefit]\n\nBundle benefit:\n• Save [Bundle Savings]\n• Get [Bundle Bonus]\n\nIf you want the most cost-effective setup, I can suggest the best combination based on your budget.",
+      "variables": [
+        "Main Product",
+        "Product A",
+        "Need",
+        "Product B",
+        "Use case",
+        "Product C",
+        "Benefit",
+        "Bundle Savings",
+        "Bundle Bonus"
       ],
       "sourcePath": "general/presales.md",
       "group": "general",
@@ -535,11 +720,11 @@
       "pageTitle": "通用售中客服话术",
       "sectionTitle": "物流延迟处理",
       "scene": "物流出现延迟",
-      "template": "I apologize for the shipping delay! 😔\n\nI've checked your order:\n• Order #: [Order Number]\n• Current status: [Status]\n• Reason for delay: [Reason, e.g., carrier delays, weather, customs]\n\nWe're monitoring this closely. \nNew estimated delivery: [Date]\n\nIf it doesn't arrive by [Date], please contact us and we'll:\n• File a claim with the carrier\n• Send a replacement or issue a refund\n\nWe appreciate your patience! 🙏",
+      "template": "I apologize for the shipping delay! 😔\n\nI've checked your order:\n• Order #: [Order Number]\n• Current status: [Status]\n• Reason for delay: [Delay Reason]\n\nWe're monitoring this closely. \nNew estimated delivery: [Date]\n\nIf it doesn't arrive by [Date], please contact us and we'll:\n• File a claim with the carrier\n• Send a replacement or issue a refund\n\nWe appreciate your patience! 🙏",
       "variables": [
         "Order Number",
         "Status",
-        "Reason, e.g., carrier delays, weather, customs",
+        "Delay Reason",
         "Date"
       ],
       "sourcePath": "general/sales.md",
@@ -564,11 +749,11 @@
       "pageTitle": "通用售中客服话术",
       "sectionTitle": "订单修改",
       "scene": "客户要求修改订单",
-      "template": "I understand you'd like to modify your order! 📝\n\nOrder #: [Order Number]\nCurrent status: [Status]\n\nIf your order hasn't shipped yet:\n✓ We can change: [Address/Size/Color/Quantity]\n✓ Please confirm the changes you need\n\nIf your order has already shipped:\n• Address change: We'll try to intercept with the carrier\n• Item change: Please return and reorder, or wait for delivery and exchange\n\nWhat changes do you need? 🔄",
+      "template": "I understand you'd like to modify your order! 📝\n\nOrder #: [Order Number]\nCurrent status: [Status]\n\nIf your order hasn't shipped yet:\n✓ We can change: [Editable Fields]\n✓ Please confirm the changes you need\n\nIf your order has already shipped:\n• Address change: We'll try to intercept with the carrier\n• Item change: Please return and reorder, or wait for delivery and exchange\n\nWhat changes do you need? 🔄",
       "variables": [
         "Order Number",
         "Status",
-        "Address/Size/Color/Quantity"
+        "Editable Fields"
       ],
       "sourcePath": "general/sales.md",
       "group": "general",
@@ -628,14 +813,17 @@
       "pageTitle": "通用售中客服话术",
       "sectionTitle": "订单状态查询",
       "scene": "客户询问订单当前状态",
-      "template": "Here's your order status! 📋\n\nOrder #: [Order Number]\nStatus: [Current Status]\n\nTimeline:\n✓ Order placed: [Date]\n✓ Payment confirmed: [Date]\n[✓/⏳] Processing: [Date/In progress]\n[✓/⏳] Shipped: [Date/Pending]\n[✓/⏳] Delivered: [Date/Pending]\n\nNext step: [What happens next]\n\nQuestions? I'm here to help! 📦",
+      "template": "Here's your order status! 📋\n\nOrder #: [Order Number]\nStatus: [Current Status]\n\nTimeline:\n✓ Order placed: [Date]\n✓ Payment confirmed: [Date]\n[Processing Status] Processing: [Processing Update]\n[Shipping Status] Shipped: [Shipping Update]\n[Delivery Status] Delivered: [Delivery Update]\n\nNext step: [What happens next]\n\nQuestions? I'm here to help! 📦",
       "variables": [
         "Order Number",
         "Current Status",
         "Date",
-        "✓/⏳",
-        "Date/In progress",
-        "Date/Pending",
+        "Processing Status",
+        "Processing Update",
+        "Shipping Status",
+        "Shipping Update",
+        "Delivery Status",
+        "Delivery Update",
         "What happens next"
       ],
       "sourcePath": "general/sales.md",
