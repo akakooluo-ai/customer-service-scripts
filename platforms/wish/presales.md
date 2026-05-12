@@ -80,7 +80,7 @@ Need help? Send us your measurements and we'll recommend the best size! 👕
 ```
 🎉 Special Offer!
 
-Use promo code [CODE] for [Discount]% OFF!
+Use promo code [Code] for [Discount]% OFF!
 Valid until: [Date]
 
 Plus:
@@ -170,8 +170,8 @@ Let me help you compare! 🤔
 • Best for: [Use case] vs [Use case]
 
 My recommendation:
-If you need [feature], go with [Product A].
-If you prefer [feature], [Product B] is better.
+If you need [Feature], go with [Product A].
+If you prefer [Feature], [Product B] is better.
 
 Both have great reviews! Which one interests you?
 ```

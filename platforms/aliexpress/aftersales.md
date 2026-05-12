@@ -73,7 +73,7 @@ Hello! I'm sorry your order #[Order Number] hasn't arrived.
 
 Tracking Status: [Status]
 Last Location: [Location]
-Expected Delivery: [Original date]
+Expected Delivery: [Original Date]
 
 Investigation:
 • I've contacted the carrier
@@ -152,7 +152,7 @@ I want to make this right. Here's what I can offer:
 • Free replacement with express shipping
 • $[Amount] store credit for future purchase
 
-I've already [action taken to resolve].
+I've already [Action Taken To Resolve].
 
 If you're satisfied with the resolution, would you consider updating your feedback? Your satisfaction is my top priority.
 
@@ -248,7 +248,7 @@ Evidence Provided:
 • Communication records: [Our previous messages]
 
 My Offer:
-[Full refund / Partial refund / Replacement] - whichever you prefer
+[Resolution Option] - whichever you prefer
 
 I believe this is a fair resolution. If you agree, please accept the proposal in the dispute.
 

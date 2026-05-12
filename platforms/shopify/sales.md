@@ -24,7 +24,7 @@ Order #[Order Number] has been confirmed.
 Order Details:
 • Items: [Product list]
 • Total: [Amount]
-• Payment: [Payment method] - Confirmed
+• Payment: [Payment Method] - Confirmed
 • Shipping to: [Address]
 
 What's Next:
@@ -45,7 +45,7 @@ Hello! Great news - your payment has been successfully processed!
 Payment Details:
 • Order: #[Order Number]
 • Amount: [Amount]
-• Method: [Payment method]
+• Method: [Payment Method]
 • Transaction ID: [ID]
 
 A receipt has been sent to your email. Your order is now being prepared for shipment.
@@ -94,10 +94,10 @@ Hello! Exciting news - your order is on its way!
 Shipment Details:
 • Order: #[Order Number]
 • Tracking: [Tracking Number]
-• Carrier: [Carrier name]
-• Track here: [Tracking link]
+• Carrier: [Carrier Name]
+• Track here: [Tracking Link]
 
-Estimated Delivery: [Date range]
+Estimated Delivery: [Date Range]
 
 Tracking Tips:
 • Tracking may take 24-48 hours to update after shipment
@@ -116,13 +116,13 @@ If you have any questions about your shipment, just reply to this message. Happy
 ```
 Hello! I'd be happy to help you track your order #[Order Number].
 
-Current Status: [Status - e.g., In Transit]
-Location: [Current location]
+Current Status: [Status]
+Location: [Current Location]
 Last Update: [Date/Time]
 
 How to Track:
-1. Click this link: [Tracking link]
-2. Or visit [carrier website] and enter: [Tracking Number]
+1. Click this link: [Tracking Link]
+2. Or visit [Carrier Website] and enter: [Tracking Number]
 3. Or log into your account at [Store URL]/account
 
 Estimated Delivery: [Date]
@@ -168,7 +168,7 @@ Current Address: [Current address]
 
 [If not shipped]
 Great news! Your order hasn't shipped yet. I've updated your shipping address to:
-[New address]
+[New Address]
 Your order will be delivered to this new address.
 
 [If already shipped]
@@ -215,7 +215,7 @@ Hello! I wanted to reach out about your order #[Order Number].
 
 I sincerely apologize - there's been a delay in shipping your order.
 
-Reason: [Reason - e.g., high order volume/supplier delay]
+Reason: [Delay Reason]
 Original Ship Date: [Date]
 New Ship Date: [Date]
 
@@ -225,7 +225,7 @@ What We're Doing:
 • Keeping you updated every step of the way
 
 To Make It Right:
-We'd like to offer you [compensation - e.g., 15% off your next order].
+We'd like to offer you [Compensation].
 
 If you'd prefer to cancel for a full refund, I completely understand and can process that immediately. Please let me know how you'd like to proceed.
 ```
@@ -250,7 +250,7 @@ What You May Need to Do:
 • Import duties/taxes may apply (varies by country)
 • Keep your phone/email accessible for customs notifications
 
-Estimated Delivery: [Date range] (after customs clearance)
+Estimated Delivery: [Date Range] (after customs clearance)
 
 Need Help?
 If customs requests any documents, let me know and I'll provide whatever you need. We're monitoring your shipment and will update you on any changes.

@@ -27,7 +27,7 @@ Hello! We offer a 30-day hassle-free return policy. To initiate a return: 1) Go 
 **适用场景：** 通知买家退款进度
 
 ```
-Hello! Good news - your refund of $[amount] has been processed! It will be credited back to your original payment method within 3-5 business days. You'll receive a confirmation email from eBay/PayPal. Thank you for your patience, and we hope to serve you again!
+Hello! Good news - your refund of $[Amount] has been processed! It will be credited back to your original payment method within 3-5 business days. You'll receive a confirmation email from eBay/PayPal. Thank you for your patience, and we hope to serve you again!
 ```
 
 ---
@@ -37,7 +37,7 @@ Hello! Good news - your refund of $[amount] has been processed! It will be credi
 **适用场景：** 买家开启未收到货纠纷
 
 ```
-Hello! I'm sorry to hear you haven't received your item yet. I've checked the tracking and it shows [status]. Sometimes packages can be delayed due to [reason]. Please allow [X] more days for delivery. If it still doesn't arrive, I'll be happy to offer a full refund or send a replacement. Thank you for your patience!
+Hello! I'm sorry to hear you haven't received your item yet. I've checked the tracking and it shows [Status]. Sometimes packages can be delayed due to [Reason]. Please allow [X] more days for delivery. If it still doesn't arrive, I'll be happy to offer a full refund or send a replacement. Thank you for your patience!
 ```
 
 ---
@@ -57,7 +57,7 @@ Hello! I sincerely apologize that the item didn't meet your expectations. I want
 **适用场景：** 买家留下差评后主动联系
 
 ```
-Hello! I noticed you left negative feedback and I'm truly sorry about your experience. I want to make this right. I've [solution provided]. If you're satisfied with the resolution, would you consider revising your feedback? Your satisfaction is very important to us. Please let me know how I can help further.
+Hello! I noticed you left negative feedback and I'm truly sorry about your experience. I want to make this right. I've [Solution Provided]. If you're satisfied with the resolution, would you consider revising your feedback? Your satisfaction is very important to us. Please let me know how I can help further.
 ```
 
 ---
@@ -77,7 +77,7 @@ Hello! Thank you for your purchase. We hope you're happy with your item. If you'
 **适用场景：** 协商部分退款解决问题
 
 ```
-Hello! I understand your concern about [issue]. While the item is as described, I'd like to offer you a partial refund of $[amount] as a gesture of goodwill. You can keep the item and receive this compensation. Would this resolution work for you? I want to ensure you're satisfied.
+Hello! I understand your concern about [Issue]. While the item is as described, I'd like to offer you a partial refund of $[Amount] as a gesture of goodwill. You can keep the item and receive this compensation. Would this resolution work for you? I want to ensure you're satisfied.
 ```
 
 ---
@@ -87,7 +87,7 @@ Hello! I understand your concern about [issue]. While the item is as described, 
 **适用场景：** 买家申请换货
 
 ```
-Hello! I'd be happy to help you with an exchange. Please return the original item using this return label: [link]. Once we receive it, I'll ship out the replacement [size/color/item] right away. You'll receive tracking for both shipments. Thank you for your patience!
+Hello! I'd be happy to help you with an exchange. Please return the original item using this return label: [Link]. Once we receive it, I'll ship out the replacement [size/color/item] right away. You'll receive tracking for both shipments. Thank you for your patience!
 ```
 
 ---

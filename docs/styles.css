@@ -90,6 +90,7 @@ a {
 
 .filters input,
 .filters select,
+.list-actions button,
 .generator input,
 .generator select,
 .generator textarea,
@@ -152,6 +153,7 @@ a {
 }
 
 .card button,
+.list-actions button,
 .generator button {
   background: var(--brand);
   color: #fff;
@@ -164,12 +166,14 @@ a {
   background: var(--brand-deep);
 }
 
+.list-actions button.ghost,
 .generator button.ghost {
   background: #fff;
   color: var(--ink);
   border: 1px solid var(--line);
 }
 
+.list-actions button.ghost:hover,
 .generator button.ghost:hover {
   background: #f6ece2;
 }
@@ -191,6 +195,15 @@ a {
 .button-row {
   display: flex;
   gap: 8px;
+  flex-wrap: wrap;
+}
+
+.list-actions {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .seo,

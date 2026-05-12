@@ -81,7 +81,7 @@ Refund processing! 💰
 
 Details:
 • Amount: $[Amount]
-• Method: [Original payment method]
+• Method: [Original Payment Method]
 • Processing time: 5-10 business days
 
 You'll receive confirmation via Wish app.

@@ -19,7 +19,7 @@
 ```
 Hi! Here are the key ingredients in this product: 🧴
 Main actives: [Ingredient 1], [Ingredient 2], [Ingredient 3].
-Free from: [Parabens/Sulfates/Fragrance/etc.].
+Free from: [Excluded Ingredients].
 This formula is [Vegan/Cruelty-free/Dermatologist tested].
 Full ingredient list is in the product images.
 Have specific ingredient concerns? Let us know! 💕
@@ -32,11 +32,11 @@ Have specific ingredient concerns? Let us know! 💕
 **适用场景：** 客户不确定产品是否适合自己肤质
 
 ```
-This product is best for: [Skin type, e.g., Oily/Dry/Combination/Sensitive]. 🌸
+This product is best for: [Skin Type]. 🌸
 Benefits:
-✓ [Benefit 1, e.g., Controls oil]
-✓ [Benefit 2, e.g., Hydrates without clogging pores]
-✓ [Benefit 3, e.g., Gentle formula].
+✓ [Benefit 1]
+✓ [Benefit 2]
+✓ [Benefit 3].
 Not recommended for: [Skin conditions to avoid].
 Tell us your skin type and concerns, we'll help you choose! 💆‍♀️
 ```
@@ -50,7 +50,7 @@ Tell us your skin type and concerns, we'll help you choose! 💆‍♀️
 ```
 For sensitive skin: 🌿
 This product is [Suitable/Not recommended] for sensitive skin.
-Gentle features: [Fragrance-free/Hypoallergenic/pH balanced].
+Gentle features: [Gentle Features].
 We recommend: Do a patch test first!
 Apply a small amount behind your ear, wait 24 hours.
 If no reaction, you're good to go!
@@ -65,9 +65,9 @@ Questions about sensitivity? We're here to help! 💙
 
 ```
 How to use this product: ✨
-Step 1: [First step, e.g., Cleanse face]
-Step 2: [Application method, e.g., Apply 2-3 drops]
-Step 3: [Follow-up, e.g., Pat gently until absorbed].
+Step 1: [Step 1]
+Step 2: [Step 2]
+Step 3: [Step 3].
 Best time: [Morning/Evening/Both].
 Use with: [Complementary products].
 Pro tip: [Usage tip for best results]! 🌟
@@ -100,7 +100,7 @@ Want a personalized recommendation? Share your skincare goals! 🎯
 Shipping care for your skincare: 📦
 We use [Insulated packaging/Ice packs] for temperature-sensitive items.
 Your product will arrive in perfect condition!
-Upon arrival: Store in [Cool, dry place/Refrigerator if needed].
+Upon arrival: Store in [Storage Method].
 Extreme weather? We may delay shipping to protect product quality.
 Your skincare deserves the best care! 💝
 ```
@@ -113,9 +113,9 @@ Your skincare deserves the best care! 💝
 
 ```
 Great news! Your order includes FREE gifts: 🎁
-✓ [Gift 1, e.g., Deluxe sample of [Product]]
-✓ [Gift 2, e.g., Skincare pouch]
-✓ [Gift 3, e.g., [Discount] off next purchase].
+✓ [Gift 1]
+✓ [Gift 2]
+✓ [Gift 3].
 Gifts are while supplies last!
 We've carefully selected items to complement your purchase! 💕
 ```
@@ -163,7 +163,7 @@ As our valued customer, you qualify for: 💎
 ✓ Double points on skincare
 ✓ Early access to new launches
 ✓ Free shipping on orders over [Amount].
-Use code: [CODE] at checkout!
+Use code: [Code] at checkout!
 Thank you for being part of our beauty community! 🌟
 ```
 
@@ -260,7 +260,7 @@ Questions about your routine? We love helping! 💆‍♀️
 **适用场景：** 客户投诉口红、膏霜夏季运输后软化、断裂或渗油
 
 ```
-Hi! I'm really sorry your [Product name] arrived looking different than expected.
+Hi! I'm really sorry your [Product Name] arrived looking different than expected.
 
 Warm weather can temporarily soften some formulas during shipping. Please try:
 1) Place it upright in a cool place for [Hours] hours (not the freezer unless the label allows it)
@@ -281,7 +281,7 @@ Hello! Thank you for telling us about the shade issue with [Product].
 Color can look different under lighting, screen calibration, and skin undertone. To help right away, I'd like to offer:
 • [Option A: exchange for shade X]
 • [Option B: store credit of Amount]
-• [Option C: mini sample bundle to find a better match]
+• [Option C]
 
 If you can share a quick photo in natural light (optional), we can recommend the closest match for your undertone. Either way, we'll make this easy for you.
 ```
@@ -299,7 +299,7 @@ Please send:
 • Photos of the outer box and the product
 • A short note of how much product was lost (estimate is fine)
 
-We'll immediately arrange: [Replacement / Refund / Partial refund + keep item] — whichever you prefer — and flag this batch with our warehouse. Thank you for your patience.
+We'll immediately arrange: [Resolution Option] — whichever you prefer — and flag this batch with our warehouse. Thank you for your patience.
 ```
 
 ---
@@ -315,7 +315,183 @@ Some active formulas can cause brief tingling the first few uses, especially if 
 
 If you notice rash, swelling, widespread redness, or pain, stop using it and seek medical advice if needed — and message us with photos so we can help with a return/refund.
 
-If it's only mild tingling that fades within minutes, try introducing it [Frequency, e.g., every other night] and avoid stacking with [Other strong actives]. I'm happy to tailor a simple routine plan.
+If it's only mild tingling that fades within minutes, try introducing it [Frequency] and avoid stacking with [Other strong actives]. I'm happy to tailor a simple routine plan.
+```
+
+---
+
+## 20. SPF 补涂与防晒期望管理
+
+**适用场景：** 客户询问防晒是否需要补涂、是否能完全防晒黑
+
+```
+Hi! For best protection with [Product Name], apply enough product before sun exposure and reapply every [Hours] hours.
+
+Please note sunscreen reduces UV exposure but does not guarantee zero tanning, especially during swimming, sweating, or long outdoor activities. For stronger protection, pair it with hats, shade, and protective clothing.
+
+If you share your skin type and activity plan, I can recommend the right amount and reapplication schedule.
+```
+
+---
+
+## 21. 孕期 / 哺乳期成分咨询
+
+**适用场景：** 孕期或哺乳期客户询问护肤成分是否适用
+
+```
+Thank you for checking before using [Product Name]. During pregnancy or breastfeeding, ingredient tolerance can vary by person.
+
+This product contains: [Key Ingredients]. We recommend sharing the ingredient list with your doctor or healthcare professional before use, especially if you are avoiding [Ingredient Type].
+
+If you prefer, I can suggest our gentler alternatives with simpler formulas.
+```
+
+---
+
+## 22. 香味太浓 / 气味不适安抚
+
+**适用场景：** 客户反馈香味过重、不喜欢气味或怀疑变质
+
+```
+I'm sorry the scent of [Product Name] was not comfortable for you.
+
+Fragrance perception can be very personal, but if the smell seems sour, rancid, or very different from normal, please send us the batch code and photos of the package.
+
+We can help with [Resolution Option] according to your order status, and I can also recommend a fragrance-free option if you prefer.
+```
+
+---
+
+## 23. 开封后保质期说明
+
+**适用场景：** 客户询问产品开封后多久用完、如何保存
+
+```
+Great question! After opening [Product Name], we recommend using it within [Period] for best freshness and performance.
+
+Storage tips:
+• Keep the cap tightly closed
+• Store away from direct sunlight and heat
+• Use clean hands or tools when applying
+
+If you notice changes in color, scent, or texture, please stop using it and contact us with the batch code.
+```
+
+---
+
+## 24. 起泥 / 搓泥使用指导
+
+**适用场景：** 客户反馈护肤品上脸后搓泥、与底妆不兼容
+
+```
+Thanks for letting us know about pilling with [Product Name]. This can happen when products are layered too quickly or combined with certain silicone-rich formulas.
+
+Please try:
+1) Use a smaller amount
+2) Wait [Minutes] minutes between layers
+3) Apply with gentle pressing instead of rubbing
+
+If it still pills, tell me what products you use before and after it, and I'll help adjust the routine.
+```
+
+---
+
+## 25. 爆痘 / 闷痘反馈处理
+
+**适用场景：** 客户反馈使用后长痘，需区分适应期与不耐受
+
+```
+I'm sorry you're seeing breakouts after using [Product Name]. Please pause the product for [Days] days and keep your routine simple.
+
+Breakouts can be caused by many factors, but if bumps continue, become painful, or appear in areas where you normally do not break out, it may not suit your skin.
+
+Send us your skin type and how often you used it. We'll help with routine guidance and [Resolution Option] if needed.
+```
+
+---
+
+## 26. 套装使用顺序说明
+
+**适用场景：** 客户购买护肤套装后不知道先后顺序
+
+```
+Here is the recommended order for your [Set Name]:
+
+1) [Step 1 Product] - cleanse or prep
+2) [Step 2 Product] - treatment
+3) [Step 3 Product] - moisturize or seal
+4) Morning only: [SPF Product]
+
+Start slowly if you are new to actives. If irritation happens, reduce frequency and message us for a simpler plan.
+```
+
+---
+
+## 27. 色号二次推荐
+
+**适用场景：** 客户第一次选色失败，需要重新推荐粉底、遮瑕或唇色
+
+```
+I'd be happy to help find a better shade for you.
+
+Please send:
+• Your current shade: [Current Shade]
+• Whether it looks too light, dark, yellow, pink, or gray
+• A photo in natural light if convenient
+
+Based on that, I recommend trying [Recommended Shade]. We can also help with [Exchange Option] if your order is eligible.
+```
+
+---
+
+## 28. 美妆工具清洁建议
+
+**适用场景：** 客户询问粉扑、刷具、美妆蛋如何清洁
+
+```
+To keep [Tool Name] clean and performing well, wash it every [Frequency] with mild soap or brush cleanser.
+
+Steps:
+1) Wet with lukewarm water
+2) Gently massage with cleanser
+3) Rinse until water runs clear
+4) Air dry fully before storing
+
+Replace it when you notice odor, tearing, or reduced performance.
+```
+
+---
+
+## 29. 批号 / 真伪查询说明
+
+**适用场景：** 客户要求核对批号、生产日期或真伪
+
+```
+Thanks for checking. Please send a clear photo of the batch code on [Package Location].
+
+We can verify:
+• Batch code: [Batch Code]
+• Production or best-before information
+• Whether the packaging matches our current version
+
+If anything looks unusual, we'll escalate it to our quality team and help you with the next step.
+```
+
+---
+
+## 30. 皮肤屏障受损修护建议
+
+**适用场景：** 客户皮肤泛红、干痒、屏障脆弱，询问产品搭配
+
+```
+If your skin barrier feels sensitive right now, I recommend keeping the routine very simple for [Days] days.
+
+Use:
+• Gentle cleanser: [Cleanser]
+• Barrier moisturizer: [Moisturizer]
+• Daytime SPF: [SPF]
+
+Pause strong actives like [Active Ingredients] until your skin feels stable. If symptoms are severe or persistent, please seek professional medical advice.
 ```
 
 ---

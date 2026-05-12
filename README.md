@@ -1,6 +1,6 @@
 # 电商客服话术大全 | E-commerce Customer Service Scripts
 
-> 🛒 专业的电商客服话术模板库，覆盖 Amazon、淘宝、京东、Shopee 等 11 大平台，以及服装、美妆、母婴、食品饮品等 34 个行业，已索引 1,370 条模板。
+> 🛒 专业的电商客服话术模板库，覆盖 Amazon、淘宝、京东、Shopee 等 11 大平台，以及服装、美妆、母婴、食品饮品等 34 个行业，已索引 1,435 条模板。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/akakooluo-ai/customer-service-scripts/pulls)
@@ -9,7 +9,7 @@
 ## 🌐 在线入口（Free Knowledge Base）
 
 - 立即使用（GitHub Pages）：[https://akakooluo-ai.github.io/customer-service-scripts/](https://akakooluo-ai.github.io/customer-service-scripts/) 
-  Search 1,370+ customer service templates online, fill variables, and generate ready-to-send replies.
+  Search 1,435+ customer service templates online, fill variables, and generate ready-to-send replies.
 - 升级自动化（TalkQ）：[https://www.talkq.vip](https://www.talkq.vip)
   Move from manual copy-and-send to AI reply automation, team collaboration, and workflow routing.
 
@@ -114,6 +114,14 @@ customer-service-scripts/
 - Added 10 new high-conversion presales templates in `general/presales.md` and rebuilt `docs/data/templates.json` to `1,370` indexed templates
 - Audited older templates and normalized placeholder names in `general/` to improve variable quality for the online generator
 
+### 2026-05-12
+
+- Added `npm run lint:templates` to audit placeholder quality before publishing
+- Normalized placeholder casing and long labels across existing templates to improve generator input fields
+- Added 65 industry templates and completed `beauty`, `electronics`, `fashion`, `home`, and `outdoor` to 30 templates each
+- Rebuilt `docs/data/templates.json` to `1,435` indexed templates
+- Added the May growth plan: [tasks/2026-05-tasks.md](tasks/2026-05-tasks.md)
+
 ## Template Mode vs AI Mode
 
 | Mode | Best For | Input Needed | Output Style | Risk Level |
@@ -133,70 +141,70 @@ Want batch automation, team collaboration, and workflow routing instead of one-b
 
 **After (template-driven):** Open `platforms/shopify/aftersales.md` → *WISMO 延迟安抚*, fill `[Order Number]`, `[Carrier]`, `[New ETA]`, and `[Compensation]` — you get a calm, step-by-step update customers can act on. The same pattern works for Amazon FBA delay scripts under `platforms/amazon/aftersales.md`.
 
-## Top 20 Templates This Month (2026-04)
+## Top 20 Templates This Month (2026-05)
 
-This month's shortlist highlights the most reusable, high-intent templates for ecommerce teams: shipping delay, refund recovery, wrong item, complaint handling, fit guidance, and product-specific edge cases. If you only try a few templates first, start here.
+This month's shortlist highlights newly expanded industry edge cases: beauty ingredient safety, electronics troubleshooting, fashion fit and returns, furniture delivery/assembly, and outdoor gear safety. If you only try a few templates first, start here.
 
-1. **Shopify WISMO 延迟安抚**  
-   Best for repeated "where is my order?" follow-ups with a clear follow-up date.  
-   Source: [platforms/shopify/aftersales.md](platforms/shopify/aftersales.md)
-2. **Amazon FBA 延迟/异常履约类话术**  
-   Best for Amazon orders affected by FBA timing, tracking stalls, or fulfillment exceptions.  
-   Source: [platforms/amazon/aftersales.md](platforms/amazon/aftersales.md)
-3. **通用物流严重延误（双语）**  
-   Best for EN/ZH teams that need one message block for escalated shipping complaints.  
-   Source: [general/aftersales.md](general/aftersales.md)
-4. **通用错发商品（双语）**  
-   Best for wrong SKU cases when the customer needs a replacement or refund path fast.  
-   Source: [general/aftersales.md](general/aftersales.md)
-5. **通用投诉处理**  
-   Best for de-escalating frustrated customers before the issue turns into a bad review or chargeback.  
-   Source: [general/aftersales.md](general/aftersales.md)
-6. **Shopify 部分退款协商**  
-   Best for save-the-order cases where a full return is avoidable.  
-   Source: [platforms/shopify/aftersales.md](platforms/shopify/aftersales.md)
-7. **Shopify 复购优惠券发放**  
-   Best for turning a solved support ticket into a repeat purchase opportunity.  
-   Source: [platforms/shopify/aftersales.md](platforms/shopify/aftersales.md)
-8. **Amazon A-to-z / chargeback de-escalation 类话术**  
-   Best for calming dispute risk and documenting next steps with clear policy wording.  
-   Source: [platforms/amazon/aftersales.md](platforms/amazon/aftersales.md)
-9. **服装行业尺码咨询**  
-   Best for reducing pre-purchase hesitation and lowering size-related returns.  
-   Source: [industries/fashion.md](industries/fashion.md)
-10. **女装尺码推荐**  
-   Best for higher-conversion guided selling in women's apparel.  
-   Source: [industries/womens-clothing.md](industries/womens-clothing.md)
-11. **美妆色号推荐**  
-   Best for helping shoppers choose the closest shade with less decision fatigue.  
-   Source: [industries/makeup.md](industries/makeup.md)
-12. **护肤敏感肌推荐**  
-   Best for ingredient-conscious shoppers asking about irritation, repair, and skin type fit.  
-   Source: [industries/skincare.md](industries/skincare.md)
-13. **Beauty allergy / reaction follow-up**  
-   Best for post-purchase beauty complaints that need empathy plus safe next steps.  
+1. **SPF 补涂与防晒期望管理**  
+   Best for setting realistic sunscreen expectations and reducing post-purchase complaints.  
    Source: [industries/beauty.md](industries/beauty.md)
-14. **电子产品保修说明**  
-   Best for warranty, replacement window, and troubleshooting expectation setting.  
+2. **孕期 / 哺乳期成分咨询**  
+   Best for conservative ingredient guidance when customers need medical-safe wording.  
+   Source: [industries/beauty.md](industries/beauty.md)
+3. **起泥 / 搓泥使用指导**  
+   Best for troubleshooting skincare layering and makeup compatibility issues.  
+   Source: [industries/beauty.md](industries/beauty.md)
+4. **批号 / 真伪查询说明**  
+   Best for batch-code verification, authenticity questions, and quality escalation.  
+   Source: [industries/beauty.md](industries/beauty.md)
+5. **电池续航低于预期排查**  
+   Best for electronics tickets where usage conditions affect battery performance.  
    Source: [industries/electronics.md](industries/electronics.md)
-15. **纸尿裤尺码推荐**  
-   Best for parent shoppers who need quick guidance based on baby weight and fit.  
-   Source: [industries/diapers.md](industries/diapers.md)
-16. **奶粉/辅食阶段推荐**  
-   Best for age-stage education and higher-trust presales support in baby feeding.  
-   Source: [industries/baby-food.md](industries/baby-food.md)
-17. **孕产用品阶段推荐**  
-   Best for trimester- or postpartum-based product recommendations.  
-   Source: [industries/maternity.md](industries/maternity.md)
-18. **生鲜品相与损耗说明**  
-   Best for setting expectations before delivery and reducing freshness complaints.  
-   Source: [industries/fresh-food.md](industries/fresh-food.md)
-19. **茶叶口感与送礼推荐**  
-   Best for shoppers comparing flavor profile, grade, and gifting suitability.  
-   Source: [industries/tea.md](industries/tea.md)
-20. **香水留香/前中后调咨询**  
-   Best for translating fragrance notes into buyer-friendly guidance that converts.  
-   Source: [industries/perfume.md](industries/perfume.md)
+6. **蓝牙连接不稳定处理**  
+   Best for headphones, speakers, keyboards, and device pairing issues.  
+   Source: [industries/electronics.md](industries/electronics.md)
+7. **进水 / 受潮处理**  
+   Best for safety-first replies when devices may be water damaged.  
+   Source: [industries/electronics.md](industries/electronics.md)
+8. **海外插头 / 电压适配说明**  
+   Best for cross-border buyers checking plug type, voltage, and adapters.  
+   Source: [industries/electronics.md](industries/electronics.md)
+9. **面料扎皮 / 不亲肤反馈**  
+   Best for reducing friction when a customer dislikes fabric feel.  
+   Source: [industries/fashion.md](industries/fashion.md)
+10. **起球 / 勾丝处理**  
+   Best for fashion after-sales cases around knitwear, friction, and fabric wear.  
+   Source: [industries/fashion.md](industries/fashion.md)
+11. **试穿后换码流程**  
+   Best for making size exchanges clear and low-friction.  
+   Source: [industries/fashion.md](industries/fashion.md)
+12. **身高体重快速推荐**  
+   Best for fast pre-sales sizing when customers provide limited measurements.  
+   Source: [industries/fashion.md](industries/fashion.md)
+13. **大件配送预约说明**  
+   Best for furniture and bulky goods that require carrier appointment windows.  
+   Source: [industries/home.md](industries/home.md)
+14. **电梯 / 楼梯搬运限制提醒**  
+   Best for preventing failed delivery due to door, elevator, or stair clearance.  
+   Source: [industries/home.md](industries/home.md)
+15. **安装孔位不匹配处理**  
+   Best for furniture assembly issues that need photos, step numbers, and part labels.  
+   Source: [industries/home.md](industries/home.md)
+16. **多包裹未全部送达说明**  
+   Best for multi-box furniture shipments delivered across different times.  
+   Source: [industries/home.md](industries/home.md)
+17. **防水等级期望管理**  
+   Best for outdoor gear questions where customers expect complete waterproofing.  
+   Source: [industries/outdoor.md](industries/outdoor.md)
+18. **睡袋温标解释**  
+   Best for explaining comfort, limit, and extreme ratings without over-promising warmth.  
+   Source: [industries/outdoor.md](industries/outdoor.md)
+19. **安全绳索 / 承重免责声明**  
+   Best for high-risk load-bearing questions that require safety boundaries.  
+   Source: [industries/outdoor.md](industries/outdoor.md)
+20. **极端天气不建议使用提醒**  
+   Best for steering customers away from unsafe use in storms, snow, or extreme cold.  
+   Source: [industries/outdoor.md](industries/outdoor.md)
 
 Want more? Browse the full platform templates, then move into industry-specific scripts when you need more precise recommendations or objection handling.
 
@@ -243,7 +251,7 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 
 ## 🏭 覆盖行业
 
-当前已覆盖 `34` 个行业，共 `955` 条行业模板。
+当前已覆盖 `34` 个行业，共 `1,020` 条行业模板。
 
 <table>
 <tr>
@@ -252,7 +260,7 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 **👗 服饰鞋包**
 | 行业 | 数量 | 链接 |
 |-----|:---:|:---:|
-| 服装行业 | 18 | [查看](industries/fashion.md) |
+| 服装行业 | 30 | [查看](industries/fashion.md) |
 | 女装 | 30 | [查看](industries/womens-clothing.md) |
 | 男装 | 30 | [查看](industries/mens-clothing.md) |
 | 童装 | 30 | [查看](industries/kids-clothing.md) |
@@ -273,7 +281,7 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 **💄 美妆护肤**
 | 行业 | 数量 | 链接 |
 |-----|:---:|:---:|
-| 美妆护肤 | 19 | [查看](industries/beauty.md) |
+| 美妆护肤 | 30 | [查看](industries/beauty.md) |
 | 护肤品 | 30 | [查看](industries/skincare.md) |
 | 彩妆 | 30 | [查看](industries/makeup.md) |
 | 香水 | 30 | [查看](industries/perfume.md) |
@@ -297,9 +305,9 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 **🏠 家居数码**
 | 行业 | 数量 | 链接 |
 |-----|:---:|:---:|
-| 电子产品 | 18 | [查看](industries/electronics.md) |
-| 家居用品 | 15 | [查看](industries/home.md) |
-| 户外运动 | 15 | [查看](industries/outdoor.md) |
+| 电子产品 | 30 | [查看](industries/electronics.md) |
+| 家居用品 | 30 | [查看](industries/home.md) |
+| 户外运动 | 30 | [查看](industries/outdoor.md) |
 
 **🍵 食品饮品**
 | 行业 | 数量 | 链接 |

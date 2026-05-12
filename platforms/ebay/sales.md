@@ -17,7 +17,7 @@
 **适用场景：** 买家付款后确认订单
 
 ```
-Hello! Thank you for your purchase! Your order number is [Order Number]. We'll process and ship your order within 24 hours of payment confirmation. You'll receive tracking information via email once it ships. Estimated delivery is [date]. If you have any questions, please don't hesitate to contact us!
+Hello! Thank you for your purchase! Your order number is [Order Number]. We'll process and ship your order within 24 hours of payment confirmation. You'll receive tracking information via email once it ships. Estimated delivery is [Date]. If you have any questions, please don't hesitate to contact us!
 ```
 
 ---
@@ -27,7 +27,7 @@ Hello! Thank you for your purchase! Your order number is [Order Number]. We'll p
 **适用场景：** 订单发货后通知买家
 
 ```
-Hello! Great news - your order [Order Number] has been shipped! Tracking number: [Tracking Number]. You can track your package on [carrier] website or eBay. Estimated delivery: [Date]. Please allow 1-2 business days for tracking to update. Thank you for your purchase!
+Hello! Great news - your order [Order Number] has been shipped! Tracking number: [Tracking Number]. You can track your package on [Carrier] website or eBay. Estimated delivery: [Date]. Please allow 1-2 business days for tracking to update. Thank you for your purchase!
 ```
 
 ---
@@ -37,7 +37,7 @@ Hello! Great news - your order [Order Number] has been shipped! Tracking number:
 **适用场景：** 买家询问物流状态
 
 ```
-Hello! Your order [Order Number] is currently in transit. Latest update: [Status] at [Location] on [Date]. Estimated delivery is [Date]. You can track it using tracking number [Tracking Number] on [carrier] website. If you have any questions, feel free to ask!
+Hello! Your order [Order Number] is currently in transit. Latest update: [Status] at [Location] on [Date]. Estimated delivery is [Date]. You can track it using tracking number [Tracking Number] on [Carrier] website. If you have any questions, feel free to ask!
 ```
 
 ---
@@ -47,7 +47,7 @@ Hello! Your order [Order Number] is currently in transit. Latest update: [Status
 **适用场景：** 订单未付款需要提醒
 
 ```
-Hello! We noticed your order hasn't been paid yet. Please complete your payment within [timeframe] to secure your item. If you're having trouble with payment, please let us know and we'll be happy to help. Thank you!
+Hello! We noticed your order hasn't been paid yet. Please complete your payment within [Timeframe] to secure your item. If you're having trouble with payment, please let us know and we'll be happy to help. Thank you!
 ```
 
 ---
@@ -87,7 +87,7 @@ Hello! I understand you'd like to cancel your order. If the order hasn't shipped
 **适用场景：** 订单发货延迟需要解释
 
 ```
-Hello! I apologize for the delay in shipping your order. [Reason for delay]. Your order is now being prepared and will ship within [timeframe]. You'll receive tracking information as soon as it ships. I appreciate your patience and apologize for any inconvenience!
+Hello! I apologize for the delay in shipping your order. [Reason for delay]. Your order is now being prepared and will ship within [Timeframe]. You'll receive tracking information as soon as it ships. I appreciate your patience and apologize for any inconvenience!
 ```
 
 ---
@@ -107,7 +107,7 @@ Hello! I've checked your order status. Order [Order Number] is currently [Status
 **适用场景：** 买家催促发货
 
 ```
-Hello! I understand you're waiting for your order. I've checked the status, and it's currently [status]. We're working hard to get it to you as soon as possible. You'll receive tracking information as soon as it ships. Thank you for your patience!
+Hello! I understand you're waiting for your order. I've checked the status, and it's currently [Status]. We're working hard to get it to you as soon as possible. You'll receive tracking information as soon as it ships. Thank you for your patience!
 ```
 
 ---

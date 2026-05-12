@@ -41,7 +41,7 @@ Step 1: Request return in your account (Orders → Return Item)
 Step 2: Select reason and items to return
 Step 3: Print the prepaid return label (or pay for return shipping)
 Step 4: Pack items securely with all tags/accessories
-Step 5: Drop off at [carrier location]
+Step 5: Drop off at [Carrier location]
 
 Once we receive and inspect the return, your refund will be processed within 5-7 business days.
 
@@ -80,7 +80,7 @@ Hello! Your refund for order #[Order Number] has been processed.
 
 Refund Details:
 • Amount: [Amount]
-• Method: [Original payment method]
+• Method: [Original Payment Method]
 • Processing date: [Date]
 
 Timeline:
@@ -111,7 +111,7 @@ We'll immediately:
 • Send a replacement (free expedited shipping) OR
 • Issue a full refund (keep the item)
 
-Plus, we'd like to offer you [discount]% off your next order as an apology.
+Plus, we'd like to offer you [Discount]% off your next order as an apology.
 
 We truly apologize and will make this right!
 ```
@@ -169,7 +169,7 @@ We apologize for this inconvenience and appreciate your patience!
 **适用场景：** 协商部分退款解决问题
 
 ```
-Hello! I understand you'd like to keep the item but request a partial refund for order #[Order Number] due to [reason].
+Hello! I understand you'd like to keep the item but request a partial refund for order #[Order Number] due to [Reason].
 
 I appreciate you bringing this to our attention. Based on the issue, I can offer:
 
@@ -194,7 +194,7 @@ Your feedback means the world to us and helps other customers make informed deci
 Would you mind taking 2 minutes to leave a review?
 [Review link]
 
-As a thank you, we'd like to offer you [incentive, e.g., 10% off your next order].
+As a thank you, we'd like to offer you [Incentive].
 
 Thank you for being an amazing customer. We truly appreciate your support!
 ```
@@ -477,11 +477,11 @@ If pickup continues to fail, we can switch to a drop-off option at [Location/lin
 ```
 Hello! Thanks for contacting us about the return for order #[Order Number].
 
-Because this item contains [Battery/Aerosol/Other restricted material], carrier rules may require special handling. In some cases we cannot issue a standard prepaid label.
+Because this item contains [Restricted Material], carrier rules may require special handling. In some cases we cannot issue a standard prepaid label.
 
 Here are the safest options we can offer:
-• Option A: [Return instructions / approved carrier method]
-• Option B: [Keep item + partial refund / store credit] if a return is not feasible
+• Option A: [Return Instructions]
+• Option B: [Resolution Option] if a return is not feasible
 
 Please confirm which option you prefer, and we'll guide you through the exact steps.
 ```
@@ -517,7 +517,7 @@ I can confirm the return carrier shows delivered on [Date]. Our warehouse is cur
 
 Once inspection is complete, your refund of [Amount] will be issued to your original payment method. You'll receive an email confirmation when it's submitted.
 
-If you don't see movement after [Follow-up date], reply here and I'll escalate the case for you.
+If you don't see movement after [Follow-up Date], reply here and I'll escalate the case for you.
 ```
 
 ---

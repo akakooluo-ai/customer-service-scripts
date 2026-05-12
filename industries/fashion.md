@@ -31,11 +31,11 @@ Need help? Send us your measurements (height, weight, bust, waist, hip) and we'l
 **适用场景：** 客户询问材质成分、是否起球、透气性等
 
 ```
-Material: [Material composition, e.g., 95% Cotton, 5% Spandex]. 
+Material: [Material Composition]. 
 Features: 
-✓ [Feature 1, e.g., Breathable] 
-✓ [Feature 2, e.g., Stretchy] 
-✓ [Feature 3, e.g., Machine washable]. 
+✓ [Feature 1] 
+✓ [Feature 2] 
+✓ [Feature 3]. 
 Care instructions: [Washing instructions]. 
 This fabric is perfect for [Season/Occasion]. 
 Feel: [Soft/Smooth/Textured]. 
@@ -140,7 +140,7 @@ It'll look perfect! We've packed it with care! 🌟
 ```
 This item is on pre-order! 🎉 
 Expected ship date: [Date]. 
-Why pre-order? [Reason: New arrival/Limited edition/High demand]. 
+Why pre-order? [Preorder Reason]. 
 You'll receive: 
 ✓ Guaranteed stock 
 ✓ [Discount/Bonus] 
@@ -223,9 +223,9 @@ Plus [Discount] for your next order. We apologize! 💙
 
 ```
 Care instructions for your garment: 🧺 
-Washing: [Instructions, e.g., Machine wash cold, gentle cycle]. 
-Drying: [Instructions, e.g., Hang dry or tumble dry low]. 
-Ironing: [Instructions, e.g., Low heat if needed]. 
+Washing: [Washing Instructions]. 
+Drying: [Drying Instructions]. 
+Ironing: [Ironing Instructions]. 
 Storage: [Tips]. 
 Following these will keep your item looking great! Questions? Ask us! ✨
 ```
@@ -271,7 +271,7 @@ If you can share a photo of the item next to natural daylight, we can double-che
 I'm truly sorry — your preorder for [Item] has been delayed again. The revised ship date is now [Date], because [Reason: fabric delay / port / production].
 
 We know this is frustrating. To make it right:
-• [Compensation: discount / shipping upgrade / small gift]
+• [Compensation]
 • You may also cancel for a full refund at any time before shipment — just say the word.
 
 If you'd like to keep the order, we'll send a tracking link the moment it ships and prioritize your package.
@@ -286,13 +286,195 @@ If you'd like to keep the order, we'll send a tracking link the moment it ships 
 ```
 Hello! Thanks for letting us know about shrinkage after washing.
 
-If care instructions were followed ([Machine wash cold / line dry, etc.]) and shrinkage is beyond normal tolerance for this fabric, we'll treat it as a quality issue: [Replacement / Refund / Partial refund].
+If care instructions were followed ([Care Method]) and shrinkage is beyond normal tolerance for this fabric, we'll treat it as a quality issue: [Replacement / Refund / Partial refund].
 
 Please share:
 • Photos with a ruler measurement (chest/length)
 • Which wash cycle and temperature you used
 
-If care instructions weren't followed, we may not be able to cover it — but I'll still suggest [restretch tips / professional alteration credit] if helpful.
+If care instructions weren't followed, we may not be able to cover it — but I'll still suggest [Resolution Option] if helpful.
+```
+
+---
+
+## 19. 面料扎皮 / 不亲肤反馈
+
+**适用场景：** 客户反馈衣物上身刺痒、面料不够柔软
+
+```
+I'm sorry the fabric of [Product Name] didn't feel comfortable on your skin.
+
+Some textures can feel different depending on skin sensitivity and layering. Please check whether the care label allows a gentle wash or steam to soften the fabric.
+
+If it still feels irritating, we can help with [Resolution Option] within [Days] days, as long as the item meets return condition requirements.
+```
+
+---
+
+## 20. 透明 / 走光风险说明
+
+**适用场景：** 客户询问白色、浅色或薄款服装是否透
+
+```
+Great question about coverage. [Product Name] has [Fabric Thickness] fabric and is best worn with [Recommended Underlayer] for lighter colors.
+
+For strong sunlight or flash photography, slight transparency may be possible. If you prefer more coverage, I recommend [Alternative Product].
+
+Tell me the color and occasion, and I'll help you choose the safer option.
+```
+
+---
+
+## 21. 起球 / 勾丝处理
+
+**适用场景：** 客户反馈针织、毛衣、运动面料起球或勾丝
+
+```
+I'm sorry you noticed pilling or snagging on [Product Name].
+
+For this fabric, minor pilling can happen with friction from bags, seats, or repeated washing. Please send photos of the affected area and tell us how many times it was worn or washed.
+
+We'll review whether it is normal wear or a quality issue and offer [Resolution Option].
+```
+
+---
+
+## 22. 拉链 / 纽扣损坏补救
+
+**适用场景：** 客户反馈拉链卡住、纽扣脱落、五金损坏
+
+```
+I'm sorry about the hardware issue on [Product Name].
+
+Please send:
+• A close-up photo or short video
+• Your order number
+• Whether the item has been worn or washed
+
+If confirmed, we can arrange [Replacement Part], [Repair Credit], or [Exchange Option] depending on availability.
+```
+
+---
+
+## 23. 套装上下身尺码不一致建议
+
+**适用场景：** 客户购买套装但上衣和下装需要不同尺码
+
+```
+For [Set Name], I understand you may need different sizes for top and bottom.
+
+Current set sizing: top [Top Size], bottom [Bottom Size]. If mixed sizing is available, we can help arrange [Mixed Size Option].
+
+If mixed sizing is not available, please share your measurements and fit preference, and I'll suggest the best single size or alternative set.
+```
+
+---
+
+## 24. 大码版型推荐
+
+**适用场景：** 大码客户询问是否显瘦、是否适合自己的身形
+
+```
+I'd be happy to help with fit. For [Product Name], the key fit points are [Fit Points].
+
+If you prefer a relaxed fit, consider [Recommended Size]. If you want a more shaped look, [Alternative Size] may work better.
+
+Send your bust, waist, hip, and height, and I'll recommend the most comfortable size.
+```
+
+---
+
+## 25. 退货运费争议说明
+
+**适用场景：** 客户不满退货运费，需要解释规则并安抚
+
+```
+I understand return shipping can be frustrating.
+
+For [Return Reason], our policy is: [Return Shipping Policy]. If the item is defective or we shipped the wrong item, we'll cover the return cost.
+
+Please send photos if there is a product issue, and I'll review whether we can upgrade this to a prepaid return label.
+```
+
+---
+
+## 26. 试穿后换码流程
+
+**适用场景：** 客户试穿后想换尺码，需要明确流程
+
+```
+No problem — we can help you exchange [Product Name] for size [New Size].
+
+Exchange steps:
+1) Keep tags attached and item unworn outside
+2) Start exchange within [Days] days
+3) Send the return package using [Return Method]
+
+Once the return scan updates, we'll ship the replacement if stock is available.
+```
+
+---
+
+## 27. 色牢度 / 掉色提醒
+
+**适用场景：** 深色牛仔、印花、染色面料需要洗护提醒
+
+```
+For [Product Name], we recommend washing dark or printed colors separately for the first [Wash Count] washes.
+
+Care tips:
+• Turn inside out
+• Use cold water
+• Avoid soaking for too long
+• Do not mix with light colors
+
+These steps help protect color and reduce transfer.
+```
+
+---
+
+## 28. 身高体重快速推荐
+
+**适用场景：** 客户只提供身高体重，需要快速初步尺码建议
+
+```
+Based on height [Height] and weight [Weight], a good starting size for [Product Name] is [Recommended Size].
+
+For a more accurate fit, please also share bust/chest, waist, and hip measurements. If you are between sizes, choose [Size Advice] depending on whether you prefer tight or relaxed fit.
+```
+
+---
+
+## 29. 断货替代款推荐
+
+**适用场景：** 客户想买的颜色或尺码断货，需要挽回转化
+
+```
+Sorry, [Product Name] in [Color/Size] is currently out of stock.
+
+Similar options:
+• [Alternative 1] - closest fit
+• [Alternative 2] - similar color
+• [Alternative 3] - same fabric feel
+
+If you prefer to wait, I can also help you set a restock reminder for [Restock Date].
+```
+
+---
+
+## 30. 多件搭配打包建议
+
+**适用场景：** 客户购买多件衣服，询问是否搭配、是否有组合优惠
+
+```
+Great choices! [Item 1], [Item 2], and [Item 3] can work well together for [Occasion].
+
+Suggested outfit:
+• Base: [Item 1]
+• Layer: [Item 2]
+• Accent: [Item 3]
+
+You may also qualify for [Bundle Discount]. Want me to help build a complete look in your size?
 ```
 
 ---

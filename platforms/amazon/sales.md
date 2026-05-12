@@ -85,7 +85,7 @@ Hello! Thank you for your order. Based on your shipping address and the shipping
 **适用场景：** 客户询问订单当前状态
 
 ```
-Hello! I've checked the status of your order [Order Number]. It is currently in the status of [Current Status, e.g. "Preparing for Shipment" / "Shipped"]. You can also view this information in your Amazon account under "Your Orders". If the status does not change for an unusually long time, please let us know and we will help you investigate further.
+Hello! I've checked the status of your order [Order Number]. It is currently in the status of [Current Status]. You can also view this information in your Amazon account under "Your Orders". If the status does not change for an unusually long time, please let us know and we will help you investigate further.
 ```
 
 ---

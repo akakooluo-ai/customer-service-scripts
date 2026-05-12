@@ -43,6 +43,10 @@
             <option value="">All industries</option>
           </select>
         </div>
+        <div class="list-actions">
+          <span id="listStatus" class="muted">Loading list...</span>
+          <button id="copyVisibleBtn" type="button" class="ghost">Copy visible templates</button>
+        </div>
         <div id="templateList" class="card-list"></div>
       </section>
 
@@ -52,6 +56,7 @@
         <details class="byok">
           <summary>AI Mode (BYOK: Bring Your Own Key)</summary>
           <div class="generator byok-grid">
+            <p class="muted">Your API key is saved only in this browser's local storage. If AI mode fails or config is missing, the generator falls back to template mode.</p>
             <label for="aiBaseUrl">Base URL</label>
             <input id="aiBaseUrl" type="text" placeholder="https://api.openai.com/v1" />
             <label for="aiModel">Model</label>
@@ -82,6 +87,8 @@
           <div class="button-row">
             <button id="generateBtn" type="button">Generate</button>
             <button id="aiGenerateBtn" type="button">AI Generate</button>
+            <button id="copyTemplateBtn" type="button" class="ghost">Copy Template</button>
+            <button id="shareTemplateBtn" type="button" class="ghost">Share Link</button>
             <button id="copyBtn" type="button">Copy</button>
           </div>
         </div>

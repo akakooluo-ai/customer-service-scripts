@@ -95,14 +95,14 @@ Specifications:
 • Weight: [Weight]
 • Material: [Material]
 • Power: [If applicable]
-• Certification: [CE/FCC/RoHS etc.]
+• Certification: [Certification]
 
 Package Includes:
 • [Item 1]
 • [Item 2]
 • [Accessories]
 
-This product is perfect for [use case]. Any other questions?
+This product is perfect for [Use case]. Any other questions?
 ```
 
 ---
@@ -230,8 +230,8 @@ Hello! Let me help you compare:
 | Best for | [Use case] | [Use case] |
 
 My Recommendation:
-If you need [feature], go with [Product A].
-If you prefer [feature], [Product B] is better.
+If you need [Feature], go with [Product A].
+If you prefer [Feature], [Product B] is better.
 
 Both are bestsellers with great reviews! Which one interests you more?
 ```

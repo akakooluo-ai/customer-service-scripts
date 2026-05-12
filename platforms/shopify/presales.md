@@ -17,7 +17,7 @@
 **适用场景：** 客户询问"你们是正品吗"、"品牌可靠吗"
 
 ```
-Hello! Thank you for your interest in [Brand Name]! We're a [description - e.g., family-owned business / established brand since 2015] dedicated to [brand mission]. 
+Hello! Thank you for your interest in [Brand Name]! We're a [Brand Description] dedicated to [Brand Mission]. 
 
 You can shop with confidence:
 • 10,000+ happy customers worldwide
@@ -94,7 +94,7 @@ Product Details:
 • Color options: [Colors available]
 • Features: [Key features]
 
-This product is perfect for [use case]. It's one of our bestsellers with [X]+ 5-star reviews!
+This product is perfect for [Use case]. It's one of our bestsellers with [X]+ 5-star reviews!
 
 Would you like me to help you choose the right [size/color/variant]? I'm happy to provide personalized recommendations!
 ```
@@ -113,13 +113,13 @@ Our Size Guide:
 
 Quick Tips:
 • This item runs [true to size / small / large]
-• For reference: Model is [height] wearing size [size]
+• For reference: Model is [Height] wearing size [Size]
 • Between sizes? We recommend sizing [up/down]
 
 Need personalized advice? Share your measurements:
 • Height: 
 • Weight:
-• Usual size in [brand]:
+• Usual size in [Brand]:
 
 I'll recommend the best size for you! And remember, we offer free exchanges if it doesn't fit perfectly.
 ```
@@ -134,7 +134,7 @@ I'll recommend the best size for you! And remember, we offer free exchanges if i
 Hello! Great timing - we do have some offers available!
 
 Current Promotions:
-🎉 New customer: [X]% off with code [CODE]
+🎉 New customer: [X]% off with code [Code]
 📦 Free shipping on orders over $[Amount]
 🛒 Bundle deal: Buy [X] get [Y]% off
 
@@ -164,7 +164,7 @@ Our Return Policy:
 How It Works:
 1. Request return in your account
 2. Print prepaid label (or pay return shipping)
-3. Drop off at any [carrier] location
+3. Drop off at any [Carrier] location
 4. Refund processed within 5-7 days
 
 We stand behind our products 100%. If you're not happy, we'll make it right!
@@ -242,7 +242,7 @@ Our Journey:
 • Today: Serving [X]+ customers in [X] countries
 • Featured in: [Media mentions]
 
-We're not just selling products - we're building a community of [target audience]. Thank you for considering us!
+We're not just selling products - we're building a community of [Target Audience]. Thank you for considering us!
 
 Follow our journey: [Social links]
 ```

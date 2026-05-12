@@ -27,7 +27,7 @@ Hello! We're a Top Rated Seller on eBay with 99.8% positive feedback. This means
 **适用场景：** 买家询问发货时间
 
 ```
-Hello! We offer fast shipping - your order will be shipped within 24 hours of payment confirmation. We use reliable shipping carriers to ensure your item arrives safely and on time. Estimated delivery time is [timeframe]. Thank you for your purchase!
+Hello! We offer fast shipping - your order will be shipped within 24 hours of payment confirmation. We use reliable shipping carriers to ensure your item arrives safely and on time. Estimated delivery time is [Timeframe]. Thank you for your purchase!
 ```
 
 ---
@@ -37,7 +37,7 @@ Hello! We offer fast shipping - your order will be shipped within 24 hours of pa
 **适用场景：** 买家提交 Best Offer 报价时
 
 ```
-Hello! Thank you for your Best Offer of $[amount]. While we appreciate your interest, our best price is $[counter-offer]. This price reflects the quality and value of the item. Would you like to accept this counter-offer? We're here to help with any questions!
+Hello! Thank you for your Best Offer of $[Amount]. While we appreciate your interest, our best price is $[counter-offer]. This price reflects the quality and value of the item. Would you like to accept this counter-offer? We're here to help with any questions!
 ```
 
 ---
@@ -57,7 +57,7 @@ Hello! We offer a 30-day hassle-free return policy. If you're not satisfied with
 **适用场景：** 买家询问商品详情
 
 ```
-Hello! Thank you for your question about [item]. As described in our listing, this item [description]. All details, including condition, size, and specifications, are accurately listed. If you need any additional information, please don't hesitate to ask. We're here to help!
+Hello! Thank you for your question about [Item]. As described in our listing, this item [Description]. All details, including condition, size, and specifications, are accurately listed. If you need any additional information, please don't hesitate to ask. We're here to help!
 ```
 
 ---
@@ -67,7 +67,7 @@ Hello! Thank you for your question about [item]. As described in our listing, th
 **适用场景：** 买家询问库存情况
 
 ```
-Hello! Thank you for your interest. We currently have [number] of this item in stock. This is a popular item, so I recommend ordering soon if you're interested. If you need a larger quantity, please let me know and I can check if we can accommodate your request. Thank you!
+Hello! Thank you for your interest. We currently have [Number] of this item in stock. This is a popular item, so I recommend ordering soon if you're interested. If you need a larger quantity, please let me know and I can check if we can accommodate your request. Thank you!
 ```
 
 ---
@@ -77,7 +77,7 @@ Hello! Thank you for your interest. We currently have [number] of this item in s
 **适用场景：** 买家询问商品状态（新/二手/翻新）
 
 ```
-Hello! This item is listed as [condition] condition. [Detailed description of condition]. All items are accurately described and photographed. If you have any questions about the condition or would like additional photos, please let me know. I want to make sure you're completely satisfied with your purchase!
+Hello! This item is listed as [Condition] condition. [Detailed description of condition]. All items are accurately described and photographed. If you have any questions about the condition or would like additional photos, please let me know. I want to make sure you're completely satisfied with your purchase!
 ```
 
 ---
@@ -87,7 +87,7 @@ Hello! This item is listed as [condition] condition. [Detailed description of co
 **适用场景：** 买家询问运费和配送方式
 
 ```
-Hello! Shipping for this item is [cost] via [shipping method]. We offer combined shipping discounts if you purchase multiple items - just add them to your cart and the discount will apply automatically. For international buyers, please check the shipping cost in the listing. If you have questions, feel free to ask!
+Hello! Shipping for this item is [Cost] via [Shipping method]. We offer combined shipping discounts if you purchase multiple items - just add them to your cart and the discount will apply automatically. For international buyers, please check the shipping cost in the listing. If you have questions, feel free to ask!
 ```
 
 ---
@@ -97,7 +97,7 @@ Hello! Shipping for this item is [cost] via [shipping method]. We offer combined
 **适用场景：** 买家询问商品尺寸
 
 ```
-Hello! Thank you for your question about the dimensions. This item measures [length] x [width] x [height] [units]. I've also included detailed measurements in the listing description. If you need any specific measurements or have questions about fit, please let me know and I'll be happy to help!
+Hello! Thank you for your question about the dimensions. This item measures [Length] x [Width] x [Height] [Units]. I've also included detailed measurements in the listing description. If you need any specific measurements or have questions about fit, please let me know and I'll be happy to help!
 ```
 
 ---
@@ -107,7 +107,7 @@ Hello! Thank you for your question about the dimensions. This item measures [len
 **适用场景：** 买家询问批量购买折扣
 
 ```
-Hello! Yes, we offer discounts for bulk purchases! If you're interested in buying [quantity] or more, I can offer you a special price. The more you buy, the better the discount. Please let me know your desired quantity and I'll provide you with the best price. Looking forward to your order!
+Hello! Yes, we offer discounts for bulk purchases! If you're interested in buying [Quantity] or more, I can offer you a special price. The more you buy, the better the discount. Please let me know your desired quantity and I'll provide you with the best price. Looking forward to your order!
 ```
 
 ---

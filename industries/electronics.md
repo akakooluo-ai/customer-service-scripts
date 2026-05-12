@@ -20,11 +20,11 @@
 Thank you for your interest in [Product Name]! 📱
 
 Key specifications:
-• [Spec 1, e.g., Processor: Snapdragon 8 Gen 2]
-• [Spec 2, e.g., RAM: 8GB]
-• [Spec 3, e.g., Storage: 256GB]
-• [Spec 4, e.g., Battery: 5000mAh]
-• [Spec 5, e.g., Display: 6.7" AMOLED]
+• [Spec 1]
+• [Spec 2]
+• [Spec 3]
+• [Spec 4]
+• [Spec 5]
 
 Full specs are in the product description. 
 Any specific questions about the specs? I'm happy to help! 🔧
@@ -106,13 +106,13 @@ Which features matter most to you? 🤔
 ```
 What's in the box: 📦
 • [Product Name]
-• [Accessory 1, e.g., USB-C cable]
-• [Accessory 2, e.g., User manual]
-• [Accessory 3, e.g., Warranty card]
+• [Accessory 1]
+• [Accessory 2]
+• [Accessory 3]
 
 NOT included (sold separately):
-• [Item 1, e.g., Charger]
-• [Item 2, e.g., Case]
+• [Item 1]
+• [Item 2]
 
 Recommended accessories: [Links]
 Need the complete setup? Check our bundle deals! 🎁
@@ -150,11 +150,11 @@ Estimated delivery: [Date] 📦
 Great news! Your order has shipped! 🚚
 
 Tracking info:
-• Carrier: [Carrier name]
-• Tracking #: [Tracking number]
+• Carrier: [Carrier Name]
+• Tracking #: [Tracking Number]
 • Estimated arrival: [Date]
 
-Track your package: [Tracking link]
+Track your package: [Tracking Link]
 
 Upon arrival, please:
 1) Check the package for damage
@@ -174,9 +174,9 @@ Enjoy your new [Product Name]! 📱
 Before using your [Product Name]: ⚡
 
 Setup steps:
-1) [Step 1, e.g., Fully charge before first use]
-2) [Step 2, e.g., Download the companion app]
-3) [Step 3, e.g., Register for warranty]
+1) [Step 1]
+2) [Step 2]
+3) [Step 3]
 
 Important:
 • [Tip 1]
@@ -247,9 +247,9 @@ Questions about the update? Ask away! 💻
 Sorry to hear you're having issues! 😔 Let's troubleshoot:
 
 Please try these steps:
-1) [Step 1, e.g., Restart the device]
-2) [Step 2, e.g., Check connections]
-3) [Step 3, e.g., Reset to factory settings]
+1) [Step 1]
+2) [Step 2]
+3) [Step 3]
 
 If the issue persists, please provide:
 • Device model
@@ -270,9 +270,9 @@ We'll find a solution! 🔧
 Warranty information: 🛡️
 
 Coverage:
-• Warranty period: [Duration, e.g., 1 year]
-• What's covered: [Manufacturing defects, hardware failures]
-• What's NOT covered: [Physical damage, water damage, unauthorized repairs]
+• Warranty period: [Warranty Duration]
+• What's covered: [Covered Issues]
+• What's NOT covered: [Excluded Issues]
 
 To claim warranty:
 1) Contact us with proof of purchase
@@ -295,7 +295,7 @@ We're sorry the product didn't meet your expectations! 😔
 Return/Exchange policy:
 • Return window: [Days] days
 • Condition: Original packaging, unused/like-new
-• Refund method: [Original payment method]
+• Refund method: [Original Payment Method]
 
 Process:
 1) Request return in your order
@@ -401,6 +401,206 @@ Current status:
 • Target fix: [ETA or "under validation"]
 
 We'll notify you when [Version] is released. If the workaround doesn't fit your use case, we can help with [Return window option / exchange] according to your order date and policy.
+```
+
+---
+
+## 19. 电池续航低于预期排查
+
+**适用场景：** 客户反馈电池耗电快、续航未达宣传预期
+
+```
+I'm sorry the battery life of [Product Name] feels lower than expected.
+
+Battery runtime depends on brightness, volume, signal, apps, and temperature. Please try:
+1) Fully charge to 100%
+2) Use [Recommended Mode]
+3) Test for [Hours] hours under normal use
+
+If runtime is still far below [Expected Runtime], send us your usage details and order number. We'll help with troubleshooting or warranty next steps.
+```
+
+---
+
+## 20. 蓝牙连接不稳定处理
+
+**适用场景：** 客户反馈耳机、音箱、键盘等蓝牙断连或延迟
+
+```
+Sorry about the Bluetooth connection issue with [Product Name]. Please try these steps:
+
+1) Forget the device in Bluetooth settings
+2) Restart both devices
+3) Pair again within [Distance]
+4) Test away from strong Wi-Fi or metal interference
+
+If it still disconnects, please tell us your phone/computer model and system version so we can provide the right fix.
+```
+
+---
+
+## 21. 配件缺失补发
+
+**适用场景：** 客户称包装内少线材、说明书、螺丝或转接头
+
+```
+I'm sorry an accessory was missing from your package.
+
+Please send:
+• Order number: [Order Number]
+• Missing item: [Accessory Name]
+• Photo of everything received
+
+Once confirmed, we'll ship the missing accessory to [Shipping Address] within [Timeframe]. Thank you for helping us verify it quickly.
+```
+
+---
+
+## 22. 兼容系统版本提醒
+
+**适用场景：** 客户购买前或安装后询问系统版本兼容性
+
+```
+[Product Name] works best with [Supported System] version [Version] or above.
+
+Before ordering or installing, please check:
+• Device model: [Device Model]
+• System version: [System Version]
+• Required port/app: [Requirement]
+
+If you share your device details, I can confirm compatibility before you proceed.
+```
+
+---
+
+## 23. 数据丢失风险提醒
+
+**适用场景：** 固件升级、重置、维修前提醒客户备份数据
+
+```
+Before you perform [Action], please back up important data first.
+
+This step may reset settings or remove local files depending on your device. Recommended backup:
+• Photos/files: [Backup Method]
+• App settings: [Backup Method]
+• Account login info: [Account]
+
+After backup, follow the steps in [Guide Link]. If you're unsure, message us before starting.
+```
+
+---
+
+## 24. 屏幕贴膜 / 保护壳适配说明
+
+**适用场景：** 客户询问保护膜、手机壳、支架是否适配
+
+```
+For [Product Name], please check these fit points:
+
+• Device model: [Device Model]
+• Case or screen protector thickness: [Thickness]
+• Port/camera/button cutouts: [Cutout Type]
+
+If you already use a third-party case or film, send a photo or model link and we'll help confirm fit before you order.
+```
+
+---
+
+## 25. 进水 / 受潮处理
+
+**适用场景：** 客户设备进水、受潮、雨淋后询问能否继续使用
+
+```
+For safety, please power off [Product Name] immediately and do not charge it.
+
+Next steps:
+1) Wipe the outside dry
+2) Keep it in a dry, ventilated place
+3) Contact us with photos and what happened
+
+Water damage coverage depends on [Warranty Policy]. We'll review your case and suggest repair or replacement options.
+```
+
+---
+
+## 26. 物流挤压导致外观损伤
+
+**适用场景：** 客户收到电子产品外壳压痕、包装破损但功能未知
+
+```
+I'm very sorry the package arrived damaged.
+
+Please do not discard the outer box yet. Send us:
+• Photos of the shipping box
+• Photos of the product damage
+• Whether the device powers on normally
+
+We'll document the carrier issue and offer [Resolution Option] based on the damage and function check.
+```
+
+---
+
+## 27. 多设备切换说明
+
+**适用场景：** 客户询问耳机、键盘、鼠标等如何连接多设备
+
+```
+[Product Name] supports [Connection Mode] for device switching.
+
+To switch devices:
+1) Pair with Device A
+2) Pair with Device B
+3) Use [Switch Button/Shortcut] to toggle
+
+If switching fails, disconnect from the previous device first and try again. Tell me your device models if you need exact steps.
+```
+
+---
+
+## 28. 发票 / 质保凭证说明
+
+**适用场景：** 客户要求发票、收据或质保凭证
+
+```
+Sure — we can help with your purchase document.
+
+Please provide:
+• Order number: [Order Number]
+• Invoice name: [Invoice Name]
+• Email address: [Email]
+
+We'll send the receipt or warranty proof within [Timeframe]. Please keep it for future service requests.
+```
+
+---
+
+## 29. 海外插头 / 电压适配说明
+
+**适用场景：** 跨境客户询问插头规格、电压、转接头
+
+```
+[Product Name] uses [Plug Type] and supports [Voltage Range].
+
+Before ordering, please confirm your local outlet type. If your country uses a different plug, you may need [Adapter Type].
+
+If you tell us your country or region, we'll confirm whether this version is suitable.
+```
+
+---
+
+## 30. 召回 / 安全通知沟通
+
+**适用场景：** 需要通知客户停止使用某批次产品并安排处理
+
+```
+Important safety notice for [Product Name]: please stop using units with batch code [Batch Code] until we complete verification.
+
+Next steps:
+1) Check the batch code at [Package Location]
+2) Send us a photo with your order number
+3) We will arrange [Replacement / Refund / Inspection]
+
+We apologize for the concern and will prioritize your case.
 ```
 
 ---

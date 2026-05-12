@@ -177,7 +177,7 @@ Almost there! Thanks for your patience! 🚚
 Quick address check! 📬
 
 Your delivery address:
-[Full address]
+[Full Address]
 
 Is this correct?
 • ✅ Yes - Reply "Confirmed"

@@ -169,7 +169,7 @@ As a Lazada member, you get:
 ✓ Priority customer service
 ✓ Early access to sales
 
-Use code [CODE] at checkout.
+Use code [Code] at checkout.
 
 Membership pays for itself! Join now!
 ```

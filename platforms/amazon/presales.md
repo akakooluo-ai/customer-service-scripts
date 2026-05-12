@@ -55,7 +55,7 @@ Hello! As an Amazon Prime member, you can enjoy free fast shipping on this item 
 **适用场景：** 向客户推荐相关产品
 
 ```
-Hello! Based on your interest in [Product A], I think you might also like [Product B]. It has similar features but offers [unique benefit]. Many customers who bought [Product A] also purchased [Product B] and were very satisfied. Would you like to learn more about it?
+Hello! Based on your interest in [Product A], I think you might also like [Product B]. It has similar features but offers [Unique Benefit]. Many customers who bought [Product A] also purchased [Product B] and were very satisfied. Would you like to learn more about it?
 ```
 
 ---
@@ -75,7 +75,7 @@ Hello! Thank you for your interest in this item. I wanted to let you know that w
 **适用场景：** 客户询问不同产品的区别
 
 ```
-Hello! Great question about the difference between [Product A] and [Product B]. [Product A] is better for [use case 1], while [Product B] performs better for [use case 2]. The main differences are: [difference 1], [difference 2], and [difference 3]. Based on your needs, I'd be happy to recommend one of them — if you can share a bit more about how you plan to use it, I can give you a more specific suggestion.
+Hello! Great question about the difference between [Product A] and [Product B]. [Product A] is better for [Use Case 1], while [Product B] performs better for [Use Case 2]. The main differences are: [Difference 1], [Difference 2], and [Difference 3]. Based on your needs, I'd be happy to recommend one of them — if you can share a bit more about how you plan to use it, I can give you a more specific suggestion.
 ```
 
 ---
@@ -85,7 +85,7 @@ Hello! Great question about the difference between [Product A] and [Product B]. 
 **适用场景：** 客户询问当前优惠
 
 ```
-Hello! We currently have a promotion for this item: [promotion details, e.g. coupon, discount, or bundle]. You can check the promotion section on the product page and apply the coupon at checkout to enjoy the discount. If you are not sure how to use the offer, please let us know and we can guide you step by step.
+Hello! We currently have a promotion for this item: [Promotion Details]. You can check the promotion section on the product page and apply the coupon at checkout to enjoy the discount. If you are not sure how to use the offer, please let us know and we can guide you step by step.
 ```
 
 ---
@@ -95,7 +95,7 @@ Hello! We currently have a promotion for this item: [promotion details, e.g. cou
 **适用场景：** 客户询问产品详细规格
 
 ```
-Hello! Thank you for your question about [specification]. The [Product Name] has the following key specifications: [spec 1], [spec 2], [spec 3]. More detailed information is listed in the product description section of the page. If you need any additional details or have a specific use case, please let me know and I'll be happy to help.
+Hello! Thank you for your question about [Specification]. The [Product Name] has the following key specifications: [Spec 1], [Spec 2], [Spec 3]. More detailed information is listed in the product description section of the page. If you need any additional details or have a specific use case, please let me know and I'll be happy to help.
 ```
 
 ---

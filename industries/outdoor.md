@@ -19,9 +19,9 @@
 ```
 Hi! Here are the specs for this gear: ⛺
 Dimensions: [Size] | Weight: [Weight]
-Capacity: [Capacity, e.g., 50L/4-person]
-Material: [Material, e.g., Ripstop nylon/Aluminum alloy]
-Weather rating: [Rating, e.g., Waterproof 3000mm]
+Capacity: [Capacity]
+Material: [Material]
+Weather rating: [Rating]
 Best for: [Activity type/Conditions]
 Need help choosing the right size? Tell us your plans! 🏔️
 ```
@@ -34,12 +34,12 @@ Need help choosing the right size? Tell us your plans! 🏔️
 
 ```
 Safety certifications for this product: ✅
-Certified by: [CE/UIAA/EN standard/etc.]
-Tested for: [Load capacity/Impact resistance/etc.]
+Certified by: [Safety Standard]
+Tested for: [Safety Metric]
 Safety features:
-✓ [Feature 1, e.g., Reinforced stitching]
-✓ [Feature 2, e.g., Reflective elements]
-✓ [Feature 3, e.g., Emergency whistle]
+✓ [Feature 1]
+✓ [Feature 2]
+✓ [Feature 3]
 Your safety is our priority! 🛡️
 ```
 
@@ -51,7 +51,7 @@ Your safety is our priority! 🛡️
 
 ```
 This gear is perfect for: 🏕️
-Activities: [Hiking/Camping/Climbing/etc.]
+Activities: [Use Scenario]
 Conditions: [Temperature range/Terrain type]
 Skill level: [Beginner/Intermediate/Advanced]
 Not recommended for: [Extreme conditions/Activities]
@@ -158,9 +158,9 @@ Essential for [Activity type]. Want us to add them? 🏕️
 For [Season] adventures: 🌡️
 This gear is rated for: [Temperature range]
 [Season] tips:
-✓ [Tip 1, e.g., Layer with base layer]
-✓ [Tip 2, e.g., Add rain cover]
-✓ [Tip 3, e.g., Check weather forecast]
+✓ [Tip 1]
+✓ [Tip 2]
+✓ [Tip 3]
 Need [Season]-specific gear? Check our [Collection]!
 Stay safe out there! ❄️☀️
 ```
@@ -177,7 +177,7 @@ As an outdoor enthusiast, you've earned: 🏆
 ✓ [Discount]% member discount
 ✓ Early access to new gear
 ✓ Free gear maintenance guide
-Use code [CODE] for extra [Discount] off!
+Use code [Code] for extra [Discount] off!
 Thanks for being part of our adventure community! 🌲
 ```
 
@@ -270,6 +270,244 @@ Based on your [Previous purchase], you might love:
 • [Improvement 3]
 Upgrade offer: Trade in your old gear for [Discount] off!
 Many customers upgrade after [Timeframe]. Interested? 🏕️
+```
+
+---
+
+## 16. 防水等级期望管理
+
+**适用场景：** 客户询问帐篷、背包、服装是否完全防水
+
+```
+[Product Name] has a waterproof rating of [Rating], which is suitable for [Use Scenario].
+
+Please note that waterproof performance depends on rain intensity, duration, seams, zippers, and maintenance. For heavy or extended rain, we recommend adding [Extra Protection].
+
+Tell us your trip conditions and we can confirm whether this gear is enough.
+```
+
+---
+
+## 17. 徒步背包容量推荐
+
+**适用场景：** 客户不知道几升背包适合一日游、露营或长线
+
+```
+For your plan of [Trip Type], I recommend a pack around [Capacity].
+
+General guide:
+• Day hike: [Capacity Range]
+• Overnight: [Capacity Range]
+• Multi-day: [Capacity Range]
+
+If you share your gear list and trip length, I can help confirm whether [Product Name] will fit everything comfortably.
+```
+
+---
+
+## 18. 登山鞋磨脚处理
+
+**适用场景：** 客户反馈户外鞋磨脚、尺码或鞋楦不适
+
+```
+I'm sorry [Product Name] caused discomfort.
+
+Please check:
+• Toe room: [Toe Room]
+• Sock thickness: [Sock Type]
+• Break-in time: [Break In Period]
+• Lacing method: [Lacing Method]
+
+If the shoes are unworn outdoors and within [Days] days, we can help with a size exchange or return.
+```
+
+---
+
+## 19. 帐篷搭建困难指导
+
+**适用场景：** 客户第一次搭帐篷失败或不理解杆件结构
+
+```
+No worries — I can help you set up [Tent Model].
+
+Please try:
+1) Lay out the tent body flat
+2) Match pole colors or labels
+3) Stake corners lightly before tightening
+4) Add the rainfly after the frame is stable
+
+Video guide: [Video Link]. If you send a photo of the current setup, I'll point out the next step.
+```
+
+---
+
+## 20. 睡袋温标解释
+
+**适用场景：** 客户询问睡袋舒适温标、极限温标区别
+
+```
+For [Sleeping Bag], the temperature rating is:
+• Comfort: [Comfort Temp]
+• Limit: [Limit Temp]
+• Extreme: [Extreme Temp]
+
+For comfortable sleep, choose based on the comfort rating, not the extreme rating. Also consider base layers, sleeping pad insulation, and personal cold tolerance.
+```
+
+---
+
+## 21. 炉具燃料兼容说明
+
+**适用场景：** 客户询问炉头、气罐、燃料是否兼容
+
+```
+[Stove Model] is compatible with [Fuel Type] using [Connector Type].
+
+Please do not use unsupported fuel types, as this can be unsafe. Before your trip, test the connection outdoors in a ventilated area and check for leaks.
+
+Tell us your country or fuel canister model if you want us to confirm compatibility.
+```
+
+---
+
+## 22. 安全绳索 / 承重免责声明
+
+**适用场景：** 客户询问绳索、吊床、扣具承重与安全边界
+
+```
+For safety, [Product Name] has a rated load of [Load Rating] under proper use.
+
+Do not exceed the rating, modify the product, or use it for unsupported activities like [Unsupported Activity]. Always inspect wear, knots, stitching, and anchors before use.
+
+If your use case involves climbing, rescue, or life safety, please choose certified equipment designed for that purpose.
+```
+
+---
+
+## 23. 户外服装分层建议
+
+**适用场景：** 客户询问冲锋衣、抓绒、速干衣如何搭配
+
+```
+For [Weather Condition], we recommend layering:
+
+1) Base layer: [Base Layer]
+2) Mid layer: [Mid Layer]
+3) Outer shell: [Shell Layer]
+
+This setup helps manage sweat, warmth, and wind/rain protection. Tell me your destination and temperature range for a more exact setup.
+```
+
+---
+
+## 24. 装备重量取舍建议
+
+**适用场景：** 客户在轻量化和耐用性之间犹豫
+
+```
+Both options can work, depending on your priority.
+
+Choose [Lightweight Product] if you care most about low pack weight and fast movement. Choose [Durable Product] if you expect rough terrain, frequent use, or heavier loads.
+
+For your trip type [Trip Type], my recommendation is [Recommendation].
+```
+
+---
+
+## 25. 雨天收纳与返家保养
+
+**适用场景：** 客户雨天使用帐篷、背包、防水服后询问保养
+
+```
+After using [Product Name] in rain, please dry it fully before long-term storage.
+
+Steps:
+1) Shake off excess water
+2) Air dry in shade
+3) Clean mud with [Cleaning Method]
+4) Store loosely in [Storage Method]
+
+Do not store wet gear in a sealed bag, as it can cause odor or mildew.
+```
+
+---
+
+## 26. 航空托运限制提醒
+
+**适用场景：** 客户计划旅行携带户外装备，询问能否登机或托运
+
+```
+For travel, please check airline and local rules before carrying [Product Name].
+
+Items like fuel canisters, knives, trekking poles, batteries, and aerosols may have carry-on or checked baggage restrictions.
+
+If you tell us the exact item and airline, we can help you check general guidance, but final approval depends on the carrier and airport security.
+```
+
+---
+
+## 27. 臭味 / 霉味处理
+
+**适用场景：** 客户反馈装备使用后有汗味、霉味或仓储味
+
+```
+I'm sorry [Product Name] has an unpleasant smell.
+
+Please try:
+• Air it out in a shaded, ventilated place
+• Clean with [Cleaning Method]
+• Dry completely before storage
+
+If it arrived with a strong odor before use, send photos and your order number, and we'll review a replacement or refund option.
+```
+
+---
+
+## 28. 缝线开裂 / 扣具断裂售后
+
+**适用场景：** 客户反馈背包、帐篷、服装等承重点开裂
+
+```
+For safety, please stop using [Product Name] until we review the issue.
+
+Send us:
+• Photos of the damaged stitching or buckle
+• When it happened
+• Approximate load or use condition
+
+We'll check warranty coverage and offer [Repair / Replacement / Refund] if it is a product defect.
+```
+
+---
+
+## 29. 新手装备清单推荐
+
+**适用场景：** 新客户第一次露营、徒步，询问还需要买什么
+
+```
+For a first [Activity Type] trip, start with essentials:
+
+• Shelter or rain protection: [Item 1]
+• Sleep or warmth: [Item 2]
+• Lighting: [Item 3]
+• Hydration: [Item 4]
+• Safety: [Item 5]
+
+Share your destination, season, and group size, and I can build a simple checklist for you.
+```
+
+---
+
+## 30. 极端天气不建议使用提醒
+
+**适用场景：** 客户计划在台风、暴雪、极寒、高海拔等环境使用装备
+
+```
+For your safety, we do not recommend using [Product Name] in [Extreme Condition] unless the product is specifically rated for it.
+
+This item is designed for [Supported Conditions]. Extreme weather can exceed normal safety limits and may damage gear or create personal risk.
+
+If you share the expected temperature, wind, rain/snow, and altitude, I can suggest a safer alternative.
 ```
 
 ---

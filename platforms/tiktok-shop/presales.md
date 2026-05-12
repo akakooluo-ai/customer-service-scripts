@@ -95,7 +95,7 @@ Comparing [Product A] vs [Product B]: [Product A] is perfect for [Use Case 1] wi
 **适用场景：** 提供粉丝专属折扣码
 
 ```
-💝 FOLLOWERS ONLY DEAL! Use code [CODE] at checkout for an extra [Discount]% off! This code is ONLY for our TikTok family! Valid for the next [Time] hours. Screenshot this so you don't forget! Thank you for supporting our small business! 🙏
+💝 FOLLOWERS ONLY DEAL! Use code [Code] at checkout for an extra [Discount]% off! This code is ONLY for our TikTok family! Valid for the next [Time] hours. Screenshot this so you don't forget! Thank you for supporting our small business! 🙏
 ```
 
 ---

@@ -86,7 +86,7 @@ Order with confidence! Fast & reliable! 🚚
 
 Get [Discount]% OFF your first order!
 
-Use code: [CODE] at checkout
+Use code: [Code] at checkout
 
 Plus:
 ✓ FREE shipping

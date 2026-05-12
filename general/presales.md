@@ -93,7 +93,7 @@ Shipping information for your location:
 • Free shipping on orders over $[Amount]
 
 We ship from [Location] and provide tracking for all orders.
-Estimated delivery: [Date range]
+Estimated delivery: [Date Range]
 
 Any questions about shipping? 🚚
 ```

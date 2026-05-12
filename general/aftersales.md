@@ -126,7 +126,7 @@ This shouldn't have happened. We're sorry! 💙
 I'm sorry about the shipping issue! 📦
 
 Let me check your tracking: [Tracking Number]
-Status: [Current status]
+Status: [Current Status]
 
 If the package is:
 • Delayed: We'll contact the carrier and update you

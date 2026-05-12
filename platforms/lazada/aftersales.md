@@ -202,7 +202,7 @@ Welcome back, valued customer! 🎉
 
 As a thank you, here's an exclusive voucher:
 
-Code: [CODE]
+Code: [Code]
 Discount: [Discount]% off your next purchase
 Valid until: [Date]
 

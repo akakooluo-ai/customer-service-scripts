@@ -45,12 +45,12 @@ Hello! Great news - your order has been shipped!
 Shipment Details:
 • Order #: [Order Number]
 • Tracking #: [Tracking Number]
-• Carrier: [Carrier name]
+• Carrier: [Carrier Name]
 • Ship date: [Date]
 
 Track Your Package:
 • AliExpress: Order details page
-• 17track.net: [Tracking link]
+• 17track.net: [Tracking Link]
 • Carrier website: [Link]
 
 Estimated Delivery: [X-X] days
@@ -68,13 +68,13 @@ Note: Tracking may take 2-5 days to update. Thank you for your patience!
 Hello! Let me check your order #[Order Number].
 
 Current Status: [Status]
-Location: [Current location]
+Location: [Current Location]
 Last Update: [Date]
 
 Tracking Number: [Tracking Number]
-Track here: [17track.net link]
+Track here: [Tracking Link]
 
-Estimated Delivery: [Date range]
+Estimated Delivery: [Date Range]
 
 International shipping typically takes [X-X] days. Your package is on its way! If you have concerns, please let me know.
 ```
@@ -89,14 +89,14 @@ International shipping typically takes [X-X] days. Your package is on its way! I
 Hello! I understand you're waiting for order #[Order Number].
 
 Current Status: [Status]
-Delay Reason: [Reason - e.g., customs clearance / holiday season / carrier delay]
+Delay Reason: [Delay Reason]
 
 What We're Doing:
 • Monitoring your package daily
 • Contacted carrier for update
 • Extended buyer protection for you
 
-Estimated New Delivery: [Date range]
+Estimated New Delivery: [Date Range]
 
 I sincerely apologize for the delay. If the package doesn't arrive by [Date], I'll offer [full refund / resend]. Thank you for your patience!
 ```
@@ -173,7 +173,7 @@ Please confirm what you'd like to change, and I'll update immediately.
 Sorry, the order has shipped and cannot be modified. Options:
 • Refuse delivery → Full refund
 • Return after receiving → Full refund
-• Keep item → I can offer [discount] on next order
+• Keep item → I can offer [Discount] on next order
 
 How would you like to proceed?
 ```
@@ -238,7 +238,7 @@ Current Status: [Processing / Preparing for shipment]
 Timeline:
 • Order placed: [Date]
 • Expected ship date: [Date]
-• Estimated delivery: [Date range]
+• Estimated delivery: [Date Range]
 
 [If delay]
 I apologize for the delay. Reason: [Reason]

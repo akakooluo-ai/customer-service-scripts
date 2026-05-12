@@ -1,7 +1,8 @@
 const state = {
   data: null,
   selected: null,
-  ai: null
+  ai: null,
+  visibleItems: []
 };
 
 const byId = (id) => document.getElementById(id);
@@ -12,6 +13,7 @@ const refs = {
   groupFilter: byId("groupFilter"),
   platformFilter: byId("platformFilter"),
   industryFilter: byId("industryFilter"),
+  listStatus: byId("listStatus"),
   templateList: byId("templateList"),
   selectedTemplateTitle: byId("selectedTemplateTitle"),
   toneInput: byId("toneInput"),
@@ -19,6 +21,9 @@ const refs = {
   generatedOutput: byId("generatedOutput"),
   generateBtn: byId("generateBtn"),
   aiGenerateBtn: byId("aiGenerateBtn"),
+  copyTemplateBtn: byId("copyTemplateBtn"),
+  shareTemplateBtn: byId("shareTemplateBtn"),
+  copyVisibleBtn: byId("copyVisibleBtn"),
   copyBtn: byId("copyBtn"),
   aiBaseUrl: byId("aiBaseUrl"),
   aiModel: byId("aiModel"),
@@ -42,6 +47,26 @@ function fillSelect(select, values) {
     option.textContent = value;
     select.appendChild(option);
   }
+}
+
+async function copyText(text, button, label = "Copied") {
+  if (!text) return;
+  await navigator.clipboard.writeText(text);
+  const original = button.textContent;
+  button.textContent = label;
+  setTimeout(() => {
+    button.textContent = original;
+  }, 1200);
+}
+
+function templateHash(item) {
+  return `template=${encodeURIComponent(item.id)}`;
+}
+
+function templateIdFromHash() {
+  const raw = window.location.hash.replace(/^#/, "");
+  const params = new URLSearchParams(raw);
+  return params.get("template");
 }
 
 function renderVariableInputs(variables) {
@@ -229,11 +254,14 @@ async function generateWithAi() {
   }
 }
 
-function selectTemplate(item) {
+function selectTemplate(item, syncHash = true) {
   state.selected = item;
   refs.selectedTemplateTitle.value = `${item.pageTitle} / ${item.sectionTitle}`;
   renderVariableInputs(item.variables);
   refs.generatedOutput.value = item.template;
+  if (syncHash) {
+    window.history.replaceState(null, "", `#${templateHash(item)}`);
+  }
 }
 
 function buildCard(item) {
@@ -286,8 +314,10 @@ function getFilteredItems() {
 
 function renderList() {
   const list = getFilteredItems();
+  state.visibleItems = list.slice(0, 150);
   refs.templateList.innerHTML = "";
-  for (const item of list.slice(0, 150)) {
+  refs.listStatus.textContent = `${list.length} matches${list.length > 150 ? " (showing first 150)" : ""}`;
+  for (const item of state.visibleItems) {
     refs.templateList.appendChild(buildCard(item));
   }
   if (list.length === 0) {
@@ -318,15 +348,28 @@ function wireEvents() {
   });
   refs.clearAiConfigBtn.addEventListener("click", clearAiConfig);
 
-  refs.copyBtn.addEventListener("click", async () => {
-    const text = refs.generatedOutput.value;
-    if (!text) return;
-    await navigator.clipboard.writeText(text);
-    refs.copyBtn.textContent = "Copied";
-    setTimeout(() => {
-      refs.copyBtn.textContent = "Copy";
-    }, 1200);
+  refs.copyBtn.addEventListener("click", () => copyText(refs.generatedOutput.value, refs.copyBtn));
+  refs.copyTemplateBtn.addEventListener("click", () => copyText(state.selected?.template || "", refs.copyTemplateBtn));
+  refs.shareTemplateBtn.addEventListener("click", () => {
+    if (!state.selected) return;
+    const url = `${window.location.origin}${window.location.pathname}#${templateHash(state.selected)}`;
+    copyText(url, refs.shareTemplateBtn, "Link copied");
   });
+  refs.copyVisibleBtn.addEventListener("click", () => {
+    const text = state.visibleItems
+      .map((item) => `# ${item.pageTitle} / ${item.sectionTitle}\nSource: ${item.sourcePath}\n\n${item.template}`)
+      .join("\n\n---\n\n");
+    copyText(text, refs.copyVisibleBtn);
+  });
+  window.addEventListener("hashchange", selectTemplateFromHash);
+}
+
+function selectTemplateFromHash() {
+  const id = templateIdFromHash();
+  if (!id || !state.data) return;
+  const item = state.data.items.find((candidate) => candidate.id === id);
+  if (!item) return;
+  selectTemplate(item, false);
 }
 
 async function init() {
@@ -345,6 +388,7 @@ async function init() {
   }
   wireEvents();
   renderList();
+  selectTemplateFromHash();
 }
 
 init().catch((err) => {
