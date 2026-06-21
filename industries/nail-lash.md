@@ -1,4 +1,4 @@
-# 美甲美睫客服话术
+﻿# 美甲美睫客服话术
 
 > 专业的美甲美睫行业客服话术模板，涵盖款式推荐、材质说明、使用技巧、卸除方法等全场景。
 
@@ -405,4 +405,4 @@
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

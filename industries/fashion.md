@@ -1,4 +1,4 @@
-# 服装行业客服话术
+﻿# 服装行业客服话术
 
 > 专业的服装行业客服话术模板，涵盖尺码咨询、材质说明、搭配建议、退换货处理等全链路场景。
 
@@ -488,4 +488,4 @@ You may also qualify for [Bundle Discount]. Want me to help build a complete loo
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

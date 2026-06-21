@@ -1,4 +1,4 @@
-# Temu 售前客服话术
+﻿# Temu 售前客服话术
 
 > 专业的 Temu 工厂价跨境电商售前客服话术模板，涵盖低价说明、配送时效、新用户优惠、团购活动等售前场景。
 
@@ -239,4 +239,4 @@ Grab it before it's gone! 🔥
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

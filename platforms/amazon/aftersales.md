@@ -1,4 +1,4 @@
-# Amazon 售后客服话术
+﻿# Amazon 售后客服话术
 
 > 专业的 Amazon 售后客服话术模板，涵盖退换货处理、A-to-Z 纠纷、质量问题、评价引导等场景。
 
@@ -447,4 +447,4 @@ If you share the current case type/status you see in your account, I can help ex
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

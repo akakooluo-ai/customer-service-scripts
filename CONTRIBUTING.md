@@ -122,7 +122,7 @@ customer-service-scripts/
 如有任何问题，请通过以下方式联系：
 
 - 创建 Issue
-- 访问 [快语官网](https://www.talkq.vip)
+- 访问 [快语AI官网](https://www.talkq.vip)
 
 ---
 

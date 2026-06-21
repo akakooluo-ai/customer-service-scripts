@@ -1,4 +1,4 @@
-# 酒水客服话术
+﻿# 酒水客服话术
 
 > 专业的酒水行业客服话术模板，涵盖产品推荐、真伪鉴别、储存方法、饮用建议等全场景。
 
@@ -620,4 +620,4 @@
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

@@ -1,4 +1,4 @@
-# 通用售前客服话术
+﻿# 通用售前客服话术
 
 > 适用于所有平台和行业的通用售前客服话术模板，涵盖产品咨询、价格说明、库存查询、优惠活动等场景。
 
@@ -410,4 +410,4 @@ If you want the most cost-effective setup, I can suggest the best combination ba
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

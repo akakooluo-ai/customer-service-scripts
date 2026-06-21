@@ -1,4 +1,4 @@
-# 淘宝/天猫售中客服话术
+﻿# 淘宝/天猫售中客服话术
 
 > 专业的淘宝/天猫售中客服话术模板，涵盖订单确认、物流追踪、发货延迟、订单修改等售中服务场景。
 
@@ -204,4 +204,4 @@
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

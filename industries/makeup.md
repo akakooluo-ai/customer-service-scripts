@@ -1,4 +1,4 @@
-# 彩妆客服话术
+﻿# 彩妆客服话术
 
 > 专业的彩妆行业客服话术模板，涵盖色号推荐、妆效说明、使用技巧、卸妆建议等全场景。
 
@@ -389,4 +389,4 @@
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

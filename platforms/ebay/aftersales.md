@@ -1,4 +1,4 @@
-# eBay 售后客服话术
+﻿# eBay 售后客服话术
 
 > 专业的 eBay 售后客服话术模板，涵盖退换货处理、纠纷处理、差评挽回、评价引导等售后服务场景。
 
@@ -131,4 +131,4 @@ Hello! I understand you've opened a case. We want to resolve this quickly and fa
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

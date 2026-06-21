@@ -1,4 +1,4 @@
-# Amazon 售前客服话术
+﻿# Amazon 售前客服话术
 
 > 专业的 Amazon 售前客服话术模板，涵盖 Prime 配送、FBA 物流、A-to-Z 保障、产品咨询等场景。
 
@@ -119,4 +119,4 @@ Hello! When you purchase from us on Amazon, you are covered by both Amazon's ord
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

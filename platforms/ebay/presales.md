@@ -1,4 +1,4 @@
-# eBay 售前客服话术
+﻿# eBay 售前客服话术
 
 > 专业的 eBay 售前客服话术模板，涵盖 Top Rated Seller 说明、Best Offer 处理、产品咨询、买家保护政策等售前场景。
 
@@ -122,4 +122,4 @@ Hello! Yes, we offer discounts for bulk purchases! If you're interested in buyin
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

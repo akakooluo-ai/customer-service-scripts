@@ -1,4 +1,4 @@
-# 婴儿用品客服话术
+﻿# 婴儿用品客服话术
 
 > 专业的婴儿用品行业客服话术模板，涵盖月龄推荐、安全说明、使用指导、售后处理等全场景。
 
@@ -403,4 +403,4 @@
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

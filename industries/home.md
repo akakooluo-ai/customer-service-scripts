@@ -1,4 +1,4 @@
-# 家居用品行业客服话术
+﻿# 家居用品行业客服话术
 
 > 专业的家居用品行业客服话术模板，涵盖尺寸确认、材质说明、组装指导、配送安装等全链路场景。
 
@@ -518,4 +518,4 @@ Please wait until [Date] for the remaining boxes. If they do not arrive by then,
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

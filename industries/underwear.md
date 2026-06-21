@@ -1,4 +1,4 @@
-# 内衣客服话术
+﻿# 内衣客服话术
 
 > 专业的内衣行业客服话术模板，涵盖尺码测量、面料舒适度、款式推荐、退换货处理等全场景。
 
@@ -376,4 +376,4 @@
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

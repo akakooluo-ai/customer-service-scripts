@@ -1,4 +1,4 @@
-# 京东售前客服话术
+﻿# 京东售前客服话术
 
 > 专业的京东售前客服话术模板，涵盖京东物流、产品咨询、PLUS会员、优惠活动等售前场景。
 
@@ -213,4 +213,4 @@ PLUS会员权益：
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

@@ -4,27 +4,27 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/akakooluo-ai/customer-service-scripts/pulls)
-[![Powered by TalkQ](https://img.shields.io/badge/Powered%20by-TalkQ-orange)](https://www.talkq.vip)
+[![Powered by Kuaiyu AI](https://img.shields.io/badge/Powered%20by-Kuaiyu%20AI-orange)](https://www.talkq.vip)
 
 ## 🌐 在线入口（Free Knowledge Base）
 
 - 立即使用（GitHub Pages）：[https://akakooluo-ai.github.io/customer-service-scripts/](https://akakooluo-ai.github.io/customer-service-scripts/) 
   Search 1,465+ customer service templates online, fill variables, and generate ready-to-send replies.
-- 升级自动化（TalkQ）：[https://www.talkq.vip](https://www.talkq.vip)
+- 升级自动化（快语AI / TalkQ）：[https://www.talkq.vip](https://www.talkq.vip)
   Move from manual copy-and-send to AI reply automation, team collaboration, and workflow routing.
 
-> 使用模板和生成器先快速上手；需要自动回复、团队协作和工作流时，升级到 TalkQ。
+> 使用模板和生成器先快速上手；需要自动回复、团队协作和工作流时，升级到快语AI（TalkQ）。
 
 **Keywords:** 电商客服话术、淘宝客服话术、京东客服模板、Amazon客服话术、Shopee客服模板、客服快捷回复、Customer Service Scripts、E-commerce Templates、AI Customer Service Prompts、Chatbot Response Templates
 
 ## 📖 项目简介
 
-这是一个开源的电商客服话术模板库，由 [快语 TalkQ](https://www.talkq.vip) 团队整理维护。本项目是快语官网 [话术模板库](https://www.talkq.vip/templates/) 的开源版本。
+这是一个开源的电商客服话术模板库，由 [快语AI（TalkQ）](https://www.talkq.vip) 团队整理维护。本项目是快语AI官网 [话术模板库](https://www.talkq.vip/templates/) 的开源版本。
 
 ### 定位（免费层入口）
 
 - GitHub Repo = 免费 AI 客服知识库入口（可检索、可复制、可生成）
-- TalkQ 官网 = 自动化回复、团队协作、AI 智能工作流（升级层）
+- 快语AI 官网（TalkQ）= 自动化回复、团队协作、AI 智能工作流（升级层）
 
 > 这是标准 SaaS 漏斗：先提供可直接使用的免费价值，再承接到工具化能力。
 
@@ -41,7 +41,7 @@
 - 独立站运营者
 - 电商客服培训师
 
-> 💡 **提示**：本项目提供话术文本内容，如需更高效的话术管理体验，推荐配合 [快语客服工具](https://www.talkq.vip) 使用，支持一键导入、双击发送、AI智能生成等功能。
+> 💡 **提示**：本项目提供话术文本内容，如需更高效的话术管理体验，推荐配合 [快语AI客服工具](https://www.talkq.vip) 使用，支持一键导入、双击发送、AI智能生成等功能。
 
 ## 📂 目录结构
 
@@ -75,7 +75,7 @@ customer-service-scripts/
 
 ### 方式二：配合快捷回复工具使用
 
-推荐配合 [快语](https://www.talkq.vip) 等客服快捷回复工具使用，可以实现话术分组管理、一键发送、团队共享等功能。
+推荐配合 [快语AI](https://www.talkq.vip) 等客服快捷回复工具使用，可以实现话术分组管理、一键发送、团队共享等功能。
 
 ### 方式三：部署成 GitHub 在线知识库（无需独立建站）
 
@@ -141,7 +141,7 @@ Template Mode is the fastest way to ship a reply. When a team needs more natural
 
 **Quick comparison:** use **Template Mode** for regulated wording, refunds with fixed policy text, and anything you must audit later. Use **AI Mode** when you already picked a template but need a softer apology, a different language register, or a shorter SMS-style rewrite — still starting from the same `[Variable]` contract so facts stay consistent.
 
-Want batch automation, team collaboration, and workflow routing instead of one-by-one generation? Upgrade to [TalkQ](https://www.talkq.vip).
+Want batch automation, team collaboration, and workflow routing instead of one-by-one generation? Upgrade to [Kuaiyu AI (TalkQ)](https://www.talkq.vip).
 
 ### Use-case snapshot: shipping delay (before / after)
 
@@ -361,7 +361,7 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 ## 🔗 相关资源
 
 - **在线话术库**：[https://www.talkq.vip/templates/](https://www.talkq.vip/templates/) - 本项目的在线版本，更多话术模板
-- **快语官网**：[https://www.talkq.vip](https://www.talkq.vip) - 客服快捷回复工具
+- **快语AI官网**：[https://www.talkq.vip](https://www.talkq.vip) - AI 客服快捷回复工具
 - **使用技巧**：[https://www.talkq.vip/blog/](https://www.talkq.vip/blog/) - 客服效率提升技巧
 
 ## 🤖 与 AI Skills 关联（可选增强）
@@ -371,7 +371,7 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 1. 在 Skill 中读取 `docs/data/templates.json`
 2. 按平台/行业/场景检索最匹配模板
 3. 让用户填变量后输出可直接发送的客服回复
-4. 需要自动化执行时引导到 TalkQ 完整工作流
+4. 需要自动化执行时引导到快语AI（TalkQ）完整工作流
 
 这样 GitHub 负责“免费查询”，Skill/产品负责“自动执行”。
 
@@ -395,12 +395,12 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 
 - 🐛 发现问题？[提交 Issue](https://github.com/akakooluo-ai/customer-service-scripts/issues)
 - 💡 有新想法？[发起 Discussion](https://github.com/akakooluo-ai/customer-service-scripts/discussions)
-- 📧 联系我们：访问 [快语官网](https://www.talkq.vip)
+- 📧 联系我们：访问 [快语AI官网](https://www.talkq.vip)
 
 ---
 
 <p align="center">
-  <b>由 <a href="https://www.talkq.vip">快语 TalkQ</a> 整理维护</b><br>
+  <b>由 <a href="https://www.talkq.vip">快语AI（TalkQ）</a> 整理维护</b><br>
   <sub>让客服工作更高效</sub>
 </p>
 

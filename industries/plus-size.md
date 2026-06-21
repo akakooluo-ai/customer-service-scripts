@@ -1,4 +1,4 @@
-# 大码女装客服话术
+﻿# 大码女装客服话术
 
 > 专业的大码女装客服话术模板，涵盖尺码推荐、显瘦版型、面料弹力、退换货处理等全场景。
 
@@ -373,4 +373,4 @@
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

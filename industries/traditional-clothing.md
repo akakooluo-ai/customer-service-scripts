@@ -1,4 +1,4 @@
-# 汉服/民族服饰客服话术
+﻿# 汉服/民族服饰客服话术
 
 > 专业的汉服民族服饰客服话术模板，涵盖形制说明、尺码定制、面料工艺、退换货等全场景。
 
@@ -381,4 +381,4 @@
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

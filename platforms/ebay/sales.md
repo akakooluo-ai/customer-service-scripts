@@ -1,4 +1,4 @@
-# eBay 售中客服话术
+﻿# eBay 售中客服话术
 
 > 专业的 eBay 售中客服话术模板，涵盖订单确认、支付跟进、物流追踪、订单修改等售中服务场景。
 
@@ -122,4 +122,4 @@ Hello! I understand you're waiting for your order. I've checked the status, and 
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

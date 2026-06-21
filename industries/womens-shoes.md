@@ -1,4 +1,4 @@
-# 女鞋客服话术
+﻿# 女鞋客服话术
 
 > 专业的女鞋行业客服话术模板，涵盖尺码选择、鞋型推荐、磨脚处理、退换货等全场景。
 
@@ -374,4 +374,4 @@
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

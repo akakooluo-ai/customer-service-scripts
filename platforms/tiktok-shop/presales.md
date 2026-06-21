@@ -1,4 +1,4 @@
-# TikTok Shop 售前客服话术
+﻿# TikTok Shop 售前客服话术
 
 > 专业的 TikTok Shop 售前客服话术模板，涵盖直播带货、评论互动、私信咨询、产品推荐等社交电商场景。
 
@@ -120,4 +120,4 @@ Comparing [Product A] vs [Product B]: [Product A] is perfect for [Use Case 1] wi
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

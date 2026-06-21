@@ -1,4 +1,4 @@
-# 美妆护肤行业客服话术
+﻿# 美妆护肤行业客服话术
 
 > 专业的美妆护肤行业客服话术模板，涵盖成分说明、肤质推荐、过敏处理、使用指导等全链路场景。
 
@@ -505,4 +505,4 @@ Pause strong actives like [Active Ingredients] until your skin feels stable. If 
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

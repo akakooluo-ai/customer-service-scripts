@@ -1,4 +1,4 @@
-# 通用售中客服话术
+﻿# 通用售中客服话术
 
 > 适用于所有平台和行业的通用售中客服话术模板，涵盖订单确认、物流跟踪、支付处理、订单修改等场景。
 
@@ -443,4 +443,4 @@ If you approve before [Cutoff Time], we can update the shipping method before di
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

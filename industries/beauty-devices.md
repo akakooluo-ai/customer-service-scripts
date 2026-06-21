@@ -1,4 +1,4 @@
-# 美容仪器客服话术
+﻿# 美容仪器客服话术
 
 > 专业的美容仪器行业客服话术模板，涵盖功效说明、使用方法、安全须知、售后保修等全场景。
 
@@ -404,4 +404,4 @@
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

@@ -1,4 +1,4 @@
-# 通用售后客服话术
+﻿# 通用售后客服话术
 
 > 适用于所有平台和行业的通用售后客服话术模板，涵盖退换货、质量问题、投诉处理、评价引导等场景。
 
@@ -332,4 +332,4 @@ We appreciate the chance to make it right.
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

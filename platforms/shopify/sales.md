@@ -1,4 +1,4 @@
-# Shopify 独立站售中客服话术
+﻿# Shopify 独立站售中客服话术
 
 > 专业的 Shopify 独立站售中客服话术模板，涵盖订单确认、支付处理、发货通知、物流追踪、订单修改等售中服务场景。
 
@@ -270,4 +270,4 @@ Thank you for your patience with international shipping!
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

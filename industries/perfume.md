@@ -1,4 +1,4 @@
-# 香水客服话术
+﻿# 香水客服话术
 
 > 专业的香水行业客服话术模板，涵盖香调推荐、留香时长、使用场景、真伪鉴别等全场景。
 
@@ -397,4 +397,4 @@
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

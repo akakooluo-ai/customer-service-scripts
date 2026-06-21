@@ -1,4 +1,4 @@
-# 工装制服客服话术
+﻿# 工装制服客服话术
 
 > 专业的工装制服客服话术模板，涵盖定制流程、面料功能、批量采购、退换货等全场景。
 
@@ -399,4 +399,4 @@
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

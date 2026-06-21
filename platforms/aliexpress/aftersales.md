@@ -1,4 +1,4 @@
-# AliExpress 速卖通售后客服话术
+﻿# AliExpress 速卖通售后客服话术
 
 > 专业的 AliExpress 速卖通售后客服话术模板，涵盖退换货处理、纠纷处理、差评挽回、评价引导等售后服务场景。
 
@@ -277,4 +277,4 @@ If you have other concerns, please let me know. I'm committed to finding a solut
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

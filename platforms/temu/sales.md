@@ -1,4 +1,4 @@
-# Temu 售中客服话术
+﻿# Temu 售中客服话术
 
 > 专业的 Temu 工厂价跨境电商售中客服话术模板，涵盖订单确认、发货通知、物流追踪、延迟补偿等售中服务场景。
 
@@ -246,4 +246,4 @@ Not received? Contact us immediately! 💬
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

@@ -1,4 +1,4 @@
-# 女装客服话术
+﻿# 女装客服话术
 
 > 专业的女装行业客服话术模板，涵盖尺码推荐、面料说明、穿搭建议、退换货处理等全场景。
 
@@ -366,4 +366,4 @@
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

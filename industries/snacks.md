@@ -1,4 +1,4 @@
-# 零食客服话术
+﻿# 零食客服话术
 
 > 专业的零食行业客服话术模板，涵盖口味推荐、保质期说明、包装完整性、食品安全等全场景。
 
@@ -431,4 +431,4 @@
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

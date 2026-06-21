@@ -1,4 +1,4 @@
-# TikTok Shop 售后客服话术
+﻿# TikTok Shop 售后客服话术
 
 > 专业的 TikTok Shop 售后客服话术模板，涵盖退换货处理、质量问题、差评处理、评价引导等售后服务场景。
 
@@ -213,4 +213,4 @@ We understand this is disappointing, especially after ordering during the live e
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

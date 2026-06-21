@@ -1,4 +1,4 @@
-# 电子产品行业客服话术
+﻿# 电子产品行业客服话术
 
 > 专业的电子产品行业客服话术模板，涵盖参数咨询、兼容性说明、使用指导、售后保修等全链路场景。
 
@@ -614,4 +614,4 @@ We apologize for the concern and will prioritize your case.
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

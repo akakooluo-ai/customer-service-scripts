@@ -1,4 +1,4 @@
-# 户外运动行业客服话术
+﻿# 户外运动行业客服话术
 
 > 专业的户外运动行业客服话术模板，涵盖装备规格、安全认证、使用指导、维修保养等全链路场景。
 
@@ -521,4 +521,4 @@ If you share the expected temperature, wind, rain/snow, and altitude, I can sugg
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

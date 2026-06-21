@@ -1,4 +1,4 @@
-# 生鲜客服话术
+﻿# 生鲜客服话术
 
 > 简介：生鲜行业话术涵盖新鲜度保证、冷链物流、品质承诺等核心场景，帮助客服快速响应客户对食品安全和时效性的关切。
 
@@ -647,4 +647,4 @@
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

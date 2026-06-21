@@ -1,4 +1,4 @@
-# 护肤品客服话术
+﻿# 护肤品客服话术
 
 > 专业的护肤品行业客服话术模板，涵盖肤质推荐、成分说明、使用方法、过敏处理等全场景。
 
@@ -386,4 +386,4 @@
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

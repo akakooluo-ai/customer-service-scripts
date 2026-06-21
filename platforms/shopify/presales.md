@@ -1,4 +1,4 @@
-# Shopify 独立站售前客服话术
+﻿# Shopify 独立站售前客服话术
 
 > 专业的 Shopify 独立站售前客服话术模板，涵盖品牌信任建立、支付安全保障、全球配送说明、定制服务咨询等售前场景。
 
@@ -259,4 +259,4 @@ Follow our journey: [Social links]
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

@@ -1,4 +1,4 @@
-# 淘宝/天猫售前客服话术
+﻿# 淘宝/天猫售前客服话术
 
 > 专业的淘宝/天猫售前客服话术模板，涵盖欢迎语、产品介绍、价格说明、优惠活动等售前场景。
 
@@ -229,4 +229,4 @@
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

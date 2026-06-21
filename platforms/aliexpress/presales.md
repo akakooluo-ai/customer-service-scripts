@@ -1,4 +1,4 @@
-# AliExpress 速卖通售前客服话术
+﻿# AliExpress 速卖通售前客服话术
 
 > 专业的 AliExpress 速卖通售前客服话术模板，涵盖询盘回复、批量采购、物流说明、产品咨询等售前场景。
 
@@ -273,4 +273,4 @@ Don't miss out! Need help with your order?
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

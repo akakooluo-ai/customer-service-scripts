@@ -1,4 +1,4 @@
-# Lazada 售前客服话术
+﻿# Lazada 售前客服话术
 
 > 专业的 Lazada 东南亚电商售前客服话术模板，涵盖 LazMall 保障、多国站点说明、优惠活动、分期付款等售前场景。
 
@@ -208,4 +208,4 @@ This is our biggest sale of the year! 🛍️
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

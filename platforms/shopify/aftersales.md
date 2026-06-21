@@ -1,4 +1,4 @@
-# Shopify 独立站售后客服话术
+﻿# Shopify 独立站售后客服话术
 
 > 专业的 Shopify 独立站售后客服话术模板，涵盖退换货处理、质量问题、退款处理、评价引导等售后服务场景。
 
@@ -608,4 +608,4 @@ Many payment issues are faster to fix through our team than through a dispute pr
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)

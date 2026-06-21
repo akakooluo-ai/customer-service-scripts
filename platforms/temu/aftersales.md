@@ -1,4 +1,4 @@
-# Temu 售后客服话术
+﻿# Temu 售后客服话术
 
 > 专业的 Temu 工厂价跨境电商售后客服话术模板，涵盖退换货处理、质量问题、包裹丢失、评价引导等售后服务场景。
 
@@ -339,4 +339,4 @@ We appreciate your patience. 💜
 
 ---
 
-**更多话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
+**更多快语AI话术模板：** [https://www.talkq.vip/templates/](https://www.talkq.vip/templates/)
