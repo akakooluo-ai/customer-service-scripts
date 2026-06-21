@@ -240,6 +240,200 @@ Questions? I'm here to help! 📦
 
 ---
 
+## 11. 加购配件推荐
+
+**适用场景：** 客户已下单或准备下单，适合推荐配件、耗材或保护套
+
+```
+Thanks for choosing [Product Name]!
+
+Before we ship, you may also want to add:
+• [Accessory 1] - best for [Use Case 1]
+• [Accessory 2] - best for [Use Case 2]
+• [Consumable] - useful if you plan to use it often
+
+If you add it before [Cutoff Time], we can try to ship everything together and reduce extra shipping cost.
+
+Would you like me to send the add-on link?
+```
+
+---
+
+## 12. 套餐推荐
+
+**适用场景：** 客户犹豫单品还是套装，需要解释套餐价值
+
+```
+If you're comparing the single item and the bundle, here's the difference:
+
+Single item: [Single Product]
+Bundle: [Bundle Name]
+Includes: [Bundle Items]
+Savings: $[Savings Amount]
+
+The bundle is better if you need [Use case], because it includes the accessories most customers buy later.
+
+If you only need the basic function, the single item is enough.
+```
+
+---
+
+## 13. 优惠券未使用挽回
+
+**适用场景：** 客户下单后发现忘记使用优惠券或折扣码
+
+```
+I understand you missed the coupon on order [Order Number].
+
+Coupon code: [Coupon Code]
+Expected discount: $[Discount Amount]
+
+If the order has not shipped, we can try one of these options:
+1) Cancel and reorder with the coupon
+2) Offer store credit/voucher for your next purchase
+3) Apply a partial adjustment if the platform allows it
+
+Which option would you prefer?
+```
+
+---
+
+## 14. 补货时间说明
+
+**适用场景：** 客户询问缺货商品何时恢复库存
+
+```
+[Product Name] is currently out of stock.
+
+Expected restock: [Restock Date]
+Available variant now: [Available Variant]
+Similar option: [Alternative Product]
+
+If you can wait, I recommend joining the restock reminder so you get notified first. If you need it sooner, [Alternative Product] is the closest match in function and price.
+
+Would you like the restock link or the alternative link?
+```
+
+---
+
+## 15. 预售订单安抚
+
+**适用场景：** 客户已下预售订单，担心发货时间或库存保障
+
+```
+Your preorder is confirmed.
+
+Order number: [Order Number]
+Product: [Product Name]
+Estimated ship date: [Ship Date]
+Estimated delivery: [Delivery Date]
+
+Preorders are shipped in payment order after stock arrives. If the schedule changes, we will notify you before [Notice Date].
+
+You can keep the preorder for priority stock, or request cancellation before shipping if your plan changes.
+```
+
+---
+
+## 16. 待支付提醒
+
+**适用场景：** 客户创建订单但未完成付款
+
+```
+Hi! Your order is still waiting for payment.
+
+Order number: [Order Number]
+Product: [Product Name]
+Amount: $[Amount]
+Payment deadline: [Payment Deadline]
+
+Stock is reserved only after payment is completed. If you had trouble paying, you can try another payment method or send us the error screenshot and we'll help.
+
+Need the checkout link again?
+```
+
+---
+
+## 17. 地址风险确认
+
+**适用场景：** 系统或客服发现地址不完整、邮编异常、电话缺失
+
+```
+Before shipping order [Order Number], we need to confirm your delivery address.
+
+Current address:
+[Full Address]
+
+Possible issue: [Address Issue]
+
+Please reply with the corrected address, including:
+• Recipient name
+• Street address
+• City / State / Postal code
+• Phone number
+
+We will hold the shipment until [Hold Deadline] to avoid failed delivery.
+```
+
+---
+
+## 18. 礼品留言确认
+
+**适用场景：** 客户下单作为礼物，需要确认包装、留言或发票
+
+```
+Thanks for ordering [Product Name] as a gift.
+
+Please confirm:
+• Gift message: [Gift Message]
+• Gift packaging: [Yes Or No]
+• Hide invoice price: [Yes Or No]
+• Delivery date needed: [Date]
+
+We'll prepare the order according to your preferences where available. If gift packaging is not supported for this item, we'll still make sure the package is clean and suitable for gifting.
+```
+
+---
+
+## 19. 订阅续费提醒
+
+**适用场景：** 订阅、耗材、会员类订单即将续费或发货
+
+```
+Your subscription order is coming up.
+
+Subscription: [Subscription Name]
+Next charge date: [Charge Date]
+Next shipment date: [Ship Date]
+Amount: $[Amount]
+
+If everything looks good, no action is needed. If you want to skip, pause, change quantity, or update address, please do so before [Change Deadline].
+
+I'm happy to help adjust it for you.
+```
+
+---
+
+## 20. 配送升级建议
+
+**适用场景：** 客户需要赶时间，适合推荐加急配送或拆单发货
+
+```
+If you need the order faster, we can check delivery upgrade options.
+
+Current shipping: [Current Method]
+Estimated delivery: [Current ETA]
+
+Upgrade option:
+• Method: [Upgrade Method]
+• Extra cost: $[Extra Cost]
+• Estimated delivery: [Upgrade ETA]
+
+If you approve before [Cutoff Time], we can update the shipping method before dispatch. Otherwise, the order will ship with the current method.
+```
+
+---
+
 ## 使用技巧
 
 1. **主动通知**：订单确认和发货通知要主动发送

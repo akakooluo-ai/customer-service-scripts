@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-12T02:26:01.136Z",
-  "count": 1435,
+  "generatedAt": "2026-06-21T14:37:57.891Z",
+  "count": 1465,
   "groups": [
     "general",
     "industry",
@@ -825,6 +825,183 @@
         "Delivery Status",
         "Delivery Update",
         "What happens next"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrliqDotK3phY3ku7bmjqjojZA",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "加购配件推荐",
+      "scene": "客户已下单或准备下单，适合推荐配件、耗材或保护套",
+      "template": "Thanks for choosing [Product Name]!\n\nBefore we ship, you may also want to add:\n• [Accessory 1] - best for [Use Case 1]\n• [Accessory 2] - best for [Use Case 2]\n• [Consumable] - useful if you plan to use it often\n\nIf you add it before [Cutoff Time], we can try to ship everything together and reduce extra shipping cost.\n\nWould you like me to send the add-on link?",
+      "variables": [
+        "Product Name",
+        "Accessory 1",
+        "Use Case 1",
+        "Accessory 2",
+        "Use Case 2",
+        "Consumable",
+        "Cutoff Time"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrlpZfppJDmjqjojZA",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "套餐推荐",
+      "scene": "客户犹豫单品还是套装，需要解释套餐价值",
+      "template": "If you're comparing the single item and the bundle, here's the difference:\n\nSingle item: [Single Product]\nBundle: [Bundle Name]\nIncludes: [Bundle Items]\nSavings: $[Savings Amount]\n\nThe bundle is better if you need [Use case], because it includes the accessories most customers buy later.\n\nIf you only need the basic function, the single item is enough.",
+      "variables": [
+        "Single Product",
+        "Bundle Name",
+        "Bundle Items",
+        "Savings Amount",
+        "Use case"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrkvJjmg6DliLjmnKrkvb/nlKjmjL3lm54",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "优惠券未使用挽回",
+      "scene": "客户下单后发现忘记使用优惠券或折扣码",
+      "template": "I understand you missed the coupon on order [Order Number].\n\nCoupon code: [Coupon Code]\nExpected discount: $[Discount Amount]\n\nIf the order has not shipped, we can try one of these options:\n1) Cancel and reorder with the coupon\n2) Offer store credit/voucher for your next purchase\n3) Apply a partial adjustment if the platform allows it\n\nWhich option would you prefer?",
+      "variables": [
+        "Order Number",
+        "Coupon Code",
+        "Discount Amount"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrooaXotKfml7bpl7Tor7TmmI4",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "补货时间说明",
+      "scene": "客户询问缺货商品何时恢复库存",
+      "template": "[Product Name] is currently out of stock.\n\nExpected restock: [Restock Date]\nAvailable variant now: [Available Variant]\nSimilar option: [Alternative Product]\n\nIf you can wait, I recommend joining the restock reminder so you get notified first. If you need it sooner, [Alternative Product] is the closest match in function and price.\n\nWould you like the restock link or the alternative link?",
+      "variables": [
+        "Product Name",
+        "Restock Date",
+        "Available Variant",
+        "Alternative Product"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrpooTllK7orqLljZXlronmipo",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "预售订单安抚",
+      "scene": "客户已下预售订单，担心发货时间或库存保障",
+      "template": "Your preorder is confirmed.\n\nOrder number: [Order Number]\nProduct: [Product Name]\nEstimated ship date: [Ship Date]\nEstimated delivery: [Delivery Date]\n\nPreorders are shipped in payment order after stock arrives. If the schedule changes, we will notify you before [Notice Date].\n\nYou can keep the preorder for priority stock, or request cancellation before shipping if your plan changes.",
+      "variables": [
+        "Order Number",
+        "Product Name",
+        "Ship Date",
+        "Delivery Date",
+        "Notice Date"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrlvoXmlK/ku5jmj5DphpI",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "待支付提醒",
+      "scene": "客户创建订单但未完成付款",
+      "template": "Hi! Your order is still waiting for payment.\n\nOrder number: [Order Number]\nProduct: [Product Name]\nAmount: $[Amount]\nPayment deadline: [Payment Deadline]\n\nStock is reserved only after payment is completed. If you had trouble paying, you can try another payment method or send us the error screenshot and we'll help.\n\nNeed the checkout link again?",
+      "variables": [
+        "Order Number",
+        "Product Name",
+        "Amount",
+        "Payment Deadline"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrlnLDlnYDpo47pmannoa7orqQ",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "地址风险确认",
+      "scene": "系统或客服发现地址不完整、邮编异常、电话缺失",
+      "template": "Before shipping order [Order Number], we need to confirm your delivery address.\n\nCurrent address:\n[Full Address]\n\nPossible issue: [Address Issue]\n\nPlease reply with the corrected address, including:\n• Recipient name\n• Street address\n• City / State / Postal code\n• Phone number\n\nWe will hold the shipment until [Hold Deadline] to avoid failed delivery.",
+      "variables": [
+        "Order Number",
+        "Full Address",
+        "Address Issue",
+        "Hold Deadline"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrnpLzlk4HnlZnoqIDnoa7orqQ",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "礼品留言确认",
+      "scene": "客户下单作为礼物，需要确认包装、留言或发票",
+      "template": "Thanks for ordering [Product Name] as a gift.\n\nPlease confirm:\n• Gift message: [Gift Message]\n• Gift packaging: [Yes Or No]\n• Hide invoice price: [Yes Or No]\n• Delivery date needed: [Date]\n\nWe'll prepare the order according to your preferences where available. If gift packaging is not supported for this item, we'll still make sure the package is clean and suitable for gifting.",
+      "variables": [
+        "Product Name",
+        "Gift Message",
+        "Yes Or No",
+        "Date"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrorqLpmIXnu63otLnmj5DphpI",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "订阅续费提醒",
+      "scene": "订阅、耗材、会员类订单即将续费或发货",
+      "template": "Your subscription order is coming up.\n\nSubscription: [Subscription Name]\nNext charge date: [Charge Date]\nNext shipment date: [Ship Date]\nAmount: $[Amount]\n\nIf everything looks good, no action is needed. If you want to skip, pause, change quantity, or update address, please do so before [Change Deadline].\n\nI'm happy to help adjust it for you.",
+      "variables": [
+        "Subscription Name",
+        "Charge Date",
+        "Ship Date",
+        "Amount",
+        "Change Deadline"
+      ],
+      "sourcePath": "general/sales.md",
+      "group": "general",
+      "platform": "general",
+      "industry": "general"
+    },
+    {
+      "id": "Z2VuZXJhbC9zYWxlcy5tZDrphY3pgIHljYfnuqflu7rorq4",
+      "pageTitle": "通用售中客服话术",
+      "sectionTitle": "配送升级建议",
+      "scene": "客户需要赶时间，适合推荐加急配送或拆单发货",
+      "template": "If you need the order faster, we can check delivery upgrade options.\n\nCurrent shipping: [Current Method]\nEstimated delivery: [Current ETA]\n\nUpgrade option:\n• Method: [Upgrade Method]\n• Extra cost: $[Extra Cost]\n• Estimated delivery: [Upgrade ETA]\n\nIf you approve before [Cutoff Time], we can update the shipping method before dispatch. Otherwise, the order will ship with the current method.",
+      "variables": [
+        "Current Method",
+        "Current ETA",
+        "Upgrade Method",
+        "Extra Cost",
+        "Upgrade ETA",
+        "Cutoff Time"
       ],
       "sourcePath": "general/sales.md",
       "group": "general",
@@ -3038,6 +3215,92 @@
       "industry": "all"
     },
     {
+      "id": "cGxhdGZvcm1zL2xhemFkYS9hZnRlcnNhbGVzLm1kOumAgOi0p+WPluS7tuWksei0pQ",
+      "pageTitle": "Lazada 售后客服话术",
+      "sectionTitle": "退货取件失败",
+      "scene": "Lazada 退货上门取件未成功或取件员未联系",
+      "template": "Sorry the return pickup did not happen as scheduled.\n\nPlease confirm:\n• Order number: [Order Number]\n• Pickup address: [Pickup Address]\n• Phone number: [Phone Number]\n• Preferred pickup window: [Pickup Window]\n\nYou can reschedule pickup in the Lazada app under Return/Refund. If the button is unavailable, send us a screenshot and we will help escalate the pickup issue.\n\nYour return request remains active until [Return Deadline].",
+      "variables": [
+        "Order Number",
+        "Pickup Address",
+        "Phone Number",
+        "Pickup Window",
+        "Return Deadline"
+      ],
+      "sourcePath": "platforms/lazada/aftersales.md",
+      "group": "platform",
+      "platform": "lazada",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2xhemFkYS9hZnRlcnNhbGVzLm1kOuacquaUtuWIsOi0p+e6oOe6t+S4vuivgQ",
+      "pageTitle": "Lazada 售后客服话术",
+      "sectionTitle": "未收到货纠纷举证",
+      "scene": "物流显示已签收，但买家反馈未收到并准备开纠纷",
+      "template": "I'm sorry you still have not received the package.\n\nTo help with the Lazada non-receipt review, please provide:\n1) Screenshot of your order page\n2) Delivery address confirmation\n3) Any message or call record from the courier\n\nWe will also request proof of delivery from [Courier Name]. If delivery cannot be verified, we will support refund or replacement according to Lazada protection.\n\nWe'll keep you updated by [Follow-up Date].",
+      "variables": [
+        "Courier Name",
+        "Follow-up Date"
+      ],
+      "sourcePath": "platforms/lazada/aftersales.md",
+      "group": "platform",
+      "platform": "lazada",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2xhemFkYS9hZnRlcnNhbGVzLm1kOuWIhuWMheijuemFjemAgeivtOaYjg",
+      "pageTitle": "Lazada 售后客服话术",
+      "sectionTitle": "分包裹配送说明",
+      "scene": "一个订单拆成多个包裹，客户只收到部分商品",
+      "template": "Your order was shipped in separate packages.\n\nOrder number: [Order Number]\nPackage 1: [Tracking Number 1] - [Status 1]\nPackage 2: [Tracking Number 2] - [Status 2]\n\nYou have received part of the order, and the remaining package is still on the way. Estimated delivery: [Date].\n\nIf the second package does not arrive by [Follow-up Date], we will investigate with the courier and arrange refund or replacement if needed.",
+      "variables": [
+        "Order Number",
+        "Tracking Number 1",
+        "Status 1",
+        "Tracking Number 2",
+        "Status 2",
+        "Date",
+        "Follow-up Date"
+      ],
+      "sourcePath": "platforms/lazada/aftersales.md",
+      "group": "platform",
+      "platform": "lazada",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2xhemFkYS9hZnRlcnNhbGVzLm1kOui0qOS/nei9rOaOpeivtOaYjg",
+      "pageTitle": "Lazada 售后客服话术",
+      "sectionTitle": "质保转接说明",
+      "scene": "商品超过退货期但仍在品牌或卖家质保范围内",
+      "template": "Thanks for contacting us about the warranty.\n\nOrder number: [Order Number]\nProduct: [Product Name]\nWarranty period: [Warranty Period]\n\nSince the Lazada return window has ended, we will handle this through warranty support. Please send:\n1) Clear video of the issue\n2) Product serial number if available\n3) Photo of the order invoice\n\nAfter review, we can offer repair guidance, replacement parts, or warranty replacement based on the issue.",
+      "variables": [
+        "Order Number",
+        "Product Name",
+        "Warranty Period"
+      ],
+      "sourcePath": "platforms/lazada/aftersales.md",
+      "group": "platform",
+      "platform": "lazada",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL2xhemFkYS9hZnRlcnNhbGVzLm1kOuS8mOaDoOWIuOaMveWbng",
+      "pageTitle": "Lazada 售后客服话术",
+      "sectionTitle": "优惠券挽回",
+      "scene": "售后问题解决后，为客户提供 Lazada voucher 促进复购",
+      "template": "Thank you for allowing us to resolve this issue.\n\nWe prepared a Lazada voucher for your next order:\n• Voucher: [Voucher Amount]\n• Minimum spend: [Minimum Spend]\n• Valid until: [Date]\n• Eligible products: [Eligible Products]\n\nPlease follow our store and check the voucher center to claim it. If you need help choosing a replacement item, message us anytime.\n\nWe appreciate your patience. 💙",
+      "variables": [
+        "Voucher Amount",
+        "Minimum Spend",
+        "Date",
+        "Eligible Products"
+      ],
+      "sourcePath": "platforms/lazada/aftersales.md",
+      "group": "platform",
+      "platform": "lazada",
+      "industry": "all"
+    },
+    {
       "id": "cGxhdGZvcm1zL2xhemFkYS9wcmVzYWxlcy5tZDrmrKLov47lkqjor6I",
       "pageTitle": "Lazada 售前客服话术",
       "sectionTitle": "欢迎咨询",
@@ -3456,6 +3719,85 @@
       "template": "您好！我想对您最近的购买做一个回访。您对[商品名称]还满意吗？一切正常吗？如果您有任何问题或建议，欢迎随时告诉我。我们也希望您能给个好评，这对我们很重要。感谢您的支持！",
       "variables": [
         "商品名称"
+      ],
+      "sourcePath": "platforms/shopee/aftersales.md",
+      "group": "platform",
+      "platform": "shopee",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BlZS9hZnRlcnNhbGVzLm1kOlNob3BlZSBHdWFyYW50ZWUg5bu26ZW/5o+Q6YaS",
+      "pageTitle": "Shopee 售后客服话术模板",
+      "sectionTitle": "Shopee Guarantee 延长提醒",
+      "scene": "客户担心确认收货期限将到，但包裹还未收到",
+      "template": "您好！我理解您担心 Shopee Guarantee 时间快到了。\n\n订单号：[Order Number]\n当前物流状态：[Status]\n预计送达：[Date]\n\n如果您还没收到商品，建议先在订单页面点击“延长 Shopee Guarantee”，这样订单保障时间会延长，我们也会继续帮您跟进物流。\n\n若到 [Follow-up Date] 仍未送达，请立即联系我，我会协助您申请退款或平台介入。",
+      "variables": [
+        "Order Number",
+        "Status",
+        "Date",
+        "Follow-up Date"
+      ],
+      "sourcePath": "platforms/shopee/aftersales.md",
+      "group": "platform",
+      "platform": "shopee",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BlZS9hZnRlcnNhbGVzLm1kOui0p+WIsOS7mOasvuaLkuaUtuWkhOeQhg",
+      "pageTitle": "Shopee 售后客服话术模板",
+      "sectionTitle": "货到付款拒收处理",
+      "scene": "COD 订单客户拒收或快递派送失败后咨询",
+      "template": "您好！我看到您的 COD 订单 [Order Number] 显示为 [Status]。\n\n如果您仍然需要商品，我们可以建议您：\n1. 等待快递再次派送\n2. 联系当地快递站点确认取件\n3. 重新下单并确认收货地址和电话\n\n如果您不需要了，包裹会按平台流程退回。为避免后续 COD 下单受影响，建议有变更时提前联系我们。",
+      "variables": [
+        "Order Number",
+        "Status"
+      ],
+      "sourcePath": "platforms/shopee/aftersales.md",
+      "group": "platform",
+      "platform": "shopee",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BlZS9hZnRlcnNhbGVzLm1kOuminOiJsuWwuueggeWPkemUmeWkhOeQhg",
+      "pageTitle": "Shopee 售后客服话术模板",
+      "sectionTitle": "颜色尺码发错处理",
+      "scene": "客户反馈收到的颜色、尺码或规格与下单不一致",
+      "template": "您好！非常抱歉您收到的规格不正确。\n\n请您发送以下信息，方便我们立即核对：\n1. 订单号：[Order Number]\n2. 收到商品的照片\n3. 商品标签或包装上的规格照片\n4. 您实际下单的规格：[Expected Variant]\n\n确认后我们会为您提供换货、补发或退款方案。给您带来不便真的很抱歉。",
+      "variables": [
+        "Order Number",
+        "Expected Variant"
+      ],
+      "sourcePath": "platforms/shopee/aftersales.md",
+      "group": "platform",
+      "platform": "shopee",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BlZS9hZnRlcnNhbGVzLm1kOuS4iumXqOWPluS7tuWksei0pQ",
+      "pageTitle": "Shopee 售后客服话术模板",
+      "sectionTitle": "上门取件失败",
+      "scene": "Shopee 退货取件未成功，客户不知道下一步",
+      "template": "您好！抱歉 Shopee 退货取件没有成功。\n\n请先确认：\n1. 取件地址：[Pickup Address]\n2. 联系电话：[Phone Number]\n3. 可取件时间：[Pickup Window]\n\n您可以在 Shopee 退货页面重新预约取件，或选择可用的 drop-off 站点寄回。若页面无法重新预约，请截图给我，我会协助您联系平台客服处理。",
+      "variables": [
+        "Pickup Address",
+        "Phone Number",
+        "Pickup Window"
+      ],
+      "sourcePath": "platforms/shopee/aftersales.md",
+      "group": "platform",
+      "platform": "shopee",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Nob3BlZS9hZnRlcnNhbGVzLm1kOuS8mOaDoOWIuOihpeWBv+ivtOaYjg",
+      "pageTitle": "Shopee 售后客服话术模板",
+      "sectionTitle": "优惠券补偿说明",
+      "scene": "售后问题处理后，给客户发放店铺券挽回体验",
+      "template": "您好！感谢您耐心配合我们处理这个问题。\n\n为表达歉意，我们为您准备了店铺优惠券：\n优惠金额：[Voucher Amount]\n使用门槛：[Minimum Spend]\n有效期：[Date]\n\n您可以在店铺首页或优惠券中心领取。下次下单前如果有任何问题，也欢迎先联系我，我会优先为您处理。",
+      "variables": [
+        "Voucher Amount",
+        "Minimum Spend",
+        "Date"
       ],
       "sourcePath": "platforms/shopee/aftersales.md",
       "group": "platform",
@@ -5214,6 +5556,89 @@
       "industry": "all"
     },
     {
+      "id": "cGxhdGZvcm1zL3RlbXUvYWZ0ZXJzYWxlcy5tZDrnianmtYHotoXml7blronmipo",
+      "pageTitle": "Temu 售后客服话术",
+      "sectionTitle": "物流超时安抚",
+      "scene": "订单超过预计送达时间但仍有物流轨迹",
+      "template": "Thanks for your patience! I checked order [Order Number] and the package is still moving with [Carrier].\n\nCurrent status: [Status]\nLatest scan: [Latest Scan]\nNew estimated delivery: [New ETA]\n\nIf there is no new update by [Follow-up Date], we can help you request a refund or replacement through Temu Purchase Protection.\n\nI'll keep monitoring this for you. 💙",
+      "variables": [
+        "Order Number",
+        "Carrier",
+        "Status",
+        "Latest Scan",
+        "New ETA",
+        "Follow-up Date"
+      ],
+      "sourcePath": "platforms/temu/aftersales.md",
+      "group": "platform",
+      "platform": "temu",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3RlbXUvYWZ0ZXJzYWxlcy5tZDrpgIDotKfmoIfnrb7ml6Dms5Xkvb/nlKg",
+      "pageTitle": "Temu 售后客服话术",
+      "sectionTitle": "退货标签无法使用",
+      "scene": "买家反馈退货标签无法打印、无法扫码或网点不接收",
+      "template": "Sorry the return label is not working! We'll help you fix it.\n\nPlease try:\n1) Reopen the return page in the Temu app\n2) Download the latest label\n3) Show the barcode at [Drop Off Location]\n\nIf it still fails, send us a screenshot of the error. We will request a new label or guide you to another return method.\n\nYour return window remains protected until [Return Deadline].",
+      "variables": [
+        "Drop Off Location",
+        "Return Deadline"
+      ],
+      "sourcePath": "platforms/temu/aftersales.md",
+      "group": "platform",
+      "platform": "temu",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3RlbXUvYWZ0ZXJzYWxlcy5tZDrph43lpI3pgIDmrL7nlLPor7for7TmmI4",
+      "pageTitle": "Temu 售后客服话术",
+      "sectionTitle": "重复退款申请说明",
+      "scene": "买家重复申请退款或担心退款未提交成功",
+      "template": "I checked your case for order [Order Number]. Your refund request is already submitted.\n\nCurrent refund status: [Refund Status]\nAmount: $[Amount]\nExpected processing time: [Time]\n\nSubmitting another request may slow down the review, so please keep this one active. If the status does not change by [Follow-up Date], we will escalate it for you.\n\nThank you for waiting. 🙏",
+      "variables": [
+        "Order Number",
+        "Refund Status",
+        "Amount",
+        "Time",
+        "Follow-up Date"
+      ],
+      "sourcePath": "platforms/temu/aftersales.md",
+      "group": "platform",
+      "platform": "temu",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3RlbXUvYWZ0ZXJzYWxlcy5tZDrlpJrku7bllYblk4Hpg6jliIbmjZ/lnY8",
+      "pageTitle": "Temu 售后客服话术",
+      "sectionTitle": "多件商品部分损坏",
+      "scene": "一个订单里多件商品，只有部分商品损坏或缺陷",
+      "template": "I'm sorry part of your order arrived damaged.\n\nPlease send photos of:\n1) The damaged item\n2) The shipping package\n3) The item label or SKU\n\nFor the affected item [Product Name], we can offer:\n• Partial refund: $[Amount]\n• Replacement if stock is available\n• Full return if you prefer\n\nThe other items do not need to be returned if they are fine.",
+      "variables": [
+        "Product Name",
+        "Amount"
+      ],
+      "sourcePath": "platforms/temu/aftersales.md",
+      "group": "platform",
+      "platform": "temu",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3RlbXUvYWZ0ZXJzYWxlcy5tZDrkvJjmg6DliLjooaXlgb/mjL3lm54",
+      "pageTitle": "Temu 售后客服话术",
+      "sectionTitle": "优惠券补偿挽回",
+      "scene": "售后问题已解决后，用优惠券或积分鼓励复购",
+      "template": "Thank you for giving us the chance to solve this.\n\nAs an apology for the inconvenience, we added:\n• Coupon/Credits: [Coupon Amount]\n• Valid until: [Date]\n• Use on: [Eligible Items]\n\nYou can find it in your Temu account under coupons or credits. If anything still feels unresolved, message us before placing the next order and we'll help first.\n\nWe appreciate your patience. 💜",
+      "variables": [
+        "Coupon Amount",
+        "Date",
+        "Eligible Items"
+      ],
+      "sourcePath": "platforms/temu/aftersales.md",
+      "group": "platform",
+      "platform": "temu",
+      "industry": "all"
+    },
+    {
       "id": "cGxhdGZvcm1zL3RlbXUvcHJlc2FsZXMubWQ65Lqn5ZOB5LuL57uN",
       "pageTitle": "Temu 售前客服话术",
       "sectionTitle": "产品介绍",
@@ -5655,6 +6080,88 @@
       "template": "Hey! 👋 Just checking in - how's your [Product] working out? Everything good? If you love it, we'd be SO grateful for a quick review! ⭐ If anything's not perfect, let me know and I'll fix it ASAP! Thanks for being part of our TikTok family! 💕",
       "variables": [
         "Product"
+      ],
+      "sourcePath": "platforms/tiktok-shop/aftersales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL2FmdGVyc2FsZXMubWQ655u05pKt5bGV56S65beu5byC6K+05piO",
+      "pageTitle": "TikTok Shop 售后客服话术",
+      "sectionTitle": "直播展示差异说明",
+      "scene": "客户认为实物与直播间展示效果不同",
+      "template": "Thanks for sharing this with us. I understand the item may look different from what you saw during the livestream.\n\nLighting, camera filters, and screen settings can change how [Product Name] appears, but we still want you to feel confident about your purchase.\n\nPlease send:\n1) A photo of the item received\n2) A screenshot or clip from the livestream if available\n3) Your order number [Order Number]\n\nWe'll review and offer the best solution: return, exchange, or partial refund where eligible.",
+      "variables": [
+        "Product Name",
+        "Order Number"
+      ],
+      "sourcePath": "platforms/tiktok-shop/aftersales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL2FmdGVyc2FsZXMubWQ66L6+5Lq65LyY5oOg56CB6aKE5pyf5beu5byC",
+      "pageTitle": "TikTok Shop 售后客服话术",
+      "sectionTitle": "达人优惠码预期差异",
+      "scene": "客户使用达人/主播优惠码后，认为优惠金额不对",
+      "template": "I can help check the creator code discount for you.\n\nPlease confirm:\n• Code used: [Creator Code]\n• Order number: [Order Number]\n• Expected discount: [Expected Discount]\n• Actual discount: [Actual Discount]\n\nSome codes apply only to selected items, first-time buyers, or a minimum order amount. If the code should have applied, we'll help escalate or offer a store voucher for the difference where possible.",
+      "variables": [
+        "Creator Code",
+        "Order Number",
+        "Expected Discount",
+        "Actual Discount"
+      ],
+      "sourcePath": "platforms/tiktok-shop/aftersales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL2FmdGVyc2FsZXMubWQ65aWX6KOF57y65Lu25aSE55CG",
+      "pageTitle": "TikTok Shop 售后客服话术",
+      "sectionTitle": "套装缺件处理",
+      "scene": "客户反馈直播套装或组合包少发某个配件",
+      "template": "We're sorry one item from your bundle is missing.\n\nPlease send:\n1) A photo of everything received\n2) A photo of the packing slip\n3) Order number [Order Number]\n\nMissing item: [Missing Item]\n\nOnce confirmed, we can send the missing item if stock is available, or issue a partial refund of $[Amount].\n\nThanks for helping us verify this quickly.",
+      "variables": [
+        "Order Number",
+        "Missing Item",
+        "Amount"
+      ],
+      "sourcePath": "platforms/tiktok-shop/aftersales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL2FmdGVyc2FsZXMubWQ66YCA5qy+5Yiw6LSm5pe26Ze06Kej6YeK",
+      "pageTitle": "TikTok Shop 售后客服话术",
+      "sectionTitle": "退款到账时间解释",
+      "scene": "客户看到 TikTok Shop 显示已退款，但银行卡或钱包尚未到账",
+      "template": "Your refund has been approved on TikTok Shop.\n\nRefund details:\n• Amount: $[Amount]\n• Refund method: [Payment Method]\n• Approved date: [Date]\n• Bank processing time: [Time]\n\nTikTok Shop has released the refund, but the final posting time depends on your bank or wallet provider. If it is still missing after [Follow-up Date], send us a screenshot and we'll help you check again.",
+      "variables": [
+        "Amount",
+        "Payment Method",
+        "Date",
+        "Time",
+        "Follow-up Date"
+      ],
+      "sourcePath": "platforms/tiktok-shop/aftersales.md",
+      "group": "platform",
+      "platform": "tiktok-shop",
+      "industry": "all"
+    },
+    {
+      "id": "cGxhdGZvcm1zL3Rpa3Rvay1zaG9wL2FmdGVyc2FsZXMubWQ654iG5qy+57y66LSn5Y+W5raI5a6J5oqa",
+      "pageTitle": "TikTok Shop 售后客服话术",
+      "sectionTitle": "爆款缺货取消安抚",
+      "scene": "爆款或直播款售罄导致订单取消或无法补发",
+      "template": "I'm really sorry. [Product Name] sold out faster than expected after the campaign, so we cannot ship a replacement right now.\n\nAvailable options:\n1) Full refund to your original payment method\n2) Store voucher: [Voucher Amount]\n3) Restock reminder for [Restock Date]\n\nWe understand this is disappointing, especially after ordering during the live event. We'll prioritize notifying you when the item returns.",
+      "variables": [
+        "Product Name",
+        "Voucher Amount",
+        "Restock Date"
       ],
       "sourcePath": "platforms/tiktok-shop/aftersales.md",
       "group": "platform",

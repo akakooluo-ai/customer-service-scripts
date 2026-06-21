@@ -10,7 +10,7 @@
 
 ---
 
-## Temu 售后话术列表（共 10 条）
+## Temu 售后话术列表（共 15 条）
 
 ### 1. 退货政策说明
 
@@ -220,6 +220,102 @@ Leave a review for [Credits]! ⭐
 Any issues? Let me know - I'm here to help!
 
 Thanks for choosing Temu! 💜
+```
+
+---
+
+### 11. 物流超时安抚
+
+**适用场景：** 订单超过预计送达时间但仍有物流轨迹
+
+```
+Thanks for your patience! I checked order [Order Number] and the package is still moving with [Carrier].
+
+Current status: [Status]
+Latest scan: [Latest Scan]
+New estimated delivery: [New ETA]
+
+If there is no new update by [Follow-up Date], we can help you request a refund or replacement through Temu Purchase Protection.
+
+I'll keep monitoring this for you. 💙
+```
+
+---
+
+### 12. 退货标签无法使用
+
+**适用场景：** 买家反馈退货标签无法打印、无法扫码或网点不接收
+
+```
+Sorry the return label is not working! We'll help you fix it.
+
+Please try:
+1) Reopen the return page in the Temu app
+2) Download the latest label
+3) Show the barcode at [Drop Off Location]
+
+If it still fails, send us a screenshot of the error. We will request a new label or guide you to another return method.
+
+Your return window remains protected until [Return Deadline].
+```
+
+---
+
+### 13. 重复退款申请说明
+
+**适用场景：** 买家重复申请退款或担心退款未提交成功
+
+```
+I checked your case for order [Order Number]. Your refund request is already submitted.
+
+Current refund status: [Refund Status]
+Amount: $[Amount]
+Expected processing time: [Time]
+
+Submitting another request may slow down the review, so please keep this one active. If the status does not change by [Follow-up Date], we will escalate it for you.
+
+Thank you for waiting. 🙏
+```
+
+---
+
+### 14. 多件商品部分损坏
+
+**适用场景：** 一个订单里多件商品，只有部分商品损坏或缺陷
+
+```
+I'm sorry part of your order arrived damaged.
+
+Please send photos of:
+1) The damaged item
+2) The shipping package
+3) The item label or SKU
+
+For the affected item [Product Name], we can offer:
+• Partial refund: $[Amount]
+• Replacement if stock is available
+• Full return if you prefer
+
+The other items do not need to be returned if they are fine.
+```
+
+---
+
+### 15. 优惠券补偿挽回
+
+**适用场景：** 售后问题已解决后，用优惠券或积分鼓励复购
+
+```
+Thank you for giving us the chance to solve this.
+
+As an apology for the inconvenience, we added:
+• Coupon/Credits: [Coupon Amount]
+• Valid until: [Date]
+• Use on: [Eligible Items]
+
+You can find it in your Temu account under coupons or credits. If anything still feels unresolved, message us before placing the next order and we'll help first.
+
+We appreciate your patience. 💜
 ```
 
 ---

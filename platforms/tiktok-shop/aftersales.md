@@ -110,6 +110,99 @@ Hey! 👋 Just checking in - how's your [Product] working out? Everything good? 
 
 ---
 
+## 11. 直播展示差异说明
+
+**适用场景：** 客户认为实物与直播间展示效果不同
+
+```
+Thanks for sharing this with us. I understand the item may look different from what you saw during the livestream.
+
+Lighting, camera filters, and screen settings can change how [Product Name] appears, but we still want you to feel confident about your purchase.
+
+Please send:
+1) A photo of the item received
+2) A screenshot or clip from the livestream if available
+3) Your order number [Order Number]
+
+We'll review and offer the best solution: return, exchange, or partial refund where eligible.
+```
+
+---
+
+## 12. 达人优惠码预期差异
+
+**适用场景：** 客户使用达人/主播优惠码后，认为优惠金额不对
+
+```
+I can help check the creator code discount for you.
+
+Please confirm:
+• Code used: [Creator Code]
+• Order number: [Order Number]
+• Expected discount: [Expected Discount]
+• Actual discount: [Actual Discount]
+
+Some codes apply only to selected items, first-time buyers, or a minimum order amount. If the code should have applied, we'll help escalate or offer a store voucher for the difference where possible.
+```
+
+---
+
+## 13. 套装缺件处理
+
+**适用场景：** 客户反馈直播套装或组合包少发某个配件
+
+```
+We're sorry one item from your bundle is missing.
+
+Please send:
+1) A photo of everything received
+2) A photo of the packing slip
+3) Order number [Order Number]
+
+Missing item: [Missing Item]
+
+Once confirmed, we can send the missing item if stock is available, or issue a partial refund of $[Amount].
+
+Thanks for helping us verify this quickly.
+```
+
+---
+
+## 14. 退款到账时间解释
+
+**适用场景：** 客户看到 TikTok Shop 显示已退款，但银行卡或钱包尚未到账
+
+```
+Your refund has been approved on TikTok Shop.
+
+Refund details:
+• Amount: $[Amount]
+• Refund method: [Payment Method]
+• Approved date: [Date]
+• Bank processing time: [Time]
+
+TikTok Shop has released the refund, but the final posting time depends on your bank or wallet provider. If it is still missing after [Follow-up Date], send us a screenshot and we'll help you check again.
+```
+
+---
+
+## 15. 爆款缺货取消安抚
+
+**适用场景：** 爆款或直播款售罄导致订单取消或无法补发
+
+```
+I'm really sorry. [Product Name] sold out faster than expected after the campaign, so we cannot ship a replacement right now.
+
+Available options:
+1) Full refund to your original payment method
+2) Store voucher: [Voucher Amount]
+3) Restock reminder for [Restock Date]
+
+We understand this is disappointing, especially after ordering during the live event. We'll prioritize notifying you when the item returns.
+```
+
+---
+
 ## 使用技巧
 
 1. **共情先行**：先表达理解和歉意，再提供解决方案

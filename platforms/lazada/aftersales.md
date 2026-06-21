@@ -10,7 +10,7 @@
 
 ---
 
-## Lazada 售后话术列表（共 10 条）
+## Lazada 售后话术列表（共 15 条）
 
 ### 1. 退货政策说明
 
@@ -209,6 +209,104 @@ Valid until: [Date]
 Plus, enjoy free shipping on all orders!
 
 We appreciate your loyalty! Check out our new arrivals! 🛍️
+```
+
+---
+
+### 11. 退货取件失败
+
+**适用场景：** Lazada 退货上门取件未成功或取件员未联系
+
+```
+Sorry the return pickup did not happen as scheduled.
+
+Please confirm:
+• Order number: [Order Number]
+• Pickup address: [Pickup Address]
+• Phone number: [Phone Number]
+• Preferred pickup window: [Pickup Window]
+
+You can reschedule pickup in the Lazada app under Return/Refund. If the button is unavailable, send us a screenshot and we will help escalate the pickup issue.
+
+Your return request remains active until [Return Deadline].
+```
+
+---
+
+### 12. 未收到货纠纷举证
+
+**适用场景：** 物流显示已签收，但买家反馈未收到并准备开纠纷
+
+```
+I'm sorry you still have not received the package.
+
+To help with the Lazada non-receipt review, please provide:
+1) Screenshot of your order page
+2) Delivery address confirmation
+3) Any message or call record from the courier
+
+We will also request proof of delivery from [Courier Name]. If delivery cannot be verified, we will support refund or replacement according to Lazada protection.
+
+We'll keep you updated by [Follow-up Date].
+```
+
+---
+
+### 13. 分包裹配送说明
+
+**适用场景：** 一个订单拆成多个包裹，客户只收到部分商品
+
+```
+Your order was shipped in separate packages.
+
+Order number: [Order Number]
+Package 1: [Tracking Number 1] - [Status 1]
+Package 2: [Tracking Number 2] - [Status 2]
+
+You have received part of the order, and the remaining package is still on the way. Estimated delivery: [Date].
+
+If the second package does not arrive by [Follow-up Date], we will investigate with the courier and arrange refund or replacement if needed.
+```
+
+---
+
+### 14. 质保转接说明
+
+**适用场景：** 商品超过退货期但仍在品牌或卖家质保范围内
+
+```
+Thanks for contacting us about the warranty.
+
+Order number: [Order Number]
+Product: [Product Name]
+Warranty period: [Warranty Period]
+
+Since the Lazada return window has ended, we will handle this through warranty support. Please send:
+1) Clear video of the issue
+2) Product serial number if available
+3) Photo of the order invoice
+
+After review, we can offer repair guidance, replacement parts, or warranty replacement based on the issue.
+```
+
+---
+
+### 15. 优惠券挽回
+
+**适用场景：** 售后问题解决后，为客户提供 Lazada voucher 促进复购
+
+```
+Thank you for allowing us to resolve this issue.
+
+We prepared a Lazada voucher for your next order:
+• Voucher: [Voucher Amount]
+• Minimum spend: [Minimum Spend]
+• Valid until: [Date]
+• Eligible products: [Eligible Products]
+
+Please follow our store and check the voucher center to claim it. If you need help choosing a replacement item, message us anytime.
+
+We appreciate your patience. 💙
 ```
 
 ---

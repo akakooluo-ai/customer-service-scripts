@@ -1,6 +1,6 @@
 # 电商客服话术大全 | E-commerce Customer Service Scripts
 
-> 🛒 专业的电商客服话术模板库，覆盖 Amazon、淘宝、京东、Shopee 等 11 大平台，以及服装、美妆、母婴、食品饮品等 34 个行业，已索引 1,435 条模板。
+> 🛒 专业的电商客服话术模板库，覆盖 Amazon、淘宝、京东、Shopee 等 11 大平台，以及服装、美妆、母婴、食品饮品等 34 个行业，已索引 1,465 条模板。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/akakooluo-ai/customer-service-scripts/pulls)
@@ -9,7 +9,7 @@
 ## 🌐 在线入口（Free Knowledge Base）
 
 - 立即使用（GitHub Pages）：[https://akakooluo-ai.github.io/customer-service-scripts/](https://akakooluo-ai.github.io/customer-service-scripts/) 
-  Search 1,435+ customer service templates online, fill variables, and generate ready-to-send replies.
+  Search 1,465+ customer service templates online, fill variables, and generate ready-to-send replies.
 - 升级自动化（TalkQ）：[https://www.talkq.vip](https://www.talkq.vip)
   Move from manual copy-and-send to AI reply automation, team collaboration, and workflow routing.
 
@@ -122,6 +122,14 @@ customer-service-scripts/
 - Rebuilt `docs/data/templates.json` to `1,435` indexed templates
 - Added the May growth plan: [tasks/2026-05-tasks.md](tasks/2026-05-tasks.md)
 
+### 2026-06-21
+
+- Added 20 cross-border platform after-sales templates across Temu, TikTok Shop, Shopee, and Lazada
+- Added 10 universal in-order sales templates in `general/sales.md`
+- Refreshed the monthly Top 20 list around cross-border platform support scenarios
+- Rebuilt `docs/data/templates.json` to `1,465` indexed templates
+- Added the June growth plan: [tasks/2026-06-tasks.md](tasks/2026-06-tasks.md)
+
 ## Template Mode vs AI Mode
 
 | Mode | Best For | Input Needed | Output Style | Risk Level |
@@ -141,70 +149,70 @@ Want batch automation, team collaboration, and workflow routing instead of one-b
 
 **After (template-driven):** Open `platforms/shopify/aftersales.md` → *WISMO 延迟安抚*, fill `[Order Number]`, `[Carrier]`, `[New ETA]`, and `[Compensation]` — you get a calm, step-by-step update customers can act on. The same pattern works for Amazon FBA delay scripts under `platforms/amazon/aftersales.md`.
 
-## Top 20 Templates This Month (2026-05)
+## Top 20 Templates This Month (2026-06)
 
-This month's shortlist highlights newly expanded industry edge cases: beauty ingredient safety, electronics troubleshooting, fashion fit and returns, furniture delivery/assembly, and outdoor gear safety. If you only try a few templates first, start here.
+This month's shortlist focuses on cross-border platform after-sales and in-order conversion: Temu refund friction, TikTok Shop livestream expectation gaps, Shopee delivery protection, Lazada pickup cases, and universal sales recovery scripts.
 
-1. **SPF 补涂与防晒期望管理**  
-   Best for setting realistic sunscreen expectations and reducing post-purchase complaints.  
-   Source: [industries/beauty.md](industries/beauty.md)
-2. **孕期 / 哺乳期成分咨询**  
-   Best for conservative ingredient guidance when customers need medical-safe wording.  
-   Source: [industries/beauty.md](industries/beauty.md)
-3. **起泥 / 搓泥使用指导**  
-   Best for troubleshooting skincare layering and makeup compatibility issues.  
-   Source: [industries/beauty.md](industries/beauty.md)
-4. **批号 / 真伪查询说明**  
-   Best for batch-code verification, authenticity questions, and quality escalation.  
-   Source: [industries/beauty.md](industries/beauty.md)
-5. **电池续航低于预期排查**  
-   Best for electronics tickets where usage conditions affect battery performance.  
-   Source: [industries/electronics.md](industries/electronics.md)
-6. **蓝牙连接不稳定处理**  
-   Best for headphones, speakers, keyboards, and device pairing issues.  
-   Source: [industries/electronics.md](industries/electronics.md)
-7. **进水 / 受潮处理**  
-   Best for safety-first replies when devices may be water damaged.  
-   Source: [industries/electronics.md](industries/electronics.md)
-8. **海外插头 / 电压适配说明**  
-   Best for cross-border buyers checking plug type, voltage, and adapters.  
-   Source: [industries/electronics.md](industries/electronics.md)
-9. **面料扎皮 / 不亲肤反馈**  
-   Best for reducing friction when a customer dislikes fabric feel.  
-   Source: [industries/fashion.md](industries/fashion.md)
-10. **起球 / 勾丝处理**  
-   Best for fashion after-sales cases around knitwear, friction, and fabric wear.  
-   Source: [industries/fashion.md](industries/fashion.md)
-11. **试穿后换码流程**  
-   Best for making size exchanges clear and low-friction.  
-   Source: [industries/fashion.md](industries/fashion.md)
-12. **身高体重快速推荐**  
-   Best for fast pre-sales sizing when customers provide limited measurements.  
-   Source: [industries/fashion.md](industries/fashion.md)
-13. **大件配送预约说明**  
-   Best for furniture and bulky goods that require carrier appointment windows.  
-   Source: [industries/home.md](industries/home.md)
-14. **电梯 / 楼梯搬运限制提醒**  
-   Best for preventing failed delivery due to door, elevator, or stair clearance.  
-   Source: [industries/home.md](industries/home.md)
-15. **安装孔位不匹配处理**  
-   Best for furniture assembly issues that need photos, step numbers, and part labels.  
-   Source: [industries/home.md](industries/home.md)
-16. **多包裹未全部送达说明**  
-   Best for multi-box furniture shipments delivered across different times.  
-   Source: [industries/home.md](industries/home.md)
-17. **防水等级期望管理**  
-   Best for outdoor gear questions where customers expect complete waterproofing.  
-   Source: [industries/outdoor.md](industries/outdoor.md)
-18. **睡袋温标解释**  
-   Best for explaining comfort, limit, and extreme ratings without over-promising warmth.  
-   Source: [industries/outdoor.md](industries/outdoor.md)
-19. **安全绳索 / 承重免责声明**  
-   Best for high-risk load-bearing questions that require safety boundaries.  
-   Source: [industries/outdoor.md](industries/outdoor.md)
-20. **极端天气不建议使用提醒**  
-   Best for steering customers away from unsafe use in storms, snow, or extreme cold.  
-   Source: [industries/outdoor.md](industries/outdoor.md)
+1. **物流超时安抚**
+   Best for Temu packages that are late but still showing carrier scans.
+   Source: [platforms/temu/aftersales.md](platforms/temu/aftersales.md)
+2. **退货标签无法使用**
+   Best for Temu return labels that fail to print, scan, or drop off.
+   Source: [platforms/temu/aftersales.md](platforms/temu/aftersales.md)
+3. **重复退款申请说明**
+   Best for reducing duplicate Temu refund tickets while keeping buyers reassured.
+   Source: [platforms/temu/aftersales.md](platforms/temu/aftersales.md)
+4. **多件商品部分损坏**
+   Best for partial damage in multi-item Temu orders.
+   Source: [platforms/temu/aftersales.md](platforms/temu/aftersales.md)
+5. **直播展示差异说明**
+   Best for TikTok Shop buyers comparing real items with livestream visuals.
+   Source: [platforms/tiktok-shop/aftersales.md](platforms/tiktok-shop/aftersales.md)
+6. **达人优惠码预期差异**
+   Best for creator code discount confusion and campaign eligibility checks.
+   Source: [platforms/tiktok-shop/aftersales.md](platforms/tiktok-shop/aftersales.md)
+7. **套装缺件处理**
+   Best for TikTok Shop bundles missing an accessory or campaign item.
+   Source: [platforms/tiktok-shop/aftersales.md](platforms/tiktok-shop/aftersales.md)
+8. **爆款缺货取消安抚**
+   Best for viral TikTok Shop products that sell out after live campaigns.
+   Source: [platforms/tiktok-shop/aftersales.md](platforms/tiktok-shop/aftersales.md)
+9. **Shopee Guarantee 延长提醒**
+   Best for buyers worried the order protection period will expire before delivery.
+   Source: [platforms/shopee/aftersales.md](platforms/shopee/aftersales.md)
+10. **货到付款拒收处理**
+   Best for Shopee COD refusal, failed delivery, and reorder guidance.
+   Source: [platforms/shopee/aftersales.md](platforms/shopee/aftersales.md)
+11. **颜色尺码发错处理**
+   Best for wrong variation, wrong size, and wrong color after-sales cases.
+   Source: [platforms/shopee/aftersales.md](platforms/shopee/aftersales.md)
+12. **上门取件失败**
+   Best for Shopee return pickup failures and rescheduling guidance.
+   Source: [platforms/shopee/aftersales.md](platforms/shopee/aftersales.md)
+13. **退货取件失败**
+   Best for Lazada return pickup no-shows and unavailable reschedule buttons.
+   Source: [platforms/lazada/aftersales.md](platforms/lazada/aftersales.md)
+14. **未收到货纠纷举证**
+   Best for Lazada proof-of-delivery disputes when tracking says delivered.
+   Source: [platforms/lazada/aftersales.md](platforms/lazada/aftersales.md)
+15. **分包裹配送说明**
+   Best for Lazada split shipments where only part of an order arrived.
+   Source: [platforms/lazada/aftersales.md](platforms/lazada/aftersales.md)
+16. **质保转接说明**
+   Best for Lazada warranty support after the return window ends.
+   Source: [platforms/lazada/aftersales.md](platforms/lazada/aftersales.md)
+17. **加购配件推荐**
+   Best for increasing order value before fulfillment cutoff.
+   Source: [general/sales.md](general/sales.md)
+18. **优惠券未使用挽回**
+   Best for customers who forgot a discount code after placing an order.
+   Source: [general/sales.md](general/sales.md)
+19. **预售订单安抚**
+   Best for preorder reassurance with clear ship and notification dates.
+   Source: [general/sales.md](general/sales.md)
+20. **配送升级建议**
+   Best for customers who need faster delivery before dispatch.
+   Source: [general/sales.md](general/sales.md)
 
 Want more? Browse the full platform templates, then move into industry-specific scripts when you need more precise recommendations or objection handling.
 
@@ -231,19 +239,19 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 
 ## 📊 覆盖平台
 
-当前已覆盖 `11` 个电商平台，共 `370` 条平台模板。
+当前已覆盖 `11` 个电商平台，共 `390` 条平台模板。
 
 | 平台 | 售前 | 售中 | 售后 | 合计 |
 |-----|:---:|:---:|:---:|:---:|
 | [Amazon](platforms/amazon/) | [10](platforms/amazon/presales.md) | [10](platforms/amazon/sales.md) | [30](platforms/amazon/aftersales.md) | 50 |
-| [Shopee](platforms/shopee/) | [10](platforms/shopee/presales.md) | [10](platforms/shopee/sales.md) | [10](platforms/shopee/aftersales.md) | 30 |
-| [TikTok Shop](platforms/tiktok-shop/) | [10](platforms/tiktok-shop/presales.md) | [10](platforms/tiktok-shop/sales.md) | [10](platforms/tiktok-shop/aftersales.md) | 30 |
+| [Shopee](platforms/shopee/) | [10](platforms/shopee/presales.md) | [10](platforms/shopee/sales.md) | [15](platforms/shopee/aftersales.md) | 35 |
+| [TikTok Shop](platforms/tiktok-shop/) | [10](platforms/tiktok-shop/presales.md) | [10](platforms/tiktok-shop/sales.md) | [15](platforms/tiktok-shop/aftersales.md) | 35 |
 | [eBay](platforms/ebay/) | [10](platforms/ebay/presales.md) | [10](platforms/ebay/sales.md) | [10](platforms/ebay/aftersales.md) | 30 |
 | [Shopify](platforms/shopify/) | [10](platforms/shopify/presales.md) | [10](platforms/shopify/sales.md) | [30](platforms/shopify/aftersales.md) | 50 |
 | [AliExpress](platforms/aliexpress/) | [10](platforms/aliexpress/presales.md) | [10](platforms/aliexpress/sales.md) | [10](platforms/aliexpress/aftersales.md) | 30 |
-| [Lazada](platforms/lazada/) | [10](platforms/lazada/presales.md) | [10](platforms/lazada/sales.md) | [10](platforms/lazada/aftersales.md) | 30 |
+| [Lazada](platforms/lazada/) | [10](platforms/lazada/presales.md) | [10](platforms/lazada/sales.md) | [15](platforms/lazada/aftersales.md) | 35 |
 | [Wish](platforms/wish/) | [10](platforms/wish/presales.md) | [10](platforms/wish/sales.md) | [10](platforms/wish/aftersales.md) | 30 |
-| [Temu](platforms/temu/) | [10](platforms/temu/presales.md) | [10](platforms/temu/sales.md) | [10](platforms/temu/aftersales.md) | 30 |
+| [Temu](platforms/temu/) | [10](platforms/temu/presales.md) | [10](platforms/temu/sales.md) | [15](platforms/temu/aftersales.md) | 35 |
 | [淘宝/天猫](platforms/taobao/) | [10](platforms/taobao/presales.md) | [10](platforms/taobao/sales.md) | [10](platforms/taobao/aftersales.md) | 30 |
 | [京东](platforms/jd/) | [10](platforms/jd/presales.md) | [10](platforms/jd/sales.md) | [10](platforms/jd/aftersales.md) | 30 |
 
