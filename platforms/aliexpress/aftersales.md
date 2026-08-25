@@ -10,7 +10,7 @@
 
 ---
 
-## AliExpress 售后话术列表（共 10 条）
+## AliExpress 售后话术列表（共 15 条）
 
 ### 1. 退货政策说明
 
@@ -253,6 +253,109 @@ My Offer:
 I believe this is a fair resolution. If you agree, please accept the proposal in the dispute.
 
 If you have other concerns, please let me know. I'm committed to finding a solution that works for both of us.
+```
+
+---
+
+### 11. 物流延误安抚
+
+**适用场景：** 跨境物流超时，但包裹仍有轨迹、买家准备开纠纷
+
+```
+Hello! I checked order #[Order Number] and the package is still moving.
+
+Tracking: [Tracking Number]
+Carrier: [Carrier]
+Latest status: [Status]
+Last location: [Location]
+New estimated delivery: [New ETA]
+
+International transit can take longer at customs or the last-mile depot. I have also extended buyer protection until [Protection End Date].
+
+If there is no new scan by [Follow-up Date], we can offer:
+1) Keep waiting with protection extended
+2) Full refund now
+3) Resend if stock is available
+
+Which option do you prefer?
+```
+
+---
+
+### 12. 纠纷举证引导
+
+**适用场景：** 买家已开纠纷，需要双方补充照片、物流和沟通记录
+
+```
+Hello! To resolve the dispute for order #[Order Number] faster, please upload these items in the AliExpress dispute:
+
+1) Photos or video of the issue
+2) Photo of the product label or SKU
+3) Photo of the outer package and shipping label
+4) Your preferred solution
+
+I will also upload:
+• Shipping proof and tracking
+• Pre-shipment quality photos
+• Our previous message records
+
+Once both sides submit evidence, I can offer a fair proposal within [Time]. Please keep the dispute open so we can settle it inside AliExpress.
+```
+
+---
+
+### 13. 国际退货部分退款
+
+**适用场景：** 退货运费高于商品价值，协商买家留货并接受部分退款
+
+```
+Hello! I understand you want a refund for order #[Order Number].
+
+Because international return shipping can cost more than the item, I recommend a keep-the-item solution:
+
+• Partial refund: $[Amount] ([X]%)
+• Plus coupon: $[Coupon Amount] for your next order
+• No return shipping needed
+
+Alternative: full refund after you return the item. Return shipping is usually the buyer's responsibility unless the item is defective or wrong.
+
+If this works, please accept the proposal in the dispute and I will process it right away.
+```
+
+---
+
+### 14. 保护期延长说明
+
+**适用场景：** 买家担心 AliExpress 买家保护即将到期
+
+```
+Hello! Buyer protection for order #[Order Number] is still active.
+
+Current protection end date: [Protection End Date]
+Tracking status: [Status]
+
+I have requested an extension so you stay covered while we wait for delivery or review your case. You do not need to open a dispute yet unless you prefer to start one now.
+
+If the package still has not arrived by [Follow-up Date], message me and I will help with refund or replacement under AliExpress Buyer Protection.
+```
+
+---
+
+### 15. 平台介入降级
+
+**适用场景：** 纠纷已升级平台介入，卖家提出可接受方案避免恶化
+
+```
+Hello! I see AliExpress has been asked to step in on order #[Order Number].
+
+I still want to settle this with you directly. My updated offer:
+• Resolution: [Resolution Option]
+• Amount: $[Amount]
+• Extra apology coupon: $[Coupon Amount]
+
+Please review the proposal in the dispute. If you accept, AliExpress can close the case faster and you will not need to wait for a platform decision.
+
+If you need a different option, tell me what would feel fair and I will adjust the proposal.
 ```
 
 ---

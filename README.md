@@ -1,6 +1,6 @@
 # 电商客服话术大全 | E-commerce Customer Service Scripts
 
-> 🛒 专业的电商客服话术模板库，覆盖 Amazon、淘宝、京东、Shopee 等 11 大平台，以及服装、美妆、母婴、食品饮品等 34 个行业，已索引 1,465 条模板。
+> 🛒 专业的电商客服话术模板库，覆盖 Amazon、淘宝、京东、Shopee 等 11 大平台，以及服装、美妆、母婴、食品饮品等 34 个行业，已索引 1,480 条模板。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/akakooluo-ai/customer-service-scripts/pulls)
@@ -9,7 +9,7 @@
 ## 🌐 在线入口（Free Knowledge Base）
 
 - 立即使用（GitHub Pages）：[https://akakooluo-ai.github.io/customer-service-scripts/](https://akakooluo-ai.github.io/customer-service-scripts/) 
-  Search 1,465+ customer service templates online, fill variables, and generate ready-to-send replies.
+  Search 1,480+ customer service templates online, fill variables, and generate ready-to-send replies.
 - 升级自动化（快语AI / TalkQ）：[https://www.talkq.vip](https://www.talkq.vip)
   Move from manual copy-and-send to AI reply automation, team collaboration, and workflow routing.
 
@@ -130,6 +130,13 @@ customer-service-scripts/
 - Rebuilt `docs/data/templates.json` to `1,465` indexed templates
 - Added the June growth plan: [tasks/2026-06-tasks.md](tasks/2026-06-tasks.md)
 
+### 2026-08-25
+
+- Added 15 after-sales templates for AliExpress, eBay, and Wish (logistics delay, dispute evidence, INR/SNAD, return-label failure, buyer protection)
+- Refreshed the monthly Top 20 list around marketplace case and protection scenarios
+- Rebuilt `docs/data/templates.json` to `1,480` indexed templates
+- Added the August growth plan: [tasks/2026-08-tasks.md](tasks/2026-08-tasks.md)
+
 ## Template Mode vs AI Mode
 
 | Mode | Best For | Input Needed | Output Style | Risk Level |
@@ -149,70 +156,70 @@ Want batch automation, team collaboration, and workflow routing instead of one-b
 
 **After (template-driven):** Open `platforms/shopify/aftersales.md` → *WISMO 延迟安抚*, fill `[Order Number]`, `[Carrier]`, `[New ETA]`, and `[Compensation]` — you get a calm, step-by-step update customers can act on. The same pattern works for Amazon FBA delay scripts under `platforms/amazon/aftersales.md`.
 
-## Top 20 Templates This Month (2026-06)
+## Top 20 Templates This Month (2026-08)
 
-This month's shortlist focuses on cross-border platform after-sales and in-order conversion: Temu refund friction, TikTok Shop livestream expectation gaps, Shopee delivery protection, Lazada pickup cases, and universal sales recovery scripts.
+This month's shortlist focuses on marketplace after-sales cases: AliExpress logistics and dispute evidence, eBay INR/SNAD and return labels, and Wish buyer-protection refunds.
 
-1. **物流超时安抚**
-   Best for Temu packages that are late but still showing carrier scans.
-   Source: [platforms/temu/aftersales.md](platforms/temu/aftersales.md)
-2. **退货标签无法使用**
-   Best for Temu return labels that fail to print, scan, or drop off.
-   Source: [platforms/temu/aftersales.md](platforms/temu/aftersales.md)
-3. **重复退款申请说明**
-   Best for reducing duplicate Temu refund tickets while keeping buyers reassured.
-   Source: [platforms/temu/aftersales.md](platforms/temu/aftersales.md)
-4. **多件商品部分损坏**
-   Best for partial damage in multi-item Temu orders.
-   Source: [platforms/temu/aftersales.md](platforms/temu/aftersales.md)
-5. **直播展示差异说明**
-   Best for TikTok Shop buyers comparing real items with livestream visuals.
-   Source: [platforms/tiktok-shop/aftersales.md](platforms/tiktok-shop/aftersales.md)
-6. **达人优惠码预期差异**
-   Best for creator code discount confusion and campaign eligibility checks.
-   Source: [platforms/tiktok-shop/aftersales.md](platforms/tiktok-shop/aftersales.md)
-7. **套装缺件处理**
-   Best for TikTok Shop bundles missing an accessory or campaign item.
-   Source: [platforms/tiktok-shop/aftersales.md](platforms/tiktok-shop/aftersales.md)
-8. **爆款缺货取消安抚**
-   Best for viral TikTok Shop products that sell out after live campaigns.
-   Source: [platforms/tiktok-shop/aftersales.md](platforms/tiktok-shop/aftersales.md)
-9. **Shopee Guarantee 延长提醒**
-   Best for buyers worried the order protection period will expire before delivery.
-   Source: [platforms/shopee/aftersales.md](platforms/shopee/aftersales.md)
-10. **货到付款拒收处理**
-   Best for Shopee COD refusal, failed delivery, and reorder guidance.
-   Source: [platforms/shopee/aftersales.md](platforms/shopee/aftersales.md)
-11. **颜色尺码发错处理**
-   Best for wrong variation, wrong size, and wrong color after-sales cases.
-   Source: [platforms/shopee/aftersales.md](platforms/shopee/aftersales.md)
-12. **上门取件失败**
-   Best for Shopee return pickup failures and rescheduling guidance.
-   Source: [platforms/shopee/aftersales.md](platforms/shopee/aftersales.md)
-13. **退货取件失败**
-   Best for Lazada return pickup no-shows and unavailable reschedule buttons.
-   Source: [platforms/lazada/aftersales.md](platforms/lazada/aftersales.md)
-14. **未收到货纠纷举证**
-   Best for Lazada proof-of-delivery disputes when tracking says delivered.
-   Source: [platforms/lazada/aftersales.md](platforms/lazada/aftersales.md)
-15. **分包裹配送说明**
-   Best for Lazada split shipments where only part of an order arrived.
-   Source: [platforms/lazada/aftersales.md](platforms/lazada/aftersales.md)
-16. **质保转接说明**
-   Best for Lazada warranty support after the return window ends.
-   Source: [platforms/lazada/aftersales.md](platforms/lazada/aftersales.md)
-17. **加购配件推荐**
-   Best for increasing order value before fulfillment cutoff.
-   Source: [general/sales.md](general/sales.md)
-18. **优惠券未使用挽回**
-   Best for customers who forgot a discount code after placing an order.
-   Source: [general/sales.md](general/sales.md)
-19. **预售订单安抚**
-   Best for preorder reassurance with clear ship and notification dates.
-   Source: [general/sales.md](general/sales.md)
-20. **配送升级建议**
-   Best for customers who need faster delivery before dispatch.
-   Source: [general/sales.md](general/sales.md)
+1. **物流延误安抚**
+   Best for AliExpress packages that are late but still moving.
+   Source: [platforms/aliexpress/aftersales.md](platforms/aliexpress/aftersales.md)
+2. **纠纷举证引导**
+   Best for buyers who already opened an AliExpress dispute and need evidence.
+   Source: [platforms/aliexpress/aftersales.md](platforms/aliexpress/aftersales.md)
+3. **国际退货部分退款**
+   Best when return shipping costs more than the item.
+   Source: [platforms/aliexpress/aftersales.md](platforms/aliexpress/aftersales.md)
+4. **保护期延长说明**
+   Best for buyers worried AliExpress protection is about to expire.
+   Source: [platforms/aliexpress/aftersales.md](platforms/aliexpress/aftersales.md)
+5. **平台介入降级**
+   Best after a dispute is escalated and you still want a mutual offer.
+   Source: [platforms/aliexpress/aftersales.md](platforms/aliexpress/aftersales.md)
+6. **INR 未收到货 Case**
+   Best for eBay Item Not Received cases with tracking still in transit.
+   Source: [platforms/ebay/aftersales.md](platforms/ebay/aftersales.md)
+7. **退货标签无法使用**
+   Best for failed eBay return labels and drop-off errors.
+   Source: [platforms/ebay/aftersales.md](platforms/ebay/aftersales.md)
+8. **Case 降级协商**
+   Best for settling an open eBay case before a platform decision.
+   Source: [platforms/ebay/aftersales.md](platforms/ebay/aftersales.md)
+9. **SNAD 照片核验**
+   Best for Significantly Not As Described claims that need photos first.
+   Source: [platforms/ebay/aftersales.md](platforms/ebay/aftersales.md)
+10. **Money Back Guarantee 时限说明**
+    Best for refunds approved on eBay but not yet posted by the bank.
+    Source: [platforms/ebay/aftersales.md](platforms/ebay/aftersales.md)
+11. **超长物流安抚**
+    Best for Wish economy shipping that is far past the original ETA.
+    Source: [platforms/wish/aftersales.md](platforms/wish/aftersales.md)
+12. **低价商品免退货退款**
+    Best when return shipping is not worth it on a low-price Wish item.
+    Source: [platforms/wish/aftersales.md](platforms/wish/aftersales.md)
+13. **无轨迹包裹核查**
+    Best for Wish orders that shipped but never scanned.
+    Source: [platforms/wish/aftersales.md](platforms/wish/aftersales.md)
+14. **买家保护申请引导**
+    Best for walking buyers through Wish Refund / Buyer Protection.
+    Source: [platforms/wish/aftersales.md](platforms/wish/aftersales.md)
+15. **售后优惠补偿**
+    Best for coupon recovery after a Wish issue is already resolved.
+    Source: [platforms/wish/aftersales.md](platforms/wish/aftersales.md)
+16. **Item Not Received 纠纷**
+    Best for AliExpress non-delivery disputes with wait / refund / resend options.
+    Source: [platforms/aliexpress/aftersales.md](platforms/aliexpress/aftersales.md)
+17. **部分退款协商**
+    Best for AliExpress keep-item partial refunds.
+    Source: [platforms/aliexpress/aftersales.md](platforms/aliexpress/aftersales.md)
+18. **Item Not Received 纠纷**
+    Best for shorter eBay INR replies before a formal case.
+    Source: [platforms/ebay/aftersales.md](platforms/ebay/aftersales.md)
+19. **包裹未收到**
+    Best for Wish lost-package checks before refund or replacement.
+    Source: [platforms/wish/aftersales.md](platforms/wish/aftersales.md)
+20. **部分退款**
+    Best for Wish keep-item compensation when a full return is expensive.
+    Source: [platforms/wish/aftersales.md](platforms/wish/aftersales.md)
 
 Want more? Browse the full platform templates, then move into industry-specific scripts when you need more precise recommendations or objection handling.
 
@@ -239,18 +246,18 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 
 ## 📊 覆盖平台
 
-当前已覆盖 `11` 个电商平台，共 `390` 条平台模板。
+当前已覆盖 `11` 个电商平台，共 `405` 条平台模板。
 
 | 平台 | 售前 | 售中 | 售后 | 合计 |
 |-----|:---:|:---:|:---:|:---:|
 | [Amazon](platforms/amazon/) | [10](platforms/amazon/presales.md) | [10](platforms/amazon/sales.md) | [30](platforms/amazon/aftersales.md) | 50 |
 | [Shopee](platforms/shopee/) | [10](platforms/shopee/presales.md) | [10](platforms/shopee/sales.md) | [15](platforms/shopee/aftersales.md) | 35 |
 | [TikTok Shop](platforms/tiktok-shop/) | [10](platforms/tiktok-shop/presales.md) | [10](platforms/tiktok-shop/sales.md) | [15](platforms/tiktok-shop/aftersales.md) | 35 |
-| [eBay](platforms/ebay/) | [10](platforms/ebay/presales.md) | [10](platforms/ebay/sales.md) | [10](platforms/ebay/aftersales.md) | 30 |
+| [eBay](platforms/ebay/) | [10](platforms/ebay/presales.md) | [10](platforms/ebay/sales.md) | [15](platforms/ebay/aftersales.md) | 35 |
 | [Shopify](platforms/shopify/) | [10](platforms/shopify/presales.md) | [10](platforms/shopify/sales.md) | [30](platforms/shopify/aftersales.md) | 50 |
-| [AliExpress](platforms/aliexpress/) | [10](platforms/aliexpress/presales.md) | [10](platforms/aliexpress/sales.md) | [10](platforms/aliexpress/aftersales.md) | 30 |
+| [AliExpress](platforms/aliexpress/) | [10](platforms/aliexpress/presales.md) | [10](platforms/aliexpress/sales.md) | [15](platforms/aliexpress/aftersales.md) | 35 |
 | [Lazada](platforms/lazada/) | [10](platforms/lazada/presales.md) | [10](platforms/lazada/sales.md) | [15](platforms/lazada/aftersales.md) | 35 |
-| [Wish](platforms/wish/) | [10](platforms/wish/presales.md) | [10](platforms/wish/sales.md) | [10](platforms/wish/aftersales.md) | 30 |
+| [Wish](platforms/wish/) | [10](platforms/wish/presales.md) | [10](platforms/wish/sales.md) | [15](platforms/wish/aftersales.md) | 35 |
 | [Temu](platforms/temu/) | [10](platforms/temu/presales.md) | [10](platforms/temu/sales.md) | [15](platforms/temu/aftersales.md) | 35 |
 | [淘宝/天猫](platforms/taobao/) | [10](platforms/taobao/presales.md) | [10](platforms/taobao/sales.md) | [10](platforms/taobao/aftersales.md) | 30 |
 | [京东](platforms/jd/) | [10](platforms/jd/presales.md) | [10](platforms/jd/sales.md) | [10](platforms/jd/aftersales.md) | 30 |

@@ -10,7 +10,7 @@
 
 ---
 
-## eBay 售后话术列表（共 10 条）
+## eBay 售后话术列表（共 15 条）
 
 ### 1. 退货政策说明
 
@@ -108,6 +108,102 @@ Hello! I'm very sorry to hear about the quality issue with your item. This is no
 
 ```
 Hello! I understand you've opened a case. We want to resolve this quickly and fairly. Could you please provide more details about the issue? We're committed to finding a solution that works for you. Thank you for your patience as we work through this together.
+```
+
+---
+
+### 11. INR 未收到货 Case
+
+**适用场景：** 买家开启 Item Not Received case，需要核对物流并给出时限
+
+```
+Hello! I'm sorry you have not received order #[Order Number].
+
+I checked the eBay tracking:
+• Tracking number: [Tracking Number]
+• Carrier: [Carrier]
+• Latest status: [Status]
+• Last scan: [Latest Scan]
+
+Please allow until [Follow-up Date] for final delivery. If it still does not arrive, I will close this under eBay Money Back Guarantee with a full refund of $[Amount] or send a replacement if stock is available.
+
+Please keep the case on eBay so the refund can be processed through official channels.
+```
+
+---
+
+### 12. 退货标签无法使用
+
+**适用场景：** 买家申请退货后，eBay 退货标签无法打印或承运商拒收
+
+```
+Hello! Sorry the return label is not working for order #[Order Number].
+
+Please try:
+1) Open the return from Purchase History
+2) Download the latest eBay return label
+3) Take the package to [Drop Off Location]
+
+If it still fails, send me a screenshot of the error. I can request a new label or approve another return method before [Return Deadline].
+
+Once the item is scanned, I will process the refund of $[Amount] within [Time] business days after we receive it.
+```
+
+---
+
+### 13. Case 降级协商
+
+**适用场景：** 买家已开 eBay case，卖家希望在平台裁决前达成协议
+
+```
+Hello! I see a case is open for order #[Order Number]. I want to resolve this before it needs more eBay review.
+
+Please confirm the issue: [Issue].
+
+I can offer one of these options now:
+1) Full refund after return
+2) Partial refund of $[Amount] and you keep the item
+3) Replacement shipped with tracking
+
+Reply with your preferred option in eBay Messages. If you accept, please also accept the offer in the case so it can be closed cleanly.
+```
+
+---
+
+### 14. SNAD 照片核验
+
+**适用场景：** 买家以 Significantly Not As Described 申请退货，需要证据后再处理
+
+```
+Hello! I'm sorry the item from order #[Order Number] did not match the listing.
+
+To review the SNAD claim, please send photos of:
+1) The item you received
+2) Any defect or difference from the listing
+3) The packing and shipping label
+
+After I review the photos, I can offer a return with prepaid label, a partial refund of $[Amount], or a replacement if available.
+
+Thank you for giving me the chance to make this right inside eBay.
+```
+
+---
+
+### 15. Money Back Guarantee 时限说明
+
+**适用场景：** 买家询问 eBay 退款保障何时到账、还要等多久
+
+```
+Hello! Your case for order #[Order Number] is covered by eBay Money Back Guarantee.
+
+Current status: [Case Status]
+Approved amount: $[Amount]
+Refund method: [Payment Method]
+Expected posting time: [Time]
+
+eBay or PayPal has to release the refund to your original payment method. If it does not appear by [Follow-up Date], send me a screenshot and I will help you check the case timeline.
+
+All refunds will stay on official eBay or PayPal channels.
 ```
 
 ---

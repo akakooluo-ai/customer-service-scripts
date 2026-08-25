@@ -10,7 +10,7 @@
 
 ---
 
-## Wish 售后话术列表（共 10 条）
+## Wish 售后话术列表（共 15 条）
 
 ### 1. 退货政策说明
 
@@ -212,6 +212,107 @@ Happy with it? A quick review would mean so much! ⭐
 Any issues? Let me know - I'm here to help!
 
 Thanks for choosing us! 💜
+```
+
+---
+
+### 11. 超长物流安抚
+
+**适用场景：** Wish 标准物流远超预计时效，买家担心包裹丢失
+
+```
+Sorry the delivery is taking longer than expected! 😢
+
+Order: [Order Number]
+Tracking: [Tracking Number]
+Latest status: [Status]
+New estimated delivery: [New ETA]
+
+Wish standard shipping can take extra time in transit or customs. You're still covered by Wish buyer protection until [Protection End Date].
+
+If there is no new update by [Follow-up Date], we can:
+• Issue a full refund
+• Send a replacement if stock is available
+
+Hang tight - we'll make it right! 🛡️
+```
+
+---
+
+### 12. 低价商品免退货退款
+
+**适用场景：** 商品单价低、退货不划算，直接退款或补发
+
+```
+We're sorry about the issue with [Product Name]! 😔
+
+Because return shipping can cost more than the item, you do not need to send it back.
+
+Please choose:
+1) Full refund of $[Amount]
+2) Free replacement if stock is available
+3) Partial refund of $[Amount] and keep the item
+
+Reply with your choice and we'll process it in the Wish app. 💙
+```
+
+---
+
+### 13. 无轨迹包裹核查
+
+**适用场景：** 订单已发货但长期没有有效物流轨迹
+
+```
+Thanks for waiting! I checked order [Order Number] and tracking is not updating yet.
+
+Carrier: [Carrier]
+Tracking number: [Tracking Number]
+Ship date: [Date]
+
+Sometimes Wish economy shipping updates late. If there is still no scan by [Follow-up Date], we will treat it as lost and help you get a refund or replacement under Wish protection.
+
+Please confirm your shipping address is still [Shipping Address]. 📦
+```
+
+---
+
+### 14. 买家保护申请引导
+
+**适用场景：** 买家要申请 Wish Refund/Buyer Protection，需要正确提交材料
+
+```
+You can use Wish buyer protection for this order. 🛡️
+
+Please open:
+Wish app → Order History → [Order Number] → Request Refund / Help
+
+Upload:
+1) Photos of the issue
+2) A short video if it is a function problem
+3) The reason: [Issue]
+
+We will review it quickly. If approved, refund or replacement can be processed without extra back-and-forth.
+
+Need help tapping the right button? Send a screenshot and we'll guide you! 💬
+```
+
+---
+
+### 15. 售后优惠补偿
+
+**适用场景：** 问题已解决后，用优惠券或折扣鼓励复购
+
+```
+Thank you for giving us a chance to fix this! 💜
+
+As an apology, we added:
+• Coupon: [Coupon Amount]
+• Valid until: [Date]
+• Eligible items: [Eligible Items]
+
+You can find it in your Wish account coupons. If anything still feels unresolved, message us before your next order and we'll help first.
+
+We appreciate your patience! ✨
 ```
 
 ---
